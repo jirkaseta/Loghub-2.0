@@ -1,2 +1,9 @@
 
 .DS_Store
+benchmark/evaluation/__pycache__/__init__.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/__init__.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/common.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/evaluator_main.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/PA_calculator.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/postprocess.cpython-310.pyc
+benchmark/evaluation/utils/__pycache__/template_level_analysis.cpython-310.pyc
