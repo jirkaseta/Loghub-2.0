@@ -38,8 +38,9 @@ def prepare_results(output_dir, otc, complex, frequent):
         fw = csv.writer(csv_file, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         # fw.writerow(['Dataset', 'GA_time', 'PA_time', 'TA_time', 'parse_time', 'identified_templates',
         #              'ground_templates', 'GA', 'PA', 'FTA', 'PTA', 'RTA', 'OG', 'UG', 'MX'])
+        
         fw.writerow(['Dataset', 'parse_time', 'identified_templates',
-                     'ground_templates', 'GA', 'PA', 'FGA', 'PTA', 'RTA', 'FTA'])
+                     'ground_templates', 'GA', 'PA', 'FGA', 'PTA', 'RTA', 'FTA','NPOP', 'NGEN', 'CXPB', 'MUTPB', 'Q', 'SEED'])
 
     return result_file
 
@@ -198,6 +199,11 @@ def evaluator(
     TA_end_time = time.time() - start_time
     print('Template-level accuracy calculation done. [Time taken: {:.3f}]'.format(TA_end_time))
 
+    # check key exixtence in param_dict
+    if "GA" not in param_dict:
+        # fill with blank
+        param_dict["GA"] = {"NPOP": -1, "NGEN": -1, "CXPB": -1, "MUTPB": -1, "Q": -1, "SEED": -1}
+        
     result = dataset + ',' + \
              "{:.2f}".format(parse_time) + ',' + \
              str(tool_templates) + ',' + \
@@ -207,7 +213,14 @@ def evaluator(
              "{:.3f}".format(FGA) + ',' + \
              "{:.3f}".format(PTA) + ',' + \
              "{:.3f}".format(RTA) + ',' + \
-             "{:.3f}".format(FTA) + '\n'
+             "{:.3f}".format(FTA) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["NPOP"]) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["NGEN"]) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["CXPB"]) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["MUTPB"]) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["Q"]) + ',' + \
+             "{:.3f}".format(param_dict["GA"]["SEED"]) + '\n'
+            
 
     with open(os.path.join(output_dir, result_file), 'a') as summary_file:
         summary_file.write(result)
