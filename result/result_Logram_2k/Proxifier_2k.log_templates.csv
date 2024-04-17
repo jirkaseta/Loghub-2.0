@@ -1,0 +1,15 @@
+EventId,EventTemplate
+a453f0e8,<*> open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+f971628c,<*> <*> <*> bytes sent <*> <*> received lifetime <*>
+169d1fc7,<*> <*> <*> bytes sent <*> <*> received lifetime <*> <*>
+e356499e,<*> <*> <*> bytes sent <*> <*> <*> <*> received lifetime <*> <*>
+c6d7a8b2,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> received lifetime <*>
+03b2c107,<*> <*> <*> <*> <*> <*> <*> <*> <*> received lifetime <*> <*>
+5b7ec4e4,<*> <*> <*> bytes sent <*> <*> <*> <*> received lifetime <*>
+ca64a1ce,<*> <*> <*> <*> <*> <*> <*> <*> <*> received lifetime <*>
+65f3948b,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> received lifetime <*> <*>
+302b2f17,<*> open through proxy <*> <*>
+2f7082b2,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+06578080,<*> <*> <*> <*> <*> <*> through proxy proxy.cse.cuhk.edu.hk:5070 <*> <*> <*> <*> <*> <*>
+a7e3acea,<*> <*> <*> <*> <*> <*> through proxy proxy.cse.cuhk.edu.hk:5070 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+e7f6c932,<*> <*> <*> <*> <*> <*> <*> proxy proxy.cse.cuhk.edu.hk:5070 <*> <*> <*> <*> <*> <*> <*>

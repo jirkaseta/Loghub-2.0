@@ -1,0 +1,104 @@
+EventId,EventTemplate,Occurrences
+98450438,<*> <*> for <*> <*>,11
+52e90d94,<*> with <*>,1
+700c656b,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)",1
+50f616d6,Using <*> <*>,1
+96b20d32,OutputCommitter <*> <*> <*> <*>,1
+d07f1c0f,OutputCommitter is <*>,1
+1b20300f,Registering class <*> for class <*>,9
+1f74103f,<*> <*> system <*>,4
+b210ea30,<*> <*> <*> <*> to <*> <*> <*> <*> <*> <*>,1
+2382f8e5,<*> <*> from <*>,1
+f26cc3a5,<*> <*> <*> at <*> <*>,1
+e81fe905,<*> <*> <*> <*> <*> to <*>,1
+8cc7fc1e,<*> <*> <*> <*> not <*> <*> <*> <*> <*> <*> <*>,1
+11e786f5,<*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+45b1b187,<*> of <*> <*> <*> <*> <*> <*>,1
+661b74ef,<*> <*> from <*> <*> <*>,3
+f22cc44e,MRAppMaster <*> <*> <*> <*> <*> <*>,1
+673d05bb,Using <*> <*> <*>,2
+69c4d5d5,<*> <*> <*> <*> for <*> <*>,3
+9d76e333,<*> <*> <*> to <*> <*>,1
+ccccf7e1,Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/<*>:62260,1
+00c4d4cc,IPC Server <*> <*>,2
+5a8fa0df,IPC Server <*> on <*> <*>,2
+27dfc2e4,<*> to <*> <*> <*>,2
+c38c4ca0,<*> <*> <*> for <*> <*> <*> <*>,2
+a396e847,Added <*> <*> <*> <*>,1
+085e2c1f,Added <*> <*> <*> to <*> <*>,2
+bd0e9643,adding path spec: <*>,2
+c0d6d178,<*> <*> to <*> <*>,1
+0915c869,jetty-6.1.26,1
+de4ecee6,<*> <*> to <*>,40
+9a5b9207,Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*>:62267,1
+e18f8ba7,<*> <*> <*> started <*> <*>,1
+6ff7af5b,Registered webapp guice modules,1
+b83503b7,JOB_CREATE job_1445144423722_0020,1
+d44aee14,nodeBlacklistingEnabled:true,1
+f42cee39,<*> is <*>,2
+28ce7f24,"maxContainerCapability: <memory:8192, vCores:32>",1
+65343dac,queue: default,1
+e0eda83f,<*> <*> on <*> <*> <*> <*> is <*>,1
+0611fdf6,yarn.client.max-cached-nodemanagers-proxies : 0,1
+6c7e2820,Processing the event EventType: <*>,3
+36d42ef3,<*> <*> Transitioned from <*> to <*>,36
+26629842,<*> vCores:1>,2
+ce2808ea,<*> Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> ContRel:0 <*> <*>,1
+dd251eaf,getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 <*> <*> knownNMs=4,7
+a0adc9e1,"Recalculating schedule, <*> <*>",131
+edec79ac,Reduce slow start threshold not <*> <*> 1,130
+de3a1b14,Got allocated containers 1,9
+9587ab30,Assigned container <*> to <*>,10
+1286e799,After Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> ContRel:0 <*> <*>,2
+f74a98e5,The <*> file on the remote FS is <*>,2
+c30d156d,Adding <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+e7cf15e4,<*> of <*> <*> <*>,1
+8f3747dd,<*> <*> token <*> <*>,1
+66117c35,<*> TaskAttempt Transitioned from <*> to <*>,28
+dda47f7d,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container <*> taskAttempt <*>,10
+1424712e,Launching <*>,10
+e073ab3b,Opening proxy : <*>,13
+351812d3,<*> <*> <*> <*> <*> for <*> <*> <*>,10
+1bcf3a54,TaskAttempt: <*> using containerId: <*> on NM: <*>,10
+16083636,ATTEMPT_START <*>,10
+38831b7b,After Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> ContRel:0 <*> RackLocal:3,6
+829dd57b,<*> <*> <*> <*> <*> <*> for <*> <*>,10
+62ac7638,JVM with <*> <*> <*> <*> <*>,10
+f08135c1,Progress of TaskAttempt <*> is : <*>,289
+f34b603d,Got allocated containers <*>,1
+fe8e5d02,"getResources() for application_1445144423722_0020: ask=4 release= 0 <*> finishedContainers=0 resourcelimit=<memory:0, vCores:-27> knownNMs=4",3
+9012d57a,After Scheduling: PendingReds:1 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:10 AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> ContRel:0 HostLocal:7 RackLocal:3,1
+bf450305,<*> <*> container <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+367874a5,After Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> <*> <*> RackLocal:3,1
+56fca6dc,getResources() for application_1445144423722_0020: <*> release= <*> newContainers=0 <*> <*> <*> knownNMs=4,1
+1327e9b9,Received completed container <*>,2
+e5720760,<*> <*> event for <*> <*> <*> <*>,1
+c00d7ff6,<*> <*> <*> attempt_1445144423722_0020_m_000003_0,1
+a6d04ef6,Processing the event EventType: <*> for container <*> taskAttempt <*>,3
+26b518ac,KILLING <*>,1
+d31f794d,Task <*> <*> attempt attempt_1445144423722_0020_m_000003_0,1
+c4155579,<*> <*> <*> 1,1
+c42374e9,<*> Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 <*> CompletedReds:0 <*> <*> <*> RackLocal:3,1
+546f6273,Reduce slow start threshold <*> <*> <*>,1
+851c4b85,All maps assigned. Ramping up all remaining reduces:1,1
+3c4a5993,After Scheduling: <*> <*> <*> <*> AssignedReds:0 <*> CompletedReds:0 <*> <*> <*> RackLocal:3,2
+d1f10048,DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000,1
+85b7aa42,We launched 1 speculations. Sleeping 15000 milliseconds.,1
+728bc99d,<*> Scheduling: <*> <*> <*> <*> AssignedReds:0 <*> CompletedReds:0 <*> <*> <*> RackLocal:3,3
+c610de4d,"getResources() for application_1445144423722_0020: <*> release= 0 newContainers=0 <*> resourcelimit=<memory:0, vCores:-27> knownNMs=4",1
+cfc4aa50,<*> <*> from <*> <*> <*> <*> <*> <*>,1
+4c1b2d21,Address change detected. Old: <*> New: <*>,476
+3f8e3e3d,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for <*> seconds. Will retry shortly ...,326
+45610c54,"Slow ReadProcessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 status: SUCCESS status: ERROR downstreamAckTimeNanos: 0, targets: [<*>:50010, <*>:50010]",1
+3cf49fdb,<*> <*> <*> for <*> <*>,3
+ea7d1d0b,DataStreamer Exception,1
+ddb565f2,ERROR IN CONTACTING RM.,147
+d30986ee,<*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,146
+e5dbfca2,<*> <*> <*> <*> <*> java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/<*> to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost,2
+a447f639,<*> <*> from <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+1389d3ff,KILLING attempt_1445144423722_0020_m_000002_0,1
+b6feef5e,Error <*> <*> <*> <*>,1
+95ae547a,"Thread Thread[eventHandlingThread,5,main] threw an Exception.",1
+c2ce5730,<*> failures on node MININT-FNANLI5.fareast.corp.microsoft.com,2
+f016a94c,<*> <*> to <*> <*> <*> <*>,2
+67baef91,KILLING attempt_1445144423722_0020_m_000001_0,1

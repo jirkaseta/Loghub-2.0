@@ -1,0 +1,521 @@
+EventId,EventTemplate,Occurrences
+e317e562,"#spec# * #spec# #spec# "" status : #spec# len : #spec# time : #spec# . #spec#",807
+730abd3e,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] VM Started ( Lifecycle Event ),1
+e95f4bd8,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] VM Paused ( Lifecycle Event ),1
+2bb45c1e,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+4cfda59f,image #spec# dd #spec# - #spec# c #spec# - #spec# fbb- #spec# c #spec# - #spec# fbe #spec# b #spec# at ( #spec# ) : checking,82
+29f0dc4c,"image #spec# dd #spec# - #spec# c #spec# - #spec# fbb- #spec# c #spec# - #spec# fbe #spec# b #spec# at ( #spec# ) : in use : on this node #spec# local , #spec# on other nodes sharing this instance storage",82
+b0310cbe,Active base files : #spec#,82
+abc89fed,Creating event network-vif-plugged : e #spec# ffd- #spec# cd #spec# - #spec# -bddd- #spec# f #spec# b #spec# for instance b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d,1
+437183d7,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] VM Resumed ( Lifecycle Event ),2
+6f4397e7,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Instance spawned successfully.,1
+051ab33f,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+3e01e548,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Took #spec# . #spec# seconds to build instance.,1
+46b5017a,Auditing locally available compute resources for node cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us,15
+95535f6a,"Total usable vcpus : #spec# , total allocated vcpus : #spec#",15
+e046a72f,Final resource view : name = cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us phys_ram = #spec# MB used_ram = #spec# MB phys_disk = #spec# GB used_disk = #spec# GB total_vcpus = #spec# used_vcpus = #spec# pci_stats = [ ],15
+53aee4c6,Compute_service record updated for cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us : cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us,15
+105e62bc,"#spec# , #spec# ""GET #spec# #spec# "" status : #spec# len : #spec# time : #spec# . #spec#",208
+db111b79,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Terminating instance,1
+dee43763,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Instance destroyed successfully.,1
+ed006a0e,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Deleting instance files #spec#,1
+17a0c1f6,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Deletion of #spec# complete,1
+e60aea07,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+0e2d3241,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+38205fcd,Unknown base file : #spec#,30
+1c57c8e0,Removable base files : #spec#,30
+801cdcf3,Removing base or swap file : #spec#,21
+a5903d61,HTTP exception thrown : No instances found for any event,21
+e9c5c05c,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+b9b49eab,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+3ac4847a,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+346a808e,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+0535bf4a,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] disk limit not specified , defaulting to unlimited",1
+c38e35bb,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+bb28d45a,"[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] vcpu limit not specified , defaulting to unlimited",1
+e2e4a797,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Claim successful,1
+1520c655,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Creating image,1
+e015b6ce,[ instance : b #spec# -fe #spec# a- #spec# b-b #spec# cc- #spec# e #spec# b #spec# cd #spec# d ] VM Stopped ( Lifecycle Event ),1
+b716e226,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] VM * ( Lifecycle Event ),5
+7a266099,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+864a5d6d,Creating event network-vif-plugged : a #spec# c-c #spec# e #spec# - #spec# -a #spec# a #spec# -d #spec# e #spec# afd #spec# for instance #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec#,1
+ba74eb03,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Instance spawned successfully.,1
+2fc767d2,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+a91e66e4,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Took #spec# . #spec# seconds to build instance.,1
+0e44a9b1,Successfully synced instances from host ' cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us ' .,2
+841260a6,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Terminating instance,1
+259d2874,Running instance usage audit for host cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us from #spec# - #spec# - #spec# #spec# to #spec# - #spec# - #spec# #spec# : #spec# : #spec# . #spec# instances.,1
+8324aabc,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Instance destroyed successfully.,1
+29b68f63,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Deleting instance files #spec#,1
+b885e55c,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Deletion of #spec# complete,1
+6719e385,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+c640b5a2,[ instance : #spec# abccce- #spec# d #spec# f- #spec# e #spec# -b #spec# d #spec# - #spec# b #spec# ab #spec# e #spec# b #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+bd96e47c,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+59c2b864,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+bd27c455,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+7afc0376,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+69548009,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] disk limit not specified , defaulting to unlimited",1
+6cea3eb3,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+31c61b6b,"[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] vcpu limit not specified , defaulting to unlimited",1
+5e7cfcbf,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Claim successful,1
+64928167,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Creating image,1
+0a481ada,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] VM Started ( Lifecycle Event ),1
+3d20f6a7,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] VM Paused ( Lifecycle Event ),1
+ff1ffa10,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+b25be217,Creating event network-vif-plugged : d #spec# ce #spec# c #spec# a- #spec# - #spec# c #spec# - #spec# a #spec# a- #spec# f #spec# e #spec# defcb #spec# for instance b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec#,1
+7e0a7148,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] VM Resumed ( Lifecycle Event ),2
+6d2fcb87,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Instance spawned successfully.,1
+c0a72311,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+2d6930b4,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Took #spec# . #spec# seconds to build instance.,1
+b7b555cc,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Terminating instance,1
+a5fe39c1,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Instance destroyed successfully.,1
+27fcfe73,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Deleting instance files #spec#,1
+55c19886,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Deletion of #spec# complete,1
+d754861e,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+340567e7,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+c27d472a,Base or swap file too young to remove : #spec#,9
+917aeb43,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+1691c241,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+94499df8,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+44b781a0,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+cd87176c,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] disk limit not specified , defaulting to unlimited",1
+01c4ecbf,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+2f92c884,"[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] vcpu limit not specified , defaulting to unlimited",1
+86fecc65,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Claim successful,1
+10e77b9b,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Creating image,1
+d83d7da3,[ instance : b #spec# ef #spec# -ba #spec# d- #spec# ae-bf #spec# a- #spec# cba #spec# a #spec# ] VM Stopped ( Lifecycle Event ),1
+05f73d45,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] VM Started ( Lifecycle Event ),1
+c10afcde,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] VM Paused ( Lifecycle Event ),1
+f67ac911,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+5a0f5a9e,Creating event network-vif-plugged : b #spec# c #spec# - #spec# - #spec# e #spec# - #spec# ba #spec# -ec #spec# d #spec# d #spec# d for instance #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf,1
+3c7b74f5,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] VM Resumed ( Lifecycle Event ),2
+57357091,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Instance spawned successfully.,1
+c6f2757a,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+c3537332,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Took #spec# . #spec# seconds to build instance.,1
+b1af0528,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Terminating instance,1
+a1c00815,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Instance destroyed successfully.,1
+f9c22257,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Deleting instance files #spec#,1
+9815cc49,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Deletion of #spec# complete,1
+289bedbd,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+885a1c5d,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+bbd5afd9,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+230b787a,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+b12a1f2d,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+f926f611,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+0c14d9a4,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] disk limit not specified , defaulting to unlimited",1
+6682a358,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+f2bf686f,"[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] vcpu limit not specified , defaulting to unlimited",1
+2842804e,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Claim successful,1
+0a3d0fc0,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Creating image,1
+fab8518e,[ instance : #spec# dc #spec# - #spec# - #spec# cc- #spec# e- #spec# b #spec# c #spec# dcf ] VM Stopped ( Lifecycle Event ),1
+c2d5b560,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] VM Started ( Lifecycle Event ),1
+541e481c,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] VM Paused ( Lifecycle Event ),1
+422098c0,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+1b368554,Creating event network-vif-plugged : #spec# cf #spec# - #spec# - #spec# f #spec# c- #spec# c- #spec# ba #spec# e #spec# f #spec# for instance #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c,1
+a50a4bc1,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] VM Resumed ( Lifecycle Event ),2
+0def1be0,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Instance spawned successfully.,1
+80d6700d,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+fca62f77,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Took #spec# . #spec# seconds to build instance.,1
+b5dae273,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Terminating instance,1
+d9590d0b,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Instance destroyed successfully.,1
+28fcc3f9,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Deleting instance files #spec#,1
+59a35f90,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Deletion of #spec# complete,1
+a10fe60b,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+d35aa3c9,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+108da32e,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+ee942f55,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+59002977,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+5f7e9431,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+c3f4ce78,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] disk limit not specified , defaulting to unlimited",1
+627ddedf,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+26305489,"[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] vcpu limit not specified , defaulting to unlimited",1
+27715c74,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Claim successful,1
+aa0fe2d0,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Creating image,1
+16437ed9,[ instance : #spec# - #spec# b- #spec# f #spec# - #spec# - #spec# fc #spec# b #spec# a #spec# c ] VM Stopped ( Lifecycle Event ),1
+ea37f6ec,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] VM Started ( Lifecycle Event ),1
+150f32fb,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] VM Paused ( Lifecycle Event ),1
+43a0ac8d,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+5edb2ce9,Creating event network-vif-plugged : #spec# -baff- #spec# ad- #spec# e #spec# -a #spec# c #spec# for instance #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec#,1
+0aa32d31,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] VM Resumed ( Lifecycle Event ),2
+f6307713,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Instance * successfully.,2
+e4b382dc,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+804fcd95,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Took #spec# . #spec# seconds to build instance.,1
+d14ec58b,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Terminating instance,1
+61e1aa4f,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Deleting instance files #spec#,1
+b8d77b93,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Deletion of #spec# complete,1
+4af6cad8,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+af577629,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+26e103fa,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+ea8e3334,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+ba4f8efe,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+0f9c489e,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+96b5bc34,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] disk limit not specified , defaulting to unlimited",1
+51707a94,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+e11320e1,"[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] vcpu limit not specified , defaulting to unlimited",1
+7731f762,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Claim successful,1
+79fb138f,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Creating image,1
+2f885303,[ instance : #spec# e #spec# cc #spec# f- #spec# cb #spec# - #spec# d #spec# - #spec# c-f #spec# a #spec# d #spec# f #spec# c #spec# ] VM Stopped ( Lifecycle Event ),1
+420a7cf2,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] VM * ( Lifecycle Event ),5
+d8f4e0e4,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+41b794af,Creating event network-vif-plugged : #spec# bdba #spec# d-dd #spec# - #spec# c-ab #spec# - #spec# d #spec# c #spec# c #spec# for instance af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec#,1
+346bb22d,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Instance spawned successfully.,1
+ede564fb,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+bc09ceb4,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Took #spec# . #spec# seconds to build instance.,1
+d1a8fb98,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Terminating instance,1
+0f67549e,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Instance destroyed successfully.,1
+79a0f060,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Deleting instance files #spec#,1
+38d17d64,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Deletion of #spec# complete,1
+802140fd,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+f57b5238,[ instance : af #spec# f #spec# -f #spec# d #spec# - #spec# -b #spec# -c #spec# c #spec# aa #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+6efb7f11,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+a5152717,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+b73da6c4,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+f5f7755c,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+90a79987,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] disk limit not specified , defaulting to unlimited",1
+05659ec9,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+8757d1a5,"[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] vcpu limit not specified , defaulting to unlimited",1
+a0448eb3,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Claim successful,1
+8c656fee,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Creating image,1
+ae3dc004,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] VM Started ( Lifecycle Event ),1
+7083cb4b,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] VM Paused ( Lifecycle Event ),1
+5493de60,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+e543618d,"#spec# ""GET #spec# ?all_tenants = True&changes-since = #spec# - #spec# - #spec# T #spec# % #spec# A #spec# % #spec# A #spec# . #spec# % #spec# B #spec# % #spec# A #spec# #spec# "" status : #spec# len : #spec# time : #spec# . #spec#",1
+0b9ecb50,The instance sync for host ' cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us ' did not match. Re-created its InstanceList.,5
+9796f82d,Creating event network-vif-plugged : #spec# dbd #spec# a #spec# - #spec# e- #spec# cd #spec# - #spec# -fa #spec# e #spec# d #spec# dd #spec# for instance ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f,1
+f4b85274,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] VM Resumed ( Lifecycle Event ),2
+86cafb68,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Instance spawned successfully.,1
+c98db357,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+23bea6b9,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Took #spec# . #spec# seconds to build instance.,1
+ca0e54e8,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Terminating instance,1
+d52e7e49,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Instance destroyed successfully.,1
+8a0e9835,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Deleting instance files #spec#,1
+75f02463,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Deletion of #spec# complete,1
+52b9ffa8,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+a97b147f,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+5edf55ee,"#spec# ""GET #spec# ?all_tenants = True&changes-since = #spec# - #spec# - #spec# T #spec# % #spec# A #spec# % #spec# A #spec# . #spec# % #spec# B #spec# % #spec# A #spec# &host = cp- #spec# .slowvm #spec# .tcloud-pg #spec# .utah.cloudlab.us #spec# "" status : #spec# len : #spec# time : #spec# . #spec#",1
+19f7cd52,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+a66d76cf,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+6618924d,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+0bdb56c3,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+7038891c,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] disk limit not specified , defaulting to unlimited",1
+dac24b6a,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+12b77c20,"[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] vcpu limit not specified , defaulting to unlimited",1
+608c6e97,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Claim successful,1
+36391df4,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Creating image,1
+5457a125,[ instance : ae #spec# a #spec# b #spec# d-eec #spec# - #spec# bb-b #spec# a-c #spec# d #spec# b #spec# f ] VM Stopped ( Lifecycle Event ),1
+d98baa42,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] VM * ( Lifecycle Event ),5
+d9338f5a,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+5a6f61e7,Creating event network-vif-plugged : #spec# df #spec# c #spec# -a #spec# - #spec# -aeed- #spec# a #spec# for instance #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec#,1
+25f5c82b,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Instance spawned successfully.,1
+1ce3642b,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+077b7896,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Took #spec# . #spec# seconds to build instance.,1
+4d5ba6f7,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Terminating instance,1
+83995a99,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Instance destroyed successfully.,1
+629991cb,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Deleting instance files #spec#,1
+9f51df5c,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Deletion of #spec# complete,1
+661aa0c0,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+d1343aa6,[ instance : #spec# - #spec# f #spec# - #spec# da #spec# -b #spec# ee- #spec# d #spec# cc #spec# e #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+704d9ab1,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+a8ca9d13,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+a8737cd5,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+ffc5a20c,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+d32978f9,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] disk limit not specified , defaulting to unlimited",1
+1c59437b,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+a98b93de,"[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] vcpu limit not specified , defaulting to unlimited",1
+1b667564,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Claim successful,1
+48a5c18c,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Creating image,1
+486992ee,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] VM Started ( Lifecycle Event ),1
+e02786dd,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] VM Paused ( Lifecycle Event ),1
+1c648807,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+c2cdc340,Creating event network-vif-plugged : #spec# b #spec# - #spec# - #spec# -aa #spec# - #spec# c #spec# b #spec# b #spec# for instance fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e,1
+cbadeaa3,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] VM Resumed ( Lifecycle Event ),2
+6a45d619,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Instance spawned successfully.,1
+1ce1088d,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+37323bfc,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Took #spec# . #spec# seconds to build instance.,1
+ae6760f3,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Terminating instance,1
+1cf338e4,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Instance destroyed successfully.,1
+99b4af84,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Deleting instance files #spec#,1
+2218b0d1,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Deletion of #spec# complete,1
+8e611f86,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+ec49b786,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+bf0b7b47,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+2ee035b5,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+61792108,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+6a21e956,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+cbba5ca1,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] disk limit not specified , defaulting to unlimited",1
+d4e789fe,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+4931162c,"[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] vcpu limit not specified , defaulting to unlimited",1
+9d19837b,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Claim successful,1
+4896e630,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Creating image,1
+4b6f725f,[ instance : fecdd #spec# a #spec# - #spec# ca #spec# - #spec# c #spec# - #spec# - #spec# b #spec# f #spec# e ] VM Stopped ( Lifecycle Event ),1
+729354e8,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] VM Started ( Lifecycle Event ),1
+807db007,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] VM Paused ( Lifecycle Event ),1
+606185f8,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+3d585bbf,Creating event network-vif-plugged : e #spec# bf #spec# -ae #spec# - #spec# e #spec# -b #spec# d #spec# - #spec# a #spec# b #spec# bed for instance #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf,1
+20e6ce43,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] VM Resumed ( Lifecycle Event ),2
+107921ec,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Instance spawned successfully.,1
+9b3d4771,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+0cd4d4c8,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Took #spec# . #spec# seconds to build instance.,1
+4d9882da,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Terminating instance,1
+5fd20046,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Instance destroyed successfully.,1
+130fa8f4,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Deleting instance files #spec#,1
+c8bb8eea,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Deletion of #spec# complete,1
+540410d9,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+85a54825,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+acc7625c,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+88a223c7,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+8be091b4,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+32993a8f,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+1c9e5c01,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] disk limit not specified , defaulting to unlimited",1
+43adf56a,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+91a1ecf5,"[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] vcpu limit not specified , defaulting to unlimited",1
+af5c97ed,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Claim successful,1
+f0128dca,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Creating image,1
+0d004818,[ instance : #spec# a #spec# d #spec# - #spec# b #spec# - #spec# c #spec# -b #spec# - #spec# a #spec# cadf ] VM Stopped ( Lifecycle Event ),1
+3e522c9e,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] VM Started ( Lifecycle Event ),1
+095e0c74,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] VM Paused ( Lifecycle Event ),1
+fab48062,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,1
+8cdbc031,Creating event network-vif-plugged : f #spec# e #spec# f #spec# - #spec# f #spec# - #spec# - #spec# abf- #spec# df #spec# d #spec# e #spec# b #spec# for instance d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c,1
+a40b73ae,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] VM Resumed ( Lifecycle Event ),2
+15c303f6,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Instance spawned successfully.,1
+d24487f5,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+704a8cf6,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Took #spec# . #spec# seconds to build instance.,1
+c456ba35,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Terminating instance,1
+4f3be6fb,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Instance destroyed successfully.,1
+d42402ef,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Deleting instance files #spec#,1
+a3454a15,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Deletion of #spec# complete,1
+c13233a2,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+6f5e4559,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+f282c9c1,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+cb442ca4,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+7d1e15e3,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+79c43ba0,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+109f1395,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] disk limit not specified , defaulting to unlimited",1
+fac8c04f,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+d5680019,"[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] vcpu limit not specified , defaulting to unlimited",1
+4a89d5d0,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Claim successful,1
+eb2e3913,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Creating image,1
+2608fd89,[ instance : d #spec# b #spec# eb- #spec# d #spec# a- #spec# aa #spec# -ba #spec# b- #spec# d #spec# f #spec# f #spec# c ] VM Stopped ( Lifecycle Event ),1
+e90801aa,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] VM * ( Lifecycle Event ),5
+57f73d32,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+fda32706,Creating event network-vif-plugged : #spec# a #spec# ed- #spec# - #spec# - #spec# e-f #spec# ac #spec# acc #spec# d for instance #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec#,1
+5bf0fff0,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Instance spawned successfully.,1
+ac07b924,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+2bff2666,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Took #spec# . #spec# seconds to build instance.,1
+75e5bbb2,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Terminating instance,1
+7a43b337,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Instance destroyed successfully.,1
+c2cfaed5,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Deleting instance files #spec#,1
+974ef54b,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Deletion of #spec# complete,1
+eec2ccc4,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+da9253db,[ instance : #spec# ea #spec# -cbf #spec# - #spec# f #spec# e- #spec# fe- #spec# fd #spec# f #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+fa7771a9,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+b3c5482b,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+d6186736,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+3a518b82,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+5ad89745,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] disk limit not specified , defaulting to unlimited",1
+69899f07,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+f2b32e2c,"[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] vcpu limit not specified , defaulting to unlimited",1
+ccfbdd84,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Claim successful,1
+15635233,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Creating image,1
+95fa5d06,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] VM Started ( Lifecycle Event ),1
+8bf63ed4,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] VM Paused ( Lifecycle Event ),1
+d209986e,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+eb977b85,Creating event network-vif-plugged : #spec# bb #spec# c #spec# a #spec# -effa- #spec# - #spec# cf #spec# - #spec# b #spec# a #spec# df #spec# for instance #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec#,1
+501cbb45,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] VM Resumed ( Lifecycle Event ),2
+0c5770d8,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Instance spawned successfully.,1
+c27b22c1,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+70bfb43b,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Took #spec# . #spec# seconds to build instance.,1
+adc31031,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Terminating instance,1
+aaf56e00,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Instance destroyed successfully.,1
+586ed145,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Deleting instance files #spec#,1
+5e59efd8,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Deletion of #spec# complete,1
+9e6d062b,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+6f250853,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+93a55dcf,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+6a6585e4,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+eaff0f93,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+ed170670,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+d3bc7200,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] disk limit not specified , defaulting to unlimited",1
+7a2f3716,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+ce217f05,"[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] vcpu limit not specified , defaulting to unlimited",1
+e1fa21bc,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Claim successful,1
+71faa8cb,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Creating image,1
+dbb919c6,[ instance : #spec# c #spec# b-c #spec# b- #spec# c #spec# -b #spec# - #spec# afe #spec# f #spec# ff #spec# ] VM Stopped ( Lifecycle Event ),1
+1ac763ac,"While synchronizing instance power states , found #spec# instances in the database and #spec# instances on the hypervisor.",1
+59771bf1,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] VM Started ( Lifecycle Event ),1
+d538ed30,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] VM Paused ( Lifecycle Event ),1
+0c09f291,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,3
+d6ed9eec,Creating event network-vif-plugged : #spec# c #spec# b #spec# a- #spec# a #spec# - #spec# d #spec# - #spec# - #spec# c #spec# aa #spec# for instance bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e,1
+6b770d6e,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] VM Resumed ( Lifecycle Event ),2
+bb6266e7,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Instance spawned successfully.,1
+e74e3b17,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+f4eec9f5,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Took #spec# . #spec# seconds to build instance.,1
+37c01fa4,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Terminating instance,1
+f1278044,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Instance destroyed successfully.,1
+19a56cd6,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Deleting instance files #spec#,1
+315b2e25,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Deletion of #spec# complete,1
+9a5d6a74,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+904bbaca,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+95e31583,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+6e4696ff,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+9dea2be0,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+0f706e8c,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+0521c345,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] disk limit not specified , defaulting to unlimited",1
+98fb532c,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+742fe97f,"[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] vcpu limit not specified , defaulting to unlimited",1
+d1dc4186,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Claim successful,1
+cdb522c3,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Creating image,1
+efb4d1ab,[ instance : bf #spec# c #spec# d-f #spec# - #spec# -a #spec# e-e #spec# da #spec# e ] VM Stopped ( Lifecycle Event ),1
+a4f05ea8,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] VM Started ( Lifecycle Event ),1
+36b63466,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] VM Paused ( Lifecycle Event ),1
+46155c68,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+41e37b9c,Creating event network-vif-plugged : #spec# c #spec# f- #spec# d #spec# - #spec# -ae #spec# b- #spec# bca #spec# d #spec# a #spec# for instance be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc,1
+d0c3c3e1,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] VM Resumed ( Lifecycle Event ),2
+2e110ba5,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Instance spawned successfully.,1
+2acd79e8,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+ec45c86f,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Took #spec# . #spec# seconds to build instance.,1
+7efebab6,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Terminating instance,1
+5863e14b,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Instance destroyed successfully.,1
+a65bf8a3,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Deleting instance files #spec#,1
+5ea62d09,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Deletion of #spec# complete,1
+198fcc42,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+5eda9b37,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+83511f61,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+407ba76b,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+3d008388,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+e6f3c8d8,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+5703687d,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] disk limit not specified , defaulting to unlimited",1
+e6cf5b5f,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+f3637976,"[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] vcpu limit not specified , defaulting to unlimited",1
+9a4bafd2,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Claim successful,1
+e1934f79,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Creating image,1
+3d72f9ac,[ instance : be #spec# e #spec# - #spec# cc #spec# - #spec# f #spec# - #spec# - #spec# c #spec# a #spec# a #spec# bc ] VM Stopped ( Lifecycle Event ),1
+3b3641d0,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] VM Started ( Lifecycle Event ),1
+57c53540,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] VM Paused ( Lifecycle Event ),1
+13257b94,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,1
+4b80672d,Creating event network-vif-plugged : #spec# ba #spec# - #spec# ef- #spec# f #spec# - #spec# d #spec# -d #spec# c #spec# f #spec# cb #spec# for instance a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d,1
+8234d549,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] VM Resumed ( Lifecycle Event ),2
+33050c4b,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Instance spawned successfully.,1
+19dfc535,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+e324e919,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Took #spec# . #spec# seconds to build instance.,1
+da58988e,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Terminating instance,1
+debc3051,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Instance destroyed successfully.,1
+9cfbc810,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Deleting instance files #spec#,1
+a5710bfd,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Deletion of #spec# complete,1
+e2d03585,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+c108dffc,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+1fb1bfcf,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+f60a6abc,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+8e34bb54,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+223619d0,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+f2268b52,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] disk limit not specified , defaulting to unlimited",1
+1e5f08be,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+2f6a9871,"[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] vcpu limit not specified , defaulting to unlimited",1
+112a717a,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Claim successful,1
+4f301575,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Creating image,1
+76876fd6,[ instance : a #spec# cf #spec# - #spec# bb- #spec# -a #spec# d- #spec# c #spec# ac #spec# a #spec# d ] VM Stopped ( Lifecycle Event ),1
+37b74a9d,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] VM Started ( Lifecycle Event ),1
+7b17e368,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] VM Paused ( Lifecycle Event ),1
+01c177c0,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+f0d71568,Creating event network-vif-plugged : a #spec# c #spec# d- #spec# cb- #spec# ef #spec# -b #spec# c #spec# -dbc #spec# c #spec# a #spec# bd #spec# c for instance d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d,1
+2ada5244,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] VM Resumed ( Lifecycle Event ),2
+6cb64bf2,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Instance spawned successfully.,1
+34f60583,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+eb396431,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Took #spec# . #spec# seconds to build instance.,1
+41fed956,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Terminating instance,1
+78eb88b6,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Instance destroyed successfully.,1
+75ed0803,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Deleting instance files #spec#,1
+8cf5317e,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Deletion of #spec# complete,1
+6055fd20,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+6fba4269,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+ee0bd262,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+00d9c212,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+bbac532f,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+9be37b56,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+e7560b7e,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] disk limit not specified , defaulting to unlimited",1
+904a6955,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+7dbfd51a,"[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] vcpu limit not specified , defaulting to unlimited",1
+c3eee230,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Claim successful,1
+cfd0fd7b,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Creating image,1
+82d11715,[ instance : d #spec# a #spec# b- #spec# - #spec# -bdcc- #spec# b #spec# d #spec# d ] VM Stopped ( Lifecycle Event ),1
+13d8a07f,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] VM Started ( Lifecycle Event ),1
+72100207,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] VM Paused ( Lifecycle Event ),1
+827c8224,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+36fa2f09,Creating event network-vif-plugged : #spec# b #spec# aca #spec# - #spec# e- #spec# - #spec# ff #spec# - #spec# d #spec# ff #spec# for instance d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e,1
+9e346fbd,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] VM Resumed ( Lifecycle Event ),2
+f1733bf6,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Instance spawned successfully.,1
+922464b7,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+0a8eaa60,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Took #spec# . #spec# seconds to build instance.,1
+bfcc7651,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Terminating instance,1
+784ee245,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Instance destroyed successfully.,1
+16349bb2,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Deleting instance files #spec#,1
+d8625cd1,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Deletion of #spec# complete,1
+76489122,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+238ad806,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+bc26f1da,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+779bd613,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+1fb77f4a,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+d31bac39,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+64b735db,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] disk limit not specified , defaulting to unlimited",1
+eb8fb1e1,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+3875e4d2,"[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] vcpu limit not specified , defaulting to unlimited",1
+16aaf82a,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Claim successful,1
+5fc1e030,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Creating image,1
+3d6557ae,[ instance : d #spec# b #spec# bd #spec# - #spec# - #spec# - #spec# -fffdd #spec# ea #spec# e ] VM Stopped ( Lifecycle Event ),1
+3059eb2c,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] VM Started ( Lifecycle Event ),1
+b0ade319,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] VM Paused ( Lifecycle Event ),1
+6dba4ea8,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+1142dd5d,Creating event network-vif-plugged : b #spec# f #spec# d-d #spec# bd- #spec# -b #spec# f- #spec# e #spec# fe #spec# c #spec# c for instance #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec#,1
+7fbdd1af,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] VM Resumed ( Lifecycle Event ),2
+2956abc8,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Instance * successfully.,2
+d27aba83,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+19bb1ba1,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Took #spec# . #spec# seconds to build instance.,1
+0f432b25,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Terminating instance,1
+082e86ce,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Deleting instance files #spec#,1
+5e95dac5,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Deletion of #spec# complete,1
+f54bd91e,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+9083aa75,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+7414c0b4,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+a7412b09,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+c3de9ba0,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+26424e2c,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+7e5c2383,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] disk limit not specified , defaulting to unlimited",1
+7c9b29b3,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+6d976545,"[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] vcpu limit not specified , defaulting to unlimited",1
+416e1eff,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Claim successful,1
+8486c1a2,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Creating image,1
+a7331357,[ instance : #spec# e #spec# a- #spec# fe #spec# - #spec# - #spec# b #spec# - #spec# ac #spec# e #spec# ] VM Stopped ( Lifecycle Event ),1
+21c8508f,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] VM Started ( Lifecycle Event ),1
+7941dc0f,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] VM Paused ( Lifecycle Event ),1
+b35c37c8,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+862fa465,Creating event network-vif-plugged : b #spec# a #spec# d #spec# -ce #spec# e- #spec# ff-bb #spec# d-a #spec# b #spec# f #spec# e #spec# for instance c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf,1
+4d4b90ca,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] VM Resumed ( Lifecycle Event ),2
+834b1d21,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Instance spawned successfully.,1
+da212afd,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+e9e10959,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Took #spec# . #spec# seconds to build instance.,1
+df49dc48,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Terminating instance,1
+f2bbfd62,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Instance destroyed successfully.,1
+d15539df,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Deleting instance files #spec#,1
+acad2b19,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Deletion of #spec# complete,1
+d736f418,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Took #spec# . #spec# seconds to destroy the instance on the hypervisor.,1
+46f6939c,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] Took #spec# . #spec# seconds to deallocate network for instance.,1
+dfb9ddf8,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Attempting claim : memory #spec# MB , disk #spec# GB , vcpus #spec# CPU",1
+3012b735,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Total memory : #spec# MB , used : #spec# . #spec# MB",1
+032dd64e,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] memory limit : #spec# . #spec# MB , free : #spec# . #spec# MB",1
+e65872a1,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Total disk : #spec# GB , used : #spec# . #spec# GB",1
+c7c4acd3,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] disk limit not specified , defaulting to unlimited",1
+6c20c727,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Total vcpu : #spec# VCPU , used : #spec# . #spec# VCPU",1
+c4dfa441,"[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] vcpu limit not specified , defaulting to unlimited",1
+443ac8c0,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Claim successful,1
+e3110c4c,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Creating image,1
+e0199eee,[ instance : c #spec# f #spec# f #spec# - #spec# c- #spec# ea #spec# -b #spec# e #spec# - #spec# edfcfbf ] VM Stopped ( Lifecycle Event ),1
+5f6279fe,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] VM Started ( Lifecycle Event ),1
+7888ae16,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] VM Paused ( Lifecycle Event ),1
+9903a7a3,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] During sync_power_state the instance has a pending task ( spawning ) . Skip.,2
+7af4a5dd,Creating event network-vif-plugged : #spec# f #spec# af-aae #spec# - #spec# b #spec# - #spec# c #spec# -a #spec# bc #spec# c #spec# e #spec# bb #spec# for instance faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f,1
+aa258411,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] VM Resumed ( Lifecycle Event ),2
+46269951,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Instance spawned successfully.,1
+0f96b11c,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Took #spec# . #spec# seconds to spawn the instance on the hypervisor.,1
+b444b1c0,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Took #spec# . #spec# seconds to build instance.,1
+7fa43ae3,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Terminating instance,1
+e9478868,[ instance : faf #spec# ea-cba #spec# - #spec# e #spec# b- #spec# f #spec# - #spec# a #spec# bc #spec# f ] Instance destroyed successfully.,1

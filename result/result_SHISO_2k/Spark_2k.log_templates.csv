@@ -1,0 +1,36 @@
+EventId,EventTemplate,Occurrences
+932c104e,"Registered signal handlers for [TERM, HUP, INT]",1
+168d077d,"Changing * acls to: yarn,curi",4
+29bc3dfc,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+b923f8c3,Slf4jLogger started,1
+27a2a4ad,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+38d48540,Successfully started service 'sparkExecutorActorSystem' on port 55904.,1
+9ffef012,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+8c093329,MemoryStore started with capacity 17.7 <*>,1
+65aef961,"Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 <*>, free 5.2 <*>)",1
+1c9c9664,"Block broadcast_9 stored as values in memory (estimated size 8.8 <*>, free 14.0 <*>)",1
+9e7a4d5c,"Block broadcast_8_piece0 stored as bytes in memory (estimated size 21.4 <*>, free 35.4 <*>)",1
+1dc1611f,"Block * stored as * in memory (estimated size * <*>, free * <*>)",145
+e99571c6,Starting remoting,1
+1c507e44,Registered BlockManager,1
+8a3c5581,Input split: *,45
+234d646b,* Committed,29
+ee9428b5,Running task * in stage * (TID *,305
+f8b08cc9,Reading broadcast variable * took * ms,37
+fa7bb38e,"Partition * not found, computing it",75
+3729a2cd,"<*> is deprecated. Instead, use <*>",5
+508e4f7f,Starting executor ID 5 on host mesos-slave-07,1
+4fde48df,Successfully started service '<*>' on port 40984.,1
+cae1c291,Times: total = * boot = * init = * finish = *,375
+a899e693,File Output Committer Algorithm version is 1,30
+6bdfeddd,Connecting to driver: spark://CoarseGrainedScheduler@<*>:48069,1
+5a5c5838,Successfully registered with driver,1
+a352752c,Server created on 40984,1
+17f432d4,Trying to register BlockManager,1
+dc5732b6,"Block broadcast_0_piece0 stored as bytes in memory (estimated size 93.0 <*>, free 317.1 <*>)",1
+edfb53b6,Finished task * in stage * (TID * * bytes result sent to driver,300
+773b22b5,attempt_201706092018_0024_m_000002_998: Committed,1
+e309e3b2,Saved output of task * to *,30
+caf5abb7,Started reading broadcast variable *,37
+2dee596b,Found block * locally,257
+163cd5d2,Got assigned task *,305

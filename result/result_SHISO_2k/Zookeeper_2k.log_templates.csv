@@ -1,0 +1,62 @@
+EventId,EventTemplate,Occurrences
+3a1448f7,Notification time out: *,37
+9879a9ab,Received connection request <*>,299
+7a2ec7d0,Send worker leaving thread,262
+45a3ec5d,Interrupted while waiting for message on queue,314
+273e53f2,Interrupting SendWorker,266
+63d9783e,Unexpected Exception:,1
+4352c75e,FOLLOWING - LEADER ELECTION TOOK - *,2
+1a54b20f,"Notification: 3 (n.leader), * (n.zxid), * (n.round), * (n.state), 3 (n.sid), * (n.peerEPoch), * (my state)",3
+eeb38d12,Server environment:user.dir=/,1
+f311a57e,******* GOODBYE <*> ********,1
+b648fa64,Server environment:host.name=mesos-master-1,1
+17644875,Server environment:user.name=zookeeper,2
+55616db2,* * * * *,58
+abe76bf8,Accepted socket connection from <*>,30
+3389dae3,*,6
+4cbab665,My election bind port: <*><*>,1
+53404a1a,"Connection broken for id 188978561024, my id = * error =",289
+e95423f3,Closed socket connection for client <*> which had sessionid *,44
+1c93355e,Client attempting to * * * at <*>,12
+00a8e7f7,Client attempting to establish new session at <*>,31
+8c716832,autopurge.snapRetainCount set to 3,1
+d961f4e8,Server environment:java.vendor=Oracle Corporation,2
+f8cd5d90,Revalidating client: *,3
+da7d60d2,tickTime set to 2000,1
+1effd706,"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",1
+27592ac9,"Notification: * (n.leader), * (n.zxid), * (n.round), * (n.state), * (n.sid), * (n.peerEPoch), * (my state)",7
+f311a57e,******* GOODBYE <*> ********,18
+c5f7f4b1,"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",1
+5e51912e,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+c00b2f72,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,1
+9d86801d,Sending DIFF,1
+21f7c76b,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,1
+467d31ff,Server environment:os.name=Linux,2
+e1caa208,"New election. My id = 1, proposed zxid=0x700000000",1
+ae80a1f9,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT",1
+1749c13a,Cannot open channel to * at election address <*>,85
+a6d393b4,Connection broken for id * my id = * error =,2
+2e16718d,Established session * with negotiated timeout * for client <*>,47
+83b64530,Established session * with negotiated timeout 10000 for client <*>,3
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode,39
+ed297523,"Have smaller server identifier, so dropping the connection: (2, 1)",1
+ea23ddcc,Processed session termination for sessionid: *,46
+e13f5bfb,Processed session termination for sessionid: 0x34ede65503f0010,1
+0e5d3f94,Expiring session * timeout of * exceeded,33
+f219c5c4,"Expiring session 0x34ede65503f0036, timeout of 10000ms exceeded",1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+3204f3ff,autopurge.purgeInterval set to 0,3
+d459c04c,Starting quorum peer,1
+390a1b37,Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+6a9a6831,Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+9cb3def4,First is 0x0,1
+54e53be0,* set to -1,3
+a3e8a36b,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,1
+bed3680d,Closed socket connection for client <*> (no session established for client),4
+ecf6827a,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,3
+2a7add7e,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+82a35475,Client attempting to renew session 0x14f05578bd8001b at <*>,1
+6cb95c7c,"Expiring session 0x34ed9ac1c1e002b, timeout of 10000ms exceeded",1
+5dffcb42,Cannot open channel to 2 at election address <*>,1
+5c3da64d,Expiring session * timeout of 10000ms exceeded,5
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1

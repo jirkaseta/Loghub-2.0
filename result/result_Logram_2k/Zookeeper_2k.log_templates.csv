@@ -1,0 +1,48 @@
+EventId,EventTemplate
+286299e2,Notification time out: <*>
+9879a9ab,Received connection request <*>
+7a2ec7d0,Send worker leaving thread
+45a3ec5d,Interrupted while waiting for message on queue
+cf7def1d,Connection broken for id 188978561024 my id = 1 error =
+273e53f2,Interrupting SendWorker
+20d23992,Closed socket connection for client <*> which had sessionid <*>
+ecefe136,caught end of stream exception
+c2a27ab9,Client attempting to <*> <*> <*> at <*>
+00a8e7f7,Client attempting to establish new session at <*>
+53abb0ca,Established session <*> with negotiated timeout 10000 for client <*>
+abe76bf8,Accepted socket connection from <*>
+63d9783e,Unexpected Exception:
+37ce0325,Established session <*> with negotiated timeout <*> for client <*>
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode
+eeb38d12,Server environment:user.dir=/
+5dffcb42,Cannot open channel to 2 at election address <*>
+61a003ea,Processed session termination for sessionid: <*>
+24022c09,Expiring session <*> timeout of 10000ms exceeded
+f311a57e,******* GOODBYE <*> ********
+00078e14,LOOKING
+2e117246,Cannot open channel to 3 at election address <*>
+f3baff5c,Notification time out: 60000
+fb195195,<*> <*> <*> <*> <*>
+82e013db,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+c172d526,FOLLOWING
+d73caea5,<*> <*> <*> id = 1 <*> <*>
+b648fa64,Server environment:host.name=mesos-master-1
+8d7c0e6b,<*> <*> <*> <*> <*> <*> <*>
+be644734,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+7ad83fc0,<*> <*> to 3
+a4ec7e5b,<*> <*> <*>
+17644875,Server environment:user.name=zookeeper
+467d31ff,Server environment:os.name=Linux
+2541ae40,Closed socket connection for client <*> <*> <*> <*> <*> <*>
+73d6de92,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+0ce98313,<*> <*> <*> <*>
+87909d12,Connection broken for id <*> my id = 1 error =
+0cf47064,Unexpected exception causing shutdown while sock still open
+7f3f8528,Connection broken for id 188978561024 my id = 2 error =
+023c9167,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+f8c6d06b,Expiring session <*> timeout of <*> exceeded
+c00b2f72,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar
+9d86801d,Sending DIFF
+a2afa4e6,Connection broken for id 188978561024 my id = 3 error =
+48afa662,Connection broken for id <*> my id = 3 error =
+21f7c76b,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre

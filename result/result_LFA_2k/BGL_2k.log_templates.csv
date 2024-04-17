@@ -1,0 +1,105 @@
+EventId,EventTemplate,Occurrences
+22cf1fcc,instruction <*> <*> <*> <*>,42
+ae4c7e9f,<*> double-hummer alignment exceptions,109
+70605528,CE sym <*> at <*> mask <*>,92
+2faf5596,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+946610a6,generating <*>,721
+e1f80a39,force load/store alignment...............0,2
+00c380ae,ciod: <*> <*> at <*> <*> <*> <*> <*> <*>,1
+38da3bf4,ciod: <*> <*> <*> <*> <*> <*> <*> <*>,19
+fd8da617,"1 ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>",12
+d531623b,data <*> <*> <*>,60
+d7de09cc,data <*> <*>,43
+cc689933,instruction <*> <*>,22
+aed0ea94,machine <*> <*>,7
+4929c785,program interrupt: <*> <*>,21
+62fd631f,<*> <*> register: <*>,17
+fbbafa0f,data <*> <*> <*> <*> <*>,10
+3a04f185,store operation.............................1,2
+378c3753,<*> state <*>,4
+fef40352,floating <*> <*> <*>,4
+d9a353bd,auxiliary processor.........................0,5
+03dcd3de,floating <*> <*> <*> <*> <*>,5
+6dc58ba1,debug interrupt <*>,1
+3b9fd46c,byte ordering exception.....................0,2
+a9dcfec1,program interrupt: <*> <*> <*>,1
+9613af5f,guaranteed <*> cache block <*>,3
+2e270cbc,program interrupt: <*> <*> <*> <*>,4
+874da624,icache prefetch <*>,3
+2191c877,<*> <*> interrupt <*>,1
+5d5b00ea,special purpose registers:,1
+efdcc224,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,1
+3457fed4,<*> <*> error,1
+a7f48638,debug <*> enable.................0,2
+b317ba5c,<*> store <*>,3
+d001716e,total of <*> ddr error(s) detected and corrected,13
+d93e6b80,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,33
+2faa6071,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,23
+212332f8,program <*>,3
+faab27d2,Node card <*> <*> <*> <*>,6
+ee9bb0dd,Ido chip status changed: <*> <*> <*> t=4 status=M <*> <*> <*> <*> PDT 2005,1
+0a2fa9a1,<*> <*> <*> <*> <*> for <*> <*>,6
+cc25df41,1 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+e8dcbd12,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,11
+3f9af912,rts <*> <*> <*> <*>,2
+5f43da9e,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+a93a7188,rts: kernel terminated for reason <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+d9d676e0,<*> floating point alignment exceptions,121
+978627a5,New ido chip inserted into the database: <*> <*> <*> <*>,1
+60abbb71,New ido chip inserted into the database: <*> <*> v=13 t=4,2
+f50de301,NodeCard is not fully functional,1
+e6c3388f,Node card <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+2e355e2e,Node card <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,9
+30d1fd57,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+2275056d,Node card <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,5
+3579e855,Ido chip status changed: <*> <*> v=13 t=4 status=M Thu Aug 04 <*> PDT 2005,1
+8af767e4,Ido chip status changed: <*> <*> v=13 t=1 status=M Thu Aug 04 <*> PDT 2005,1
+3ea1576a,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> of <*> <*> <*>,1
+c88a38eb,Ido chip status changed: <*> <*> v=13 t=4 status=M <*> Aug <*> <*> PDT 2005,1
+9afa9c6e,rts <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f9ee8256,1 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+04319570,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+b68e1917,rts: kernel terminated for reason <*>,6
+75b36ed9,ciod: <*> <*> <*> <*> <*> <*> <*>,30
+e7e89daa,iar <*> dear <*>,208
+b93863f4,<*> <*> <*> on <*> <*> <*> <*> <*> <*>,2
+e02f6f69,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>",6
+ab5b7e2c,Lustre mount FAILED : <*> : point /p/gb1,9
+2d4eabd3,ciod: <*> <*> <*> <*> <*>,4
+8facda9c,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+4c0424aa,<*> <*> <*> <*> <*> type,2
+762e22fd,Ido chip status changed: <*> <*> v=13 <*> status=M <*> <*> <*> <*> PDT 2005,1
+91e1f2fc,rts: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+bd248a67,<*> <*> interrupt <*> <*> <*> <*> <*> <*> <*>,2
+5bf6f519,<*> <*> receiver <*> <*> <*> <*> <*> <*> <*> <*>,2
+57dec75c,data <*> <*> <*> <*> <*> <*> <*> <*>,6
+06a13402,shutdown complete,1
+d7b59897,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",2
+fb87b71c,5 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+dda3283f,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+d64985a1,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007",3
+6bcd5645,<*> <*> interrupt <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+44debb69,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> over <*> seconds,2
+eae7a19f,ciod: <*> <*> <*> <*> <*> <*>,16
+4dc4712c,Lustre mount FAILED : <*> : <*> <*> <*>,2
+72dcb43a,<*> <*> <*> read <*> <*> <*> <*> <*> <*>,7
+8bf4e87a,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,1
+46bea1e2,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,1
+46ca6eec,<*> <*> receiver <*> <*> <*> <*> <*> <*> <*> <*> over <*> seconds,1
+2d924494,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+e9ea1f91,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",71
+f16f5406,"1 ddr <*> detected and corrected on rank 0, symbol <*> <*> <*> <*>",2
+18300086,PrepareForService shutting down <*> <*> <*> <*> <*> <*> <*> <*> of <*> <*> <*>,1
+808f7b36,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>,1
+5e5095e2,1 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+4b255954,"<*> ddr <*> detected and corrected on rank 0, symbol <*> <*> <*> <*>",4
+5ba73592,total of 1 ddr error(s) detected and corrected <*> <*> <*>,1
+3336f3db,minus normalized number..................0,1
+e9ed0f3d,fraction rounded.........................0,1
+bd4b6af8,<*> of <*> <*> <*> <*> <*>,1
+c611ff7e,"Kernel detected <*> integer alignment exceptions <*> iar 0x00544ea8, dear <*> <*> iar 0x00544eb8, dear <*> <*> iar 0x00544ea8, dear <*> <*> iar 0x00544eb8, dear <*> <*> iar 0x00544ee0, dear <*> <*> iar 0x00544ef0, dear <*> <*> iar 0x00544ee0, dear <*> <*> iar 0x00544ef0, dear <*>",8
+dba7b3b4,total of <*> ddr error(s) detected and corrected <*> <*> <*>,3
+27f5aaff,"5 ddr <*> detected and corrected on rank 0, symbol <*> <*> <*> <*>",1
+0e5762ce,2 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f0a23bcb,fpr29=0xffffffff ffffffff ffffffff ffffffff,1
+dd92e0a7,Machine State Register: 0x0002f900,1

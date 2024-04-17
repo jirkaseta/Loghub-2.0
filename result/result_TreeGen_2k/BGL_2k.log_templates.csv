@@ -1,0 +1,123 @@
+EventId,EventTemplate,Occurrences
+e0a096f8,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>. <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>.,51
+88c0ada2,<*> <*> <*> <*>(<*>) (<*> <*>) detected and corrected,1
+6b8f71d0,<*> <*> <*> <*>(<*>) (<*> <*>) detected and corrected over <*> <*>,1
+92bd07f9,<*> <*> <*> alignment exceptions,115
+329a7d46,<*> <*> <*> alignment exceptions ,6
+016a2f8a,<*> <*> <*> z retransmission- error s(dcr) (<*> <*>) <*> <*> <*> <*> <*> ,2
+a7195df9,"<*> <*> <*>(s) detected and corrected on rank <*>, <*> <*>, <*> <*>",18
+f40385e0,<*> <*> <*>-alignment exceptions ,50
+8c7cfb6c,"<*> <*> error(s) detected and corrected on rank <*>, <*> <*> <*> <*> <*>",7
+78d97089,"<*> <*> interrupts. <*> critical input interrupts. <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*>.",71
+5b89f5ac,<*> <*> receiver x+ input pipe error(s) (dcr <*>) <*> <*> corrected,1
+afe3e97b,<*> <*> receiver y+ input pipe error(s) (dcr <*>) <*> <*> corrected,1
+478ee080,<*> <*> receiver z+ input pipe error(s) (dcr <*>) <*> <*> corrected,2
+c747d327,<*> <*>-<*> alignment exceptions,59
+a523859c,<*> tree receiver <*> <*> <*>-<*> <*> <*>(<*>) (<*> <*>) detected,3
+18dc040d,<*> tree receiver <*> <*> <*>-<*> <*> <*>(<*>) (<*> <*>) detected over <*> <*>,2
+475ac245,"CE sym <*>, <*> <*>, <*> <*>",92
+e3ad2133,Can not <*> <*> <*> <*> <*> <*>,6
+7837cfb1,"Error receiving <*> on tree network, expecting type <*> <*> <*> <*> <*> (<*>=<*> <*>) <*>=<*> <*>=<*> <*>=<*> <*>=<*>",5
+753cbcde,Ido chip status changed: <*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*> <*> <*> <*>:<*>:<*> <*> <*>,5
+d8dd3225,"Kernel detected <*> <*> <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*> (<*>) <*> <*>, <*> <*>",9
+98fc1199,Lustre mount <*> : <*> : <*> : <*>,2
+b59cc84a,Lustre mount <*> : <*> : <*> <*>,9
+92ef1e21,MACHINE <*> <*> <*> <*> (<*>=<*> <*> <*> <*> <*>),7
+1a3df0d1,Machine State Register: <*>,1
+879c37a1,"NFS Mount failed on bglio716, slept <*> <*>, <*> (<*>)",1
+35406e6d,"NFS Mount failed on bglio91, slept <*> <*>, <*> (<*>)",1
+4e4c0c46,New <*> <*> <*> <*> <*> <*>: <*> <*>=<*> <*>=<*> <*>=<*>,3
+0a8641c6,Node <*> <*> <*> <*> <*>,6
+475081d2,"Node <*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>. <*> <*> <*>, <*> <*> ",9
+7bb2fe1c,"Node <*> status: ALERT <*>, <*> <*>, <*> <*>, <*> <*> <*> (<*>) <*>. <*> <*> <*> <*>. <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*>. <*> <*> <*> <*> <*> <*>. <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*>.<*> <*> <*> <*> <*>. <*> <*>.<*> <*> <*> <*> <*>.",1
+a97d6c8d,Node <*> status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*>. <*> <*> <*> <*> <*> <*>. <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*> <*> <*>. <*> <*> <*> <*> <*>. <*> <*>.<*> <*> <*> <*> <*>. <*> <*>.<*> <*> <*> <*> <*>.,5
+e5cb2e8a,NodeCard <*> <*> <*> <*>,1
+e4943021,"PrepareForService <*> <*> <*> <*>(<*>(<*>-<*>-<*>), <*>(<*>), <*>(<*>), <*>(<*>), <*>(<*>)) <*> <*> <*> <*> <*> <*>",1
+2c3633f5,"PrepareForService <*> <*> <*>(<*>(<*>-<*>-<*>), <*>(<*>), <*>(<*>), <*>(<*>), <*>(<*>)) <*> <*> <*> <*> <*> <*>",1
+b48b277c,auxiliary processor.........................<*>,5
+505eade7,byte ordering <*>.....................<*>,2
+bd09606b,ciod: Error <*> <*> <*> <*> <*> <*>: <*> <*>,1
+d919327b,ciod: Error <*> <*> <*> <*> <*> <*>: <*> <*> <*>,3
+795c22d3,"ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory",1
+cb9885a3,"ciod: Error loading <*>.<*>: <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*>",1
+c80ceab5,"ciod: Error loading <*>: <*> <*> <*> <*>, <*> > <*> ",1
+31f89fcf,"ciod: Error loading <*>: invalid or missing program image, Exec format error",17
+6f3620a4,"ciod: Error loading <*>: invalid or missing program image, No such file or directory",19
+62adcf76,"ciod: Error loading <*>: invalid or missing program image, Permission denied",19
+66f6738b,"ciod: Error reading <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*>",2
+0ca9ff1f,"ciod: Error reading <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*>",12
+ff879a72,ciod: Error reading <*> <*> <*> <*> on CioStream socket to <*>: <*> <*> <*> <*>,9
+c1326e9f,"ciod: In <*> <*> node <*>.<*> (<*>-<*>-<*>-<*>:<*>-<*>), <*> <*> <*> <*> <*> <*> <*> <*> (<*>=<*> <*>)",1
+10b9fdd7,ciod: LOGIN <*>(<*>) <*>: <*> <*> <*> <*> <*>,18
+b737369f,ciod: LOGIN <*>(<*>) <*>: <*>/<*> <*>,1
+a9af88bb,ciod: Message <*> <*> <*> <*> <*> <*> <*> ,1
+0acad77d,ciod: Missing or <*> <*> <*> <*> <*> <*> <*> <*> file <*>,2
+70dc6e23,"ciod: Received signal <*>, <*>=<*>, <*>=<*>, <*>=<*>",16
+4189d962,ciod: Z coordinate <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f0dd53a6,ciod: cpu <*> <*> <*> <*> <*> <*> <*> <*>,1
+d5611172,ciod: duplicate <*>-<*> <*> <*> <*>-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+3e7a39f6,ciod: failed to <*> <*> <*> <*> <*> <*> (<*> <*> <*> <*>,3
+6aa4d3f3,ciod: generated <*> <*> <*> <*> <*> <*>,29
+e30d69f9,ciod: generated <*> <*> <*> <*> <*> <*>-<*>.<*>,1
+eda9f737,ciod: pollControlDescriptors: <*> <*> <*> <*>.,3
+06072e40,core configuration register: <*>,7
+3fd431a9,"critical input interrupt (unit=<*> <*>=<*>): <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*>",1
+e9634ded,critical input interrupt (unit=<*> <*>=<*>): <*> <*> <*> <*>+ <*>,1
+02ea6417,"critical input interrupt (unit=<*> <*>=<*>): <*> <*> <*> <*>+ <*>, <*> <*> <*> <*> <*> <*>",2
+f8a75a36,critical input interrupt (unit=<*> <*>=<*>): <*> <*> <*> <*>- <*>,1
+fb1560b4,critical input interrupt enable...<*>,1
+38a7307d,data TLB error interrupt,60
+02430fd4,data address space................<*>,5
+22550c73,data address: <*>,8
+83f2680f,data cache <*> <*> <*> <*>. <*> <*> <*>,6
+d2c9db9b,data storage interrupt,30
+1e2c6e73,data store interrupt <*> <*> <*>.........<*>,10
+a9f508e1,dbcr0=<*> <*>=<*> <*>=<*>,1
+4aa10e18,debug interrupt enable............<*>,1
+3a77b37e,debug wait enable.................<*>,2
+c5b54ac5,disable store gathering..................<*>,3
+cce08081,exception syndrome register: <*>,6
+b8970056,floating point instr. <*>.....<*>,4
+9a42e794,floating pt ex <*> <*> <*>......<*>,5
+cf145002,force load/store alignment...............<*>,2
+3cc7d8df,fpr29=<*> <*> ,1
+c8e14b66,fraction rounded.........................<*>,1
+070de4aa,generating <*>,721
+27fc2153,guaranteed <*> <*> <*> <*>........<*>,1
+2737dc36,guaranteed instruction <*> <*> <*>.<*>,2
+a537bb93,iar <*> <*> <*> ,208
+a8ddccb1,icache prefetch <*>....................<*>,1
+a1326c19,icache prefetch threshold................<*>,2
+0a03b5bc,"idoproxydb hit <*> <*>: <*> <*>=<*> <*> <*>=<*>.<*> <*> <*>=<*> <*>=<*> <*>::<*>(<*>*, <*>*)",35
+0b246110,instruction address space.........<*>,1
+a31b789f,instruction address: <*>,21
+2c4547e1,instruction cache <*> <*> <*>,42
+98c1f5f3,lr:00004ed0 <*>:<*> <*>:<*> <*>:<*>,1
+f2028c2a,machine <*> enable..............<*>,2
+84f55410,machine <*>: <*>-<*>......................<*>,5
+8d23c697,machine state register: <*>,4
+2c8d5a50,minus <*> <*>..................<*>,1
+27d31573,"problem state (<*>=<*>,<*>=<*>).......<*>",3
+0d02c0e2,program interrupt,3
+4212bc89,program interrupt: <*> <*> <*> .............<*>,4
+1a200b4d,program interrupt: <*> <*> <*>.............<*>,1
+87bd42ba,program interrupt: <*> instruction.........<*>,1
+8b29d48b,program interrupt: <*> operation..<*>,2
+073c2235,program interrupt: illegal instruction......<*>,8
+e99a971d,program interrupt: imprecise exception......<*>,5
+10003957,program interrupt: privileged instruction...<*>,5
+83c4dd8f,r24=<*> <*>=<*> <*>=<*> <*>=<*>,1
+af999985,rts internal error,1
+4aef41e7,rts panic! - <*> <*>,2
+66193df2,rts tree/<*> <*> <*> <*>: <*>: <*> <*> <*>+ <*>- <*>+ <*>- <*>+ <*>- <*>: <*> <*> <*>- <*>- <*>+ <*>-,1
+f6223b63,rts: bad message <*>: <*> type <*> <*> <*> <*> <*> (<*>=<*> <*>) <*>=<*> <*>=<*> <*>=<*> <*>=<*>,1
+2cb48e95,rts: kernel <*> <*> <*> <*>,6
+44887816,"rts: kernel <*> <*> <*> <*>: <*> <*> <*>: <*> <*>, <*>=<*>, <*>=<*>, <*>=<*>, <*>=<*>",1
+a828f891,shutdown complete,1
+f4c9c32f,size of <*> <*> <*> <*>.........<*> (<*>),1
+6972f6fc,special <*> <*>:,1
+abff2903,store operation.............................<*>,2
+ea3efa0b,suppressing further interrupts of same type,2
+a1b51234,total of <*> <*> <*>(<*>) detected and corrected,13
+f4330002,total of <*> <*> <*>(<*>) detected and corrected over <*> <*>,4
+493f6190,wait state enable.................<*>,1

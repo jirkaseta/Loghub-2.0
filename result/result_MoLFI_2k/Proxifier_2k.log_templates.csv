@@ -1,0 +1,23 @@
+EventId,EventTemplate,Occurrences
+0b3fa983,#spec# : * open through proxy #spec# : 5070 HTTPS,946
+38f0f7ee,"#spec# : * close , #spec# bytes sent , #spec# bytes received , lifetime #spec#",230
+7d85f36c,"#spec# : * close , #spec# bytes sent , #spec# bytes received , lifetime < 1 sec",119
+06f0e4ba,"#spec# : * close , #spec# bytes sent , #spec# bytes ( #spec# #spec# ) received , lifetime < 1 sec",35
+fd90abca,"#spec# : * close , #spec# bytes ( #spec# #spec# ) sent , #spec# bytes ( #spec# #spec# ) received , lifetime #spec#",277
+52c61b1e,"#spec# : * close , #spec# bytes ( #spec# #spec# ) sent , #spec# bytes received , lifetime < 1 sec",30
+62892fce,"#spec# : * close , #spec# bytes sent , #spec# bytes ( #spec# #spec# ) received , lifetime #spec#",133
+e6b658a3,"#spec# : * close , #spec# bytes ( #spec# #spec# ) sent , #spec# bytes received , lifetime #spec#",91
+66b723e3,"#spec# : 5070 close , #spec# bytes ( #spec# #spec# ) sent , #spec# bytes ( #spec# #spec# ) received , lifetime < 1 sec",25
+7d004eea,#spec# open through proxy #spec# : 5070 *,10
+7489a311,#spec# : 443 error : A connection request was canceled before the completion.,4
+a7b83a66,#spec# : 80 error : Could not connect through proxy #spec# : 5070 - Proxy closed the connection unexpectedly.,2
+b8580f9a,"#spec# close , #spec# bytes ( #spec# #spec# ) sent , #spec# bytes ( 585 #spec# ) received , lifetime #spec#",1
+3fc8a808,#spec# : 80 error : A connection request was canceled before the completion.,27
+cba25b9c,"#spec# : * error : Could not connect through proxy #spec# : 5070 - Proxy server cannot establish a connection with the target , status code #spec#",14
+a24ccf47,"#spec# close , #spec# bytes sent , #spec# bytes received , lifetime #spec#",5
+5d6f2392,#spec# error : Could not connect through proxy #spec# : 5070 - Proxy closed the connection unexpectedly.,1
+fe05e0a7,"#spec# error : Could not connect through proxy #spec# : 5070 - Proxy server cannot establish a connection with the target , status code #spec#",3
+559ea43b,#spec# error : Could not connect to proxy #spec# : 5070 - Could not resolve #spec# error #spec#,4
+c4e13d09,#spec# : * error : Could not connect to proxy #spec# : 5070 - Could not resolve #spec# error #spec#,16
+bfddbcca,"#spec# close , #spec# bytes sent , #spec# bytes received , lifetime < 1 sec",1
+8df9bf2d,#spec# : * error : Could not connect to proxy #spec# : 5070 - connection attempt failed with error #spec#,26

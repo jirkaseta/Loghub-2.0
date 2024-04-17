@@ -1,0 +1,38 @@
+EventId,EventTemplate,Occurrences
+72c4a1c1,Component State Change: Component \042<*>0\042 is in the unavailable state (HWID<*>),1
+9164cc5d,Component State Change: Component \042alt0\042 is in the unavailable state (HWID<*>),11
+9cf54d70,<*> (command <*>),141
+b4e25afc,Command has completed successfully,10
+20379d43,Targeting domains:node-D<*> and nodes:node-<*>,9
+b50339a1,NONE,27
+ae34778c,ClusterFileSystem: There is no server for ServerFileSystem domain storage<*>,32
+3c3688b9,NIFF: node node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+8a90fdf1,ServerFileSystem: <*> <*> <*> <*> <*>,1
+5c2f1ea4,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),52
+2afb8050,Fan speeds ( 3552 3534 3375 <*> 3515 3479 ),7
+3e37f471,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),15
+3f77edb0,Fan speeds ( 3552 3534 3391 <*> 3515 3479 ),1
+cb59ebc0,Fan speeds ( 3552 <*> 3391 **** 3515 <*> ),2
+f35b7adb,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),10
+38884487,Fan speeds ( 3534 3534 3375 <*> 3497 3479 ),3
+b09e9fef,Command has <*> <*>,1
+ec4e03ec,Link error,13
+db5aa7f9,Link in reset,9
+641961b9,Link ok,13
+d7366ee3,ServerFileSystem: ServerFileSystem domain root<*> is full,12
+2bd60a8d,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>,36
+75101dcd,running,162
+61326117,blocked,15
+b02b9741,not responding,60
+8cfafe98,configured out,91
+fea08751,normal,206
+7b83d3f0,warning,205
+92f0ab0d,ambient<*>,292
+7e85bcb6,critical,20
+9050ee25,Linkerror event interval expired,394
+551adf73,link errors remain current,56
+a4565620,NIFF: node node-<*> has detected an available network connection on network 10.128.0.0 via interface ee0,45
+b325b71c,NIFF: node node-<*> has detected an available network connection on network 5.5.226.0 via interface alt0,10
+901b929c,NIFF: node node-<*> has detected an available network connection on network 0.0.0.0 via interface alt0,8
+45316061,NIFF: node node-<*> has detected an available network connection on network <*>.0 via interface <*>0,2
+3446ef4c,NIFF: node node-<*> has detected an available network connection on network 5.5.224.0 via interface alt0,26

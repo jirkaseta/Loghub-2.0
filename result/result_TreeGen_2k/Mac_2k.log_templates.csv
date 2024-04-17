@@ -1,0 +1,332 @@
+EventId,EventTemplate,Occurrences
+0c0f8500,<*> <*>:<*>:<*>.<*> | <*> | <*>  | <*>.<*>:<*>:<*>             | <*> <*> <*>. <*> = ******<*>.,1
+156f26e3,<*> <*>:<*>:<*>.<*> | <*> | <*>  | <*>.<*>:<*>:<*>             | <*> <*> <*>. <*> = <*>.,3
+e1536298,<*>(<*>) <*> network-outbound <*>,29
+bca6d48e,<*>-<*>-<*> <*>:<*>:<*>.<*> <*> [<*>] <*>: <*>,1
+2fed7796,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] +[<*> <*>:<*>:<*>:] <*> <*> <*> <*> <*> '<*>' <*> <*> <*> '<*> <*> <*> <*> <*> <*>[<*>] <*> <*> <*> <*>[<*>] <*> <*> <*> <*>[<*>.<*>]=""<*>"" <*> (<*>=""<*>"")'",1
+026c8dd1,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:<*>:<*>:<*>:<*>:<*>:<*>:] <*> <*> <*> <*>.,1
+481b9433,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:<*>:] <*> for updates for ""<*>"" <*> <*> <<*>:<*> <*>=<<*>:<*> <*>=<<*>:<*> <*>=""<*>"" <*>=<<*>:<*> <*>=""<*>"" <*>=<*> > >> <*>=<<*>:<*> <*>=<<*>:<*>> <*>=<*> <*>=<*> <*>=<*>.<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=( ) > <*>=(<*>) <*>=<<*>:<*> <*>=""<*>""> <*>=<*> >",1
+cbf50663,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:] <*> <*> <*> <*> <*>, <*>:'<*>'.",2
+6ef33b1b,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:] <*> <*> <*> <*> <*>: ""<*>:<*>?<*>=<*>&<*>=<*>:<*>""",2
+23651fa3,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:] <*> <*> <*> URL: ""https:<*>?<*>=<*>&<*>=<*>:<*>""",1
+7fdf8aee,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>:] <*> for self update with Engine: <KSUpdateEngine:<*> <*>=<<*>:<*> <*>=<<*>:<*> <*>=""<*>"" <*>=<<*>:<*> <*>=""<*>"" <*>=<*> > >> <*>=<<*>:<*> <*>=<<*>:<*>> <*>=<*> <*>=<*> <*>=<*>.<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=( ) > <*>=(<*>) <*>=<<*>:<*> <*>=""<*>""> <*>=<*> >",1
+5050e9f0,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>] <*> <*> <*> <*> for ticket(s): {( <KSTicket:<*> <*>=<*> <*>=<*> <*>=<<*>:<*> <*>=<*> <*>.<*>> <*>=<*> <*>=<*>:<*> <*>=<*>-<*>-<*> <*>:<*>:<*> <*>=<*> <*>.<*> <*>=<*> <*>=<*> <*> <*>.<*> <*>=<*> <*>=<*> <*>.<*> <*>=<*> <*>=<*>:<*>: <*>=<*> <*>=<*> > )} <*> <*>: <<*>:<*> <*>=<<*>:<*>> >,1
+0864e17c,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>] <*> <*> <*> <*> for ticket(s): {( <KSTicket:<*> <*>=<*> <*>=<*> <*>=<<*>:<*> <*>=<*>> <*>=<*>:<*> <*>=<*>-<*>-<*> <*>:<*>:<*> <*>=<*> > )} <*> <*>: <<*>:<*> <*>=<<*>:<*>> >,1
+46d381b4,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>] <*> <*> <*> updates to apply.,1
+a554f537,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*> <*>] <*> <*> updates to prefetch.,1
+af606f2c,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*>(<*>) <*>:<*>:] <*> <*> '<*>' with process id: <*>,1
+163e2cf0,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*>(<*>) <*>:] <*> <*> <*> <*> <*> <*> <*> <*>.,1
+11cdc931,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*>(<*>) <*>:] <*> <*> <*> <*>: <<*>:<*> <*>=<<*>:<*> <*>=<<*>:<*> <*>=""<*>"" <*>=<<*>:<*> <*>=""<*>"" <*>=<*> > >> <*>=<<*>:<*> <*>=<<*>:<*>> <*>=<*> <*>=<*> <*>=<*>.<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=( ) > <*>=(<*>) <*>=<<*>:<*> <*>=""<*>""> <*>=<*> >",1
+9024e49a,"<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*>(<*>) <*>:] <*> <*> <*> for URL: ""https:<*>?<*>=<*>&<*>=<*>:<*>""",3
+bd6b314b,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] -[<*>(<*>) <*>:] <*> <*>: <*>=<*>,2
+8b34f6c1,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] <*>(<*>) <*> <*> <*> <*> <*> <*>.,3
+d59c694c,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] <*>(<*>) <*> <*> <*> request: <NSMutableURLRequest: <*>> { <*>: <*>:<*>?<*>=<*>&<*>=<*>:<*> },1
+88aa89ed,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] <*>(<*>) <*> <*> <*>.,2
+74bce1cc,<*>-<*>-<*> <*>:<*>:<*>.<*> <*>[<*>/<*>] [<*>=<*>] <*>(<*>) <*> <*> URL (<NSMutableURLRequest: <*>> { URL: https:<*>?<*>=<*>&<*>=<*>:<*> }) <*> <*>:<*>,2
+a896cf5a,"<*>: <*> <*> <*> to run this job; however, but the start time isn't for <*> <*>.  <*>.",165
+ff3b4c9e,"<*>:<*>: <*> <*> <*> to run this job; however, but the start time isn't for <*> <*>.  <*>.",1
+ee1ccfe6,<*>:<*>:<*>.<*> : <*> <*> <*>,8
+91cc4585,<*>:<*>:<*>.<*> : <*> <*> <*> <*>,19
+4ff631f5,<*>:<*>:<*>.<*> : <*> <*> <*> <*> <*> <*> <*> <*>,2
+9161d98e,<*>:<*>:<*>.<*> : <*> <*> <*> to Off,2
+f82f38c9,<*>:<*>:<*>.<*> : <*> <*> device with hash <01faa200 <*> <*>>,1
+7df7861c,<*>:<*>:<*>.<*> <*>:    <*>: <*> <*> <*> <*>.<*> (<*> <*>); <*>=<*>,1
+33b3f96a,<*>[<*>/<*>:<*>:<*>.<*>(<*>)] to read DnsConfig ,4
+fb68cf52,<*>[<*>:<*>:<*>.<*>] (<*>) <*> <*>=-,1
+720759d7,<*>[<*>:<*>:<*>.<*>] <*> <*> <*>=-<*> (<*>) (<*> <*> at) line  <*> ,1
+81cb5698,<*>[<*>:<*>:<*>.<*>] <*> <*> <*>=-<*> (<*>) (<*>) <*> line <*> ,9
+259a44bb,<*>[<*>:<*>:<*>.<*>] <*> <*> <*>=-<*> (<*>) (key at) <*> line <*> ,11
+41b7cb40,<*>[<*>:<*>:<*>.<*>] <<<< <*> >>>> <*>: <*> complete-notification ,23
+3c51c5dd,<*>[<*>:<*>:<*>.<*>] <<<< <*> >>>> <*>: [<*>] <*> <*> <*> - -<*> (<*> -,1
+21119832,<*>[<*>:<*>:<*>.<*>] <<<< <*> >>>> <*>: [<*>] <*> <*> <*> <*> ,2
+03befa18,<*>[<*>:<*>:<*>.<*>] <<<< <*> >>>> <*>: [<*>] <*> <*> <*> <*> <*> ,3
+81bd57ab,<*>[<*>:<*>:<*>.<*>] <<<< <*>-<*> >>>> <*>: (<*>) <*> <*> <*> <*> <*> <*> - <*> <*> <*> <*> <*> <*> ,4
+bf554e84,<*>[<*>] [<*> <*>@<*>.https@<*>:<*>%<*>.<*>/ <*> <*> <*> <*> <*>: <<*>: <*>; <*>: ,1
+b4c203dc,<*>[<*>] [<*> [<<*>: <*>; <*>: <*>>] failed <*> ,3
+004eab44,"<*>[<*>] [<*> failed with error Error: Domain CoreDAVHTTPStatusErrorDomain=Code <*>=null ""(UserInfo)"" AccountName={<*>=<*>, <*>=<*>, <*>=<<*> <*> [<*>]>{<*> = <*> <*>, <*> = <*>, <*> => <*> : <*> = <<*> <*> [<*>]>{<*> = ""<*>-<*>""} <*> : <*>-<*> = <*>/<*> <*> : <*>-<*> = <*> <*> : <*> = <*> <*> : <*> = <<*> <*> [<*>]>{<*> = ""<*>, <*> <*> <*> <*>:<*>:<*> ",1
+c74ce49c,<*>[<*>] [to parse response to PROPPATCH because of content type-text: [<*>/<*>; <*>=<*>-,5
+5ccfb1f9,ARPT: <*>.<*>: <*> <*> <*> <*> <*> <*>,8
+d379e137,ARPT: <*>.<*>: <*> <*> <*> <*> <*> <*>/<*> <*> <*> <*> <*> <*> <*>,7
+1901040a,ARPT: <*>.<*>: <*> <*> <*> <*> <*> <*>/<*>: <*> <*> <*>(<*>-<*>) <*> <*> <*> <*>,7
+353908f9,"ARPT: <*>.<*>: <*> <*>: <*>,  <*>: <*> <*>,  '<*>': <*>, '<*>': <*>,",18
+3e731682,"ARPT: <*>.<*>: <*> <*>: <*>,  <*>: <*>,  '<*>': <*>, '<*>': <*>,",1
+e119e8d4,ARPT: <*>.<*>: <*>:,6
+33948616,"ARPT: <*>.<*>: <*>: <*> <*> <*> channel, reason #<*>, <*> <*>:<*>:<*>:<*>:<*>:<*>, <*> <*> -<*>",4
+e61206f3,"ARPT: <*>.<*>: <*>: <*>: <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*>",10
+197b21e0,"ARPT: <*>.<*>: <*>: <*>: <*> <*> <*>, <*> <*> <*>",9
+c4aa92b1,"ARPT: <*>.<*>: <*>: <*>: <*> <*>, <*> <*>, <*> <*>",11
+ebbc1530,ARPT: <*>.<*>: <*>: <*>: <*> <*>: <*>,16
+54d24ad0,"ARPT: <*>.<*>: <*>: <*>: <*> <*>: <*>, <*> <*>: <*>",8
+5d14e054,"ARPT: <*>.<*>: <*>: <*>: <*> <*>: <*>, <*>: <*>, <*> <*>: <*>",6
+2fca6d06,ARPT: <*>.<*>: <*>: <*>: <*> <*>: <*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>,28
+25a2230b,ARPT: <*>.<*>: <*>: <*>: <*>-<*> <*> <*> on.,9
+2d0e5a13,"ARPT: <*>.<*>: <*>: <*>: <*>: <*>, <*>: <*>, <*> <*>: <*>",8
+3bcef02b,ARPT: <*>.<*>: <*>: Wake Reason: Wake on Scan offload,9
+09fad595,ARPT: <*>.<*>: <*>: Wake Reason: Wake on TCP Timeout,2
+2b495bc8,ARPT: <*>.<*>: <*>::<*>: <*> <*>,17
+3b13c8b9,ARPT: <*>.<*>: <*>::<*>: <*> Wake - Full Wake/ Dark Wake / Maintenance <*>,12
+64f6f3c3,ARPT: <*>.<*>: <*>::<*>: <*>[<*>],40
+be9956da,ASL <*> <*>,9
+afd950f9,ASSERTION FAILED: dvcAddrRef != ((void *)<*>) -[<*> <*>:] <*>: <*>,4
+3dd95912,"Accounts[Current] connection NSXPCConnection, <<*>: <*>> <*> <*> <*> <*>, <*>'<*> <*> <*> ",2
+d94da592,"Accounts[Failed] to update account with identifier 76FE6715 3D27-4F21-AA35-C88C1EA820E8-<*>, <*>: <*> <*>=<*> <*>=<*> ""(",2
+0d494bf8,AirPort: Link Down on awdl0. Reason <*> (<*>).,7
+f229f139,AirPort: Link Down on en0. Reason <*> (<*> <*> <*> <*>).,5
+79153624,AirPort: Link Up on awdl0,9
+5ab3dcf5,AirPort: Link Up on en0,4
+fce92548,AppleActuatorDevice::start Entered,1
+743ea632,AppleActuatorDevice::stop Entered,1
+7725026e,AppleActuatorDeviceUserClient::start Entered,1
+d7810eb2,AppleActuatorDeviceUserClient::stop Entered,1
+ab2a8911,AppleActuatorHIDEventDriver: <*> service is <*>,1
+a041eae4,AppleActuatorHIDEventDriver: stop,2
+9dd06d41,AppleCamIn::<*>,15
+2ae4e34c,AppleCamIn::<*> - <*> = <*>,56
+016decae,AppleCamIn::wakeEventHandlerThread,20
+e0c33827,AppleThunderboltGenericHAL::<*> - <*> - took <*> <*>,22
+c3b36033,AppleThunderboltNHIType2::<*> - <*> up <*> - took <*> <*>,15
+ec5371e3,AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = <*> <*> = <*>,6
+e3b61a44,AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = <*>,11
+f90b3000,"Arranged <*> <*>: {{<*>, <*>}, {<*>, <*>}}",1
+c86dfdd9,Bluetooth -- LE is supported - Disable LE meta event,11
+5be63921,BluetoothHIDDeviceController[<*>] ,2
+23e3000d,BluetoothHIDDeviceController[ERROR]Could: not <*> the disconnected <*> ,2
+b8715ba1,BluetoothHIDDeviceController[EventServiceDisconnectedCallback] ,1
+bfd354da,BroadcomBluetoothHostController**** [SetupController][Delay] -- HCI Reset by 300ms ,1
+59068ca2,BroadcomBluetoothHostControllerUSBTransport**** [start][Completed] -- matched (on Device <*>) -- ,3
+79cb7316,BuildActDeviceEntry <*>,2
+d960bc67,BuildActDeviceEntry exit,2
+46b0bcd5,"CCDataTap::<*>, <*>: <*>, <*>: <*>",2
+8c25cbdf,CCFile::<*>,17
+6be83dad,"CCFile::<*> <*> <*> <*> <*>: <*>.<*>, reason = AssocFail:sts:2_rsn:<*>",2
+dc562718,"CCFile::<*> <*> <*> <*> <*>: <*>.<*>, reason = AssocFail:sts:5_rsn:<*>",1
+b758ad57,"CCFile::<*> <*> <*> <*> <*>: <*>.<*>, reason = AuthFail:sts:5_rsn:<*>",15
+7b1728ac,"CCFile::<*> <*> <*> <*> <*>: <*>.<*>, reason = DeauthInd:sts:0_rsn:<*>",1
+a6aa0da8,"CCFile::<*> <*> <*> <*> <*>: <*>.<*>, reason = RoamFail:sts:1_rsn:<*>",1
+3101304d,"CCFile::captureLogRun Skipping current file Dir file [<*>-<*>-<*>,<*>,<*>.<*>]-<*>-<*>.<*>, <*> <*> [<*>-<*>-<*>,<*>,<*>.<*>]-<*>-<*>.<*>",31
+6645629c,CCFile::captureLogRun(<*>) <*> <*>::<*>,22
+e69731ac,"CCFile::copyFile fileName is [<*>-<*>-<*>,<*>,<*>.<*>]-<*>-<*>.<*>, <*> path:<*>[<*>-<*>-<*>,<*>,<*>.<*>]-<*>-<*>.<*>, <*> <*>:<*>[<*>-<*>-<*>,<*>,<*>.<*>]=<*>:<*>:<*>:<*>[<*>-<*>-<*>,<*>,<*>.<*>]-<*>-<*>.<*>",21
+0d41a3a4,CCIOReporterFormatter::<*> <*> <*>,7
+be5f8344,CCIOReporterFormatter::<*> <*> out any previous subscriptions,9
+8304996e,"CCLogTap::<*>, <*>: <*>, <*>: <*>",3
+5722d0e3,CCProfileMonitor::freeResources done,1
+baac63ed,CCProfileMonitor::setStreamEventHandler,1
+31b75208,CCXPCService::setStreamEventHandler Registered <*> <*> <*>.,2
+881def9f,CFNetwork SSLHandshake failed (-<*>),1
+37c8aee1,"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data",2
+2229215b,CGXDisplayDidWakeNotification [<*>]: <*> <*>,3
+832283b9,Captive: CNPluginHandler en0: <*>,11
+5657cd9b,Captive: CNPluginHandler en0: Inactive,4
+cad73c36,Captive: [CNInfoNetworkActive:<*>] en0: <*> '<*>' <*> interface primary (cache indicates network not captive),3
+0bffacde,"CardDAVPlugin[ERROR-getPrincipalInfo] -_controller:[supportsRequestCompressionAtURL https:<*>:<*>%<*>.<*>@<*>] <*> <*>=<*> <*>=-<*> ""<*> <*> <*> <*> <*> <*> <*>."" <*>={<*>=<*> {<*> <*>=<*> <*>=-<*> ""<*> <*> <*> <*> <*> <*> <*>."" <*>={<*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>, <*>=<*>, <*>=<*> <*> <*> <*> <*> <*> <*>.}}, <*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>, <*>=<*>, <*>=<*> <*> <*> <*> <*> <*> ",1
+e16c010f,"CardDAVPlugin[ERROR-getPrincipalInfo] -_controller:[supportsRequestCompressionAtURL https:<*>:<*>%<*>.<*>@<*>] <*> <*>=<*> <*>=-<*> ""request timed out UserInfo."" NSUnderlyingError={<*>=<*> {<*> <*>=<*> <*>=-<*> ""<*> <*> <*> <*>."" <*>={<*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>:<*>%<*>.<*>@<*>, <*>=-<*>, <*>=<*>, <*>=<*> <*> <*> <*>.}}, <*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>:<*>%<*>.<*>@<*>, <*>=<*>, <*>=-<*>, <*>=<*> <*> <*> ",1
+b58f8079,Central manager is not <*> on,1
+dce8aa32,Checking iCDP status <*> <*> <*> (<*>=<*>),1
+850cc957,ChromeExistion <*> <*> = <*>,2
+968a16ef,"ChromeExistion <*> <*> = {""<*>"":<*>,""<*>"":true,""<*>"":<*>}",1
+4580f0d6,Cocoa scripting error <*> '<*>': four character codes must be four characters long.,71
+07dd4fda,"Configuration Notice: ASL Module ""<*>"" <*> <*> <*> ""<*>"" <*> <*> <*> ""<*>"". <*> <*> <*> ASL Module ""<*>"" <*> <*> <*> <*> <*> <*> ""<*>"".",1
+1e137730,"Configuration Notice: ASL Module ""<*>"" <*> <*> <*>. <*> <*> <*> not <*> <*> <*> <*> <*> <*> <*> in the ASL database.",2
+0b27452f,CoreAnimation: timed out fence 5fe83,1
+361f91ba,"CoreAnimation: warning, deleted <*> with uncommitted <*>; <*> <*>=<*> in environment to log backtraces.",1
+6fd6f344,Could <*> <*> <*> name for stream/token: <*>/<*>: <*>: <*> for stale data,1
+9736c7ba,"DB Error: <*> ""<*> <*> <*>: <*>""",3
+98048e25,DB Path: <*>,1
+ef8a8fee,Daemon <*> <*>!,1
+a449c5d2,DiskStore(Normal.<*>:<*>) <*> <*>.,1
+2c118fde,Error in <*>: -<*>,2
+f38c91bc,Error returned from iconservicesagent: (<*>),13
+09e4793b,FA||<*>||<*>[<*>] <*>,17
+d523cf0f,Failed <*> <*> (<*>) <*> <*> (<*>) to (<*>): missing setter or instance variable,1
+164e4d1a,Failed <*> <*> (<*>) <*> <*> (<*>) to (NSTextField): missing setter or instance variable,1
+e9a86cb1,Failed <*> <*> <*> <*> - <*> is not powered on: <*>,1
+eca19309,"FigByteStream<<<< <*> >>>> <*>: read of <*> <*> <*> @ <*> <*> <*>.<*> to. complete <*>, <*> <*> >= <*> ",1
+52913b17,"FigByteStream<<<< <*> >>>> <*>: read of <*> <*> <*> @ <*> <*> <*>.<*> to. complete <*>, <*> <*> >= <*>.<*> ",2
+c568c4de,"Google Chrome He[<*>] <*> <*> <*> <*> <*>-><*> <*> <*> <*> <*> <*> <*> <*> <*>. <*> <*> abnormal for debuggers, this increases system memory footprint until the target exits.",1
+0576888a,Got an XPC error: <*> <*>,1
+161566ba,HID[ATC] [AppleDeviceManagementHIDEventService] processWakeReason::Wake reason Host: <*> (,8
+5dbfab25,HID[ATC] [Error] [<*>] start::Could not <*> a string from out connection notification key ,2
+d38f5dfb,HID[MT] [AppleActuatorHIDEventDriver] start::entered ,1
+52010bfd,HID[MT] [AppleMultitouchDevice] start::entered ,1
+3c3b4684,HID[MT] [AppleMultitouchDevice] willTerminate::entered ,3
+6534f66b,HID[MT] [MTActuatorManagement] getActuatorRef::Calling MTActuatorOpen <*>(<*>) of MTTrackpadHIDManager ,1
+7e12fbb6,Host <*> terminated,1
+8ef75341,IMMacNotificationCenterManager<<*>: <*>>:    <*> <*>: ,5
+3fc188f7,IMMacNotificationCenterManager<<*>: <*>>:   <*> <*>: ,3
+e9f82a32,IMMacNotificationCenterManager<<*>: <*>>: <*> <*>: <*>   (,1
+6abac1b5,"IMMacNotificationCenterManager<<*>: <*>>: <*> <*>: <*>   (<*>: ( ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", ""<*>"", """,1
+7211a973,IMMacNotificationCenterManager<<*>: <*>>: <*> <*>: notification   <*>: <*> name {_NSDoNotDisturbEnabledNotification = ,1
+ac711c05,INIT -- Host <*> is published,2
+e3ce8797,IO80211AWDLPeerManager::<*> <*> the AWDL operation mode <*> AUTO to SUSPENDED,14
+d534a1d2,IO80211AWDLPeerManager::<*> <*> the AWDL operation mode <*> SUSPENDED to AUTO,6
+c901c35e,"IO80211AWDLPeerManager::<*>(<*>) <*> AWDL, enterQuietMode(true)",11
+92121a91,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,15
+6342b614,IOBluetoothFamily**** [ProcessBluetoothTransportShowsUpActionWL][Connected] -- to the transport <*> <*> -- <*> -- <*> -- ,1
+c1d6a1e5,IOBluetoothFamily**** [ProcessBluetoothTransportShowsUpActionWL][calling] -- IOBluetoothFamily <*>'<*> <*>(<*>) -- <*> -- <*> -- ,2
+743a3d5f,IOBluetoothFamily[<*>][<*>] -- <*> <*> <*> <*> notification <*> -- ,1
+9ab1b1dc,IOBluetoothHostControllerUSBTransport**** [start][completed] -- result -- TRUE = <*> -- ,2
+bd71db24,IOBluetoothHostController[setConfigState::calling] <*> ,1
+2bdd5b48,IOHibernatePollerOpen(<*>),2
+f9fde445,"IOPMrootDomain: idle cancel, state <*>",3
+4c76bdb8,IOPolledFilePollersOpen(<*>) <*> <*>,1
+e0562617,IOThunderboltSwitch<<*>>(<*>)::<*> - <*> <*> <*> <*> <*> = <*> <*> = <*> <*> = <*>,36
+1b6aa0d0,ISGenerateImageOp-[generateImageWithCompletion Failed:] to <*> <*> for descriptor ISBindingImageDescriptor <<*>: ,20
+918c1d38,ImportBailout(Error.<*>:<*>) to exit for Diskarb ,1
+6a9a6566,Internal name did not resolve to internal <*>!,1
+681abeff,Invalidating watch set.,1
+7e4b7603,KeychainGetICDPStatus: keychain: -<*>,14
+7a123c93,KeychainGetICDPStatus: status: off,8
+1c4410e3,Location icon should now be in state 'Active',17
+ec6b9b15,Location icon should now be in state 'Inactive',20
+5600e59f,MediaValidator<<<< mv_LookupCodecSupport >>>> Unrecognized: codec <*> ,1
+2d8bbcb0,MediaValidator<<<< mv_ValidateRFC4281CodecId >>>> Unrecognized: codec <*> <*>.(<*>). <*> <*> <*> ,1
+1b2bff36,NETClientConnection-[effectiveBundleID using] process name CalendarAgent as bundle ID this (is expected for daemons without <*> <*> ,4
+8c927106,NETClientConnection-[effectiveBundleID using] process name apsd as bundle ID this (is expected for daemons without <*> <*> ,9
+e2e12d17,NETClientConnection-[evaluateCrazyIvan46 CI46] Perform - <*> <*>! <*>.<*> <*> ,5
+28a39b7d,"NETWORK: <*> <*> <*> <*>, <*>, <*>, <*>, <*>",4
+1ba4f103,"NETWORK: <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>.<*>",17
+7366e23b,"NSURLSession/<*> <*> <*> failed (kCFStreamErrorDomainSSL, -<*>)",1
+8fdd81ef,NetworkAnalyticsEngine-[_writeJournalRecord fromCellFingerprint:key:<*>:<*>:<*>:<*>:<*>:] of the primary key failed Dropping. the journal record ,17
+b6f952a3,"Opened file <*>, <*> <*>, <*> <*>, <*> <*> <*> <*>",3
+18e41d2e,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-<*> ""<*> <*> <*> <*> <*> <*> <*>."" <*>={<*>=<*> {Error Domain=kCFErrorDomainCFNetwork Code=-<*> ""<*> <*> <*> <*> <*> <*> <*>."" <*>={<*>=<*>:<*>, <*>=<*>:<*>, <*>=<*>, <*>=<*>, <*>=<*> <*> <*> <*> <*> <*> <*>.}}, <*>=<*>:<*>, <*>=<*>:<*>, <*>=<*>, <*>=<*>, <*>=<*> <*> <*> <*> <*> <*> <*>.}",3
+5b3426be,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-<*> ""<*> <*> <*> <*>."" UserInfo={NSUnderlyingError=<*> {<*> <*>=<*> <*>=-<*> ""<*> request timed out."" UserInfo={NSErrorFailingURLStringKey=https:<*>, <*>=<*>:<*>, <*>=-<*>, <*>=<*>, <*>=<*> <*> <*> <*>.}}, <*>=<*>:<*>, <*>=<*>:<*>, <*>=<*>, <*>=-<*>, <*>=<*> <*> <*> <*>.}",2
+ed71cf61,"PM response took <*> <*> (<*>, <*>)",11
+6021abe8,PMStats: <*> read took <*> <*>,1
+62aca3cc,"Page <*> {{<*>, <*>}, {<*>, <*>}}",2
+be447dd5,"Path <*> <*> in target domain: type = <*>, path = <*> <*> = <*>: <*> <*> <*> <*> <*> <*> <*> the requestor's bundle, origin = <*>",15
+9ea8b84f,Peripheral manager is not <*> on,3
+464477c4,Previous sleep cause: <*>,15
+b1552921,"QL[No] sandbox token <*> <*> <*> <<*> <*>-<*>-log.it>, will probably fail ",1
+d164e05f,QQ(<*>) <*> <*>-<*> <*>,6
+3f87b1f3,"RTC: Maintenance <*> <*>:<*>:<*>, <*> <*> <*>:<*>:<*>",5
+fd73e34a,RTC: PowerByCalendarDate <*> <*>,11
+3f143fab,Received Capture Event,15
+bf90b1cd,SFLListManager-[ServiceReplyProtocol(notifyChanges) toListWithIdentifier:Notified:] of item changes to list with identifier <*> ,1
+f2e754eb,SOAPParser-[<*>:<*> <*>:<*>:<*>:<*>:<*>:] <*> <*> in EWSItemType for ExchangePersonIdGuid t (ExchangePersonIdGuid:,4
+ca08da51,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=<*> <*>=<*> ""<*> <*> not set"" UserInfo={<*>=<*> <*> <*> <*>}",12
+d8666fb2,Sandbox: <*>(<*>) <*>(<*>) <*>-<*> <*>,32
+99ec2768,Sandbox: <*>(<*>) <*>(<*>) <*>-<*>-<*>-read-data CFPBS:186A7:,1
+e5a7e3d0,Sandbox: <*>(<*>) <*>(<*>) <*>-read-data <*>,1
+f65d9b39,Sandbox: QuickLookSatelli(<*>) <*>(<*>) <*>-<*> <*>,1
+b8777a99,Saw change in network reachability (isReachable=<*>),4
+38331843,"SecOSStatusWith error:[-<*>] Error Domain=NSOSStatusErrorDomain Code=-<*> ""<*> missing class name"" (<*>: <*> <*> <*> <*> <*>) <*>={<*>=<*> <*> <*> <*>}",5
+2fa6ff8c,"Service ""<*>"" <*> to <*> <*> ""<*>"" <*> <*>: <*>",3
+a02e010a,Service <*> with abnormal <*>: <*>,1
+b5bc1b07,Session <*> <*>,3
+94cb9932,"Setting BTCoex Config: enable_2G:<*>, <*>:<*>, <*>:<*>, <*>:<*>",7
+b1efb36a,TBT <*> (<*>): <*> [<*>],4
+2bc6deed,Telling CSI to go low power.,1
+d730fb11,Thermal pressure state: <*> <*> <*> state: <*>,39
+53ed4d3d,UABestAppSuggestionManager-[notifyBestAppChanged type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:null:] (UASuggestedActionType) <*>=<*> (<*>)/(<*>) <*>=(when) <*>=<*>-<*>-<*> <*>:<*>:<*> +<*> <*>=<*> <*>=(<*>)/(<*>) (<*>.<*> #,14
+39db207e,"USBMSC <*> (<*>-<*>): <*> <*> <*> <*>, <*>",12
+216f83d8,"Unable <*> <*> <*> <*>: ( ""<<*>:<*> <*>:[<*>:<*>(<*>)]>"", ""<<*>:<*> <*>:|-(<*>)-[<*>:<*>]   (<*>: <*>:<*>, '|':<*>:<*> )>"", ""<<*>:<*> '<*>-<*>-<*>-<*>' <*>:[<*>(<*>)]   (<*>: <*>:<*> )>"", ""<<*>:<*> <*>:[<*>:<*>]-(<*>)-[<*>:<*>]>"", ""<<*>:<*> <*>:[<*>:<*>]-(<*>)-|   (<*>: <*>:<*>, '|':<*>:<*> )>"", ""<<*>:<*> <*>:[<*>:<*>]-(>=<*>(<*>))-[<*>:<*>]>"" )  <*> <*> <*> <*> <*> <*> <*> <<*>:<*> <*>:[<*>:<*>(<*>)]>  <*> <*> <*> <*> <*> <*> <*> <*> -[<*> <*>:] <*> <*> <*> <*> <*>.  <*>/<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*>.",2
+afe60231,"Unable <*> <*> <*> <*>: ( ""<<*>:<*> <*>=-&- <*>=-&- <*>:[<*>:<*>]-(<*>)-|   (<*>: '|':<*>:<*> )>"", ""<<*>:<*> <*>=-&- <*>=-&- <*>:|-(<*>)-[<*>:<*>]   (<*>: '|':<*>:<*> )>"", ""<<*>:<*> <*>=-&- <*>=--& <*>:[<*>:<*>(<*>)]>"", ""<<*>:<*> <*>=-&- <*>=-&- <*>:|-(<*>)-[<*>:<*>]   (<*>: '|':<*>:<*> )>"", ""<<*>:<*> <*>=-&- <*>=-&- <*>:[<*>:<*>]-(<*>)-|   (<*>: '|':<*>:<*> )>"" )  <*> <*> <*> <*> <*> <*> <*> <<*>:<*> <*>=-&- <*>=-&- <*>:|-(<*>)-[<*>:<*>]   (<*>: '|':<*>:<*> )>  <*> <*> <*> <*> <*> <*> <*> <*> -[<*> <*>:] <*> <*> <*> <*> <*>.  <*>/<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*>.",1
+1a69d175,Unable <*> <*> <*> name service:,2
+2e9c5412,"Unexpected <*> found <*> <*> <*>, <*> <*>",2
+0e13dd6e,Unrecognized <*> <*>: <*>:<*>,8
+be444260,Unrecognized <*>: <*>,2
+cb91546b,"VDCAssistant:  Found a camera (<*>) , <*> <*> not able to start it up (<*> -- (<*>/<*>) <*>)",1
+3727f3ad,WARNING: Type1 font <*> <*>'<*> in the correct format required by the Adobe Type <*> <*> <*> <*>.,1
+635b1bfd,WARNING: hibernate_page_list_setall skipped <*> <*> <*>,2
+01e7355d,Wake reason: ?,2
+ccdef586,Wake reason: ARPT (Network),3
+3375aa19,Wake reason: EC.SleepTimer (<*>),1
+2068da72,Wake reason: RTC (Alarm),5
+12fc3081,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke <*> - <*> <*> <*>! <*>.<*> <*> <*>,10
+331d4de9,__73-[<*> <*>:<*>:<*>:<*>:]<*> <*> <*> <*> <*>,16
+ed7f7f71,_continuousScroll-is deprecated <*> <*> <*>. <*> <*> -,1
+f2ff976d,_getSysMsgList############################## ,10
+30a057a8,after trim url = <*>:<*>?<*>=<*>&<*>=<*>&<*>=<*>-<*>,1
+4557855f,"arp_client_transmit(en0) failed, Network is down (<*>)",1
+2c887526,assertion failed: 15G1510: <*> + <*> [<*>-<*>-<*>-<*>-<*>]: <*>,3
+85835ad9,"bitmap_size <*>, <*> <*>, <*> <*> <*> @ <*>",2
+c552f5f7,"booter start at <*> <*> <*> <*> <*>, [<*>, <*>, <*>] <*> <*> <*>, <*> <*>, <*> <*>, <*> <*> <*>",1
+1c76a58f,button <*>: <*>,20
+0d2749f8,could discard act <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+a434b999,deviceDeltaY-is deprecated <*> <*> <*>. <*> <*> -,1
+7c4b3bba,"device_generate_desktop_screenshot: authw <*>(<*>), <*> <*>(<*>)",3
+8ce2e772,"device_generate_lock_screen_screenshot: authw <*>(<*>)[<*>, <*>, <*>, <*>] <*> <*>(<*>), <*> [<*>,<*>]",3
+a907e095,did discard act <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+d8e71212,dnssd_clientstub <*>: <*>(<*>) failed path:<*> <*>:<*> <*>:-<*> <*>:<*> <*> <*> <*>,13
+a7887fb1,dnssd_clientstub <*>: <*>(<*>)-> <*> of tries: <*>,44
+12038bc3,"doSaveChannels@<*>: <*> <*> to: <*>[<*>-<*>-<*>,<*>,<*>.<*>] - <*>:<*>:<*>:<*>.<*>",6
+b6db81a8,efi pagecount <*>,2
+fba20e6a,en0: <*>.<*> <*> <*> <*> <*> '<*>'.,5
+5a32e020,en0: BSSID changed to 0c:<*>:<*>:<*>:<*>:<*>,1
+61568298,en0: BSSID changed to <*>:<*>:<*>:<*>:<*>:<*>,14
+2b725296,en0: BSSID changed to f8:4f:<*>:<*>:<*>:<*>,1
+68b754e9,en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+f670aa66,en0: Supported channels <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+86f9b3d4,en0: channel changed to <*>,14
+4b3265bc,"en0: channel changed to <*>,+<*>",6
+e5d5eae1,en0: manual intervention required!,1
+b8cd2530,en0::<*>::<*> <*> changed,10
+92a766c4,enabling pid=<*> <*> <*>-in <*>(<*>.<*>) <*>-<*>-<*>-<*>-<*> <*>,1
+ae8db81d,extension <*> -> (<*>),1
+2bba8593,full <*> <*> (<*> <*>) <*> <*>,2
+07fd1a9b,handle_will_sleep_auth_and_shield_windows: <*> <*> <*>(<*>) (<*> state: <*>),1
+9402eab2,hciControllerOnline; HID devices? <*>,1
+93effc93,hibernate image path: <*>,2
+80ac3050,"hibernate_alloc_pages <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>",2
+ff20063e,hibernate_flush_memory: buffer_cache_gc freed up <*> <*> <*>,2
+a9e3e365,"hibernate_machine_init pagesDone <*> <*> <*>, time: <*> <*>, <*>(<*>) <*> <*>/<*>, <*> <*>: <*> <*>: <*> <*> <*> <*>/s, crypt bytes: <*> <*>: <*> <*> <*> <*>/<*>",2
+164db6d5,hibernate_machine_init reading,2
+643b7bfe,"hibernate_machine_init: state <*>, <*> <*> <*>, <*> <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>",1
+7a403317,"hibernate_newruntime_map time: <*> <*>, <*>(<*>), <*> <*>",2
+038257e5,hibernate_page_list_setall found pageCount <*>,2
+0a5903f2,hibernate_page_list_setall time: <*> <*>,1
+4784fd36,hibernate_page_list_setall(preflight <*>) start,1
+80067368,hibernate_rebuild completed - took <*> <*>,1
+f356f9c1,hibernate_rebuild started,1
+e851fa32,hibernate_rebuild_pmap_structs done: last_valid_compact_indx <*>,1
+1707ebee,hibernate_setup(<*>) took <*> <*>,2
+de24e21c,hibernate_teardown completed - discarded <*>,1
+1760bbe3,"hibernate_teardown: wired_pages <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>",1
+f2b041a7,hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>,2
+7d7efab0,host <*> <<*>: <*>> <*> <*> <*> <*> invalidated,1
+8f8d177a,"hostControllerOnline - Number of Paired devices = <*>, <*> of Paired devices = ( ""<*>-<*>-<*>-<*>-<*>-<*>"" )",1
+5fd68955,in6_unlink_ifa: IPv6 address <*> <*> <*> <*>,9
+b55176d9,jemmytest,10
+9812d665,kern_open_file_for_direct_io <*> <*> <*>,1
+d8c74e8c,kern_open_file_for_direct_io(<*>),1
+fc57437c,mDNS_DeregisterInterface: Frequent transitions <*> <*> awdl0 (FE80:<*>:<*>:<*>:<*>:<*>:<*>:<*>),2
+1d0c069b,mDNS_DeregisterInterface: Frequent transitions <*> <*> en0 (<*>),2
+1150b104,mDNS_DeregisterInterface: Frequent transitions <*> <*> en0 (<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>),1
+c9763950,mDNS_RegisterInterface: Frequent transitions <*> <*> awdl0 (FE80:<*>:<*>:<*>:<*>:<*>:<*>:<*>),1
+09b088d0,mDNS_RegisterInterface: Frequent transitions <*> <*> en0 (FE80:<*>:<*>:<*>:<*>:<*>:<*>:<*>),3
+a21373d4,network changed: DNS*,1
+1efe32ce,network changed: DNS* Proxy,3
+2ed0c5b3,network changed: v4(en0!:<*>) DNS+ Proxy+ <*>,1
+f18e95c5,network changed: v4(en0+:<*>) v6(en0:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*>! <*> <*>,3
+8a066bc3,network changed: v4(en0-:<*>) v6(en0-:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*>- <*>-,1
+2e8dcdde,network changed: v4(en0-:<*>) v6(en0:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*>! <*> <*>,2
+252c8ff2,network changed: v4(en0:<*>) v6(en0!:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*> <*> <*>,1
+00bf39d8,network changed: v4(en0:<*>) v6(en0+:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*>! <*> <*>,2
+88c0e1ee,network changed: v6(en0-:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>) <*>- <*>-,2
+da4dac83,"network_reachability_changed : network is not <*>, <*> is shutting down",1
+a70b1da3,"no application identifier provided, <*>'<*> <*> <*> <*> [<*>=<*>]",1
+c83387a2,no sleep images <*> <*>,1
+6d65a091,nw_nat64_post_new_ifstate successfully changed <*> <*> <*> <*> to <*>,15
+930de9eb,"nw_path_evaluator_start_helper_connection net_helper_path_evaluation_start failed, dumping backtrace: [x86_64] <*> <*>   <*>.<*>             <*> <*> + <*> <*>   <*>.<*>             <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>                   <*> <*> + <*> <*>   <*>.<*>             <*> <*> + <*> <*>   <*>.<*>             <*> <*> + <*>",1
+49918a2f,objc[<*>]: <*> <*> is implemented in both <*> <*> <*> <*> <*> the two will <*> <*>. <*> <*> <*> <*>.,2
+a47bfb92,"pages <*>, <*> <*>, act <*>, <*> <*>, <*> <*> <*> <*>, <*> <*>, <*> <*>, <*> <*>, <*> <*>",4
+34fcefec,payload Data <*> <*>,1
+4a1057d1,"polled file major <*>, <*> <*>, <*> <*>, <*> <*>",3
+04c59ff1,"schedule invalidation <DYTransport <*>, <*>: <*> transport connection (<*>)>",1
+c2023fc3,sdef.warning for argument of '' command can 'continue previous list in' suite Microsoft 'Word Suite <*>': '<*>' <*> <*> <*> <*> name ,1
+6109c87c,"securityd_xpc_dictionary_handler cloudd[<*>] <*> Error Domain=NSOSStatusErrorDomain Code=-<*> ""<*> <*> <*> <*>"" (<*>: <*> <*> user parameter list) UserInfo={NSDescription=query missing class name}",4
+e51f3740,send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before <*> out.,26
+977e36ef,"setting hostname to ""<*>""",2
+a23397bf,"setting hostname to ""authorMacBook-Pro.local""",5
+94349d5a,sigio_handler: sigio_handler_active != <*>,5
+468c8336,tcp_connection_destination_handle_tls_close_notify <*> <*> <*> <*> to TLS CLOSE_NOTIFY alert,1
+f63407fe,tcp_connection_destination_perform_socket_connect <*> <*> to <*>@<*> failed: [<*>] Network is down,3
+a3386579,tcp_connection_destination_perform_socket_connect <*> <*> to <*>@<*> failed: [<*>] Network is unreachable,1
+7c724972,tcp_connection_handle_connect_conditions_bad <*> failed: <*> - <*> <*> route,18
+e7929b51,tcp_connection_tls_session_error_callback_imp <*> <*>.<*> <*> <*>,9
+b8a4e88f,the <*> = <*>:<*>%<*>%<*>%<*>%<*>%<*>%<*>%<*>%<*>%<*>/<*>?<*>=<*>,1
+b1d02dee,url host = <*>,1
+a8acb7c3,vm_compressor_fastwake_warmup (<*> - <*>) - <*>,1
+3d7daced,vm_compressor_fastwake_warmup completed - took <*> <*>,1
+2513ab32,wake time set +<*>.<*> <*>,1
+b430a839,wake time set -<*>.<*> <*>,2

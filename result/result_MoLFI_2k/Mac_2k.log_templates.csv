@@ -1,0 +1,649 @@
+EventId,EventTemplate,Occurrences
+3297072d,IOThunderboltSwitch < 0 > ( #spec# ) : : listenerCallback - Thunderbolt HPD packet for route = #spec# port = #spec# unplug = #spec#,36
+6eafbec2,Thermal pressure state : #spec# Memory pressure state : #spec#,39
+087b20bb,FA||Url||taskID [ * ] dealloc,17
+dccefc2c,ARPT : * : AirPort_Brcm43xx : : syncPowerState : WWEN [ enabled ],12
+0d6ef329,ARPT : * : AirPort_Brcm43xx : : platformWoWEnable : WWEN [ disable ],16
+ec9e1637,* : Frequent transitions for interface awdl0 ( FE80 : 0000 : 0000 : 0000 : D8A5 : 90FF : FEF5 : 7FFF ),3
+a25357fa,"ARPT : 620749.901374 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+13f2f779,"ARPT : 620750.434035 : wl0 : wl_update_tcpkeep_seq : Original Seq : 3226706533 , Ack : 3871687177 , Win size : #spec#",1
+c58b5cde,ARPT : * : ARPT : Wake Reason : Wake on Scan offload,9
+73256b94,__73- [ NetworkAnalyticsEngine observeValueForKeyPath : ofObject : change : context : ] _block_invoke unexpected switch value #spec#,16
+f49c32e3,IO80211AWDLPeerManager : : setAwdlAutoMode Resuming AWDL,15
+ecc08a6d,"ARPT : 620896.311264 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+8261cdba,AppleCamIn : : systemWakeCall - messageType = #spec#,56
+a23397bf,"setting hostname to ""authorMacBook-Pro.local""",5
+8c1bfb7f,"#spec# : scheduler_evaluate_activity told me to run this job ; however , but the start time isn ' t for #spec# seconds. Ignoring.",165
+1a9ac16b,CCIOReporterFormatter : : addRegistryChildToChannelDictionary streams #spec#,7
+f0bf982c,[ 09 : 21 : 58.929 ] < < < < CRABS > > > > crabsFlumeHostAvailable : [ #spec# ] Byte flume reports host available again.,1
+3ebb948d,AirPort : Link Down on awdl0. Reason #spec# ( Unspecified ) .,7
+b8b99dc8,"PM response took #spec# ms ( 54 , powerd )",9
+2d59b824,"ARPT : 621131.293163 : wl0 : Roamed or switched channel , reason #8 , bssid 5c : 50 : 15 : 4c : 18 : 13 , last RSSI -64",1
+a636c4fd,"ARPT : 621145.554555 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+cb6eddc6,"ARPT : 621146.080894 : wl0 : wl_update_tcpkeep_seq : Original Seq : 3014995849 , Ack : 2590995288 , Win size : #spec#",1
+8e30ac6c,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from #spec# to #spec#,15
+938e878e,"IO80211AWDLPeerManager : : setAwdlSuspendedMode ( ) Suspending AWDL , enterQuietMode ( true )",11
+9960f815,"network_reachability_changed : network is not reachable , netbiosd is shutting down",1
+3e6715e2,CCFile : : captureLogRun ( ) Exiting CCFile : : captureLogRun,22
+8ed00ea3,#spec# ( * ) * * #spec#,37
+4133d66a,ARPT : * : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f,9
+e4853c71,AirPort : Link Up on *,13
+81d4a7b6,Sandbox : #spec# ( 31229 ) deny ( 1 ) network-outbound #spec#,1
+c04d1c6d,ARPT : * : AirPort_Brcm43xx : : platformWoWEnable : WWEN [ enable ],12
+b2eac4df,AppleThunderboltGenericHAL : : earlyWake - complete - took #spec# milliseconds,22
+fa5cbf88,mDNS_DeregisterInterface : Frequent transitions for interface en0 ( 2607 : F140 : 6000 : 0008 : C6B3 : 01FF : FECD : 467F ),1
+b4495122,AppleThunderboltNHIType2 : : waitForOk2Go2Sx - retries = #spec#,11
+c0db3f16,"ARPT : 621490.858770 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 2119064372 , Ack 3325040593 , Win size #spec#",1
+b1ea1618,en0 : : IO80211Interface : : postMessage bssid changed,10
+50e09ab6,AppleThunderboltNHIType2 : : waitForOk2Go2Sx - intel_rp = #spec# dlla_reporting_supported = #spec#,6
+a3c165f6,mDNS_RegisterInterface : Frequent transitions for interface en0 ( FE80 : 0000 : 0000 : 0000 : C6B3 : 01FF : FECD : 467F ),3
+881f3c82,* : : *,53
+bc85caf5,"ARPT : 621686.164365 : wl0 : setup_keepalive : Local port : 62614 , Remote port : #spec#",1
+eb5e002e,- [ UABestAppSuggestionManager notifyBestAppChanged : type : options : bundleIdentifier : activityType : dynamicIdentifier : when : confidence : deviceName : deviceIdentifier : deviceType : ] ( null ) UASuggestedActionType = 0 ( null ) / ( null ) opts = ( null ) when = * #spec# +0000 confidence = 1 from = ( null ) / ( null ) ( UABestAppSuggestionManager.m #319 ),14
+49fbcbe1,en0 : channel changed to #spec#,14
+bedd8740,ARPT : 621799.252673 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+9edb6093,"CCFile : : captureLog Received Capture notice id : * , reason = AuthFail : sts : 5_rsn : 0",15
+2782e72c,IO80211AWDLPeerManager : : setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED,14
+8b19a29f,Unrecognized attribute value : t : AbchPersonItemType,8
+46ecd45c,Sandbox : #spec# ( 31328 ) deny ( 1 ) network-outbound #spec#,2
+cbc000a0,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure : Error Domain = #spec# Code = 1035 ""Account identity not set"" UserInfo = { NSDescription = Account identity not set }",12
+df390674,"CFPasteboardRef CFPasteboardCreate ( CFAllocatorRef , CFStringRef ) : failed to create global data",2
+4de53031,Sandbox : #spec# ( 31346 ) deny ( 1 ) network-outbound #spec#,1
+b4e668df,10 : 46 : 47.425 : BTLE scanner Powered On,1
+93344b6e,button report : #spec#,20
+7f7bd6fa,11 : 20 : 51.293 : BTLE discovered device with hash < 01faa200 #spec# 0000 >,1
+88129001,"securityd_xpc_dictionary_handler cloudd [ 326 ] copy_matching Error Domain = NSOSStatusErrorDomain Code = -50 ""query missing class name"" ( paramErr : error in user parameter list ) UserInfo = { NSDescription = query missing class name }",4
+22866518,Location icon should now be in state ' * ',37
+ddac2eaa,"ARPT : 626126.086205 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+979039bb,ARPT : 626126.086246 : wl0 : MDNS : IPV4 Addr : #spec#,1
+7623b5e8,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc19060 #spec#,1
+5c5b046a,"Setting BTCoex Config : enable_2G : 1 , profile_2g : 0 , enable_5G : 1 , profile_5G : 0",7
+8987e123,Sandbox : #spec# ( 31432 ) deny ( 1 ) network-outbound #spec#,1
+9411349a,Captive : [ CNInfoNetworkActive : 1748 ] en0 : SSID ' CalVisitor ' making interface primary ( cache indicates network not captive ),3
+ffb67223,IO80211AWDLPeerManager : : setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO,6
+4de07ebb,- [ NetworkAnalyticsEngine _writeJournalRecord : fromCellFingerprint : key : atLOI : ofKind : lqm : isFaulty : ] Hashing of the primary key failed. Dropping the journal record.,17
+79f5ba8b,11 : 46 : 19.229 : Finished generating hashes,1
+c0eac934,Captive : CNPluginHandler en0 : *,15
+9c2bd72a,tcp_connection_destination_perform_socket_connect #spec# connectx to #spec# @0 failed : [ 50 ] Network is down,3
+1d8d1c04,AirPort : Link Down on en0. Reason #spec# ( Disassociated because station leaving ) .,5
+eb834366,11 : 49 : 29.473 : BTLE scanner Powered On,1
+4968d77f,"USBMSC Identifier ( non-unique ) : #spec# #spec# #spec# #spec# , #spec#",12
+e06807ec,CCXPCService : : setStreamEventHandler Registered for notification callback.,2
+21716f4b,[ * : WARNING : dns_config_service_posix.cc ( 306 ) ] Failed to read DnsConfig.,4
+ce12127a,Saw change in network reachability ( isReachable = 2 ),2
+993fa3cb,[HID] [ ATC ] AppleDeviceManagementHIDEventService : : processWakeReason Wake reason : Host ( #spec# ),8
+ae4e42f5,en0 : BSSID changed to 5c : 50 : 15 : 36 : bc : 03,3
+3925f246,dnssd_clientstub ConnectToServer : connect ( ) - > No of tries : #spec#,44
+d67e6be4,- [ NETClientConnection effectiveBundleID ] using process name apsd as bundle ID ( this is expected for daemons without bundle ID,9
+14209989,"ARPT : 626625.204595 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 3034132215 , Ack 528237229 , Win size #spec#",1
+5fa01cf7,"RTC : Maintenance #spec# 19 : 52 : 56 , sleep #spec# #spec#",1
+03c171d7,"en0 : channel changed to * , +1",6
+39ce18d3,"ARPT : 626908.045241 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+669a129f,13 : 20 : 12.402 : BTLE scanner Powered On,1
+16771da2,RTC : PowerByCalendarDate setting ignored,11
+b56922bc,en0 : 802.11d country code set to ' * ' .,5
+0615746f,"ARPT : 627305.613279 : wl0 : setup_keepalive : Seq : 1664112163 , Ack : 818851215 , Win size : #spec#",1
+fc4fe1a1,"RTC : Maintenance #spec# 21 : 52 : 00 , sleep #spec# #spec#",1
+7fa4cfd4,[HID] [ MT ] AppleMultitouchDevice : : willTerminate entered,3
+b6d457cc,[ BluetoothHIDDeviceController ] EventServiceDisconnectedCallback,1
+b62e0b54,PMStats : Hibernate read took #spec# ms,1
+85fbe749,dnssd_clientstub ConnectToServer : connect ( ) failed path : #spec# Socket : 4 Err : -1 Errno : 1 Operation not permitted,13
+da712098,"pages 1471315 , wire 491253 , act 449877 , inact 3 , cleaned #spec# spec 5 , zf 23 , throt 0 , compr 345876 , xpmapped #spec#",1
+da1865a9,"VDCAssistant : Found a camera ( #spec# ) , but was not able to start it up ( #spec# -- ( os/kern ) successful )",1
+04c2cd95,handle_will_sleep_auth_and_shield_windows : Reordering authw #spec# ( 2004 ) ( lock state : 3 ),1
+d55ccf05,"2017-07-01 19 : 46 : 26.133 GoogleSoftwareUpdateAgent [ 31702/ #spec# ] [ lvl = 2 ] - [ KSAgentApp ( KeystoneThread ) runKeystonesInThreadWithArg : ] Checking with local engine : < KSUpdateEngine : #spec# ticketStore = < KSPersistentTicketStore : #spec# store = < KSKeyedPersistentStore : #spec# path = "" #spec# "" lockFile = < KSLockFile : #spec# path = "" #spec# "" locked = NO > > > processor = < KSActionProcessor : #spec# delegate = < KSUpdateEngine : #spec# > isProcessing = NO actionsCompleted = 0 progress = 0.00 errors = 0 currentActionErrors = 0 events = 0 currentActionEvents = 0 actionQueue = ( ) > delegate = ( null ) serverInfoStore = < KSServerPrivateInfoStore : #spec# path = "" #spec# "" > errors = 0 >",1
+1baa4eb0,- [ ISGenerateImageOp generateImageWithCompletion : ] Failed to composit image for descriptor < ISBindingImageDescriptor : #spec# > .,20
+76f908e9,Error returned from iconservicesagent : ( null ),13
+693a4df3,tcp_connection_tls_session_error_callback_imp #spec# __tcp_connection_tls_session_callback_write_block_invoke.434 error #spec#,8
+aa8be70f,"SecOSStatusWith error : [ -50 ] Error Domain = NSOSStatusErrorDomain Code = -50 ""query missing class name"" ( paramErr : error in user parameter list ) UserInfo = { NSDescription = query missing class name }",5
+5ce70f9b,send_datagram_available_ping : pid #spec# failed to act on a ping it dequeued before timing out.,26
+9444a85f,WARNING : Type1 font data isn ' t in the correct format required by the Adobe Type #spec# Font Format specification.,1
+cc7f00c0,"#spec# : #spec# : scheduler_evaluate_activity told me to run this job ; however , but the start time isn ' t for #spec# seconds. Ignoring.",1
+3644be66,"device_generate_desktop_screenshot : authw #spec# ( 2000 ) , shield #spec# ( 2001 )",3
+a12dd417,[ #spec# ] [ Refusing to parse response to PROPPATCH because of content-type : [ text/html ; charset = UTF-8 ] . ],5
+0140bdc9,"NETWORK : requery , 0 , 0 , 0 , 0 , 250 , items , fQueryRetries , 0 , fLastRetryTimestamp , *",2
+449a1f1a,"ARPT : 640362.070027 : wl0 : wl_update_tcpkeep_seq : Original Seq : 2000710617 , Ack : 2120985509 , Win size : #spec#",1
+df464220,Previous sleep cause : #spec#,15
+8d915b0e,Wake reason : RTC ( Alarm ),5
+8b78eca7,AppleThunderboltNHIType2 : : prePCIWake - power up complete - took #spec# us,15
+3c44704d,02 : 18 : 39.156 : BTLE scanner Powered On,1
+8f5e4e4e,network changed : v4 ( en0- : #spec# ) v6 ( en0 : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f ) DNS! Proxy SMB,2
+60ab764a,hibernate_page_list_setall found pageCount #spec#,2
+089ce302,[HID] [ ATC ] [ Error ] AppleDeviceManagementHIDEventService : : start Could not make a string from out connection notification key,2
+a9ea031c,en0 : BSSID changed to 5c : 50 : 15 : 4c : 18 : *,6
+e0885289,[ IOBluetoothFamily ] [ staticBluetoothTransportShowsUp ] -- Received Bluetooth Controller register service notification -- #spec#,1
+f0896f02,"2017-07-02 10 : 40 : 07.676 GoogleSoftwareUpdateAgent [ 32012/ #spec# ] [ lvl = 2 ] - [ KSAgentApp updateProductWithProductID : usingEngine : ] Checking for updates for "" #spec# "" using engine < KSUpdateEngine : #spec# ticketStore = < KSPersistentTicketStore : #spec# store = < KSKeyedPersistentStore : #spec# path = "" #spec# "" lockFile = < KSLockFile : #spec# path = "" #spec# "" locked = NO > > > processor = < KSActionProcessor : #spec# delegate = < KSUpdateEngine : #spec# > isProcessing = NO actionsCompleted = 0 progress = 0.00 errors = 0 currentActionErrors = 0 events = 0 currentActionEvents = 0 actionQueue = ( ) > delegate = ( null ) serverInfoStore = < KSServerPrivateInfoStore : #spec# path = "" #spec# "" > errors = 0 >",1
+13e4a51e,#spec# 11 : 38 : 49.414 | I | VoipWrapper | DAVEngineImpl.cpp : 1400 : Close | close video chat. llFriendUIN = ******2341.,1
+fbd3b741,"ARPT : 645791.413780 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 156 ,",1
+c86dfdd9,Bluetooth -- LE is supported - Disable LE meta event,11
+fcd92363,12 : 15 : 23.005 : Discoverable mode changed to Off,1
+e3f0fc6b,tcp_connection_handle_connect_conditions_bad #spec# failed : #spec# - No network route,18
+d1b223e0,ARPT : 645957.322055 : wl0 : setup_keepalive : Local IP : #spec#,1
+a28acb59,TBT W ( 2 ) : #spec# [ x ],4
+d9d3c566,network changed : DNS* Proxy,3
+6dc0f85a,"ARPT : 646292.668059 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+b5dd3697,ASL Sender Statistics,9
+1f69f452,2017-07-02 15 : 46 : 40.516 GoogleSoftwareUpdateAgent [ 32432/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher ( PrivateMethods ) launchedHelperTaskForToolPath : error : ] KSOutOfProcessFetcher launched ' #spec# ' with process id : #spec#,1
+056f52ed,"2017-07-02 15 : 46 : 40.697 GoogleSoftwareUpdateAgent [ 32432/ #spec# ] [ lvl = 2 ] - [ KSUpdateEngine updateAllExceptProduct : ] KSUpdateEngine updating all installed products , except : ' #spec# ' .",1
+4132a433,2017-07-02 15 : 46 : 41.445 ksfetch [ 32435/ #spec# ] [ lvl = 2 ] main ( ) ksfetch fetching URL ( < NSMutableURLRequest : #spec# > { URL : https : #spec# ?cup2hreq = 53f725cf03f511fab16f19e789ce64aa1eed72395fc246e9f1100748325002f4&cup2key = 7 : 1132320327 } ) to folder : #spec#,1
+e46e2774,"Path not allowed in target domain : type = pid , path = #spec# error = 147 : The specified service did not ship in the requestor ' s bundle , origin = #spec#",15
+f64cf4aa,[ 17 : 13 : 46.390 ] < < < < IQ-CA > > > > piqca_setUsePreQueue : ( #spec# ) rejecting report of layer being serviced - IQ has not yet begun to update,1
+095f71b0,[ 17 : 19 : 15.148 ] itemasync_SetProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+dceb8db9,KeychainGetICDPStatus : keychain : -25300,14
+8bc4bdf3,host connection < NSXPCConnection : #spec# > connection from pid #spec# invalidated,1
+f198dc07,Error in * : -1856,2
+aae92294,ARPT : * : wl0 : leaveModulePoweredForOffloads : Wi-Fi will stay on.,9
+c5a2e360,"ARPT : * : IOPMPowerSource Information : onWake , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",3
+64305cbe,ARPT : * : wl0 : MDNS : IPV6 Addr : fe80 : 0 : 0 : 0 : c6b3 : 1ff : fecd : 467f,9
+f269eff2,in6_unlink_ifa : IPv6 address #spec# has no prefix,9
+f981492a,network changed : v4 ( en0 : #spec# ) v6 ( en0+ : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f ) DNS! Proxy SMB,2
+a29160c6,"ARPT : 661856.313502 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+4760c406,ARPT : * : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : 4de9 : a101 : c96c : f28b,2
+271e931a,"PBRequester failed with Error Error Domain = NSURLErrorDomain Code = -1001 ""The request timed out."" UserInfo = { NSUnderlyingError = #spec# { Error Domain = kCFErrorDomainCFNetwork Code = -1001 ""The request timed out."" UserInfo = { NSErrorFailingURLStringKey = https : #spec# , NSErrorFailingURLKey = https : #spec# , _kCFStreamErrorCodeKey = -2102 , _kCFStreamErrorDomainKey = 4 , NSLocalizedDescription = The request timed out. } } , NSErrorFailingURLStringKey = https : #spec# , NSErrorFailingURLKey = https : #spec# , _kCFStreamErrorDomainKey = 4 , _kCFStreamErrorCodeKey = -2102 , NSLocalizedDescription = The request timed out. }",2
+11529eca,"device_generate_lock_screen_screenshot : authw #spec# ( 2000 ) [ 0 , 0 , 1440 , 900 ] shield #spec# ( 2001 ) , dev [ 1440 , 900 ]",2
+88d8d792,2017-07-02 20 : 50 : 47.457 ksfetch [ 32776/ #spec# ] [ lvl = 2 ] KSHelperReceiveAllData ( ) KSHelperTool read #spec# bytes from stdin.,1
+f6c26d7c,[ 21 : 17 : 07.529 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+7eba315e,21 : 48 : 53.041 : BTLE scanner Powered Off,1
+6d4d9c41,"PBRequester failed with Error Error Domain = NSURLErrorDomain Code = -1009 ""The Internet connection appears to be offline."" UserInfo = { NSUnderlyingError = #spec# { Error Domain = kCFErrorDomainCFNetwork Code = -1009 ""The Internet connection appears to be offline."" UserInfo = { NSErrorFailingURLStringKey = https : #spec# , NSErrorFailingURLKey = https : #spec# , _kCFStreamErrorCodeKey = 8 , _kCFStreamErrorDomainKey = 12 , NSLocalizedDescription = The Internet connection appears to be offline. } } , NSErrorFailingURLStringKey = https : #spec# , NSErrorFailingURLKey = https : #spec# , _kCFStreamErrorDomainKey = 12 , _kCFStreamErrorCodeKey = 8 , NSLocalizedDescription = The Internet connection appears to be offline. }",3
+722ab658,ARPT : 669592.164786 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+3f143fab,Received Capture Event,15
+e4684651,Sandbox : QQ ( 10018 ) deny ( 1 ) mach-lookup #spec#,3
+eaf2e893,Sandbox : #spec# ( 32885 ) deny ( 1 ) network-outbound #spec#,1
+8d0180f9,[ 22 : 32 : 34.846 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+414a291b,sigio_handler : sigio_handler_active ! = #spec#,5
+42e9195d,############################## _getSysMsgList,10
+266f884e,"Configuration Notice : ASL Module "" #spec# "" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2
+f0a66c28,"ARPT : 671856.784669 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 18011 ,",1
+7ecc635d,Wake reason : ?,2
+ae5ba063,01 : 06 : 37.436 : Scanning mode Contacts Only,1
+2f56bf84,"ARPT : 671889.268467 : wl0 : setup_keepalive : Seq : 2040703749 , Ack : 3006590414 , Win size : #spec#",1
+036d7d6f,"ARPT : 671958.142550 : wl0 : setup_keepalive : Local port : 49791 , Remote port : #spec#",1
+9c3c6f98,01 : 42 : 26.004 : BTLE scanning stopped,1
+8661b320,wake time set * s,3
+cfb5d259,"ARPT : 672041.595629 : wl0 : setup_keepalive : interval 258 , retry_interval 30 , retry_count #spec#",1
+769cb769,[HID] [ MT ] MTActuatorManagement : : getActuatorRef Calling MTActuatorOpen ( ) outside of MTTrackpadHIDManager.,1
+07a40f33,"ARPT : 672113.005012 : wl0 : setup_keepalive : interval 258 , retry_interval 30 , retry_count #spec#",1
+90f0d297,"ARPT : 672113.005034 : wl0 : setup_keepalive : Seq : 1128495564 , Ack : 3106452487 , Win size : #spec#",1
+fdd1a6f6,03 : 31 : 43.005 : BTLE scanning stopped,1
+b0bafcfa,ARPT : 672405.912863 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 400 : a01b : c6b3 : 1ff : fecd : 467f,1
+5de10c02,"NETWORK : requery , 0 , 0 , 0 , 0 , 252 , items , fQueryRetries , 0 , fLastRetryTimestamp , 520765684.9",1
+54894cb3,mDNS_DeregisterInterface : Frequent transitions for interface en0 ( #spec# ),2
+9579bf86,ARPT : 672487.663921 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 400 : a01b : c6b3 : 1ff : fecd : 467f,1
+e81908e8,"ARPT : 672663.206073 : wl0 : wl_update_tcpkeep_seq : Original Seq : 2185760336 , Ack : 2085655440 , Win size : #spec#",1
+b5468f54,Sandbox : #spec# ( 33119 ) deny ( 1 ) network-outbound #spec#,1
+95492cac,"ARPT : 672922.026642 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+f4d23b6e,06 : 57 : 52.002 : Purged contact hashes,1
+2beb6dd0,"ARPT : 673110.784021 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 4039579370 , Ack 2406464715 , Win size #spec#",1
+4adb84f6,07 : 33 : 34.878 : BTLE scanning started,1
+9c485436,"IOPMrootDomain : idle cancel , state #spec#",3
+896e311a,08 : 21 : 18.004 : Discoverable mode changed to Off,1
+76945ec0,"ARPT : 673289.745639 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 1578355965 , Ack 2401645769 , Win size #spec#",1
+9c11e2aa,"NETWORK : requery , 0 , 0 , 0 , 0 , 252 , items , fQueryRetries , 0 , fLastRetryTimestamp , 520783088.4",1
+e1d2ded7,"ARPT : 673321.718258 : wl0 : setup_keepalive : Local port : 50542 , Remote port : #spec#",1
+7c3be9aa,"ARPT : 673324.060219 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 815278018 , Ack 1982345407 , Win size #spec#",1
+5e5c8455,ARPT : 673325.798753 : ARPT : Wake Reason : Wake on TCP Timeout,1
+ad1632f5,"ARPT : 673399.580233 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 13027 ,",1
+183bd9fd,"ARPT : 673431.714836 : wl0 : setup_keepalive : Local port : 50601 , Remote port : #spec#",1
+9ccb5707,"hibernate_alloc_pages act 173850 , inact 24957 , anon 891 , throt 0 , spec 73492 , wire 527143 , wireinit #spec#",1
+2be735ee,hibernate_teardown_pmap_structs done : last_valid_compact_indx #spec#,2
+2814774d,"ARPT : 673493.721766 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+b86e2c02,09 : 57 : 10.384 : Scanning mode Contacts Only,1
+162208ef,enabling pid = 30298 for plug-in #spec# ( 1.0 ) 131FE7ED-87F7-471D-8797-C11107688DF7 #spec#,1
+18bd7ff0,"2017-07-03 10 : 40 : 41.730 GoogleSoftwareUpdateAgent [ 33263/ #spec# ] [ lvl = 2 ] - [ KSAgentApp performSelfUpdateWithEngine : ] Checking for self update with Engine : < KSUpdateEngine : #spec# ticketStore = < KSPersistentTicketStore : #spec# store = < KSKeyedPersistentStore : #spec# path = "" #spec# "" lockFile = < KSLockFile : #spec# path = "" #spec# "" locked = NO > > > processor = < KSActionProcessor : #spec# delegate = < KSUpdateEngine : #spec# > isProcessing = NO actionsCompleted = 0 progress = 0.00 errors = 0 currentActionErrors = 0 events = 0 currentActionEvents = 0 actionQueue = ( ) > delegate = ( null ) serverInfoStore = < KSServerPrivateInfoStore : #spec# path = "" #spec# "" > errors = 0 >",1
+9924589c,2017-07-03 10 : 40 : 42.940 GoogleSoftwareUpdateAgent [ 33263/ #spec# ] [ lvl = 2 ] - [ KSOmahaServer updateInfosForUpdateResponse : updateRequest : infoStore : upToDateTickets : updatedTickets : events : errors : ] Response passed CUP validation.,1
+4c3f2758,[ 11 : 27 : 14.923 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+2a2d4c7f,[ 11 : 31 : 49.472 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+1d861631,[ 11 : 31 : 49.593 ] itemasync_CopyProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+7744cc5c,[ 11 : 34 : 44.290 ] itemasync_CopyProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+ac7431be,[ 11 : 38 : 27.892 ] < < < < IQ-CA > > > > piqca_setUsePreQueue : ( #spec# ) rejecting report of layer being serviced - IQ has not yet begun to update,1
+7cad7875,[ 11 : 39 : 18.356 ] < < < < IQ-CA > > > > piqca_setUsePreQueue : ( #spec# ) rejecting report of layer being serviced - IQ has not yet begun to update,1
+aab60886,[ 11 : 41 : 18.041 ] < < < < IQ-CA > > > > piqca_setUsePreQueue : ( #spec# ) rejecting report of layer being serviced - IQ has not yet begun to update,1
+ad72606c,[ 11 : 48 : 35.539 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+8841d148,[ 11 : 50 : 02.531 ] itemasync_SetProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+2485100f,[ 11 : 50 : 13.362 ] itemasync_SetProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+18a0a87e,[ 11 : 51 : 29.334 ] itemasync_SetProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+696389ad,[ 11 : 56 : 05.232 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+3f2e75f4,[ 11 : 58 : 00.829 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+2d2a4ca6,[ 11 : 58 : 36.563 ] itemasync_CopyProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+6a6e0625,[ 12 : 02 : 22.126 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+6a9880d4,[ 12 : 03 : 48.669 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+bf8b864a,[ 12 : 04 : 32.065 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+20d670ba,[ 12 : 11 : 47.043 ] itemasync_CopyProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+d6098ff8,[ 12 : 22 : 42.202 ] itemasync_SetProperty signalled err = -12785 ( kFigBaseObjectError_Invalidated ) ( invalidated ) at #spec# line #spec#,1
+a4ec8013,"Opened file #spec# , size 172032 , extents 1 , maxio #spec# ssd #spec#",2
+fb24e04b,"NETWORK : no response from server , reachability , 2 , queryRetries , #spec#",4
+74d4c15a,"Unexpected payload found for message 9 , dataLen #spec#",2
+6c30df1d,en0 : Supported channels #spec# 2 #spec# 4 #spec# 6 #spec# 8 #spec# 10 #spec# 12 #spec# 36 #spec# 44 #spec# 52 #spec# 60 #spec# 100 #spec# 108 #spec# 116 #spec# 124 #spec# 132 #spec# 140 #spec# 149 #spec# 157 #spec#,2
+f459f552,ARPT : 681387.132167 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+49a3bab2,Internal name did not resolve to internal address!,1
+1bc969f0,Service exited with abnormal code : #spec#,1
+e8fc3aab,Central manager is not powered on,1
+3648c835,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_13 , 48 , 39.362458 ] #spec# , Current File [ 2017-07-03_13 , 48 , 39.362458 ] #spec#",1
+24cd5d12,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc20795 #spec#,1
+eeb79a53,"CCFile : : copyFile fileName is [ 2017-07-03_13 , 48 , 39.308188 ] -io80211Family-002.pcapng , source path : #spec# [ 2017-07-03_13 , 48 , 39.308188 ] -io80211Family-002.pcapng , dest path : #spec# [ 2017-07-03_13 , 50 , 14.954481 ] = AssocFail : sts : 2_rsn : #spec# [ 2017-07-03_13 , 48 , 39.308188 ] -io80211Family-002.pcapng",1
+a8201852,ARPT : * : framerdy #spec# bmccmd #spec# framecnt #spec#,8
+da09d2dd,< IMMacNotificationCenterManager : #spec# > : DND Enabled : YES,1
+8c282760,13 : 55 : 56.094 : Starting AirDrop server for user #spec# on wake,1
+d0f10ae2,Sandbox : #spec# ( 33493 ) deny ( 1 ) network-outbound #spec#,1
+de78bcb4,ARPT : 682406.173418 : wl0 : setup_keepalive : Remote IP : #spec#,1
+5369bb27,"ARPT : 682407.704265 : wl0 : wl_update_tcpkeep_seq : Original Seq : 1181052579 , Ack : 1862377178 , Win size : #spec#",1
+4511ce9a,"RTC : Maintenance #spec# 21 : 47 : 58 , sleep #spec# #spec#",1
+0e925026,Sandbox : #spec# ( 33508 ) deny ( 1 ) network-outbound #spec#,1
+b07a68b9,ARPT : * : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,6
+69726eaa,"< < < < FigByteStream > > > > FigByteStreamStatsLogOneRead : ByteStream read of #spec# bytes @ #spec# took 1.053312 secs. to complete , #spec# reads > = #spec# sec.",1
+3b1c4713,ARPT : 682634.998705 : wl0 : setup_keepalive : Remote IP : #spec#,1
+bcc387c1,network changed : v4 ( en0 : #spec# ) v6 ( en0! : 2607 : f140 : 6000 : 8 : f1dc : a608 : 863 : 19ad ) DNS Proxy SMB,1
+d6337bb0,CCIOReporterFormatter : : refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,9
+50b7dcec,"CCFile : : copyFile fileName is [ 2017-07-03_15 , 47 , 15.246620 ] -AirPortBrcm4360_Logs-007.txt , source path : #spec# [ 2017-07-03_15 , 47 , 15.246620 ] -AirPortBrcm4360_Logs-007.txt , dest path : #spec# [ 2017-07-03_15 , 47 , 15.349129 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_15 , 47 , 15.246620 ] -AirPortBrcm4360_Logs-007.txt",1
+6125e46d,Sandbox : #spec# ( 33540 ) deny ( 1 ) network-outbound #spec#,1
+da8433c5,"CCLogTap : : profileRemoved , Owner : #spec# , Name : OneStats",1
+9c8f793f,"< < < < FigByteStream > > > > FigByteStreamStatsLogOneRead : ByteStream read of #spec# bytes @ #spec# took * sec. to complete , #spec# reads > = 0.5 sec.",2
+813aa68a,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 05 , 51.031703 ] -AirPortBrcm4360_Logs-003.txt , Current File [ 2017-07-03_16 , 05 , 51.031703 ] -AirPortBrcm4360_Logs-003.txt",1
+024217ca,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 05 , 51.075268 ] -AirPortBrcm4360_Logs-005.txt , Current File [ 2017-07-03_16 , 05 , 51.075268 ] -AirPortBrcm4360_Logs-005.txt",1
+eda603de,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 05 , 51.177343 ] -io80211Family-003.pcapng , Current File [ 2017-07-03_16 , 05 , 51.177343 ] -io80211Family-003.pcapng",1
+6e98ebb0,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 06 , 19.893324 ] -AirPortBrcm4360_Logs-008.txt , Current File [ 2017-07-03_16 , 06 , 19.893324 ] -AirPortBrcm4360_Logs-008.txt",1
+89447f4e,network changed : v6 ( en0- : 2607 : f140 : 6000 : 8 : d8d1 : d506 : 6046 : 43e4 ) DNS- Proxy-,1
+7d966460,ARPT : 682827.873728 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+4c5b1ec5,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 06 , 19.861073 ] #spec# , source path : #spec# [ 2017-07-03_16 , 06 , 19.861073 ] #spec# , dest path : #spec# [ 2017-07-03_16 , 07 , 33.914349 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 06 , 19.861073 ] #spec#",1
+1eeb9af1,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 07 , 33.934533 ] -AirPortBrcm4360_Logs-009.txt , Current File [ 2017-07-03_16 , 07 , 33.934533 ] -AirPortBrcm4360_Logs-009.txt",1
+4cfa0cfc,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 07 , 38.954579 ] -io80211Family-016.pcapng , source path : #spec# [ 2017-07-03_16 , 07 , 38.954579 ] -io80211Family-016.pcapng , dest path : #spec# [ 2017-07-03_16 , 07 , 39.094895 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 07 , 38.954579 ] -io80211Family-016.pcapng",1
+694a7179,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 07 , 39.096792 ] #spec# , source path : #spec# [ 2017-07-03_16 , 07 , 39.096792 ] #spec# , dest path : #spec# [ 2017-07-03_16 , 07 , 39.171995 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 07 , 39.096792 ] #spec#",1
+b887a914,ARPT : * : wlc_dump_aggfifo :,6
+9d17f652,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 07 , 40.650186 ] #spec# , Current File [ 2017-07-03_16 , 07 , 40.650186 ] #spec#",1
+b778b5a2,ARPT : 682840.256116 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+a2d6f1ed,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 07 , 46.105103 ] #spec# , source path : #spec# [ 2017-07-03_16 , 07 , 46.105103 ] #spec# , dest path : #spec# [ 2017-07-03_16 , 07 , 46.298508 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 07 , 46.105103 ] #spec#",1
+0034c0a8,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 25 , 27.859687 ] #spec# , Current File [ 2017-07-03_16 , 25 , 27.859687 ] #spec#",1
+25ae457b,[ 16 : 25 : 45.631 ] < < < < CRABS > > > > crabsFlumeHostUnavailable : [ #spec# ] Byte flume reports host unavailable.,1
+f36f3856,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 27 , 04.995982 ] -io80211Family-040.pcapng , source path : #spec# [ 2017-07-03_16 , 27 , 04.995982 ] -io80211Family-040.pcapng , dest path : #spec# [ 2017-07-03_16 , 27 , 05.123034 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 27 , 04.995982 ] -io80211Family-040.pcapng",1
+e65867a8,"CCFile : : copyFile fileName is [ 2017-07-03_16 , 27 , 09.910337 ] -AirPortBrcm4360_Logs-047.txt , source path : #spec# [ 2017-07-03_16 , 27 , 09.910337 ] -AirPortBrcm4360_Logs-047.txt , dest path : #spec# [ 2017-07-03_16 , 27 , 10.162319 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_16 , 27 , 09.910337 ] -AirPortBrcm4360_Logs-047.txt",1
+39971a4e,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-03_16 , 27 , 09.307937 ] - AuthFail : sts : 5_rsn : #spec#",1
+099c650d,tcp_connection_destination_perform_socket_connect #spec# connectx to #spec# @0 failed : [ 51 ] Network is unreachable,1
+e7c573ac,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 28 , 40.259618 ] -AirPortBrcm4360_Logs-055.txt , Current File [ 2017-07-03_16 , 28 , 40.259618 ] -AirPortBrcm4360_Logs-055.txt",1
+960778ce,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_16 , 29 , 09.137954 ] #spec# , Current File [ 2017-07-03_16 , 29 , 09.137954 ] #spec#",1
+5db0902e,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! NeteaseMusic.17988 tc9008 #spec#,1
+15c72258,"[ CardDAVPlugin-ERROR ] -getPrincipalInfo : [ _controller supportsRequestCompressionAtURL : https : #spec# %40163.com@p28-contacts.icloud. #spec# ] Error Domain = NSURLErrorDomain Code = -1001 ""The request timed out."" UserInfo = { NSUnderlyingError = #spec# { Error Domain = kCFErrorDomainCFNetwork Code = -1001 ""The request timed out."" UserInfo = { NSErrorFailingURLStringKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , NSErrorFailingURLKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , _kCFStreamErrorCodeKey = -2102 , _kCFStreamErrorDomainKey = 4 , NSLocalizedDescription = The request timed out. } } , NSErrorFailingURLStringKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , NSErrorFailingURLKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , _kCFStreamErrorDomainKey = 4 , _kCFStreamErrorCodeKey = -2102 , NSLocalizedDescription = The request timed out. }",1
+6ae2cfe0,"ARPT : 683239.026135 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+8312795f,hibernate image path : #spec#,2
+70b4b3ad,hibernate_flush_memory : buffer_cache_gc freed up #spec# wired pages,2
+ea938c3b,"hibernate_machine_init pagesDone #spec# sum2 * , time : #spec# ms , disk ( #spec# ) #spec# Mb/s , comp bytes : #spec# time : #spec# ms #spec# Mb/s , crypt bytes : #spec# time : #spec# ms #spec# Mb/s",2
+d9fe026b,ASSERTION FAILED : dvcAddrRef ! = ( ( void * ) 0 ) - [ DriverServices getDeviceAddress : ] line : #spec#,4
+164db6d5,hibernate_machine_init reading,2
+bf6b6560,assertion failed : 15G1510 : #spec# + #spec# [ 10D2E324-788C-30CC-A749-55AE67AEC7BC ] : #spec#,3
+b55176d9,jemmytest,10
+b83de2c2,**** [ IOBluetoothFamily ] [ ProcessBluetoothTransportShowsUpActionWL ] -- calling IOBluetoothFamily ' s registerService ( ) -- #spec# -- #spec# -- #spec# ****,2
+7127cfdf,**** [ IOBluetoothFamily ] [ ProcessBluetoothTransportShowsUpActionWL ] -- Connected to the transport successfully -- #spec# -- #spec# -- #spec# ****,1
+fb537aad,hciControllerOnline ; HID devices? #spec#,1
+c17f6d5d,INIT -- Host controller is published,2
+6c78690f,"polled file major 1 , minor 0 , blocksize 4096 , pollers #spec#",3
+d960bc67,BuildActDeviceEntry exit,2
+d81c9259,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc21242 #spec#,1
+1ae14b94,"ARPT : 683604.474196 : IOPMPowerSource Information : onSleep , SleepType : Standby , ' ExternalConnected ' : No , ' TimeRemaining ' : 578 ,",1
+7e557ed2,ARPT : 683623.036953 : wl0 : setup_keepalive : Remote IP : #spec#,1
+3a9ee947,Wake reason : ARPT ( Network ),3
+eda92f2d,AppleActuatorHIDEventDriver : message service is terminated,1
+d8423e54,[ 18 : 56 : 23.837 ] < < < < CRABS > > > > crabsFlumeHostUnavailable : [ #spec# ] Byte flume reports host unavailable.,1
+7ac579c0,en0 : BSSID changed to 64 : d9 : 89 : 6b : b5 : 33,1
+737ed631,"CCFile : : captureLog Received Capture notice id : 1499133420.914478 , reason = DeauthInd : sts : 0_rsn : 7",1
+d0933b1b,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-03_18 , 57 , 12.221233 ] -AirPortBrcm4360_Logs-005.txt , Current File [ 2017-07-03_18 , 57 , 12.221233 ] -AirPortBrcm4360_Logs-005.txt",1
+7d2129e5,payload Data #spec# 00,1
+696ad077,WARNING : hibernate_page_list_setall skipped #spec# xpmapped pages,2
+543a5b76,"hibernate_teardown : wired_pages 544767 , free_pages 3578340 , active_pages 40000 , inactive_pages 0 , speculative_pages 0 , cleaned_pages 0 , compressor_pages #spec#",1
+46caaf8e,"pages 554018 , wire 418692 , act 40000 , inact 0 , cleaned #spec# spec 0 , zf 0 , throt 0 , compr 112 , xpmapped #spec#",1
+cd7f33b1,[ BluetoothHIDDeviceController ] EventServiceConnectedCallback,2
+64d773fc,ARPT : 683780.224800 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+28cf5fd9,[ 19 : 04 : 53.965 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+e38c3bd9,"CCFile : : copyFile fileName is [ 2017-07-03_19 , 04 , 57.722196 ] -io80211Family-018.pcapng , source path : #spec# [ 2017-07-03_19 , 04 , 57.722196 ] -io80211Family-018.pcapng , dest path : #spec# [ 2017-07-03_19 , 05 , 37.535347 ] = AuthFail : sts : 2_rsn : #spec# [ 2017-07-03_19 , 04 , 57.722196 ] -io80211Family-018.pcapng",1
+26823b5c,hibernate_rebuild_pmap_structs done : last_valid_compact_indx #spec#,1
+773e06a3,BuildActDeviceEntry enter,2
+94f65ee1,( ImportBailout.Error : 1331 ) Asked to exit for Diskarb,1
+ff6b7546,[ 20 : 20 : 37.119 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+d8f5abcd,2017-07-03 20 : 25 : 13.378 GoogleSoftwareUpdateAgent [ 33847/ #spec# ] [ lvl = 2 ] - [ KSUpdateCheckAction performAction ] KSUpdateCheckAction starting update check for ticket ( s ) : { ( < KSTicket : #spec# productID = #spec# version = #spec# xc = < KSPathExistenceChecker : #spec# path = #spec# > url = https : #spec# creationDate = 2017-02-18 #spec# ticketVersion = 1 > ) } Using server : < KSOmahaServer : #spec# engine = < KSUpdateEngine : #spec# > >,1
+c461fef8,[ 20 : 55 : 46.310 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+4574692b,[ 21 : 03 : 03.265 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+78e47c12,[ 21 : 07 : 43.005 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+fca44f7c,KeychainGetICDPStatus : status : off,8
+482d597f,[ 21 : 27 : 07.761 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+ee82e972,"CCFile : : copyFile fileName is [ 2017-07-03_21 , 30 , 41.859869 ] #spec# , source path : #spec# [ 2017-07-03_21 , 30 , 41.859869 ] #spec# , dest path : #spec# [ 2017-07-03_21 , 30 , 40.703152 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-03_21 , 30 , 41.859869 ] #spec#",1
+29be3768,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc21519 #spec#,1
+5240c155,Sandbox : #spec# ( 33959 ) deny ( 1 ) network-outbound #spec#,1
+c7159648,[ 21 : 41 : 47.568 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+edefe59e,"NETWORK : requery , 0 , 0 , 0 , 0 , 320 , items , fQueryRetries , 1 , fLastRetryTimestamp , *",2
+678017d6,[ 23 : 24 : 32.378 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+f7eb8dec,ARPT : * : AirPort_Brcm43xx : : powerChange : System Sleep,17
+a5218621,tcp_connection_tls_session_error_callback_imp #spec# tcp_connection_tls_session_handle_read_error.790 error #spec#,1
+e996b0c6,Checking iCDP status for DSID #spec# ( checkWithServer = 0 ),1
+6571a838,ARPT : 698150.103985 : wl0 : setup_keepalive : Remote IP : #spec#,1
+5b386e45,ARPT : 698348.781411 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 400 : a01b : 1c57 : 7ef3 : 8f8e : 5a10,1
+9da08d83,ARPT : 698398.428268 : wl0 : setup_keepalive : Remote IP : #spec#,1
+391f25db,ARPT : 698501.213099 : ARPT : Wake Reason : Wake on TCP Timeout,1
+bbfd189a,ARPT : 698596.169927 : wl0 : setup_keepalive : Local IP : #spec#,1
+1c33f1cc,Sandbox : #spec# ( 34268 ) deny ( 1 ) network-outbound #spec#,1
+04db5713,Sandbox : #spec# ( 34309 ) deny ( 1 ) network-outbound #spec#,1
+c08c3ca8,ARPT : 698898.741521 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+9099d415,Sandbox : #spec# ( 34326 ) deny ( 1 ) network-outbound #spec#,1
+0df096c2,"ARPT : 699244.827573 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 2935131210 , Ack 3049709979 , Win size #spec#",1
+7b430f19,ARPT : 699300.508954 : wl0 : setup_keepalive : Local IP : #spec#,1
+1d395eaa,"ARPT : 699352.804212 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 2794574676 , Ack 1746081928 , Win size #spec#",1
+8ebc0703,"ARPT : 699408.252331 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+4c893151,network changed : v4 ( en0- : #spec# ) v6 ( en0- : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f ) DNS- Proxy-,1
+1657998d,Sandbox : #spec# ( 34429 ) deny ( 1 ) network-outbound #spec#,1
+9177cdb5,"ARPT : 699456.025397 : wl0 : setup_keepalive : Local port : 63572 , Remote port : #spec#",1
+31d20ea1,network changed : DNS*,1
+4c24bf07,en0 : Supported channels #spec# 2 #spec# 4 #spec# 6 #spec# 8 #spec# 10 #spec# 12 #spec# 36 #spec# 44 #spec# 52 #spec# 60 #spec# 100 #spec# 108 #spec# 116 #spec# 124 #spec# 132 #spec# 140 #spec# 149 #spec# 157 #spec# 165,2
+abb1cc9f,"ARPT : 699925.384446 : wl0 : setup_keepalive : Seq : 4253304142 , Ack : 3255241453 , Win size : #spec#",1
+71d4e91f,"2017-07-04 09 : 42 : 57.924 GoogleSoftwareUpdateAgent [ 34603/ #spec# ] [ lvl = 2 ] + [ KSCodeSigningVerification verifyBundle : applicationId : error : ] KSCodeSigningVerification verifying code signing for ' #spec# ' with the requirement ' anchor apple generic and certificate 1 [ field. #spec# . #spec# ] exists and certificate leaf [ field. #spec# . #spec# ] exists and certificate leaf [ subject.OU ] = ""EQHXZ8M8AV"" and ( identifier = "" #spec# "" ) '",1
+c3eb4f0c,2017-07-04 09 : 42 : 58.121 ksfetch [ 34604/ #spec# ] [ lvl = 2 ] main ( ) ksfetch done fetching.,1
+b658c1cb,"ARPT : 700254.389213 : wl0 : setup_keepalive : Seq : 2502126767 , Ack : 2906384231 , Win size : #spec#",1
+680a038e,"ARPT : 700311.376459 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+f22f6116,network changed : v4 ( en0! : #spec# ) DNS+ Proxy+ SMB,1
+f4305446,- [ SOAPParser : #spec# parser : didStartElement : namespaceURI : qualifiedName : attributes : ] Type not found in EWSItemType for ExchangePersonIdGuid ( t : ExchangePersonIdGuid ),4
+26f9abd3,[ 10 : 13 : 05.044 ] < < < < CRABS > > > > crabsFlumeHostAvailable : [ #spec# ] Byte flume reports host available again.,1
+25bc08c0,Sandbox : #spec# ( 34685 ) deny ( 1 ) network-outbound #spec#,1
+79cc0b71,[ 11 : 10 : 58.940 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+a17c8821,"CCFile : : captureLog Received Capture notice id : 1499192921.020010 , reason = AssocFail : sts : 5_rsn : 0",1
+9f91f865,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-04_11 , 29 , 09.994819 ] #spec# , Current File [ 2017-07-04_11 , 29 , 09.994819 ] #spec#",1
+28193074,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-04_11 , 29 , 10.144779 ] -AirPortBrcm4360_Logs-008.txt , Current File [ 2017-07-04_11 , 29 , 10.144779 ] -AirPortBrcm4360_Logs-008.txt",1
+fad8b223,Sandbox : #spec# ( 34738 ) deny ( 1 ) network-outbound #spec#,1
+69720f0b,"ARPT : 700980.255260 : wl0 : setup_keepalive : Seq : 2955519239 , Ack : 2597833420 , Win size : #spec#",1
+7a420374,"CCLogTap : : profileRemoved , Owner : #spec# , Name : IO80211AWDLPeerManager",2
+3e2247c1,Sandbox : #spec# ( 34830 ) deny ( 1 ) network-outbound #spec#,1
+7e530d0e,[ 12 : 08 : 23.866 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+7ce2ab0b,[ 12 : 13 : 40.079 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+94596cc9,[ 12 : 19 : 03.575 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+dd9e9543,extension #spec# - > ( null ),1
+6c210465,[ 12 : 25 : 26.551 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+015815f8,"ARPT : 702237.246510 : wl0 : setup_keepalive : Local port : 49218 , Remote port : #spec#",1
+a8261011,"ARPT : 702351.279867 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+1a57194e,[ 13 : 43 : 06.901 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+43fb30ff,"[ Accounts ] Current connection , < NSXPCConnection : #spec# > connection from pid 487 , doesn ' t have account access.",1
+0b4e1ed5,"[ Accounts ] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8 , error : Error Domain = ABAddressBookErrorDomain Code = 1002 "" ( null ) """,2
+7676825b,[ 14 : 19 : 40.459 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+c4ac03c8,[ 14 : 33 : 25.556 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+7a38f0cb,Session #spec# created,1
+b840bf00,[ 14 : 36 : 08.077 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+f57f34e7,[ 14 : 39 : 45.538 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+5a9aa888,[ 14 : 43 : 39.854 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+1f438b4c,"2017-07-04 15 : 03 : 53.270 GoogleSoftwareUpdateAgent [ 35018/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher ( PrivateMethods ) helperDidTerminate : ] KSOutOfProcessFetcher fetch ended for URL : ""https : #spec# ?cup2hreq = a70d6372a4e45a6cbba61cd7f057c79bf73c79db1b1951dc17c605e870f0419b&cup2key = 7 : 934679018""",1
+5d75b77a,"NETWORK : requery , 0 , 0 , 0 , 0 , 300 , items , fQueryRetries , 0 , fLastRetryTimestamp , 520899307.1",1
+a712ef36,[ 15 : 47 : 25.614 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+b919eb05,Sandbox : #spec# ( 35110 ) deny ( 1 ) network-outbound #spec#,2
+ef730a5a,kern_open_file_for_direct_io took #spec# ms,1
+37609c6b,17 : 13 : 03.545 : Starting AirDrop server for user #spec# on wake,1
+0de07720,"ARPT : 711749.913729 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+3bbb91d8,17 : 26 : 44.228 : Scanning mode Contacts Only,1
+1d471bdd,Sandbox : #spec# ( 35150 ) deny ( 1 ) network-outbound #spec#,1
+498ea4c9,"ARPT : 711979.641310 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+d2af39d0,"ARPT : 712221.085635 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 70582765 , Ack 3488103719 , Win size #spec#",1
+e7f9c0cd,18 : 35 : 05.187 : Scanning mode Contacts Only,1
+bb16d663,"ARPT : 712526.783763 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+f1bf5efe,CGXDisplayDidWakeNotification [ * ] : posting kCGSDisplayDidWake,3
+dfcdcbbe,Peripheral manager is not powered on,3
+763916a7,Sandbox : #spec# ( 35229 ) deny ( 1 ) network-outbound #spec#,1
+2d250392,Sandbox : #spec# ( 35250 ) deny ( 1 ) network-outbound #spec#,1
+8a0790ac,ARPT : 712915.870808 : wl0 : MDNS : IPV4 Addr : #spec#,1
+e677b7b1,"ARPT : 712918.575461 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+7dbb67b0,20 : 54 : 03.455 : BTLE scanner Powered On,1
+d55b4401,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc22491 #spec#,1
+f32c89c9,Sandbox : #spec# ( 35286 ) deny ( 1 ) network-outbound #spec#,1
+e889c042,21 : 07 : 16.729 : Scanning mode Contacts Only,1
+bc8584b2,"ARPT : 713439.104255 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+a92caa9f,ARPT : 713493.575563 : wl0 : setup_keepalive : Remote IP : #spec#,1
+9e04ab3d,22 : 29 : 26.099 : BTLE scanner Powered On,1
+00fb26df,"PM response took #spec# ms ( 24144 , WeChat )",1
+74d335c7,Cocoa scripting error for ' #spec# ' : four character codes must be four characters long.,71
+8f1d1f7e,.sdef warning for argument ' ' of command ' can continue previous list ' in suite ' Microsoft Word Suite ' : ' 4023 ' is not a valid type name.,1
+31b7d89f,objc [ 35391 ] : Class TSUAtomicLRUCache is implemented in both #spec# and #spec# One of the two will be used. Which one is undefined.,1
+681abeff,Invalidating watch set.,1
+ab344cf0,objc [ 35448 ] : Class TSUCustomFormatData is implemented in both #spec# and #spec# One of the two will be used. Which one is undefined.,1
+3f511fc3,00 : 03 : 06.178 : Started generating hashes,1
+45ca9ef0,00 : 03 : 36.715 : BTLE scanning started,1
+2267459e,-_continuousScroll is deprecated for NSScrollWheel. Please use -hasPreciseScrollingDeltas.,1
+3d88db85,-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,1
+d9cb5360,[ 00 : 28 : 42.167 ] ( Fig ) signalled err = -12871,1
+10909506,[ 00 : 29 : 04.085 ] < < < < CRABS > > > > crabsWaitForLoad : [ #spec# ] Wait time out - -1001 ( msRequestTimeout -1 ),1
+99651fc4,"NETWORK : requery , 0 , 0 , 0 , 0 , 284 , items , fQueryRetries , 0 , fLastRetryTimestamp , 520934130.6",1
+3abd6023,Failed to stop a scan - central is not powered on : #spec#,1
+103ff55e,ARPT : 720413.304306 : wl0 : setup_keepalive : Remote IP : #spec#,1
+60f51a1c,Sandbox : #spec# ( 35773 ) deny ( 1 ) network-outbound #spec#,1
+cfa28f93,Wake reason : EC.SleepTimer ( SleepTimer ),1
+0e06726a,**** [ BroadcomBluetoothHostControllerUSBTransport ] [ start ] -- Completed ( matched on Device ) -- #spec# ****,3
+18018776,"hibernate_newruntime_map time : #spec# ms , IOPolledFilePollersOpen ( ) , ml_get_interrupts_enabled #spec#",2
+0f3e98fb,vm_compressor_fastwake_warmup ( 581519 - 591525 ) - starting,1
+a5a898c3,"< IMMacNotificationCenterManager : #spec# > : Updating enabled : YES ( Topics : ( "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" , "" #spec# "" ) )",1
+686347a8,"2017-07-05 10 : 52 : 15.982 GoogleSoftwareUpdateAgent [ 35861/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher ( PrivateMethods ) helperDidTerminate : ] KSOutOfProcessFetcher fetch ended for URL : ""https : #spec# ?cup2hreq = d297a7e5b56d6bd4faa75860fff6e485c301bf4e943a561afff6c8b3707ce948&cup2key = 7 : 2988503627""",1
+b8232eaf,2017-07-05 10 : 52 : 16.779 ksfetch [ 35863/ #spec# ] [ lvl = 2 ] main ( ) Fetcher received a request : < NSMutableURLRequest : #spec# > { URL : https : #spec# ?cup2hreq = a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key = 7 : 2501762722 },1
+6121a1cf,2017-07-05 10 : 52 : 16.977 GoogleSoftwareUpdateAgent [ 35861/ #spec# ] [ lvl = 2 ] - [ KSPrefetchAction performAction ] KSPrefetchAction no updates to prefetch.,1
+c495778a,#spec# 10 : 57 : 01.130 | I | VoipWrapper | DAVEngineImpl.cpp : 1400 : Close | close video chat. llFriendUIN = 1742124257.,1
+a83c2ddd,< IMMacNotificationCenterManager : #spec# > : notification observer : #spec# notification : __CFNotification #spec# { name = _NSDoNotDisturbEnabledNotification },1
+c7c61218,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-05_11 , 01 , 55.983179 ] -AirPortBrcm4360_Logs-006.txt , Current File [ 2017-07-05_11 , 01 , 55.983179 ] -AirPortBrcm4360_Logs-006.txt",1
+3431d9b4,CCProfileMonitor : : freeResources done,1
+405d79dd,"CCFile : : copyFile fileName is [ 2017-07-05_11 , 39 , 39.743225 ] #spec# , source path : #spec# [ 2017-07-05_11 , 39 , 39.743225 ] #spec# , dest path : #spec# [ 2017-07-05_11 , 39 , 38.739976 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-05_11 , 39 , 39.743225 ] #spec#",1
+98726536,< IMMacNotificationCenterManager : #spec# > : NC Disabled : NO,5
+cc00205a,< IMMacNotificationCenterManager : #spec# > : DND Enabled : NO,2
+85ca1dac,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc22930 #spec#,1
+9d6adcad,en0 : BSSID changed to 88 : 75 : 56 : a0 : 95 : ed,3
+a2ffc073,ARPT : 724509.898718 : wl0 : MDNS : IPV4 Addr : #spec#,1
+98709a6a,Daemon connection invalidated!,1
+59db418a,"CCFile : : copyFile fileName is [ 2017-07-05_14 , 04 , 19.163834 ] -AirPortBrcm4360_Logs-025.txt , source path : #spec# [ 2017-07-05_14 , 04 , 19.163834 ] -AirPortBrcm4360_Logs-025.txt , dest path : #spec# [ 2017-07-05_14 , 04 , 19.222771 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-05_14 , 04 , 19.163834 ] -AirPortBrcm4360_Logs-025.txt",1
+62c573c1,ARPT : 724786.252727 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+f97247de,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-05_14 , 04 , 25.118445 ] -AirPortBrcm4360_Logs-040.txt , Current File [ 2017-07-05_14 , 04 , 25.118445 ] -AirPortBrcm4360_Logs-040.txt",1
+4d9761e8,"CCFile : : copyFile fileName is [ 2017-07-05_14 , 04 , 25.705173 ] #spec# , source path : #spec# [ 2017-07-05_14 , 04 , 25.705173 ] #spec# , dest path : #spec# [ 2017-07-05_14 , 04 , 25.777317 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-05_14 , 04 , 25.705173 ] #spec#",1
+407b4125,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-05_14 , 04 , 24.831957 ] - AssocFail : sts : 5_rsn : #spec#",1
+c2f70552,"CCFile : : copyFile fileName is [ 2017-07-05_14 , 04 , 32.840703 ] -io80211Family-056.pcapng , source path : #spec# [ 2017-07-05_14 , 04 , 32.840703 ] -io80211Family-056.pcapng , dest path : #spec# [ 2017-07-05_14 , 04 , 32.969558 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-05_14 , 04 , 32.840703 ] -io80211Family-056.pcapng",1
+50e13c1c,"CCFile : : copyFile fileName is [ 2017-07-05_14 , 04 , 33.660387 ] -io80211Family-063.pcapng , source path : #spec# [ 2017-07-05_14 , 04 , 33.660387 ] -io80211Family-063.pcapng , dest path : #spec# [ 2017-07-05_14 , 04 , 33.736169 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-05_14 , 04 , 33.660387 ] -io80211Family-063.pcapng",1
+dc35d3df,network changed : v4 ( en0+ : #spec# ) v6 ( en0 : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f ) DNS! Proxy SMB,3
+b882d5e9,"ARPT : 724869.297011 : IOPMPowerSource Information : onWake , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 4551 ,",1
+c51fd782,* ( 0 ),3
+7eb9d378,"hibernate_machine_init : state 2 , image pages 446175 , sum was d4e6c0b2 , imageSize #spec# , image1Size #spec# , conflictCount 5848 , nextFree #spec#",1
+b0a1e463,* completed - took #spec# msecs,2
+ef4eff5c,AppleActuatorDevice : : * Entered,2
+daebac91,"bitmap_size #spec# , previewSize #spec# , writing #spec# pages @ #spec#",2
+473ad7f5,ARPT : 725209.960568 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+6139415e,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-05_16 , 05 , 05.078442 ] -io80211Family-008.pcapng , Current File [ 2017-07-05_16 , 05 , 05.078442 ] -io80211Family-008.pcapng",1
+cf4e6b11,"CCFile : : captureLog Received Capture notice id : 1499295963.492254 , reason = RoamFail : sts : 1_rsn : 1",1
+798afe0a,Saw change in network reachability ( isReachable = 0 ),2
+0542329e,en0 : manual intervention required!,1
+c2c4b311,"DB Error : #spec# ""no such table : tb_c2cMsg_2658655094""",2
+e74257e5,"2017-07-05 16 : 18 : 06.450 GoogleSoftwareUpdateAgent [ 36128/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher beginFetchWithDelegate : ] KSOutOfProcessFetcher fetching from URL : ""https : #spec# ?cup2hreq = ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key = 7 : 677488741""",1
+23d2439f,"NETWORK : requery , 0 , 0 , 0 , 0 , 252 , items , fQueryRetries , 0 , fLastRetryTimestamp , 520989480.3",1
+ec343e0a,ARPT : 725996.811165 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+55735c41,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-05_16 , 24 , 29.663045 ] - AuthFail : sts : 5_rsn : #spec#",1
+5798b33a,< IMMacNotificationCenterManager : #spec# > : Updating enabled : NO ( Topics : ( ) ),1
+12a405a0,"device_generate_lock_screen_screenshot : authw #spec# ( 2000 ) [ 0 , 0 , 0 , 0 ] shield #spec# ( 2001 ) , dev [ 1440 , 900 ]",1
+30abc737,ARPT : 728046.456828 : wl0 : setup_keepalive : Local IP : #spec#,1
+618581d2,"ARPT : 728173.580097 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+06d1cd47,ARPT : 728173.580149 : wl0 : MDNS : IPV4 Addr : #spec#,1
+387ca1f8,[ 17 : 22 : 36.133 ] < < < < CRABS > > > > crabsFlumeHostAvailable : [ #spec# ] Byte flume reports host available again.,1
+c62df0b5,"setting hostname to "" #spec# """,2
+20d51adf,en0 : BSSID changed to 00 : a2 : ee : 1a : 71 : 8c,1
+8c823b28,"arp_client_transmit ( en0 ) failed , Network is down ( 50 )",1
+08fb6409,- [ NETClientConnection evaluateCrazyIvan46 ] CI46 - Perform CrazyIvan46! QQ.10018 tc23407 #spec#,1
+1a2799b9,- [ NETClientConnection effectiveBundleID ] using process name CalendarAgent as bundle ID ( this is expected for daemons without bundle ID,4
+9f35234f,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-05_19 , 00 , 43.154864 ] #spec# , Current File [ 2017-07-05_19 , 00 , 43.154864 ] #spec#",1
+15565085,"ARPT : 728563.210777 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 3174 ,",1
+21268c24,"ARPT : 728620.515604 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+93229d05,Sandbox : #spec# ( 36325 ) deny ( 1 ) network-outbound #spec#,1
+092c6142,could discard act #spec# inact #spec# purgeable #spec# spec #spec# cleaned #spec#,2
+2a71818c,"booter start at #spec# ms smc #spec# ms , [ 18 , 0 , 0 ] total #spec# ms , dsply 0 , #spec# ms , tramp #spec# ms",1
+3f828058,"hostControllerOnline - Number of Paired devices = 1 , List of Paired devices = ( ""84-41-67-32-db-e1"" )",1
+6500a1a5,"pages 1401204 , wire 544128 , act 416065 , inact 0 , cleaned #spec# spec 3 , zf 25 , throt 0 , compr 266324 , xpmapped #spec#",1
+bc6f593d,**** [ BroadcomBluetoothHostController ] [ SetupController ] -- Delay HCI Reset by 300ms ****,1
+422c2419,AppleActuatorHIDEventDriver : stop,2
+0a5916ed,**** [ IOBluetoothHostControllerUSBTransport ] [ start ] -- completed -- result = TRUE -- #spec# ****,2
+4f60892b,AppleActuatorDeviceUserClient : : start Entered,1
+03e68f28,ARPT : 729188.852474 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+7317570e,"NETWORK : requery , 0 , 0 , 0 , 0 , 299 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521006902.2",1
+27778a77,2017-07-06 00 : 30 : 37.064 ksfetch [ 36439/ #spec# ] [ lvl = 2 ] main ( ) Fetcher is exiting.,1
+185bb098,"2017-07-06 00 : 30 : 37.071 GoogleSoftwareUpdateAgent [ 36436/ #spec# ] [ lvl = 2 ] - [ KSUpdateEngine updateAllExceptProduct : ] KSUpdateEngine updating all installed products , except : ' #spec# ' .",1
+4274cfd2,[ 01 : 11 : 06.715 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+29637086,"Google Chrome He [ 36456 ] triggered unnest of range #spec# - > #spec# of DYLD shared region in VM map #spec# . While not abnormal for debuggers , this increases system memory footprint until the target exits.",1
+cb1a60e2,"hibernate_alloc_pages act 107794 , inact 10088 , anon 460 , throt 0 , spec 58021 , wire 572831 , wireinit #spec#",1
+2d36a807,- [ NETClientConnection evaluateCrazyIvan46 ] CI46 - Perform CrazyIvan46! QQ.10018 tc23677 #spec#,1
+e00279dc,hibernate_page_list_setall ( preflight 1 ) start,1
+5fb70ff6,hibernate_page_list_setall time : #spec# ms,1
+dae3db09,IOPolledFilePollersOpen ( 0 ) #spec# ms,1
+3fc0afe6,hibernate_teardown completed - discarded #spec#,1
+ba31d3a2,AppleActuatorDeviceUserClient : : stop Entered,1
+f019b649,"pages 1418325 , wire 548641 , act 438090 , inact 2 , cleaned #spec# spec 12 , zf 30 , throt 0 , compr 254881 , xpmapped #spec#",1
+875580da,"Opened file #spec# , size 1073741824 , extents 3 , maxio #spec# ssd #spec#",1
+8f4dfb05,[ IOBluetoothHostController : : setConfigState ] calling registerService,1
+26c6d737,[HID] [ MT ] AppleMultitouchDevice : : start entered,1
+663c0b86,"[ CardDAVPlugin-ERROR ] -getPrincipalInfo : [ _controller supportsRequestCompressionAtURL : https : #spec# %40163.com@p28-contacts.icloud. #spec# ] Error Domain = NSURLErrorDomain Code = -1009 ""The Internet connection appears to be offline."" UserInfo = { NSUnderlyingError = #spec# { Error Domain = kCFErrorDomainCFNetwork Code = -1009 ""The Internet connection appears to be offline."" UserInfo = { NSErrorFailingURLStringKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , NSErrorFailingURLKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , _kCFStreamErrorCodeKey = 8 , _kCFStreamErrorDomainKey = 12 , NSLocalizedDescription = The Internet connection appears to be offline. } } , NSErrorFailingURLStringKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , NSErrorFailingURLKey = https : #spec# %40163.com@p28-contacts.icloud. #spec# , _kCFStreamErrorDomainKey = 12 , _kCFStreamErrorCodeKey = 8 , NSLocalizedDescription = The Internet connection appears to be offline. }",1
+76608524,Unable to start NetBIOS name service :,2
+add72615,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-06_08 , 33 , 08.335034 ] - AuthFail : sts : 5_rsn : #spec#",1
+472cc614,Got an XPC error : Connection invalid,1
+510428cc,"NETWORK : requery , 0 , 0 , 0 , 0 , 302 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521048292.6",1
+de58d2c8,"NETWORK : requery , 0 , 0 , 0 , 0 , 291 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521048893.3",1
+34cafec5,- [ SFLListManager ( ServiceReplyProtocol ) notifyChanges : toListWithIdentifier : ] Notified of item changes to list with identifier #spec#,1
+5bbe958a,2017-07-06 09 : 24 : 14.417 ksfetch [ 36728/ #spec# ] [ lvl = 2 ] main ( ) ksfetch fetching URL ( < NSMutableURLRequest : #spec# > { URL : https : #spec# ?cup2hreq = f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key = 7 : 1721929288 } ) to folder : #spec#,1
+6e88fc40,2017-07-06 09 : 24 : 14.733 GoogleSoftwareUpdateAgent [ 36726/ #spec# ] [ lvl = 2 ] - [ KSMultiUpdateAction performAction ] KSPromptAction had no updates to apply.,1
+5ede7912,no sleep images for WillPowerOffWithImages,1
+35ddcdb3,ChromeExistion main isUndetectWithCommand = #spec#,2
+aff54d0d,after trim url = https : #spec# ?rlz = 1C5CHFA_enHK732HK732&espv = 2&ie = UTF-8,1
+03f6fe55,"ChromeExistion main strSendMsg = { ""websitekey"" : false , ""commandkey"" : true , ""browserkey"" : true }",1
+76b3dd54,url host = #spec#,1
+6eca3c92,the url = http : #spec# %E8%93%9D%E9%87%87%E5%92%8C/462624?fr = aladdin,1
+f33c6829,11 : 07 : 29.673 : Purged contact hashes,1
+43d54c0b,[ #spec# ] [ Adding [ < CalDAVAccountRefreshQueueableOperation : #spec# ; Sequence : 0 > ] to failed operations. ],3
+06d96276,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_12 , 00 , 58.629029 ] -AirPortBrcm4360_Logs-007.txt , Current File [ 2017-07-06_12 , 00 , 58.629029 ] -AirPortBrcm4360_Logs-007.txt",1
+da4a38f5,ARPT : 739163.832381 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+7a8cdde7,network changed : v6 ( en0- : 2607 : f140 : 6000 : 8 : c6b3 : 1ff : fecd : 467f ) DNS- Proxy-,1
+df42d76e,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_12 , 03 , 00.133649 ] #spec# , Current File [ 2017-07-06_12 , 03 , 00.133649 ] #spec#",1
+e466935d,ARPT : 739241.687186 : AQM agg results #spec# len hi/lo : #spec# #spec# BAbitmap ( 0-3 ) #spec# 0 #spec# 0,1
+5173371d,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_12 , 03 , 02.449748 ] -AirPortBrcm4360_Logs-037.txt , Current File [ 2017-07-06_12 , 03 , 02.449748 ] -AirPortBrcm4360_Logs-037.txt",1
+26045634,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc24039 #spec#,1
+8a318002,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_12 , 03 , 12.289973 ] #spec# , Current File [ 2017-07-06_12 , 03 , 12.289973 ] #spec#",1
+62c4911d,"ARPT : 739295.354731 : wl0 : Roamed or switched channel , reason #4 , bssid f8 : 4f : 57 : 3b : ea : b2 , last RSSI -77",1
+447afc5b,en0 : BSSID changed to f8 : 4f : 57 : 3b : ea : b2,1
+acc3d157,"ARPT : 739357.156234 : wl0 : setup_keepalive : Seq : 1852166454 , Ack : 1229910694 , Win size : #spec#",1
+5ac2527c,ARPT : 739549.504820 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+53cb7744,ARPT : 739605.015490 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : cc53 : 3e31 : ccd8 : 11d4,1
+f356f9c1,hibernate_rebuild started,1
+2a73acad,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_14 , 15 , 59.644892 ] #spec# , Current File [ 2017-07-06_14 , 15 , 59.644892 ] #spec#",1
+1628c422,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-06_14 , 15 , 59.726497 ] -io80211Family-008.pcapng , Current File [ 2017-07-06_14 , 15 , 59.726497 ] -io80211Family-008.pcapng",1
+98e554e7,14 : 16 : 06.179 : Scanning mode Contacts Only,1
+cf311dff,Sandbox : #spec# ( 37034 ) deny ( 1 ) network-outbound #spec#,1
+12265622,"Service "" #spec# "" tried to hijack endpoint "" #spec# "" from owner : #spec#",3
+a20d8292,"ARPT : 740034.911245 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+fd60f6ba,"RTC : Maintenance #spec# 21 : 56 : 47 , sleep #spec# #spec#",1
+1a919175,2017-07-06 14 : 57 : 16.261 ksfetch [ 37061/ #spec# ] [ lvl = 2 ] KSHelperReceiveAllData ( ) KSHelperTool read #spec# bytes from stdin.,1
+caf01a4c,"2017-07-06 14 : 57 : 16.661 GoogleSoftwareUpdateAgent [ 37059/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher ( PrivateMethods ) helperDidTerminate : ] KSOutOfProcessFetcher fetch ended for URL : ""https : #spec# ?cup2hreq = 37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key = 7 : 4200177539""",1
+40a01c60,2017-07-06 14 : 57 : 16.667 GoogleSoftwareUpdateAgent [ 37059/ #spec# ] [ lvl = 2 ] - [ KSAgentApp ( KeystoneDelegate ) updateEngineFinishedWithErrors : ] Keystone finished : errors = 0,1
+06e70c78,"ARPT : 740174.102665 : wl0 : MDNS : #spec# SRV Recs , #spec# TXT Recs",1
+93dfaf99,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc24283 #spec#,1
+b7a0c541,"ARPT : 740631.402908 : IOPMPowerSource Information : onWake , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 5802 ,",1
+b7bee61f,17 : 23 : 43.193 : Scanning mode Contacts Only,1
+c3c7c4e8,"NETWORK : requery , 0 , 0 , 0 , 0 , 302 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521080983.6",1
+cc30d128,"NETWORK : requery , 0 , 0 , 0 , 0 , 300 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521081581.2",1
+f2f1f0ef,Sandbox : #spec# ( 9854 ) deny ( 1 ) file-read-data #spec#,1
+b17380c8,2017-07-06 06 : 22 : 57.163367 PM [ AirPlayUIAgent ] BecomingInactive : NSWorkspaceWillSleepNotification,1
+86b4a318,#spec# 18 : 22 : 57.953 | I | VoipWrapper | DAVEngineImpl.cpp : 1400 : Close | close video chat. llFriendUIN = 1742124257.,1
+02c318c5,Sandbox : #spec# ( 37204 ) deny ( 1 ) network-outbound #spec#,1
+cd64a974,full wake request ( reason 2 ) #spec# ms,1
+23910f8e,18 : 37 : 30.916 : BTLE scanner Powered Off,1
+72bbd4c1,"ARPT : 744319.484045 : wl0 : wl_update_tcpkeep_seq : Original Seq : 1092633597 , Ack : 2572586285 , Win size : #spec#",1
+5220ec69,19 : 17 : 46.405 : BTLE scanner Powered Off,1
+0f71bc0f,ARPT : 744589.508896 : wl0 : setup_keepalive : Remote IP : #spec#,1
+4ba2d28f,"ARPT : 744593.160590 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 1529267953 , Ack 4054195714 , Win size #spec#",1
+abb3dbc6,ARPT : 744650.016431 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : f882 : 21d2 : d1af : f093,1
+33e6d661,"PM response took #spec# ms ( 10018 , QQ )",1
+eaba6037,20 : 03 : 05.179 : BTLE scanner Powered Off,1
+c8fd60a7,"2017-07-06 20 : 46 : 03.869 GoogleSoftwareUpdateAgent [ 37316/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher beginFetchWithDelegate : ] KSOutOfProcessFetcher start fetch from URL : ""https : #spec# ?cup2hreq = 5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key = 7 : 780377214""",1
+faa3e9cb,"NETWORK : requery , 0 , 0 , 0 , 0 , 291 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521092126.3",1
+d035f1f9,"Page bounds { { 0 , 0 } , { 400 , 400 } }",2
+20a0a329,Failed to connect ( titleField ) outlet from ( MMSessionPickerChoosenRowView ) to ( NSTextField ) : missing setter or instance variable,1
+2119a62c,[ #spec# ] [ Account xpc_ben@163.com@https : #spec# %40163.com/ timed out when executing operation : < CalDAVAccountRefreshQueueableOperation : #spec# ; Sequence : 0 > ],1
+9e4c5857,"[ #spec# ] [ Account refresh failed with error : Error Domain = CoreDAVHTTPStatusErrorDomain Code = 502 "" ( null ) "" UserInfo = { AccountName = 163 , CalDAVErrFromRefresh = YES , CoreDAVHTTPHeaders = < CFBasicHash #spec# [ #spec# ] > { type = immutable dict , count = 5 , entries = > #spec# : Connection = < CFString #spec# [ #spec# ] > { contents = ""keep-alive"" } #spec# : Content-Type = text/html #spec# : Content-Length = #spec# 5 : Server = nginx #spec# : Date = < CFString #spec# [ #spec# ] > { contents = ""Fri , #spec# Jul #spec# #spec# GMT"" } } } ]",1
+8632ce75,Sandbox : SpotlightNetHelp ( 352 ) deny ( 1 ) ipc-posix-shm-read-data CFPBS : 186A7 :,1
+f4080ba1,"no application identifier provided , can ' t use provisioning profiles [ pid = 37563 ]",1
+bea232b8,tcp_connection_destination_handle_tls_close_notify #spec# closing socket due to TLS CLOSE_NOTIFY alert,1
+6c8dde1a,CFNetwork SSLHandshake failed ( -9802 ),1
+a54e22df,"Unable to simultaneously satisfy constraints : ( "" < NSLayoutConstraint : #spec# H : [ NSImageView : #spec# ( 38 ) ] > "" , "" < NSLayoutConstraint : #spec# H : |- ( 14 ) - [ NSImageView : #spec# ] ( Names : PageItemCell : #spec# , ' | ' : PageItemCell : #spec# ) > "" , "" < NSLayoutConstraint : #spec# ' NSView-Encapsulated-Layout-Width ' H : [ PageItemCell ( 73 ) ] ( Names : PageItemCell : #spec# ) > "" , "" < NSLayoutConstraint : #spec# H : [ NSImageView : #spec# ] - ( 10 ) - [ NSTextField : #spec# ] > "" , "" < NSLayoutConstraint : #spec# H : [ NSTextField : #spec# ] - ( 14 ) -| ( Names : PageItemCell : #spec# , ' | ' : PageItemCell : #spec# ) > "" , "" < NSLayoutConstraint : #spec# H : [ NSTextField : #spec# ] - ( > = NSSpace ( 8 ) ) - [ NSTextField : #spec# ] > "" ) Will attempt to recover by breaking constraint < NSLayoutConstraint : #spec# H : [ NSImageView : #spec# ( 38 ) ] > Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have - [ NSWindow visualizeConstraints : ] automatically called when this happens. And/or , break on objc_exception_throw to catch this in the debugger.",2
+59b3f9f8,"Configuration Notice : ASL Module "" #spec# "" sharing output destination "" #spec# "" with ASL Module "" #spec# "". Output parameters from ASL Module "" #spec# "" override any specified in ASL Module "" #spec# "".",1
+3717f6ae,"CCFile : : copyFile fileName is [ 2017-07-07_00 , 52 , 55.450817 ] #spec# , source path : #spec# [ 2017-07-07_00 , 52 , 55.450817 ] #spec# , dest path : #spec# [ 2017-07-07_00 , 52 , 54.449889 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-07_00 , 52 , 55.450817 ] #spec#",1
+d35dcf3f,( DiskStore.Normal : 2382 ) 20cb04f 1.000086,1
+591cd18f,"2017-07-07 01 : 47 : 40.090 GoogleSoftwareUpdateAgent [ 37644/ #spec# ] [ lvl = 2 ] - [ KSOutOfProcessFetcher beginFetchWithDelegate : ] KSOutOfProcessFetcher start fetch from URL : ""https : #spec# ?cup2hreq = c30943ccd5e0a03e93b6be3e2b7e2127989f08f1bde99263ffee091de8b8bc39&cup2key = 7 : 1039900771""",1
+0cbd561d,"ARPT : 762543.171617 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : Yes , ' TimeRemaining ' : 0 ,",1
+4abfb37d,"ARPT : 762603.017378 : wl0 : setup_keepalive : Local port : 62991 , Remote port : #spec#",1
+2a8272fc,ARPT : 762900.518967 : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : 3065 : 65eb : 758e : 972a,1
+f2a8014b,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_07 , 01 , 14.472939 ] #spec# , Current File [ 2017-07-07_07 , 01 , 14.472939 ] #spec#",1
+4c7ccbeb,"CCDataTap : : profileRemoved , Owner : #spec# , Name : StateSnapshots",1
+0077612a,ARPT : * : wl0 : MDNS : IPV6 Addr : 2607 : f140 : 6000 : 8 : 9cb8 : f7f2 : 7c03 : f956,2
+a90f79c8,"ARPT : 764427.640542 : wl0 : setup_keepalive : Seq : 204730741 , Ack : 2772623181 , Win size : #spec#",1
+b8c73952,"RTC : Maintenance #spec# 17 : 31 : 21 , sleep #spec# #spec#",1
+98e7de6f,Unrecognized XSSimpleTypeDefinition : OneOff,2
+4c63ebf3,DB Path : #spec#,1
+3a317e5e,Could not get event name for stream/token : #spec# /4505 : 132 : Request for stale data,1
+2ab4302a,2017-07-07 10 : 54 : 41.296 ksfetch [ 37925/ #spec# ] [ lvl = 2 ] KSHelperReceiveAllData ( ) KSHelperTool read #spec# bytes from stdin.,1
+46e300cf,2017-07-07 10 : 54 : 41.875 GoogleSoftwareUpdateAgent [ 37924/ #spec# ] [ lvl = 2 ] - [ KSUpdateCheckAction performAction ] KSUpdateCheckAction starting update check for ticket ( s ) : { ( < KSTicket : #spec# productID = #spec# version = #spec# xc = < KSPathExistenceChecker : #spec# path = #spec# Chrome.app > serverType = Omaha url = https : #spec# creationDate = 2017-02-18 #spec# tagPath = #spec# Chrome. #spec# tagKey = KSChannelID brandPath = #spec# Chrome Brand.plist brandKey = KSBrandID versionPath = #spec# Chrome. #spec# versionKey = KSVersion cohort = 1 : 1y5 : cohortName = Stable ticketVersion = 1 > ) } Using server : < KSOmahaServer : #spec# engine = < KSUpdateEngine : #spec# > >,1
+88021835,"NETWORK : requery , 0 , 0 , 0 , 0 , 294 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521144227.4",1
+9fd63859,[ 11 : 48 : 06.869 ] FigAgglomeratorSetObjectForKey signalled err = -16020 ( kFigStringConformerError_ParamErr ) ( NULL key ) at #spec# line #spec#,1
+be905df1,Session #spec# destroyed,2
+2e92ae65,"CCFile : : copyFile fileName is [ 2017-07-07_12 , 24 , 25.108710 ] -io80211Family-007.pcapng , source path : #spec# [ 2017-07-07_12 , 24 , 25.108710 ] -io80211Family-007.pcapng , dest path : #spec# [ 2017-07-07_12 , 24 , 29.298901 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-07_12 , 24 , 25.108710 ] -io80211Family-007.pcapng",1
+e83f43bb,ARPT : 770597.394609 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+c220e960,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_12 , 24 , 31.376032 ] -AirPortBrcm4360_Logs-011.txt , Current File [ 2017-07-07_12 , 24 , 31.376032 ] -AirPortBrcm4360_Logs-011.txt",1
+13ecb5be,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-07_13 , 38 , 22.072050 ] - AssocFail : sts : 2_rsn : #spec#",1
+ef4c626b,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_13 , 38 , 23.338868 ] -AirPortBrcm4360_Logs-013.txt , Current File [ 2017-07-07_13 , 38 , 23.338868 ] -AirPortBrcm4360_Logs-013.txt",1
+c9d778c1,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_13 , 38 , 24.371339 ] #spec# , Current File [ 2017-07-07_13 , 38 , 24.371339 ] #spec#",1
+fbf5886c,- [ NETClientConnection evaluateCrazyIvan46 ] CI46 - Perform CrazyIvan46! NeteaseMusic.17988 tc12042 #spec#,1
+34385bba,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_13 , 40 , 35.857095 ] -AirPortBrcm4360_Logs-022.txt , Current File [ 2017-07-07_13 , 40 , 35.857095 ] -AirPortBrcm4360_Logs-022.txt",1
+6a0f5705,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_13 , 40 , 35.961495 ] -io80211Family-023.pcapng , Current File [ 2017-07-07_13 , 40 , 35.961495 ] -io80211Family-023.pcapng",1
+7e9a36bc,"CCFile : : copyFile fileName is [ 2017-07-07_13 , 40 , 37.052249 ] -io80211Family-031.pcapng , source path : #spec# [ 2017-07-07_13 , 40 , 37.052249 ] -io80211Family-031.pcapng , dest path : #spec# [ 2017-07-07_13 , 40 , 37.192896 ] = AuthFail : sts : 5_rsn : #spec# [ 2017-07-07_13 , 40 , 37.052249 ] -io80211Family-031.pcapng",1
+8687c861,"doSaveChannels@286 : Will write to : #spec# [ 2017-07-07_13 , 40 , 35.959475 ] - AuthFail : sts : 5_rsn : #spec#",1
+a0ad7212,ARPT : 770772.533370 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+194898fc,ARPT : 770786.961436 : AQM agg params #spec# maxlen hi/lo #spec# #spec# minlen #spec# adjlen #spec#,1
+0744a6ae,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-07_13 , 42 , 34.831310 ] -AirPortBrcm4360_Logs-041.txt , Current File [ 2017-07-07_13 , 42 , 34.831310 ] -AirPortBrcm4360_Logs-041.txt",1
+47ff38b7,ARPT : 770812.035971 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+a1cf1ef0,[ 14 : 07 : 21.190 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+5ea5e8e4,"ARPT : 771388.849884 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+dc935439,ARPT : 771393.363637 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+71f6e282,"ARPT : 771631.938256 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 9235 ,",1
+a3915926,- [ NETClientConnection evaluateCrazyIvan46 ] CI46 - Perform CrazyIvan46! QQ.10018 tc25354 #spec#,1
+41e2a503,"ARPT : 771663.085756 : wl0 : Roamed or switched channel , reason #8 , bssid 00 : a6 : ca : db : 93 : cc , last RSSI -60",1
+60429ffb,en0 : BSSID changed to 0c : 68 : 03 : d6 : c5 : 1c,1
+e9be04dd,"CCFile : : copyFile fileName is [ 2017-07-07_16 , 24 , 11.442212 ] -AirPortBrcm4360_Logs-001.txt , source path : #spec# [ 2017-07-07_16 , 24 , 11.442212 ] -AirPortBrcm4360_Logs-001.txt , dest path : #spec# [ 2017-07-07_16 , 24 , 11.124183 ] = AssocFail : sts : 2_rsn : #spec# [ 2017-07-07_16 , 24 , 11.442212 ] -AirPortBrcm4360_Logs-001.txt",1
+922e0848,"CCFile : : captureLog Received Capture notice id : 1499469856.145137 , reason = AssocFail : sts : 2_rsn : 0",1
+73d8847f,[ 16 : 57 : 09.235 ] < < < < Boss > > > > figPlaybackBossPrerollCompleted : unexpected preroll-complete notification,1
+461cb8c3,Sandbox : QuickLookSatelli ( 38418 ) deny ( 1 ) mach-lookup #spec#,1
+258f9e7b,"nw_path_evaluator_start_helper_connection net_helper_path_evaluation_start failed , dumping backtrace : [ x86_64 ] #spec# #spec# libsystem_network.dylib #spec# __nw_create_backtrace_string + #spec# 1 libsystem_network.dylib #spec# nw_path_evaluator_start_helper_connection + #spec# 2 libdispatch.dylib #spec# _dispatch_call_block_and_release + #spec# 3 libdispatch.dylib #spec# _dispatch_client_callout + #spec# 4 libdispatch.dylib #spec# _dispatch_queue_drain + #spec# 5 libdispatch.dylib #spec# _dispatch_queue_invoke + #spec# 6 libdispatch.dylib #spec# _dispatch_root_queue_drain + #spec# 7 libdispatch.dylib #spec# _dispatch_worker_thread3 + #spec# 8 libsystem_pthread.dylib #spec# _pthread_wqthread + #spec# 9 libsystem_pthread.dylib #spec# start_wqthread + #spec#",1
+29bb63d0,"CoreAnimation : warning , deleted thread with uncommitted CATransaction ; set CA_DEBUG_TRANSACTIONS = 1 in environment to log backtraces.",1
+75295336,Sandbox : #spec# ( 38449 ) deny ( 1 ) network-outbound #spec#,1
+bdc42022,"ARPT : 775899.188954 : wl0 : wl_update_tcpkeep_seq : Updated #spec# from UserClient Seq 2863091569 , Ack 159598625 , Win size #spec#",1
+3ae428d1,18 : 50 : 46.109 : BTLE scanner Powered On,1
+22764431,full wake promotion ( reason 1 ) #spec# ms,1
+5baa1d03,"NETWORK : requery , 0 , 0 , 0 , 0 , 328 , items , fQueryRetries , 0 , fLastRetryTimestamp , 521177334.4",1
+e3f534d5,"NSURLSession/NSURLConnection HTTP load failed ( kCFStreamErrorDomainSSL , -9806 )",1
+e28b2a1f,"[QL] No sandbox token for request < QLThumbnailRequest vmware-usbarb-25037.log > , it will probably fail",1
+b04f966f,"schedule invalidation < DYTransport #spec# , error : lost transport connection ( 31 ) >",1
+d7418b07,[ 21 : 22 : 43.147 ] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err = -12956 ( kFigMediaValidatorError_VideoCodecNotSupported ) ( video codec 1 ) at line #spec#,1
+8515ecb3,< < < < MediaValidator > > > > mv_LookupCodecSupport : Unrecognized codec #spec#,1
+c5b0b3bf,< < < < MediaValidator > > > > mv_ValidateRFC4281CodecId : Unrecognized codec 1. ( null ) . Failed codec specific check.,1
+57fbdef7,CoreAnimation : timed out fence 5fe83,1
+ce94870d,Failed to connect ( view ) outlet from ( NSApplication ) to ( NSColorPickerGridView ) : missing setter or instance variable,1
+3b7b0d2e,#spec# 21 : 47 : 20.392 | I | VoipWrapper | DAVEngineImpl.cpp : 1400 : Close | close video chat. llFriendUIN = 515629905.,1
+80189b62,21 : 58 : 33.765 ERROR : 177 : timed out after 15.000s ( 0 0 ) ; mMajorChangePending = 0,1
+42db7d37,ARPT : 783795.288172 : AirPort_Brcm43xx : : powerChange : System Wake - Full Wake/ Dark Wake / Maintenance wake,1
+2efed1ba,22 : 24 : 31.135 : BTLE scanner Powered On,1
+fb3f4555,"ARPT : 783991.995027 : wl0 : setup_keepalive : interval 900 , retry_interval 30 , retry_count #spec#",1
+f302b3f6,"ARPT : 784053.579480 : wl0 : setup_keepalive : Local port : 59927 , Remote port : #spec#",1
+0f32bd62,"ARPT : 784055.560270 : IOPMPowerSource Information : onSleep , SleepType : Normal Sleep , ' ExternalConnected ' : No , ' TimeRemaining ' : 5600 ,",1
+03f29af6,- [ NETClientConnection evaluateCrazyIvan46 ] CI46 - Perform CrazyIvan46! QQ.10018 tc25805 #spec#,1
+cd7af92d,efi pagecount #spec#,2
+df0f8c57,"CCFile : : captureLogRun Skipping current file Dir file [ 2017-07-08_02 , 32 , 46.787931 ] -AirPortBrcm4360_Logs-004.txt , Current File [ 2017-07-08_02 , 32 , 46.787931 ] -AirPortBrcm4360_Logs-004.txt",1
+a27b43af,"CCFile : : copyFile fileName is [ 2017-07-08_02 , 32 , 47.528554 ] #spec# , source path : #spec# [ 2017-07-08_02 , 32 , 47.528554 ] #spec# , dest path : #spec# [ 2017-07-08_02 , 32 , 46.517498 ] = AssocFail : sts : 2_rsn : #spec# [ 2017-07-08_02 , 32 , 47.528554 ] #spec#",1
+ecde6898,did discard act #spec# inact #spec# purgeable #spec# spec #spec# cleaned #spec#,1
+6f3823e9,"CCDataTap : : profileRemoved , Owner : #spec# , Name : AssociationEventHistory",1
+8e09feb7,"ARPT : 784632.788065 : wl0 : Roamed or switched channel , reason #8 , bssid 5c : 50 : 15 : 36 : bc : 03 , last RSSI -69",1
+8a784285,"DB Error : #spec# ""no such table : tb_c2cMsg_2909288299""",1
+f81e9894,Host controller terminated,1
+d1fa4d6d,[HID] [ MT ] AppleActuatorHIDEventDriver : : start entered,1
+1230d912,__42- [ NETClientConnection evaluateCrazyIvan46 ] _block_invoke CI46 - Hit by torpedo! QQ.10018 tc25995 #spec#,1
+fa945705,[ BluetoothHIDDeviceController ] ERROR : Could not find the disconnected object,2
+72113679,"CCFile : : captureLog Received Capture notice id : 1499518522.558304 , reason = AssocFail : sts : 2_rsn : 0",1
+1b0bdba5,"CCFile : : copyFile fileName is [ 2017-07-08_05 , 55 , 23.694116 ] -io80211Family-002.pcapng , source path : #spec# [ 2017-07-08_05 , 55 , 23.694116 ] -io80211Family-002.pcapng , dest path : #spec# [ 2017-07-08_05 , 56 , 40.163377 ] = AssocFail : sts : 2_rsn : #spec# [ 2017-07-08_05 , 55 , 23.694116 ] -io80211Family-002.pcapng",1
+06761aa0,"[ Accounts ] Current connection , < NSXPCConnection : #spec# > connection from pid 30318 , doesn ' t have account access.",1
+32c6b1aa,"Unable to simultaneously satisfy constraints : ( "" < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = -&- V : [ NSScrollView : #spec# ] - ( 11 ) -| ( Names : ' | ' : NSView : #spec# ) > "" , "" < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = -&- V : |- ( 45 ) - [ NSScrollView : #spec# ] ( Names : ' | ' : NSView : #spec# ) > "" , "" < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = --& V : [ NSView : #spec# ( 0 ) ] > "" , "" < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = -&- V : |- ( 0 ) - [ NSView : #spec# ] ( Names : ' | ' : NSView : #spec# ) > "" , "" < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = -&- V : [ NSView : #spec# ] - ( 0 ) -| ( Names : ' | ' : NSView : #spec# ) > "" ) Will attempt to recover by breaking constraint < NSAutoresizingMaskLayoutConstraint : #spec# h = -&- v = -&- V : |- ( 45 ) - [ NSScrollView : #spec# ] ( Names : ' | ' : NSView : #spec# ) > Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have - [ NSWindow visualizeConstraints : ] automatically called when this happens. And/or , break on objc_exception_throw to catch this in the debugger.",1
+7e84fee6,2017-07-08 06 : 26 : 32.364 GoogleSoftwareUpdateAgent [ 39159/ #spec# ] [ lvl = 2 ] - [ KSAgentApp ( KeystoneDelegate ) updateEngineFinishedWithErrors : ] Keystone finished : errors = 0,1
+dbde336a,2017-07-08 06 : 26 : 32.365 GoogleSoftwareUpdateAgent [ 39159/ #spec# ] [ lvl = 2 ] - [ KSAgentApp ( KeystoneThread ) runKeystonesInThreadWithArg : ] About to run checks for any other apps.,1
+56166bc7,"Arranged view frame : { { 0 , 0 } , { 260 , 877 } }",1
+2bc6deed,Telling CSI to go low power.,1

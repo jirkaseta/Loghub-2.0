@@ -1,0 +1,354 @@
+EventId,EventTemplate,Occurrences
+8c0244fd,"<*> <*> <*>. <*>, <*> <*>",5
+435123da,<*>: Committed,3
+44af5df9,"Block <*> stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",2
+3a75c708,"Block broadcast_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+10bc6b4f,"Block broadcast_0_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+7abd45a1,"Block broadcast_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+046a68d3,"Block broadcast_10 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+788ad09e,"Block broadcast_10_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+5fc4d509,"Block broadcast_11 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e45dc3e4,"Block broadcast_11_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+4c628635,"Block broadcast_12 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3947542a,"Block broadcast_12_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+90976043,"Block broadcast_13 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+1965b98d,"Block broadcast_13_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3f377b6a,"Block broadcast_14 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+b8c66552,"Block broadcast_14_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e21b0634,"Block broadcast_15 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+96b3f2eb,"Block broadcast_15_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+53e46aff,"Block broadcast_16 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+fdc0fc1e,"Block broadcast_16_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3d20682b,"Block broadcast_17 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e3ea5ea1,"Block broadcast_17_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+060cb728,"Block broadcast_18 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+cc75da4c,"Block broadcast_18_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+c66ef929,"Block broadcast_19 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+61a6896d,"Block broadcast_19_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+743e95ee,"Block broadcast_1_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+03e0944d,"Block broadcast_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+2049abb2,"Block broadcast_20 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a6d0c697,"Block broadcast_20_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+8d3ec89a,"Block broadcast_21 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+26a1ea76,"Block broadcast_21_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+753d722f,"Block broadcast_22 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+676524e9,"Block broadcast_22_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3e48da2c,"Block broadcast_23 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+363c0a59,"Block broadcast_23_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+cf31339e,"Block broadcast_24 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+ad0ba78e,"Block broadcast_24_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+fff2e6a4,"Block broadcast_25 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+11fd1c23,"Block broadcast_25_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+367df215,"Block broadcast_26 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+aed6b622,"Block broadcast_26_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+52bb7209,"Block broadcast_27 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+6b6381ce,"Block broadcast_27_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+bd1bf2a5,"Block broadcast_28 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+de580029,"Block broadcast_28_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+f892e768,"Block broadcast_29 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+8b899da9,"Block broadcast_29_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+36e37fa3,"Block broadcast_2_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+ae9920db,"Block broadcast_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+85b0f168,"Block broadcast_30 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+0b42dbee,"Block broadcast_30_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+00826d9b,"Block broadcast_31 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+0bfd0190,"Block broadcast_31_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3c98ce61,"Block broadcast_32 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+aa15bfa6,"Block broadcast_33 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+23b804bf,"Block broadcast_33_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+274d7203,"Block broadcast_34 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+22389296,"Block broadcast_34_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+38684165,"Block broadcast_36 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+73ebea6e,"Block broadcast_36_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+1f1c4535,"Block broadcast_37 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+c635619c,"Block broadcast_37_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+18facf8a,"Block broadcast_38 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+44b4e676,"Block broadcast_38_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+85f39a9c,"Block broadcast_39 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+b73b47bf,"Block broadcast_39_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+686a574c,"Block broadcast_3_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+437f5566,"Block broadcast_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3391ff24,"Block broadcast_40 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+27ad513c,"Block broadcast_40_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+8af0b2d1,"Block broadcast_8 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+86dd9d15,"Block broadcast_8_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+464ae697,"Block broadcast_9 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+873de9bf,"Block broadcast_9_piece0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3472040a,"Block rdd_11_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+cd9205d1,"Block rdd_11_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+53cf7cfc,"Block rdd_11_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+bc691d03,"Block rdd_11_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+b7cce7b0,"Block rdd_11_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a02b957f,"Block rdd_16_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+6653eeed,"Block rdd_16_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+89f9b0ef,"Block rdd_16_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+8dafb6d8,"Block rdd_16_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+38740497,"Block rdd_16_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+dfaaa873,"Block rdd_21_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+714b828e,"Block rdd_21_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+6000512b,"Block rdd_21_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+019d3e7a,"Block rdd_21_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+4ad3731d,"Block rdd_21_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+ef1b17e4,"Block rdd_26_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+1a2b0c94,"Block rdd_26_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a4bce0ff,"Block rdd_26_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+bb51ceec,"Block rdd_26_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3c8ecb33,"Block rdd_26_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+6efd6383,"Block rdd_2_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e1130a93,"Block rdd_2_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+79c2b90a,"Block rdd_2_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+d06219f5,"Block rdd_2_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+3bd4721b,"Block rdd_2_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+9d20c40a,"Block rdd_30_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+0f641d97,"Block rdd_30_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+f02444c2,"Block rdd_30_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+58b48c9f,"Block rdd_30_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+c7bf9682,"Block rdd_30_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a6a143c3,"Block rdd_42_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+d197a001,"Block rdd_42_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+56d11afd,"Block rdd_42_10 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+b3f20448,"Block rdd_42_11 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+648e136a,"Block rdd_42_12 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a77a881a,"Block rdd_42_13 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+177a70a6,"Block rdd_42_14 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a5c42b63,"Block rdd_42_15 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+ebd5582f,"Block rdd_42_16 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+1a449870,"Block rdd_42_17 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+485fdc19,"Block rdd_42_18 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e2d6eec1,"Block rdd_42_19 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+0407616a,"Block rdd_42_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+e2042135,"Block rdd_42_20 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+c604e693,"Block rdd_42_21 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+678217b7,"Block rdd_42_22 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+5b012c30,"Block rdd_42_23 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+9ba3c889,"Block rdd_42_24 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+35bd0747,"Block rdd_42_25 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a2396ea7,"Block rdd_42_26 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+936e47f6,"Block rdd_42_27 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+9de9df5b,"Block rdd_42_28 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a8bb8f6f,"Block rdd_42_29 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+f2b159b6,"Block rdd_42_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+fe25614c,"Block rdd_42_30 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+79b7e956,"Block rdd_42_31 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+648361ef,"Block rdd_42_32 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+b78650a4,"Block rdd_42_33 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+46389e50,"Block rdd_42_34 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+c86587b7,"Block rdd_42_35 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+7411495b,"Block rdd_42_36 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+53f58a32,"Block rdd_42_37 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+f583a51d,"Block rdd_42_38 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+ec2d4015,"Block rdd_42_39 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+90093970,"Block rdd_42_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+6245b4c4,"Block rdd_42_5 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+15f6a539,"Block rdd_42_6 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+2ea332dd,"Block rdd_42_7 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+a91fe3ea,"Block rdd_42_8 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+93a3e712,"Block rdd_42_9 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+673f6db5,"Block rdd_6_0 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+d1fb3cee,"Block rdd_6_1 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+88b0f3c8,"Block rdd_6_2 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+693bcfd5,"Block rdd_6_3 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+0e5ec7a9,"Block rdd_6_4 stored <*> <*> <*> <*> (<*> <*> <*>.<*> <*>, <*> <*>.<*> <*>)",1
+91c45352,"Changing modify acls to: yarn,curi",2
+7103ffa2,"Changing view acls to: yarn,curi",2
+2f290e54,Connecting to driver: spark:<*>@<*>,1
+2da93419,Created local directory <*> <*>,1
+c4094ee9,File Output Committer <*> <*> <*> <*>,30
+db2b4a25,Finished task <*>.<*> <*> <*> <*>.<*> (<*> <*>). <*> <*> <*> <*> <*> <*>,300
+32b1ec2d,Found block rdd_11_0 <*>,2
+65a770ea,Found block rdd_11_1 <*>,2
+9b50e136,Found block rdd_11_2 <*>,2
+bf09166d,Found block rdd_11_3 <*>,2
+e7951fd5,Found block rdd_11_4 <*>,2
+67a23a24,Found block rdd_16_0 <*>,2
+3b128835,Found block rdd_16_1 <*>,2
+bc7df99a,Found block rdd_16_2 <*>,2
+2da45ce0,Found block rdd_16_3 <*>,2
+22fce035,Found block rdd_16_4 <*>,2
+c8e3b89a,Found block rdd_21_0 <*>,2
+d095a614,Found block rdd_21_1 <*>,2
+58c1dcae,Found block rdd_21_2 <*>,2
+8f8b7106,Found block rdd_21_3 <*>,2
+c73844f4,Found block rdd_21_4 <*>,2
+80d15d0f,Found block rdd_26_0 <*>,2
+b5440bca,Found block rdd_26_1 <*>,2
+638222d4,Found block rdd_26_2 <*>,2
+77846f6f,Found block rdd_26_3 <*>,2
+a6173ee1,Found block rdd_26_4 <*>,2
+d6c4ce62,Found block rdd_2_0 <*>,17
+24ae345e,Found block rdd_2_1 <*>,17
+b7b5ddc6,Found block rdd_2_2 <*>,17
+d7a48572,Found block rdd_2_3 <*>,17
+98eea7de,Found block rdd_2_4 <*>,17
+ad29f763,Found block rdd_30_0 <*>,2
+da5ce4f8,Found block rdd_30_1 <*>,2
+9f8ad26e,Found block rdd_30_2 <*>,2
+9c190648,Found block rdd_30_3 <*>,2
+658721c2,Found block rdd_30_4 <*>,2
+aadcffad,Found block rdd_42_0 <*>,3
+591f4ce5,Found block rdd_42_1 <*>,3
+b2384330,Found block rdd_42_10 <*>,3
+f9eb5507,Found block rdd_42_11 <*>,3
+d3b6ef85,Found block rdd_42_12 <*>,3
+34469de9,Found block rdd_42_13 <*>,3
+354382eb,Found block rdd_42_14 <*>,3
+0661e8e7,Found block rdd_42_15 <*>,3
+e00820b0,Found block rdd_42_16 <*>,3
+09abb38b,Found block rdd_42_17 <*>,3
+d81f09e5,Found block rdd_42_18 <*>,3
+4321307b,Found block rdd_42_19 <*>,3
+654caf79,Found block rdd_42_2 <*>,3
+2cc9df34,Found block rdd_42_20 <*>,3
+ef09633c,Found block rdd_42_21 <*>,3
+1c26efb1,Found block rdd_42_22 <*>,3
+59c2e61c,Found block rdd_42_23 <*>,3
+fe4aecf9,Found block rdd_42_24 <*>,3
+515e9185,Found block rdd_42_25 <*>,3
+9a0992d6,Found block rdd_42_26 <*>,3
+46086fd4,Found block rdd_42_27 <*>,3
+2e94acd1,Found block rdd_42_28 <*>,3
+87fcc07f,Found block rdd_42_29 <*>,3
+741e33a8,Found block rdd_42_3 <*>,3
+399aa6ef,Found block rdd_42_30 <*>,3
+131c3408,Found block rdd_42_31 <*>,2
+981e52b7,Found block rdd_42_32 <*>,3
+9221a39a,Found block rdd_42_33 <*>,2
+cac5c8ce,Found block rdd_42_34 <*>,2
+fae4def8,Found block rdd_42_35 <*>,2
+b40ed6a4,Found block rdd_42_36 <*>,2
+c14739ea,Found block rdd_42_37 <*>,2
+3156d1f6,Found block rdd_42_38 <*>,2
+7c57bd1b,Found block rdd_42_39 <*>,2
+20eaf9ea,Found block rdd_42_4 <*>,3
+7b6d9ac8,Found block rdd_42_5 <*>,3
+bc0ef42d,Found block rdd_42_6 <*>,3
+f0c0ff9b,Found block rdd_42_7 <*>,3
+b50a5225,Found block rdd_42_8 <*>,3
+e6edd17d,Found block rdd_42_9 <*>,3
+e0bfbf83,Found block rdd_6_0 <*>,2
+3df0f8f3,Found block rdd_6_1 <*>,2
+7022b37c,Found block rdd_6_2 <*>,2
+6b03b792,Found block rdd_6_3 <*>,2
+94ba69f1,Found block rdd_6_4 <*>,2
+9ba7fdc2,Got assigned task <*>,305
+7e40e1fa,Input split: hdfs:<*>:<*>+<*>,45
+52f8bb46,MemoryStore started with <*> <*>.<*> <*>,1
+47b1b8c6,"Partition rdd_11_0 not <*>, <*> <*>",1
+26c59b91,"Partition rdd_11_1 not <*>, <*> <*>",1
+3f41e05d,"Partition rdd_11_2 not <*>, <*> <*>",1
+b8a59b3b,"Partition rdd_11_3 not <*>, <*> <*>",1
+752bf198,"Partition rdd_11_4 not <*>, <*> <*>",1
+7fef180a,"Partition rdd_16_0 not <*>, <*> <*>",1
+15da9161,"Partition rdd_16_1 not <*>, <*> <*>",1
+9a8f5bd2,"Partition rdd_16_2 not <*>, <*> <*>",1
+54b39404,"Partition rdd_16_3 not <*>, <*> <*>",1
+6f1bb1d5,"Partition rdd_16_4 not <*>, <*> <*>",1
+d63e045d,"Partition rdd_21_0 not <*>, <*> <*>",1
+5a27b9ce,"Partition rdd_21_1 not <*>, <*> <*>",1
+bbac3409,"Partition rdd_21_2 not <*>, <*> <*>",1
+35951cff,"Partition rdd_21_3 not <*>, <*> <*>",1
+3e4a8a30,"Partition rdd_21_4 not <*>, <*> <*>",1
+5309f178,"Partition rdd_26_0 not <*>, <*> <*>",1
+b8d44c95,"Partition rdd_26_1 not <*>, <*> <*>",1
+2b8c7d82,"Partition rdd_26_2 not <*>, <*> <*>",1
+2473fbb4,"Partition rdd_26_3 not <*>, <*> <*>",1
+96b8c742,"Partition rdd_26_4 not <*>, <*> <*>",1
+2c3f82a5,"Partition rdd_2_0 not <*>, <*> <*>",1
+b8722f92,"Partition rdd_2_1 not <*>, <*> <*>",1
+9bc9e1ab,"Partition rdd_2_2 not <*>, <*> <*>",1
+0230315f,"Partition rdd_2_3 not <*>, <*> <*>",1
+713bca10,"Partition rdd_2_4 not <*>, <*> <*>",1
+b68aed89,"Partition rdd_30_0 not <*>, <*> <*>",1
+e2a66e89,"Partition rdd_30_1 not <*>, <*> <*>",1
+404a405f,"Partition rdd_30_2 not <*>, <*> <*>",1
+7c9e3ba5,"Partition rdd_30_3 not <*>, <*> <*>",1
+9e3bb06f,"Partition rdd_30_4 not <*>, <*> <*>",1
+908b31bb,"Partition rdd_42_0 not <*>, <*> <*>",1
+17387cbb,"Partition rdd_42_1 not <*>, <*> <*>",1
+9b9947e8,"Partition rdd_42_10 not <*>, <*> <*>",1
+4b25fcb5,"Partition rdd_42_11 not <*>, <*> <*>",1
+7dcbc6c4,"Partition rdd_42_12 not <*>, <*> <*>",1
+4385ba07,"Partition rdd_42_13 not <*>, <*> <*>",1
+91a49642,"Partition rdd_42_14 not <*>, <*> <*>",1
+f2eafb52,"Partition rdd_42_15 not <*>, <*> <*>",1
+50454028,"Partition rdd_42_16 not <*>, <*> <*>",1
+6fc38c2a,"Partition rdd_42_17 not <*>, <*> <*>",1
+19cabe1a,"Partition rdd_42_18 not <*>, <*> <*>",1
+9156e786,"Partition rdd_42_19 not <*>, <*> <*>",1
+58793b2a,"Partition rdd_42_2 not <*>, <*> <*>",1
+411cca83,"Partition rdd_42_20 not <*>, <*> <*>",1
+20610f21,"Partition rdd_42_21 not <*>, <*> <*>",1
+c8215111,"Partition rdd_42_22 not <*>, <*> <*>",1
+3ad964f8,"Partition rdd_42_23 not <*>, <*> <*>",1
+1671e311,"Partition rdd_42_24 not <*>, <*> <*>",1
+d0dce758,"Partition rdd_42_25 not <*>, <*> <*>",1
+d65e011e,"Partition rdd_42_26 not <*>, <*> <*>",1
+083744a8,"Partition rdd_42_27 not <*>, <*> <*>",1
+60d91a09,"Partition rdd_42_28 not <*>, <*> <*>",1
+d78fb1f2,"Partition rdd_42_29 not <*>, <*> <*>",1
+8dc26c14,"Partition rdd_42_3 not <*>, <*> <*>",1
+013b67fe,"Partition rdd_42_30 not <*>, <*> <*>",1
+55ea5800,"Partition rdd_42_31 not <*>, <*> <*>",1
+e74dc638,"Partition rdd_42_32 not <*>, <*> <*>",1
+41287493,"Partition rdd_42_33 not <*>, <*> <*>",1
+eb30c218,"Partition rdd_42_34 not <*>, <*> <*>",1
+1d3b1acb,"Partition rdd_42_35 not <*>, <*> <*>",1
+58606387,"Partition rdd_42_36 not <*>, <*> <*>",1
+a9d9ac4f,"Partition rdd_42_37 not <*>, <*> <*>",1
+c0c253c6,"Partition rdd_42_38 not <*>, <*> <*>",1
+0c64247a,"Partition rdd_42_39 not <*>, <*> <*>",1
+be7054b3,"Partition rdd_42_4 not <*>, <*> <*>",1
+91291c68,"Partition rdd_42_5 not <*>, <*> <*>",1
+b8d7833e,"Partition rdd_42_6 not <*>, <*> <*>",1
+ba787a31,"Partition rdd_42_7 not <*>, <*> <*>",1
+4751abb6,"Partition rdd_42_8 not <*>, <*> <*>",1
+8db16e81,"Partition rdd_42_9 not <*>, <*> <*>",1
+390bd9a9,"Partition rdd_6_0 not <*>, <*> <*>",1
+00c1676c,"Partition rdd_6_1 not <*>, <*> <*>",1
+577dba1c,"Partition rdd_6_2 not <*>, <*> <*>",1
+7e27aada,"Partition rdd_6_3 not <*>, <*> <*>",1
+d6332024,"Partition rdd_6_4 not <*>, <*> <*>",1
+dcc10cb2,Reading broadcast variable <*> <*> <*> <*>,37
+1c507e44,Registered BlockManager,1
+716d6c6f,"Registered signal handlers <*> [<*>, <*>, <*>]",1
+24592409,Remoting started; listening on addresses :[akka.tcp:<*>@<*>-<*>-<*>:<*>],1
+9bd3ad52,Running task <*>.<*> <*> <*> <*>.<*> (<*> <*>),305
+9bf93dd3,Saved output <*> <*> '<*>' to hdfs:<*>,30
+9bb91b06,"SecurityManager: authentication disabled; ui acls disabled; users <*> <*> <*>: <*>(<*>, <*>); <*> <*> <*> <*>: <*>(<*>, <*>)",2
+03459f52,Server created on <*>,1
+b923f8c3,Slf4jLogger started,1
+6c90e140,Started reading broadcast variable <*>,37
+4ee0f961,Starting executor ID <*> <*> <*> <*>-<*>-<*>,1
+e99571c6,Starting remoting,1
+ebecddf7,Successfully registered with <*>,1
+778815c0,Successfully started service '<*>' <*> <*> <*>.,2
+cf66d65a,"Times: total = <*>, <*> = -<*>, <*> = <*>, <*> = <*>",169
+bd5e2d5d,"Times: total = <*>, <*> = <*>, <*> = <*>, <*> = <*>",206
+17f432d4,Trying to register BlockManager,1
+b74f6928,attempt_201706092018_0024_m_000000_970: Committed,1
+3e712240,attempt_201706092018_0024_m_000001_984: Committed,1
+773b22b5,attempt_201706092018_0024_m_000002_998: Committed,1
+271d3bcf,attempt_201706092018_0024_m_000003_1012: Committed,1
+aff166a3,attempt_201706092018_0024_m_000004_1026: Committed,1
+b8ff758d,attempt_201706092018_0024_m_000040_1125: Committed,1
+d1e44ab3,attempt_201706092018_0024_m_000041_1126: Committed,1
+54dad10f,attempt_201706092018_0024_m_000042_1127: Committed,1
+194ceeaa,attempt_201706092018_0024_m_000043_1128: Committed,1
+08cf3656,attempt_201706092018_0024_m_000044_1129: Committed,1
+576f7ace,attempt_201706092018_0024_m_000081_1136: Committed,1
+8160b3fd,attempt_201706092018_0024_m_000082_1137: Committed,1
+d6d0c0af,attempt_201706092018_0024_m_000083_1138: Committed,1
+dce2c528,attempt_201706092018_0024_m_000084_1141: Committed,1
+9dfd90e6,attempt_201706092018_0024_m_000120_1145: Committed,1
+2e49259a,attempt_201706092018_0024_m_000121_1146: Committed,1
+d171b16f,attempt_201706092018_0024_m_000122_1147: Committed,1
+b0d50a0d,attempt_201706092018_0024_m_000123_1150: Committed,1
+75444caa,attempt_201706092018_0024_m_000160_1155: Committed,1
+131e72f4,attempt_201706092018_0024_m_000161_1156: Committed,1
+da932dbb,attempt_201706092018_0024_m_000162_1157: Committed,1
+ef7fa137,attempt_201706092018_0024_m_000163_1158: Committed,1
+a8867e5e,attempt_201706092018_0024_m_000164_1159: Committed,1
+9daeac9a,attempt_201706092018_0025_m_000000_1166: Committed,1
+ea9c7ae1,attempt_201706092018_0025_m_000002_1194: Committed,1
+97c389c6,attempt_201706092018_0025_m_000003_1198: Committed,1
+807fd9a5,attempt_201706092018_0025_m_000004_1199: Committed,1

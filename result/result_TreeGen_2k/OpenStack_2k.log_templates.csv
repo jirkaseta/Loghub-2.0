@@ -1,0 +1,405 @@
+EventId,EventTemplate,Occurrences
+b049a1e6,"<*> ""<*> <*> <*>"" <*>: <*> <*>: <*> <*>: <*>.<*>",807
+181ab310,"<*> ""<*> <*>?<*>=<*>&<*>-<*>=<*>-<*>-<*>%<*>%<*>.<*>%<*>%<*> <*>"" <*>: <*> <*>: <*> <*>: <*>.<*>",1
+a70110d1,"<*> ""<*> <*>?<*>=<*>&<*>-<*>=<*>-<*>-<*>%<*>%<*>.<*>%<*>%<*>&<*>=<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*> <*>"" <*>: <*> <*>: <*> <*>: <*>.<*>",1
+a5439370,"<*>,<*> ""<*> <*> <*>"" <*>: <*> <*>: <*> <*>: <*>.<*>",208
+93bc506d,Active <*> <*>: <*>,82
+dda7d194,Auditing <*> <*> <*> <*> <*> <*> <*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>,15
+e1012967,Base <*> <*> <*> <*> <*> <*> <*>: <*>,9
+f0bb7375,Compute_service <*> <*> <*> <*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>:<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>,15
+9eaa03a2,Creating <*> <*>-<*>-<*>:<*>-<*>-<*>-<*>-<*> <*> <*> <*>-<*>-<*>-<*>-<*>,22
+4dce2a6d,Final <*> <*>: <*>=<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> <*>=[<*>],15
+9f9088a1,HTTP exception thrown: <*> <*> <*> <*> <*> <*>,21
+a3eddb56,Removable <*> <*>: <*>,30
+093b8649,Removing <*> <*> <*> <*>: <*>,21
+30b969d7,Running <*> <*> <*> <*> <*> <*>-<*>.<*>.<*>-<*>.<*>.<*>.<*> <*> <*>-<*>-<*> <*>:<*>:<*> <*> <*>-<*>-<*> <*>:<*>:<*>. <*> <*>.,1
+dcbd9101,Successfully <*> <*> <*> <*> '<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>'.,2
+dcc390f8,The <*> <*> <*> <*> '<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>' <*> <*> <*>. <*>-<*> <*> <*>.,5
+20fe226c,"Total usable vcpus: <*>, <*> <*> <*>: <*>",15
+bb1fdf4a,Unknown <*> <*>: <*>,30
+1a4550b4,"While <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>.",1
+0b175d07,image <*>-<*>-<*>-<*>-<*> <*> (<*>): <*>,82
+cd00acac,"image <*>-<*>-<*>-<*>-<*> <*> (<*>): <*> <*>: on this <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*>",82
+08c6e819,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+e1b4a482,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Claim] successful ,1
+a4209833,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Creating] image ,1
+f898cfce,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Deleting] instance files <*> ,1
+79f0617f,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Deletion] of <*> <*> ,1
+006aaf99,instance[0a0d0: 0b0-0c0-b0-0a0cadf-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+a0ecf3c7,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Instance] destroyed successfully ,1
+bd2ef721,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Instance] spawned successfully ,1
+c3fcd72a,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Terminating] instance ,1
+be2d79ed,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+49c25ade,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+2f0aa18a,instance[0a0d0: 0b0-0c0-b0-0a0cadf-Took] <*> <*>.<*> <*> <*> instance ,1
+7aa67054,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+643239db,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+eaf802aa,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+53f16400,instance[0a0d0: 0b0-0c0-b0-0a0cadf-VM] Paused Lifecycle (Event ,1
+76fc291e,instance[0a0d0: 0b0-0c0-b0-0a0cadf-VM] Resumed Lifecycle (Event ,2
+30b39424,instance[0a0d0: 0b0-0c0-b0-0a0cadf-VM] Started Lifecycle (Event ,1
+13ade573,instance[0a0d0: 0b0-0c0-b0-0a0cadf-VM] Stopped Lifecycle (Event ,1
+29f51714,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-disk] limit not specified defaulting, to unlimited ",1
+5e599735,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+ab64be40,"instance[0a0d0: 0b0-0c0-b0-0a0cadf-vcpu] limit not specified defaulting, to unlimited ",1
+a289dc7d,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+04226fa8,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Claim] successful ,1
+da3892b5,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Creating] image ,1
+9a553f57,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Deleting] instance files <*> ,1
+133eb9f1,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Deletion] of <*> <*> ,1
+bc93eb2e,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+315afde3,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Instance] destroyed successfully ,1
+217045dc,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Instance] spawned successfully ,1
+5ffd13fb,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Terminating] instance ,1
+f8cccf22,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+0a5fc63d,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+9a95046a,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Took] <*> <*>.<*> <*> <*> instance ,1
+4d014335,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+5e905c70,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+75d67069,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+48f31b35,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-VM] Paused Lifecycle (Event ,1
+a7edc708,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-VM] Resumed Lifecycle (Event ,2
+b3652fc4,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-VM] Started Lifecycle (Event ,1
+1f971318,instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-VM] Stopped Lifecycle (Event ,1
+7062fbaa,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-disk] limit not specified defaulting, to unlimited ",1
+ecff34d9,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+dfff453b,"instance[0abccce: 0d0f-0e0-b0d0-0b0ab0e0b0-vcpu] limit not specified defaulting, to unlimited ",1
+8fb9aa89,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+9dbb2373,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Claim] successful ,1
+9a6beee1,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Creating] image ,1
+68a5c06f,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Deleting] instance files <*> ,1
+a406ce8b,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Deletion] of <*> <*> ,1
+eac975cc,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+7dfb64b8,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Instance] destroyed successfully ,1
+1b226814,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Instance] spawned successfully ,1
+9650cc6b,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Terminating] instance ,1
+13f77d0d,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+f3fd5687,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+c2d93fac,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Took] <*> <*>.<*> <*> <*> instance ,1
+89b6b6cd,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+fac22188,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+5e697b8c,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+41169ad1,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-VM] Paused Lifecycle (Event ,1
+05849705,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-VM] Resumed Lifecycle (Event ,2
+aba1df54,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-VM] Started Lifecycle (Event ,1
+2f47af65,instance[0c0b: <*>-0c0-b0-0afe0f0ff0-VM] Stopped Lifecycle (Event ,1
+5b48db78,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-disk] limit not specified defaulting, to unlimited ",1
+751d3b62,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+d677df89,"instance[0c0b: <*>-0c0-b0-0afe0f0ff0-vcpu] limit not specified defaulting, to unlimited ",1
+7fe890b2,"instance[0e0a: 0fe0-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+4bee13d0,instance[0e0a: 0fe0-<*>-<*>-<*>-Claim] successful ,1
+439bbf9a,instance[0e0a: 0fe0-<*>-<*>-<*>-Creating] image ,1
+25bd3ca1,instance[0e0a: 0fe0-<*>-<*>-<*>-Deleting] instance files <*> ,1
+398de107,instance[0e0a: 0fe0-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+8dc0b01c,instance[0e0a: 0fe0-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+27b72cea,instance[0e0a: 0fe0-<*>-<*>-<*>-Instance] destroyed successfully ,1
+b87b80af,instance[0e0a: 0fe0-<*>-<*>-<*>-Instance] spawned successfully ,1
+a9dbe756,instance[0e0a: 0fe0-<*>-<*>-<*>-Terminating] instance ,1
+c7764a25,instance[0e0a: 0fe0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+915f2380,instance[0e0a: 0fe0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+fc9a3bac,instance[0e0a: 0fe0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+b642ce5c,"instance[0e0a: 0fe0-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+432bbcb4,"instance[0e0a: 0fe0-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+92043d15,"instance[0e0a: 0fe0-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+9e5b10e1,instance[0e0a: 0fe0-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+515d2b97,instance[0e0a: 0fe0-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+d9c4987b,instance[0e0a: 0fe0-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+f0cb2a2a,instance[0e0a: 0fe0-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+4ed37508,"instance[0e0a: 0fe0-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+dd830dfc,"instance[0e0a: 0fe0-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+e4d06653,"instance[0e0a: 0fe0-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+065e3691,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+ddaa6718,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Claim] successful ,1
+5051b550,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Creating] image ,1
+233bebb9,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Deleting] instance files <*> ,1
+0257a440,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Deletion] of <*> <*> ,1
+6f41d6b8,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+f5676aaa,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Instance] destroyed successfully ,1
+ef2940b2,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Instance] spawned successfully ,1
+6cd1ea38,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Terminating] instance ,1
+a2e0fc29,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+2c231c38,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+d723a253,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Took] <*> <*>.<*> <*> <*> instance ,1
+0b3b9f1d,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+eb697a24,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+0f230758,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+056e3445,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-VM] Paused Lifecycle (Event ,1
+6dc82ee6,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-VM] Resumed Lifecycle (Event ,2
+92d4e0ae,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-VM] Started Lifecycle (Event ,1
+ea2d5884,instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-VM] Stopped Lifecycle (Event ,1
+d96e44d6,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-disk] limit not specified defaulting, to unlimited ",1
+8e5d749c,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+6a1ba790,"instance[0e0cc0f: 0cb0-0d0-0c-f0a0d0f0c0-vcpu] limit not specified defaulting, to unlimited ",1
+b516a391,"instance[0ea0: <*>-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+053968b6,instance[0ea0: <*>-<*>-<*>-<*>-Claim] successful ,1
+e3fcd35f,instance[0ea0: <*>-<*>-<*>-<*>-Creating] image ,1
+f983d642,instance[0ea0: <*>-<*>-<*>-<*>-Deleting] instance files <*> ,1
+7d1ed857,instance[0ea0: <*>-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+5edc502e,instance[0ea0: <*>-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+157b5f91,instance[0ea0: <*>-<*>-<*>-<*>-Instance] destroyed successfully ,1
+3cd07659,instance[0ea0: <*>-<*>-<*>-<*>-Instance] spawned successfully ,1
+8156cf01,instance[0ea0: <*>-<*>-<*>-<*>-Terminating] instance ,1
+2a4ef308,instance[0ea0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+e8e5cffe,instance[0ea0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+d825125b,instance[0ea0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+2d50d946,"instance[0ea0: <*>-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+be2ffdf2,"instance[0ea0: <*>-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+4f8f2b02,"instance[0ea0: <*>-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+da9f5a3c,instance[0ea0: <*>-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+4191e79b,instance[0ea0: <*>-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+cd846a61,instance[0ea0: <*>-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+beb5d310,instance[0ea0: <*>-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+c453a586,"instance[0ea0: <*>-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+a5e0ea06,"instance[0ea0: <*>-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+3a93f593,"instance[0ea0: <*>-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+ecadb93b,"instance[<*>: <*>-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",5
+bab2a24e,instance[<*>: <*>-<*>-<*>-<*>-Claim] successful ,5
+a9aba3de,instance[<*>: <*>-<*>-<*>-<*>-Creating] image ,5
+35943336,instance[<*>: <*>-<*>-<*>-<*>-Deleting] instance files <*> ,5
+98414ba4,instance[<*>: <*>-<*>-<*>-<*>-Deletion] of <*> <*> ,5
+15e6c601,instance[<*>: <*>-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,9
+2314f3da,instance[<*>: <*>-<*>-<*>-<*>-Instance] destroyed successfully ,5
+94a9e947,instance[<*>: <*>-<*>-<*>-<*>-Instance] spawned successfully ,5
+1b2870cc,instance[<*>: <*>-<*>-<*>-<*>-Terminating] instance ,5
+beab1aad,instance[<*>: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,5
+8d70b569,instance[<*>: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,10
+a35c37e6,instance[<*>: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,5
+8c991071,"instance[<*>: <*>-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",5
+e444e46e,"instance[<*>: <*>-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",5
+8d9cf56f,"instance[<*>: <*>-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",5
+4adecc50,instance[<*>: <*>-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,5
+e76ad59c,instance[<*>: <*>-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,10
+468dcba9,instance[<*>: <*>-<*>-<*>-<*>-VM] Started Lifecycle (Event ,5
+76c3a2d6,instance[<*>: <*>-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,5
+9c0d2a21,"instance[<*>: <*>-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",5
+5ec4984e,"instance[<*>: <*>-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",5
+1bc3318d,"instance[<*>: <*>-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",5
+3781eae1,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+2b69f962,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Claim] successful ,1
+8279325e,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Creating] image ,1
+4b09af2d,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Deleting] instance files <*> ,1
+8fa0611f,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Deletion] of <*> <*> ,1
+e7e433c1,instance[af0f0: f0d0-<*>-b0-c0c0aa0-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+d9b15a5a,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Instance] destroyed successfully ,1
+ade914fe,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Instance] spawned successfully ,1
+1c3f4f4a,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Terminating] instance ,1
+5bc5bea1,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+153579a4,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+db2d354f,instance[af0f0: f0d0-<*>-b0-c0c0aa0-Took] <*> <*>.<*> <*> <*> instance ,1
+9eb66673,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+814ad6bd,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+845e2d56,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+41116869,instance[af0f0: f0d0-<*>-b0-c0c0aa0-VM] Paused Lifecycle (Event ,1
+73a092bb,instance[af0f0: f0d0-<*>-b0-c0c0aa0-VM] Resumed Lifecycle (Event ,2
+eb584b14,instance[af0f0: f0d0-<*>-b0-c0c0aa0-VM] Started Lifecycle (Event ,1
+862a5b49,instance[af0f0: f0d0-<*>-b0-c0c0aa0-VM] Stopped Lifecycle (Event ,1
+83492f09,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-disk] limit not specified defaulting, to unlimited ",1
+2ef297ab,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+49419ea4,"instance[af0f0: f0d0-<*>-b0-c0c0aa0-vcpu] limit not specified defaulting, to unlimited ",1
+e0dcc232,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Deleting] instance files <*> ,1
+b46da216,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Deletion] of <*> <*> ,1
+082ecd63,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+d27ea2d9,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Instance] destroyed successfully ,1
+e291cafd,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Instance] spawned successfully ,1
+df56f6f8,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Terminating] instance ,1
+03b5224c,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+8689fe4f,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+96c16b4c,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-Took] <*> <*>.<*> <*> <*> instance ,1
+92549578,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-VM] Paused Lifecycle (Event ,1
+c30c34e6,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-VM] Resumed Lifecycle (Event ,2
+261bc9e2,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-VM] Started Lifecycle (Event ,1
+7f2b9cb1,instance[b0: fe0a-0b-b0cc-0e0b0cd0d-VM] Stopped Lifecycle (Event ,1
+ed7b6757,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+5910e92d,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Claim] successful ,1
+bf9aba55,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Creating] image ,1
+fdc4f035,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Deleting] instance files <*> ,1
+3bb64773,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Deletion] of <*> <*> ,1
+27911881,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+65f3003e,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Instance] destroyed successfully ,1
+86261018,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Instance] spawned successfully ,1
+d8775530,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Terminating] instance ,1
+e2a363e6,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+26864453,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+0079a74a,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Took] <*> <*>.<*> <*> <*> instance ,1
+311b8019,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+0283a0a7,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+65af65b0,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+d92aaaf9,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-VM] Paused Lifecycle (Event ,1
+a1987f81,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-VM] Resumed Lifecycle (Event ,2
+f27fec36,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-VM] Started Lifecycle (Event ,1
+5c191d63,instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-VM] Stopped Lifecycle (Event ,1
+02909658,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-disk] limit not specified defaulting, to unlimited ",1
+a7d4ef52,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+2ec67117,"instance[b0ef0: ba0d-0ae-bf0a-0cba0a0-vcpu] limit not specified defaulting, to unlimited ",1
+fd7f5455,"instance[be0e0: 0cc0-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+747477bd,instance[be0e0: 0cc0-<*>-<*>-<*>-Claim] successful ,1
+656bf87d,instance[be0e0: 0cc0-<*>-<*>-<*>-Creating] image ,1
+f34e82e1,instance[be0e0: 0cc0-<*>-<*>-<*>-Deleting] instance files <*> ,1
+596e75bc,instance[be0e0: 0cc0-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+92425245,instance[be0e0: 0cc0-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+a9038c82,instance[be0e0: 0cc0-<*>-<*>-<*>-Instance] destroyed successfully ,1
+f9a44b5a,instance[be0e0: 0cc0-<*>-<*>-<*>-Instance] spawned successfully ,1
+eff16bb2,instance[be0e0: 0cc0-<*>-<*>-<*>-Terminating] instance ,1
+fec1040d,instance[be0e0: 0cc0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+88496263,instance[be0e0: 0cc0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+1584f1bb,instance[be0e0: 0cc0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+f7d03c32,"instance[be0e0: 0cc0-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+7dcbafa3,"instance[be0e0: 0cc0-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+1b8700a1,"instance[be0e0: 0cc0-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+99aae766,instance[be0e0: 0cc0-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+3eb5e90d,instance[be0e0: 0cc0-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+0eb0e094,instance[be0e0: 0cc0-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+1b56d10a,instance[be0e0: 0cc0-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+bca1b68d,"instance[be0e0: 0cc0-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+2a9976de,"instance[be0e0: 0cc0-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+19be0ff5,"instance[be0e0: 0cc0-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+26c011e3,"instance[bf0c0d: f0-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+c7485c97,instance[bf0c0d: f0-<*>-<*>-<*>-Claim] successful ,1
+7d109912,instance[bf0c0d: f0-<*>-<*>-<*>-Creating] image ,1
+2233cdc4,instance[bf0c0d: f0-<*>-<*>-<*>-Deleting] instance files <*> ,1
+79a66466,instance[bf0c0d: f0-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+ff791d0b,instance[bf0c0d: f0-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,3
+88423a84,instance[bf0c0d: f0-<*>-<*>-<*>-Instance] destroyed successfully ,1
+d72d6570,instance[bf0c0d: f0-<*>-<*>-<*>-Instance] spawned successfully ,1
+6bc49c50,instance[bf0c0d: f0-<*>-<*>-<*>-Terminating] instance ,1
+67e805dd,instance[bf0c0d: f0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+8a37933d,instance[bf0c0d: f0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+5184038f,instance[bf0c0d: f0-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+1dee6a5d,"instance[bf0c0d: f0-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+7f4dd2f0,"instance[bf0c0d: f0-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+13309ced,"instance[bf0c0d: f0-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+f9fc9f50,instance[bf0c0d: f0-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+7322d565,instance[bf0c0d: f0-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+efde1ddd,instance[bf0c0d: f0-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+1c20cb14,instance[bf0c0d: f0-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+e09757e1,"instance[bf0c0d: f0-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+37b28b5c,"instance[bf0c0d: f0-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+fd1d2b3a,"instance[bf0c0d: f0-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+48eb4a7d,"instance[c0f0f0: 0c-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+3da92e64,instance[c0f0f0: 0c-<*>-<*>-<*>-Claim] successful ,1
+ea3f6e18,instance[c0f0f0: 0c-<*>-<*>-<*>-Creating] image ,1
+56b6ac92,instance[c0f0f0: 0c-<*>-<*>-<*>-Deleting] instance files <*> ,1
+405f7a37,instance[c0f0f0: 0c-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+a17ae8e3,instance[c0f0f0: 0c-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+6bbf6528,instance[c0f0f0: 0c-<*>-<*>-<*>-Instance] destroyed successfully ,1
+8930ebc4,instance[c0f0f0: 0c-<*>-<*>-<*>-Instance] spawned successfully ,1
+4a2f496d,instance[c0f0f0: 0c-<*>-<*>-<*>-Terminating] instance ,1
+6edaf433,instance[c0f0f0: 0c-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+b5352b33,instance[c0f0f0: 0c-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+5e287246,instance[c0f0f0: 0c-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+214b32ee,"instance[c0f0f0: 0c-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+db5a5cb3,"instance[c0f0f0: 0c-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+16bdb590,"instance[c0f0f0: 0c-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+67b93860,instance[c0f0f0: 0c-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+1f8718ed,instance[c0f0f0: 0c-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+ee14b9c0,instance[c0f0f0: 0c-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+e454a61d,instance[c0f0f0: 0c-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+f0b53e16,"instance[c0f0f0: 0c-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+9d2e7fd6,"instance[c0f0f0: 0c-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+a92b6aa5,"instance[c0f0f0: 0c-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+a8b1ef93,"instance[d0a0b: <*>-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+fb2bff9b,instance[d0a0b: <*>-<*>-<*>-<*>-Claim] successful ,1
+b3957985,instance[d0a0b: <*>-<*>-<*>-<*>-Creating] image ,1
+aa7e5fee,instance[d0a0b: <*>-<*>-<*>-<*>-Deleting] instance files <*> ,1
+758a9f3f,instance[d0a0b: <*>-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+4d98cfdb,instance[d0a0b: <*>-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+1dacd99f,instance[d0a0b: <*>-<*>-<*>-<*>-Instance] destroyed successfully ,1
+65636abc,instance[d0a0b: <*>-<*>-<*>-<*>-Instance] spawned successfully ,1
+adb386cf,instance[d0a0b: <*>-<*>-<*>-<*>-Terminating] instance ,1
+7c19aee1,instance[d0a0b: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+9b3c19b5,instance[d0a0b: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+845d1e84,instance[d0a0b: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+f184203c,"instance[d0a0b: <*>-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+9faf9d2b,"instance[d0a0b: <*>-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+96790eb5,"instance[d0a0b: <*>-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+5979b694,instance[d0a0b: <*>-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+1be5887d,instance[d0a0b: <*>-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+2b3e635f,instance[d0a0b: <*>-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+78bd23f4,instance[d0a0b: <*>-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+42966976,"instance[d0a0b: <*>-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+4acc9d76,"instance[d0a0b: <*>-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+3e2f7e58,"instance[d0a0b: <*>-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+579dac4b,"instance[d0b0bd0: <*>-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+0e0ede51,instance[d0b0bd0: <*>-<*>-<*>-<*>-Claim] successful ,1
+0191a503,instance[d0b0bd0: <*>-<*>-<*>-<*>-Creating] image ,1
+a364c0d0,instance[d0b0bd0: <*>-<*>-<*>-<*>-Deleting] instance files <*> ,1
+a38a4e57,instance[d0b0bd0: <*>-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+f23b8b3c,instance[d0b0bd0: <*>-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+e2dc9cea,instance[d0b0bd0: <*>-<*>-<*>-<*>-Instance] destroyed successfully ,1
+d636f108,instance[d0b0bd0: <*>-<*>-<*>-<*>-Instance] spawned successfully ,1
+f88c9728,instance[d0b0bd0: <*>-<*>-<*>-<*>-Terminating] instance ,1
+8c3ae4dc,instance[d0b0bd0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+dea82cb6,instance[d0b0bd0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+edbd4ac4,instance[d0b0bd0: <*>-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+01dac63a,"instance[d0b0bd0: <*>-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+2357ac26,"instance[d0b0bd0: <*>-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+22d8a1b6,"instance[d0b0bd0: <*>-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+f955b382,instance[d0b0bd0: <*>-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+b8dfac0d,instance[d0b0bd0: <*>-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+4ef9380f,instance[d0b0bd0: <*>-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+7a743e14,instance[d0b0bd0: <*>-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+3dcf0c5f,"instance[d0b0bd0: <*>-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+95079ba0,"instance[d0b0bd0: <*>-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+efcf6f7e,"instance[d0b0bd0: <*>-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+16b206e9,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+764279f7,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Claim] successful ,1
+0501334e,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Creating] image ,1
+58b09b22,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Deleting] instance files <*> ,1
+36571a96,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Deletion] of <*> <*> ,1
+b7317561,instance[d0b0eb: 0d0a-<*>-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,1
+fa79545c,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Instance] destroyed successfully ,1
+d1d30fc9,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Instance] spawned successfully ,1
+3c969169,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Terminating] instance ,1
+85964bb9,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+f1fb86e6,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+dbdad27f,instance[d0b0eb: 0d0a-<*>-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+a9b124ed,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+2e054578,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+9de86ccb,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+ff0296d2,instance[d0b0eb: 0d0a-<*>-<*>-<*>-VM] Paused Lifecycle (Event ,1
+bfd7a4f6,instance[d0b0eb: 0d0a-<*>-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+97d12051,instance[d0b0eb: 0d0a-<*>-<*>-<*>-VM] Started Lifecycle (Event ,1
+49c195b9,instance[d0b0eb: 0d0a-<*>-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+5167f222,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+79259aff,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+f4dad39f,"instance[d0b0eb: 0d0a-<*>-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1
+acd0ecce,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+5ee35386,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Claim] successful ,1
+9b60fe6e,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Creating] image ,1
+3157b42e,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+84622598,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Instance] destroyed successfully ,1
+9e26e933,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Instance] spawned successfully ,1
+ee81d1ac,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Terminating] instance ,1
+7f332772,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,1
+00bb8817,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Took] <*> <*>.<*> <*> <*> instance ,1
+6d664a1e,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+0ed8d4a1,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+d57c1b98,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+6a4c4cbc,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-VM] Paused Lifecycle (Event ,1
+0f6df2a9,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-VM] Resumed Lifecycle (Event ,2
+d3e5c6ae,instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-VM] Started Lifecycle (Event ,1
+7d170434,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-disk] limit not specified defaulting, to unlimited ",1
+eb814761,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+30065d6a,"instance[faf0ea: cba0-0e0b-0f0-0a0bc0f-vcpu] limit not specified defaulting, to unlimited ",1
+9df7e579,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Attempting] claim memory: <*> <*> <*>, <*> <*> <*>, <*> <*> ",1
+f7ff67e4,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Claim] successful ,1
+f96a2952,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Creating] image ,1
+5c5d28ad,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Deleting] instance files <*> ,1
+c9c74401,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Deletion] of <*> <*> ,1
+42641656,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-During] sync_power_state the instance has a <*> <*> <*> (<*>). ,2
+f1039a05,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Instance] destroyed successfully ,1
+2b9b9a87,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Instance] spawned successfully ,1
+0875c12d,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Terminating] instance ,1
+c6b10439,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> ,1
+9dee3a4b,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Took] <*> <*>.<*> <*> <*> <*> <*> <*> <*> <*> ,2
+3549c0bc,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Took] <*> <*>.<*> <*> <*> instance ,1
+030e6b49,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Total] disk <*>: <*> <*>, <*>: <*>.<*> ",1
+df13ae95,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Total] memory <*>: <*> <*>, <*>: <*>.<*> ",1
+2f982c6b,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-Total] vcpu <*>: <*> <*>, <*>: <*>.<*> ",1
+577cb742,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-VM] Paused Lifecycle (Event ,1
+5b18d64f,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-VM] Resumed Lifecycle (Event ,2
+b28f654b,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-VM] Started Lifecycle (Event ,1
+8fef07cf,instance[fecdd0a0: 0ca0-0c0-<*>-<*>-VM] Stopped Lifecycle (Event ,1
+0e80ab10,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-disk] limit not specified defaulting, to unlimited ",1
+758ad12a,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-memory] limit <*>: <*>.<*> <*>, <*>: <*>.<*> ",1
+5393e7b3,"instance[fecdd0a0: 0ca0-0c0-<*>-<*>-vcpu] limit not specified defaulting, to unlimited ",1

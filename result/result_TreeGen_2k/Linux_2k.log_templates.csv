@@ -1,0 +1,145 @@
+EventId,EventTemplate,Occurrences
+4fa731f2,0MB <*> <*>.,1
+a2116165,126MB <*> <*>.,1
+e77d9537,ACPI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+71940e4a,ACPI: <*> <*> <*> <*> PCI <*> <*> <*>,1
+ca8292d9,ACPI: <*> <*>.,1
+7b82a332,ACPI: Subsystem revision <*> ,1
+64042dcf,ALERT exited abnormally with [<*>],43
+fba77d40,"ANONYMOUS FTP LOGIN FROM <*>,  (<*>)",2
+b9408002,Authentication failed from <*> (<*>): <*> <*> <*> <*>,15
+f6368821,Authentication failed from <*> (<*>): <*> <*> <*> <*> <*> <*>,8
+5dba1930,BIOS-e820: <*> - <*> (<*>),5
+8c537990,BIOS-provided physical RAM map:,1
+f518230d,Bringing up loopback interface:  succeeded,1
+63518062,Built <*> <*>,1
+1257465a,"CPU <*> <*>, <*>=<*> <*>=<*>",1
+b47e70f3,CPU: Intel Pentium III (Coppermine) stepping <*>,1
+06872faf,"CPU: L1 <*> <*>: <*>, <*> <*> <*>: <*>",1
+d678ffa6,CPU: L2 cache: 256K,1
+5062ad6a,Calibrating delay loop... <*>.<*> <*>,1
+5f8ab71a,Capability LSM <*>,1
+0dfe904f,Checking 'hlt' instruction... OK.,1
+4b3abecc,Console: colour VGA+ <*>,1
+03649f38,Couldn't authenticate user,1
+af501e9e,"DMA zone: <*> <*>, <*> <*>:<*>",1
+5a679158,DMI <*>.<*> <*>.,1
+0569ece3,"Dentry cache hash table entries: <*> (<*>: <*>, <*> <*>)",1
+7fa47d7d,Detected <*>.<*> <*> <*>.,1
+9c64e959,"Dquot-cache hash table entries: <*> (<*> <*>, <*> <*>)",1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+f34121e0,Enabling unmasked SIMD FPU exception <*>... done.,1
+a31006da,Failure registering capabilities with the kernel,1
+2745ae34,HCI daemon ver <*>.<*> <*>,1
+9b96e95b,"HighMem zone: <*> <*>, <*> <*>:<*>",1
+3c918e8f,Initializing CPU#<*>,1
+2b566107,Initializing Cryptographic API,1
+e3936715,Initializing random <*> <*>:  succeeded,1
+a6a6a756,"Inode-cache hash table entries: <*> (<*>: <*>, <*> <*>)",1
+53650236,Intel machine check architecture supported.,1
+b64203c9,Intel machine check reporting enabled on CPU#<*>.,1
+dea5ca56,Kerberos authentication failed,23
+98e9d643,Kernel command <*>: <*> root=LABEL=/ rhgb quiet,1
+9407aeb6,Linux <*> <*> Play Support v0.<*> (<*>) <*> <*>,1
+0a019249,Linux agpgart interface v0.<*> (<*>) <*> <*>,1
+967b7c23,Linux version <*>.<*>.<*>-<*>.<*> (<*>@<*>.<*>.<*>.<*>) (<*> <*> <*>.<*>.<*> <*> (<*> <*> <*> <*>.<*>.<*>-<*>)) #<*> <*> <*> <*> <*>:<*>:<*> <*> <*>,1
+cd870625,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, <*> <*>)",1
+34df6b42,"Mount-cache hash table entries: <*> (<*>: <*>, <*> <*>)",1
+4af88f8f,NET: Registered protocol family <*>,1
+e94a4f20,"Normal zone: <*> <*>, <*> <*>:<*>",1
+98e1c013,On node <*> <*>: <*>,1
+fafa6bcb,PCI: Invalid ACPI-PCI IRQ <*> <*>,1
+9f683081,"PCI: PCI BIOS revision <*>.<*> <*> <*> <*>, <*> <*>=<*>",1
+1f72ed8d,PCI: Probing PCI hardware,1
+af4344c8,PCI: Probing PCI hardware (bus <*>),1
+c706e7d6,PCI: Using IRQ router PIIX/ICH [<*>/<*>] <*> <*>:<*>:<*>.<*>,1
+0f556ff9,PCI: Using configuration type <*>,1
+be28315b,PID hash table entries: <*> (<*> <*>: <*> <*>),1
+60696e47,POSIX conformance testing by UNIFIX,1
+e2234786,ROOT LOGIN ON tty2,1
+3a1be7ac,Real <*> <*> <*> <*>.<*>,1
+4f67b71e,Received SNMP packet(s) from <*>,1
+7c9bb995,SELinux:  Initializing.,1
+aa644c07,SELinux:  Registering netfilter hooks,1
+fe246058,SELinux:  Starting in <*> <*>,1
+ab5d257e,Security Scaffold v1.<*>.<*> <*>,1
+7035af19,Setting network parameters:  succeeded,1
+5315a7c8,Starting pcmcia:  succeeded,1
+4fcd009e,"There is already a security framework <*>, <*> <*>.",1
+0906cb48,"Total HugeTLB memory allocated, <*>",1
+34f8214d,Transparent bridge - <*>:<*>:<*>.<*>,1
+6fe8fe0e,User unknown timed out after <*> <*> <*> <*> <*> <*> <*>:<*>:<*> <*>,1
+85959353,Using tsc for high-res timesource,1
+3854d56c,VFS: <*> <*> <*>.<*>.<*>,1
+c33dd02a,Version <*>.<*>.<*> <*>,1
+61d28d6a,You can enable it with acpi=<*>,1
+ff70e90c,apm: BIOS <*> <*>.<*> <*> <*> (<*> <*> <*>.<*>),1
+7e1aa798,audit(<*>.<*>:<*>): <*>,1
+4b7e6959,audit: initializing netlink socket (disabled),1
+ad97b821,authentication failure; logname= uid=<*> <*>=<*> <*>=:<*> <*>= <*>=,1
+1f72f211,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>,40
+199eba27,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>  <*>=<*>,260
+391170d1,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>-<*>.<*>.<*>.<*>,10
+5e222801,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>-<*>.<*>.<*>.<*>.<*>,10
+5b528c57,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>.<*>-<*>.<*>.<*>  <*>=<*>,13
+baa7119c,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>.<*>.<*>  <*>=<*>,13
+4a396534,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>.<*>.<*>.<*>,15
+87171792,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>-<*>-<*>-<*>.<*>.<*>.<*>  <*>=<*>,18
+eec024f7,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>,10
+4ced7da6,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>-<*>.<*>  <*>=<*>,5
+20653d32,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>.<*>,20
+7bb040d3,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>.<*>  <*>=<*>,43
+59253b0c,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>.<*>.<*>,12
+402fcdb1,authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>.<*>.<*>.<*>  <*>=<*>,20
+b780997e,check pass; user unknown,117
+8ed4208f,connection from <*> (<*>) <*> <*> <*>  <*> <*>:<*>:<*> <*>,164
+74d700f2,connection from <*> (<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,453
+5975161b,connection from <*> (<*>-<*>-<*>-<*>-<*>-<*>-<*>-<*>.<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,22
+a8462d18,connection from <*> (<*>-<*>-<*>-<*>-<*>.<*>-<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,23
+d447c101,connection from <*> (<*>-<*>-<*>-<*>-<*>.<*>.<*>.<*>.<*>) <*> <*> <*>  <*> <*>:<*>:<*> <*>,23
+0c38bf3f,connection from <*> (<*>-<*>-<*>-<*>.<*>.<*>) <*> <*> <*>  <*> <*>:<*>:<*> <*>,23
+42173264,connection from <*> (<*>-<*>-<*>-<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,23
+69d721a6,connection from <*> (<*>-<*>-<*>-<*>.<*>.<*>-<*>.<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,46
+3fc3fd5b,connection from <*> (<*>-<*>-<*>-<*>.<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,8
+95f6e12c,connection from <*> (<*>-<*>-<*>.<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,32
+d9ba7ab3,connection from <*> (<*>.<*>.<*>) <*> <*> <*>  <*> <*>:<*>:<*> <*>,23
+99996415,connection from <*> (<*>.<*>.<*>) <*> <*> <*> <*> <*>:<*>:<*> <*>,46
+d316014c,connection from <*> (<*>.<*>.<*>.<*>.<*>) <*> <*> <*>  <*> <*>:<*>:<*> <*>,23
+1a97a725,creating device node '<*>',4
+e05fcc23,cupsd shutdown succeeded,6
+adc372d2,cupsd startup succeeded,6
+ee259d46,getpeername (ftpd): Transport endpoint is not connected,4
+dbae5392,hcid startup succeeded,1
+b53bddd5,imps2: Auto-detected <*> <*>/<*>,1
+5833d5db,info*** mice [c.<*>(,1
+d7763055,irqbalance startup succeeded,1
+2e3d6c0c,isapnp: No Plug & Play device found,1
+2bf1954b,isapnp: Scanning for PnP cards...,1
+c2462667,kernel.<*> = <*>,1
+a78cd2cc,"klogd <*>.<*>.<*>, <*> <*> = <*> <*>.",1
+abd14c95,klogd startup succeeded,1
+4845b66c,mapped 4G/4G trampoline to ffff3000.,1
+d789e1f7,mtrr: v2.<*> (<*>),1
+004e631c,notify question <*> <*> <*> <*>,16
+fbcc2963,pci_hotplug: PCI Hot Plug PCI Core version: <*>.<*>,1
+7d73b4c5,portmap startup succeeded,1
+bd687c37,removing device node '<*>',4
+6f97e9d4,restart.,7
+00c09a87,rpc.idmapd startup succeeded,1
+25830347,rpc.statd startup succeeded,1
+3307aa8a,sdpd startup succeeded,1
+7b6a5896,sdpd v1.<*> <*>,1
+4b75bf96,selinux_register_security:  Registering secondary module capability,1
+fe6f65a7,session closed for user cyrus,43
+70fd00b7,session closed for user news,43
+3be46d32,session closed for user root,1
+91b7ca30,session closed for user test,36
+1a7c474c,session opened for user cyrus by (uid=<*>),43
+b258ebc6,session opened for user news by (uid=<*>),43
+09f4e036,session opened for user root by LOGIN(uid=<*>),1
+195fa369,session opened for user test by (uid=<*>),36
+91fea51a,syslogd startup succeeded,1
+18dd943f,usbcore: registered new driver hub,1
+b311803e,usbcore: registered new driver usbfs,1
+f20ae539,warning: can't get client address: <*> <*> <*> <*>,2
+42e1da55,zapping low mappings.,1

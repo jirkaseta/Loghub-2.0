@@ -1,0 +1,107 @@
+EventId,EventTemplate,Occurrences
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>,117
+283b434b,<*> <*> user <*>,117
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root,112
+1243f3db,session <*> for user <*> <*> <*>,123
+cd899eb5,session <*> for user <*>,123
+91c376bc,<*> <*> <*> with <*>,43
+d49fda24,connection from <*> <*> at <*> <*> <*> <*> 2005,30
+cf6e4a90,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*> <*>,21
+08c71eac,User unknown timed out after 900 seconds at Sat Jun 18 <*> 2005,1
+40c55831,<*> <*> succeeded,13
+78996bdd,restart.,7
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005,132
+e56ad209,Received SNMP packet(s) from <*>,1
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>,239
+b3be37e7,Authentication failed from <*> (<*>): <*> <*> <*> <*> <*> <*>,8
+7fe2186b,Kerberos authentication failed,23
+b971a6a6,Authentication failed from <*> (<*>): <*> <*> <*> <*>,15
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005,443
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005,262
+0c4ed6cb,*** info [mice.c(1766)]:,1
+6281818e,imps2: Auto-detected intellimouse PS/2,1
+4b9338f6,ROOT LOGIN ON tty2,1
+fdb827c8,<*> device node <*>,8
+059a282f,authentication failure; logname= uid=0 euid=0 <*> ruser= <*>,1
+d1952a29,<*> <*> user,1
+2e12b502,connection from <*> () at Sun Jul <*> <*> 2005,42
+1a842fd8,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)",2
+e6041b21,<*> <*> <*> <*> no <*>,16
+a45f76b2,getpeername (ftpd): Transport endpoint is not connected,4
+44330be5,warning: can't get client address: Connection reset by peer,2
+d09761d7,<*> startup succeeded,8
+c52bb13c,klogd <*> <*> <*> <*> <*> <*>,1
+1bf72fcf,Linux <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+5cb4dcf4,BIOS-provided physical RAM map:,1
+91c6ace6,BIOS-e820: <*> - <*> <*>,2
+e0461047,BIOS-e820: <*> - <*> (reserved),3
+1375dc92,<*> <*> available.,2
+4475646e,zapping low mappings.,1
+e6b18aa4,<*> <*> 0 <*> <*>,1
+bb2a3586,"<*> zone: <*> pages, LIFO batch:1",1
+07751fa4,"<*> zone: <*> pages, LIFO <*>",1
+007f4912,"<*> zone: 0 pages, LIFO batch:1",1
+c8fb83f1,DMI 2.3 present.,1
+068fbf46,ACPI disabled because your bios is from 2000 and too old,1
+06e4070c,You can enable it with acpi=force,1
+ce85852a,Built 1 zonelists,1
+6bcffc16,Kernel command line: ro root=LABEL=/ rhgb quiet,1
+867e70a6,mapped 4G/4G trampoline to ffff3000.,1
+d1b691b9,Initializing <*>,1
+ae392113,"CPU 0 irqstacks, hard=02345000 soft=02344000",1
+073750ca,<*> hash table entries: 512 (order <*> 4096 bytes),1
+b620323e,Detected 731.219 MHz processor.,1
+72d065cb,Version 1.0.6 Starting,1
+98450438,<*> <*> for <*> <*>,2
+75194edc,Console: colour VGA+ 80x25,1
+b7ac2ad4,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",1
+ca5fb46d,Calibrating delay loop... 1445.88 BogoMIPS,1
+625bc432,Security Scaffold v1.0.0 initialized,1
+4af44999,SELinux: <*>,1
+c1203430,SELinux: <*> <*> <*> <*>,1
+92f38af7,"There is already a security framework initialized, register_security failed.",1
+c7ad334a,<*> <*> <*> with <*> <*>,1
+899dd62c,<*> Registering <*> <*> <*>,1
+995ee000,Capability LSM initialized,1
+c652c002,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)",1
+2ece66af,<*> hash table entries: <*> <*> <*> <*> bytes),1
+0049dba5,"<*> hash table entries: 512 (order: 0, 4096 bytes)",1
+acab6bd9,CPU: <*> <*> <*> <*> <*> <*> <*> <*>,1
+ad88f4df,CPU: <*> <*> <*>,1
+2b1c675c,Intel machine check <*> <*>,1
+a7e5da46,Intel machine check <*> <*> <*> <*>,1
+a24122cb,CPU: <*> <*> <*> <*> <*> <*>,1
+2f61c8d5,Enabling <*> <*> <*> <*> <*> done.,2
+8177bcff,Checking 'hlt' instruction... OK.,1
+069474fe,Initializing <*> <*> <*> succeeded,1
+cb7aa6e4,POSIX conformance testing by UNIFIX,1
+f7406429,NET: Registered protocol family 16,1
+e577e7d3,PCI: <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+a63bb4dd,PCI: <*> <*> <*> <*>,1
+cd4d7a6f,mtrr: v2.0 (20020519),1
+bbfb514d,ACPI: <*> <*> <*>,1
+a8de99dd,ACPI: <*> <*>,1
+c1f5bb73,Linux <*> <*> <*> <*> <*> <*> <*> <*>,1
+0db77cb7,usbcore: registered new driver <*>,2
+80785373,<*> <*> <*> <*> no <*> <*> <*> <*>,1
+7b5d2b54,PCI: <*> <*> <*> <*> <*>,2
+a47c26ad,PCI: <*> <*> <*>,1
+083d608d,<*> <*> - <*>,1
+f34e1378,PCI: <*> <*> <*> <*> <*> <*> <*>,1
+6927be79,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac),1
+e3816864,audit: initializing netlink socket (disabled),1
+6686ef46,kernel.core_uses_pid = 1,1
+b965288c,HCI daemon ver 2.4 started,1
+d0e853c1,audit(1122475266.4294965305:0): initialized,1
+aa511af6,Setting network parameters: succeeded,1
+af57c47f,sdpd <*> <*>,1
+add074a6,"Total HugeTLB memory allocated, 0",1
+aaf88c86,<*> <*> <*> <*> succeeded,1
+8ec80336,VFS: Disk quotas dquot_6.5.1,1
+61f1f7cc,"<*> hash table entries: <*> (order 0, 4096 bytes)",1
+6bbf10ee,SELinux: Registering <*> <*>,1
+2bad4e84,Initializing <*> <*>,1
+ea93d02b,<*> PCI <*> <*> <*> <*> <*> <*>,1
+ba7c5d91,isapnp: <*> <*> <*> <*> <*> <*>,1
+18c74772,Real Time Clock Driver v1.12,1
+83471b71,Linux <*> <*> <*> <*> <*> <*>,1

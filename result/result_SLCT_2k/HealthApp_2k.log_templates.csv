@@ -1,0 +1,13 @@
+EventId,EventTemplate,Occurrences
+93067dc4,onStandStepChanged <*>,260
+3e662616,<*> <*> 0 <*>,123
+b50339a1,NONE,401
+b0190ab5,processHandleBroadcastAction <*>,17
+0abafcf6,<*> <*> = <*>,281
+ec91e8ec,calculateCaloriesWithCache totalCalories=<*>,241
+49e93189,calculateAltitudeWithCache totalAltitude=240,217
+7604cbef,REPORT : 7<*> 5<*> 15<*> 240,135
+fed117f9,onExtend:15140<*>000 0 0 <*>,155
+d01a3f34,processHandleBroadcastAction action:android.intent.action.TIME_TICK,144
+828ebfee,<*> : <*> <*> <*>,2
+cbcd504a,calculateAltitudeWithCache <*>,24

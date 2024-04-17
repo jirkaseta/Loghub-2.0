@@ -1,0 +1,274 @@
+EventId,EventTemplate,Occurrences
+8c73eca7,<*> - <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,36
+a610715e,<*> <*> <*> <*> <*> <*> <*> 0,39
+bd539e71,<*> dealloc,17
+117fc3cb,ARPT: <*> <*> <*>,40
+84d99a6c,<*> <*> <*> for <*> <*> <*>,10
+4686cbdc,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,24
+d3b209f8,ARPT: <*> <*> <*> <*> <*> <*> <*> <*>,11
+a2f77a93,__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2,16
+c324822f,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,15
+31f56999,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*>,28
+d460e4cb,<*> - <*> <*> <*>,67
+de4ecee6,<*> <*> to <*>,7
+35286b15,"<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.",165
+0165f8eb,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,7
+bb18982e,<*> <<<< <*> >>>> <*> <*> <*> <*> <*> <*> <*> <*>,3
+3805e353,AirPort: Link <*> on <*> <*> 1 <*>,7
+5fd834ee,"PM response took <*> ms (54, powerd)",9
+5ec1a186,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,11
+f2768c7c,<*> <*> changed <*> <*> <*> <*> <*> <*>,15
+1b30f5d7,"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)",11
+35e93374,<*> : <*> <*> <*> <*> <*> <*> <*> <*>,2
+64851176,CCFile::captureLogRun() Exiting CCFile::captureLogRun,22
+269b9290,<*> deny network-outbound /private/var/run/mDNSResponder,29
+d2051d74,ARPT: <*> <*> <*> <*> <*> <*>,44
+fa6c7ef6,AirPort: Link <*> on <*>,13
+fc7d3cb9,Sandbox: <*> deny(1) network-outbound /private/var/run/mDNSResponder,29
+c39cdf97,<*> - <*> <*> <*> <*> <*>,22
+d00775dd,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+85fdbcb2,<*> <*> changed,10
+cf9a2d06,<*> - <*> <*> <*> <*> <*> <*>,6
+f46646cd,AppleCamIn::wakeEventHandlerThread,20
+1efd5b6e,-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) <*> <*> +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319),14
+e5f4d9b1,en0: <*> changed to <*>,36
+27a785bd,<*> <*> <*> <*> <*> <*> <*> = <*>,20
+fbefdf84,<*> <*> <*> <*> <*> <*> from <*> <*> <*>,14
+00d852eb,Unrecognized <*> <*> <*>,8
+206dde8e,<*> <*> with <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,12
+e0f4bcd3,<*> <*> <*> <*> <*> to <*> <*> <*>,3
+499d805e,<*> : <*> <*> <*> <*>,19
+3146a81b,button report: <*>,20
+66037968,<*> <*> <*> Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+1d6030fa,Location icon should now be in state <*>,37
+d53cefe6,<*> <*> <*> - <*> <*> <*> <*> <*> <*>,10
+2db82054,"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0",7
+c930cfe3,Captive: <*> en0: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+5dd377fb,IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from <*> to <*>,6
+25be8b4b,<*> <*> <*> of the <*> <*> <*> <*> <*> <*> <*>,17
+ac7d5202,<*> : <*> <*> <*>,8
+5071c816,Captive: CNPluginHandler en0: <*>,15
+c37e35e1,<*> <*> <*> to <*> <*> <*> <*> <*> <*>,27
+f8b3c0a2,AirPort: Link <*> on <*> <*> <*> <*> <*> <*> <*>,5
+a5f45ef9,"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3",12
+98450438,<*> <*> for <*> <*>,2
+c0d6d178,<*> <*> to <*> <*>,4
+e5d7651b,Saw change in network reachability <*>,4
+4990a870,[HID] <*> <*> Wake <*> <*> <*>,8
+4edb99bb,dnssd_clientstub ConnectToServer: connect()-> No of tries: <*>,44
+c9629790,-[NETClientConnection effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID,13
+07a6f500,RTC: <*> <*> <*> <*> <*> <*>,5
+d2a6afcf,RTC: <*> <*> <*>,11
+1e65ab9b,en0: <*> <*> <*> <*> <*> <*>,5
+2c552c0f,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,9
+62e5fd77,<*> deny <*> <*>,6
+aefaed9e,[HID] <*> <*> <*>,5
+6d087c3f,[BluetoothHIDDeviceController] <*>,3
+c58c201b,<*> <*> <*> took <*> <*>,1
+333eb8e2,dnssd_clientstub ConnectToServer: <*> failed <*> <*> <*> <*> <*> <*> <*>,13
+4ad442d2,"pages <*> wire <*> act <*> inact <*> cleaned 0 spec <*> zf <*> throt 0, compr <*> xpmapped 40000",3
+72ede58d,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> start <*> <*> <*> <*> <*> <*>,1
+28dbc877,handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3),1
+cce305d3,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+b6feef5e,Error <*> <*> <*> <*>,13
+0b8e8ddf,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,8
+666b7daa,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*>,5
+007698dc,<*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*>,26
+3182b891,<*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+40c73cdf,"<*> scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.",1
+45ad74de,<*> authw <*> <*> <*>,3
+85aea232,<*> <*> to <*> <*> to <*> <*> <*> <*> <*> <*>,5
+e5b12c31,"NETWORK: requery, 0, 0, 0, 0, <*> items, fQueryRetries, 0, fLastRetryTimestamp, <*>",15
+a7c83e31,<*> sleep <*> <*>,15
+5c346651,Wake reason: <*> <*>,9
+0f035c9e,<*> - <*> <*> <*> <*> <*> <*> <*>,15
+94b5d26c,network changed: <*> <*> <*> <*> <*>,8
+0bc308f5,hibernate_page_list_setall found pageCount <*>,2
+e9526ca3,<*> <*> <*> <*> <*> <*> <*> a <*> <*> <*> <*> <*> <*>,2
+e9680202,<*> <*> <*> <*> <*> <*> <*> notification <*> <*>,1
+6ffcc2b3,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+e9b55a77,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*>,4
+3ab78219,<*> <*> <*> <*> <*> - <*> <*> <*> <*>,11
+ce4cbe08,<*> : <*> <*> <*> <*> <*>,2
+10f0454a,tcp_connection_handle_connect_conditions_bad <*> failed: 3 - No network route,18
+719e535a,TBT W (2): 0x0040 [x],4
+7ea2be59,network changed: <*> <*>,3
+ff182f7d,ASL Sender Statistics,9
+7bed90ec,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+5ddae42f,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*>,8
+be2bd3f1,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+db37fcad,<*> <*> <*> <*> <*> <*> <*> = <*> <*> = <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,15
+04978e60,<*> <<<< <*> >>>> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+4915da3f,<*> <*> signalled <*> <*> <*> <*> <*> <*> <*>,9
+3d4600d2,KeychainGetICDPStatus: <*> <*>,22
+73e50875,<*> <*> <*> <*> <*> from <*> <*> <*>,1
+ff51c924,Error <*> <*> <*>,2
+d4196615,ARPT: <*> <*> <*> <*> <*> <*> <*>,17
+5661d6be,in6_unlink_ifa: IPv6 address <*> has no prefix,9
+34ce1dd1,<*> <*> with <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+ccc5a02c,"<*> <*> <*> 0, <*> <*> <*> <*> <*> <*>",2
+45d8a575,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*>,5
+c63282e8,<*> FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/LegibleOutput/FigAgglomerator.c line 92,11
+eb6b8dae,<*> <*> with <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+85424dac,Received Capture Event,15
+c832389a,Sandbox: <*> deny(1) <*> <*>,6
+49797bc7,<*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,23
+5fb1374d,<*> <*> <*> 0,3
+f5185b6a,############################## _getSysMsgList,10
+c413c265,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+23c4beef,Wake reason: <*>,2
+200fc131,wake time set <*> s,3
+6bf2405a,[HID] <*> <*> <*> <*> <*> <*> <*>,1
+e3ecd38a,AppleCamIn::handleWakeEvent_gated,15
+571a69ca,<*> <*> <*> <*> 1,3
+eb9c8c34,"hibernate_alloc_pages act <*> inact <*> anon <*> throt 0, spec <*> wire <*> wireinit 39927",2
+d93cb878,hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>,2
+c4155579,<*> <*> <*> 1,3
+d8ed57a9,<*> <*> for <*> <*> <*> <*>,1
+3f542826,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f8b739a2,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*>,1
+0f3a5159,<*> file <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+363475a7,NETWORK: <*> <*> <*> <*> <*> <*> <*> <*>,4
+3e796e37,<*> <*> <*> for <*> <*> <*> 0,2
+1a40301a,CCFile::captureLog,17
+52e5628b,en0: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+0f55cb16,ARPT: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,12
+cf36e17d,<*> <*> <*> not <*> to <*> <*>,1
+265598ec,<*> <*> with <*> <*> 1,1
+c5d50935,<*> <*> is <*> <*> <*>,4
+feae3574,CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>,31
+c26e144f,CCFile::copyFile fileName is <*> source <*> dest <*>,21
+ffe8d339,<IMMacNotificationCenterManager: <*> <*> <*> <*>,1
+5a70758b,<*> : <*> <*> <*> for <*> <*> <*> <*>,2
+993c81c3,"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> <*> to complete, <*> reads >= <*> sec.",1
+c7a91902,<*> <*> out <*> <*> <*>,9
+369552d7,"CCLogTap::profileRemoved, Owner: <*>, Name: <*>",1
+943c7d64,"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> sec. to complete, <*> reads >= 0.5 sec.",2
+bd18b58d,network changed: <*> <*> <*>,2
+a0fb54be,ARPT: <*> <*>,6
+eade1f8b,<*> <<<< <*> >>>> <*> <*> <*> <*> <*> <*> <*>,2
+3cb834b5,<*> <*> <*> <*> <*> - <*>,6
+426bed62,<*> <*> <*> Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+11e815df,hibernate image path: /var/vm/sleepimage,2
+84a04765,<*> <*> <*> up <*> <*> <*>,2
+e9a3ad63,"hibernate_machine_init pagesDone <*> sum2 <*> time: <*> ms, disk(0x20000) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s",2
+2e4907dc,ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789,4
+5ba836da,hibernate_machine_init <*>,2
+24b1410e,assertion failed: 15G1510: <*> + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90,3
+eb517b15,jemmytest,10
+d0c00d15,hibernate_setup(0) took <*> ms,2
+67dbd3fc,**** <*> -- <*> <*> <*> <*> <*> -- <*> <*> <*> <*>,2
+e4725d56,<*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+450e1ae6,<*> -- <*> <*> <*> <*>,2
+2bb79e3a,"<*> <*> <*> <*> <*> 0, <*> <*> <*> <*>",3
+0e2e70b7,BuildActDeviceEntry <*>,4
+99466db1,<*> <*> <*> is <*>,1
+3131dbef,payload Data 07 00,1
+2316ea46,WARNING: hibernate_page_list_setall skipped <*> xpmapped pages,2
+261bd1ff,"<*> <*> <*> <*> <*> <*> <*> <*> 0, <*> <*> <*> <*> <*> <*>",1
+4d6da463,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> 0, <*> <*> <*> <*> <*> <*> <*> <*>",1
+1064bb28,<*> done: last_valid_compact_indx <*>,1
+3de8fd5d,<*> <*> to <*> <*> <*>,2
+171e0458,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+a8354a31,"NETWORK: requery, 0, 0, 0, 0, <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>",2
+ff13ee32,ARPT: <*> <*> <*> <*>,17
+d4f9ca19,tcp_connection_tls_session_error_callback_imp <*> <*> error <*>,1
+56163ab4,network changed: <*> <*> <*> <*>,2
+50cd8f2c,network changed: <*>,1
+a26246c3,en0: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+f5a7f201,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+2114e693,<*> <*> <*> [lvl=2] <*> <*> <*> <*>,2
+4fa119bc,<*> <*> <*> <*> <*> in <*> <*> <*> <*>,4
+21b509fe,"<*> Owner: <*>, Name: <*>",4
+04229431,extension <*> -> (null),1
+4f817431,<*> <*> <*> <*> <*> <*> from <*> <*> <*> <*> <*> <*>,2
+c781a82e,<*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+b2674f9f,Session <*> <*>,1
+c3fa44e7,<*> took <*> ms,1
+69773227,CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake,3
+cc8f1798,PM response took <*> ms <*> <*>,2
+9060fff8,Cocoa scripting error for <*> four character codes must be four characters long.,71
+2ad88c34,<*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+8991731f,<*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+c62afa6d,Invalidating watch set.,1
+c38c4ca0,<*> <*> <*> for <*> <*> <*> <*>,2
+ed3ed22c,<*> <*> signalled <*>,1
+41ca5030,<*> <<<< <*> >>>> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+ea60a035,<*> <*> <*> <*> <*> - <*> <*> <*> <*> <*> <*>,1
+b96615dd,**** <*> -- <*> <*> on <*> <*> <*> <*>,3
+f8456957,<*> time: <*> <*> <*> <*> 0,2
+e4b50380,<*> <*> <*> <*> - <*>,1
+c36f0c80,<IMMacNotificationCenterManager: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+d628c508,<*> <*> <*> [lvl=2] <*> <*> <*> a <*> <*> <*> <*> <*> <*> <*>,1
+604aae25,<IMMacNotificationCenterManager: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+3a2bae78,CCProfileMonitor::freeResources done,1
+fa85c689,<IMMacNotificationCenterManager: <*> <*> <*> NO,7
+acee33bd,<*> connection <*>,1
+0c7540ea,IOHibernatePollerOpen(0),2
+214cf165,<*> <*> <*> <*> <*> <*> <*> was <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+19998637,hibernate_rebuild completed - took <*> msecs,1
+d0c71f9d,<*> Entered,4
+a175e72c,<*> <*> <*> <*> <*> <*> pages <*> <*>,2
+a7ef1719,en0: <*> <*> <*>,1
+6efe609f,"DB Error: 1 ""no such table: <*>",3
+d3846922,<IMMacNotificationCenterManager: <*> <*> <*> NO <*> <*> <*>,1
+90492b0c,"<*> <*> <*> 0, 0, <*> <*> <*> <*> <*>",1
+e614004b,<*> <*> <*> is <*> <*>,1
+6467f116,<*> <*> <*> - <*> <*> <*> <*> <*>,5
+200dda8a,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> 0,3
+575102e1,"<*> <*> <*> <*> ms <*> <*> <*> <*> 0, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+b5cf01c8,<*> - <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+96c7e11f,**** <*> -- <*> <*> <*> <*> <*> <*>,1
+b8e8cc26,AppleActuatorHIDEventDriver: <*>,2
+c82f918e,**** <*> -- <*> <*> <*> = <*> -- <*> <*>,2
+9bff1150,<*> <*> <*> <*> <*> <*> <*> <*> of <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+be6c01f4,<*> <*> start,1
+8c759949,hibernate_page_list_setall time: <*> ms,1
+cf488542,IOPolledFilePollersOpen(0) 6 ms,1
+2d5ce358,<*> completed - <*> <*>,1
+2a360b40,[IOBluetoothHostController::setConfigState] calling registerService,1
+0dae4db7,<*> <*> <*> Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+7fe59a86,<*> <*> <*> <*> name <*>,2
+34343580,Got an XPC error: Connection invalid,1
+5c67c6c3,<*> <*> <*> of <*> <*> <*> <*> <*> <*> <*>,1
+e3f1040c,<*> <*> <*> for <*>,1
+38a67d61,<*> <*> <*> = <*>,4
+1f6ba42b,<*> <*> = <*>,2
+a9c61ae0,[<*>] <*> <*> <*> <*> <*> <*> <*> <*>,3
+bc2c24ae,hibernate_rebuild <*>,1
+7a450f27,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*>,2
+39c8add5,2017-07-06 <*> <*> <*> <*> <*>,1
+fd0d448e,full wake <*> (reason <*> <*> ms,2
+0139a0c0,kern_open_file_for_direct_io(0),1
+0aeb9117,"Page bounds {{0, 0}, {400, 400}}",2
+a3e7b538,<*> <*> <*> <*> <*> from <*> to <*> <*> <*> <*> <*> <*>,2
+4b7e73ca,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+2631c7f0,<*> <*> <*> failed <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+0f81c8e2,no <*> <*> <*> <*> <*> <*> <*> <*>,1
+482adc6d,CFNetwork SSLHandshake failed (-9802),1
+236f6de2,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+9f937f43,"Configuration Notice: ASL Module ""<*>"" <*> <*> <*> <*> with <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+9feb6985,(DiskStore.Normal:2382) 20cb04f 1.000086,1
+146b4ea2,Unrecognized <*> <*>,2
+a2bb2598,DB <*> <*>,1
+55d54a5c,<*> <*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*>,1
+78aee107,<*> <*> <*> [lvl=2] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+c10ea1e2,Session <*> destroyed,2
+a4661dd0,<*> <*> <*> <*> <*> <*> <*> 0 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+cd3e80ad,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> to <*> <*>,1
+4326c276,<*> <*> <*> failed <*> <*>,1
+688c2c91,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*>,1
+2faecdec,<*> <*> <*> <*> <*> <*> transport <*> <*>,1
+145a6d07,<*> <*> signalled <*> <*> <*> <*> <*> <*> line <*>,1
+330f8c75,<*> <*> <*> <*> <*> <*> 1,1
+de65a298,<<<< <*> >>>> <*> <*> <*> <*> <*> <*> <*> <*>,1
+88c317c2,<*> <*> out <*> <*>,1
+475bac69,<*> <*> <*> timed out <*> <*> <*> <*> <*>,1
+6f6da123,efi pagecount 72,2
+cbd2d78d,Host controller terminated,1
+7ce3d42e,<*> <*> <*> <*> the <*> <*>,2
+6f72f43e,vm_compressor_fastwake_warmup completed - took <*> msecs,1
+23f8ea56,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+3751570d,<*> <*> <*> [lvl=2] <*> <*> <*> to <*> <*> <*> <*> <*> <*>,1
+83fee496,"Arranged view frame: {{0, 0}, {260, 877}}",1
+02c49b58,CCProfileMonitor::setStreamEventHandler,1

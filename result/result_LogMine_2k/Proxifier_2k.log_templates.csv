@@ -1,0 +1,301 @@
+EventId,EventTemplate,Occurrences
+5c0742aa, open through proxy  HTTPS,954
+5c0742aa,"close, <*> bytes sent, 0 bytes received, lifetime",954
+5c0742aa,"close, <*> bytes sent, 426 bytes received, lifetime",954
+526d11ee," close, 451 bytes sent, 18846 bytes ( ) received, lifetime ",37
+5c0742aa," close, 445 bytes sent, 5174 bytes ( ) received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, <*> bytes ( ) received, lifetime",954
+5c0742aa,"close, 1165 bytes ( ) sent, <*> bytes received, lifetime",954
+b65277be," close, 850 bytes sent, 10547 bytes ( ) received, lifetime ",3
+5c0742aa,"close, <*> bytes sent, 421 bytes received, lifetime",954
+5c0742aa," close, 1118 bytes ( ) sent, 340 bytes received, lifetime ",954
+0d658191," close, 1143 bytes ( ) sent, 365 bytes received, lifetime ",1
+1ce892ba," close, 1093 bytes ( ) sent, 1006 bytes received, lifetime ",1
+5c0742aa," close, 428 bytes sent, 5365 bytes ( ) received, lifetime ",954
+0e3c3e4d,"close, 845 bytes sent, <*> bytes ( ) received, lifetime",276
+5c0742aa,"close, 431 bytes sent, <*> bytes ( ) received, lifetime",954
+526d11ee,"close, <*> bytes ( ) sent, 472 bytes received, lifetime",37
+0e3c3e4d," close, 416 bytes sent, 10670 bytes ( ) received, lifetime ",276
+5c0742aa," close, 483 bytes sent, 342 bytes received, lifetime ",954
+daec8ae9,"close, <*> bytes ( ) sent, 366 bytes received, lifetime",3
+5c0742aa,"close, 697 bytes sent, <*> bytes received, lifetime",954
+daec8ae9," close, 704 bytes sent, 2476 bytes ( ) received, lifetime ",3
+235fbf6f," close, 7829 bytes ( ) sent, 578548 bytes (564 ) received, lifetime ",1
+5edc0bd8," close, 3425 bytes ( ) sent, 212164 bytes (207 ) received, lifetime ",2
+daec8ae9," close, 934 bytes sent, 5869 bytes ( ) received, lifetime ",3
+5c0742aa,"close, 1325 bytes ( ) sent, <*> bytes received, lifetime",954
+5c0742aa,"close, 508 bytes sent, <*> bytes ( ) received, lifetime",954
+526d11ee," close, 1190 bytes ( ) sent, 367 bytes received, lifetime ",37
+0e3c3e4d," close, 2380 bytes ( ) sent, 678 bytes received, lifetime ",276
+5c0742aa,"close, 974 bytes sent, <*> bytes ( ) received, lifetime",954
+d2d95506," close, 458 bytes sent, 1781 bytes ( ) received, lifetime ",1
+5c0742aa,"close, <*> bytes ( ) sent, 421 bytes received, lifetime",954
+5c0742aa," close, 1301 bytes ( ) sent, 434 bytes received, lifetime ",954
+cecf5fb5,"close, 1248 bytes ( ) sent, <*> bytes received, lifetime",1
+3277b250," close, 489 bytes sent, 566 bytes received, lifetime ",1
+37945dcb," close, 1198 bytes ( ) sent, 344 bytes received, lifetime ",1
+5c0742aa," close, 303 bytes sent, 275 bytes received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, 842 bytes received, lifetime",954
+526d11ee,"close, <*> bytes sent, 782 bytes received, lifetime",37
+0e3c3e4d,"close, <*> bytes sent, 278 bytes received, lifetime",276
+19578ace,"close, 1166 bytes ( ) sent, <*> bytes received, lifetime",2
+5c0742aa," close, 1180 bytes ( ) sent, 337 bytes received, lifetime ",954
+5c0742aa," close, 2035 bytes ( ) sent, 469 bytes received, lifetime ",954
+5c0742aa," close, 896 bytes sent, 375 bytes received, lifetime ",954
+5c0742aa," close, 2455 bytes ( ) sent, 727 bytes received, lifetime ",954
+5c0742aa," close, 1292 bytes ( ) sent, 429 bytes received, lifetime ",954
+5c0742aa,"close, 939 bytes sent, <*> bytes ( ) received, lifetime",954
+f1f6caf4," close, 469 bytes sent, 1617 bytes ( ) received, lifetime ",2
+f1f6caf4,"close, <*> bytes sent, <*> bytes received, lifetime",2
+5c0742aa, open through proxy  SOCKS5,954
+5c0742aa," close, 946 bytes sent, 783 bytes received, lifetime ",954
+5c0742aa," close, 16493 bytes ( ) sent, 315731 bytes (308 ) received, lifetime ",954
+a3ab69ed," close, 791 bytes sent, 778 bytes received, lifetime ",3
+5c0742aa," close, 1578 bytes ( ) sent, 392726 bytes (383 ) received, lifetime ",954
+bb583556,"close, <*> bytes sent, 186 bytes received, lifetime",1
+526d11ee,"close, <*> bytes sent, 316 bytes received, lifetime",37
+5c0742aa, error : A connection request was canceled before the completion.,954
+0e3c3e4d, error : Could not connect through proxy  - Proxy closed the connection unexpectedly.,276
+5c0742aa,"close, 1237 bytes ( ) sent, <*> bytes <*> ) received, lifetime",954
+0e3c3e4d," close, 1222 bytes ( ) sent, 604 bytes received, lifetime ",276
+5c0742aa," close, 745 bytes sent, 4661 bytes ( ) received, lifetime ",954
+5c0742aa," close, 14623 bytes ( ) sent, 124877 bytes (121 ) received, lifetime ",954
+526d11ee," close, 397 bytes sent, 3558 bytes ( ) received, lifetime ",37
+5c0742aa," close, 519 bytes sent, 313 bytes received, lifetime ",954
+5c0742aa," close, 415 bytes sent, 599 bytes received, lifetime ",954
+5c0742aa," close, 1006 bytes sent, 6198 bytes ( ) received, lifetime ",954
+5c0742aa," close, 860 bytes sent, 3314 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1060 bytes ( ) sent, 358 bytes received, lifetime ",954
+0e3c3e4d," close, 592 bytes sent, 4760 bytes ( ) received, lifetime ",276
+5c0742aa," close, 494 bytes sent, 2218 bytes ( ) received, lifetime ",954
+c0c47b4a," close, 492 bytes sent, 2898 bytes ( ) received, lifetime ",1
+9400aca3," close, 793 bytes sent, 180 bytes received, lifetime ",2
+5c0742aa," close, 595 bytes sent, 269 bytes received, lifetime ",954
+526d11ee," close, 877 bytes sent, 507 bytes received, lifetime ",37
+7cbbbc01," close, 1714 bytes ( ) sent, 865 bytes received, lifetime ",1
+2a54b77f," close, 574 bytes sent, 4489 bytes ( ) received, lifetime ",1
+be6c0ca4," close, 89652 bytes ( ) sent, 599249 bytes (585 ) received, lifetime ",1
+37060fb4," close, 1015 bytes sent, 590 bytes received, lifetime ",1
+526d11ee,"close, <*> bytes sent, 4417 bytes ( ) received, lifetime",37
+5c0742aa," close, 8673 bytes ( ) sent, 116640 bytes (113 ) received, lifetime ",954
+5c0742aa," close, 1731 bytes ( ) sent, 864 bytes received, lifetime ",954
+5c0742aa," close, 149 bytes sent, 121 bytes received, lifetime ",954
+5c0742aa," close, 477 bytes sent, 448 bytes received, lifetime ",954
+5c0742aa," close, 336 bytes sent, 2854 bytes ( ) received, lifetime ",954
+b2d39745," close, 724 bytes sent, 516 bytes received, lifetime ",1
+5c0742aa," close, 600 bytes sent, 1716 bytes ( ) received, lifetime ",954
+93767e4c," close, 466 bytes sent, 125682 bytes (122 ) received, lifetime ",2
+0e3c3e4d," close, 493 bytes sent, 523 bytes received, lifetime ",276
+5c0742aa," close, 1002 bytes sent, 12309 bytes ( ) received, lifetime ",954
+5c0742aa," close, 666 bytes sent, 709 bytes received, lifetime ",954
+5c0742aa," close, 1644 bytes ( ) sent, 388 bytes received, lifetime ",954
+5c0742aa," close, 293 bytes sent, 514 bytes received, lifetime ",954
+039a4d61," close, 1555 bytes ( ) sent, 457464 bytes (446 ) received, lifetime ",2
+039a4d61," close, 950 bytes sent, 3559 bytes ( ) received, lifetime ",2
+526d11ee,"error : Could not connect through proxy - Proxy server cannot establish a connection with the target, status code <*>",37
+421fd83f," close, 877 bytes sent, 3806 bytes ( ) received, lifetime ",1
+5c0742aa," close, 101 bytes sent, 3449 bytes ( ) received, lifetime ",954
+5c0742aa," close, 2928 bytes ( ) sent, 567520 bytes (554 ) received, lifetime ",954
+526d11ee," close, 388 bytes sent, 2501 bytes ( ) received, lifetime ",37
+5c0742aa," close, 497 bytes sent, 302 bytes received, lifetime ",954
+0e3c3e4d," close, 287 bytes sent, 2229 bytes ( ) received, lifetime ",276
+0e3c3e4d," close, 429 bytes sent, 318 bytes received, lifetime ",276
+9d084d97," close, 131 bytes sent, 153 bytes received, lifetime ",1
+5c0742aa," close, 5 bytes sent, 5 bytes received, lifetime ",954
+c78cb5f8," close, 983 bytes sent, 308385 bytes (301 ) received, lifetime ",2
+0e3c3e4d," close, 983 bytes sent, 268665 bytes (262 ) received, lifetime ",276
+5c0742aa," close, 1535 bytes ( ) sent, 972 bytes received, lifetime ",954
+0e3c3e4d," close, 705 bytes sent, 492 bytes received, lifetime ",276
+f1df1367," close, 326 bytes sent, 103039 bytes (100 ) received, lifetime ",1
+9d9197c4," close, 849 bytes sent, 9333 bytes ( ) received, lifetime ",4
+9d9197c4," close, 952 bytes sent, 13595 bytes ( ) received, lifetime ",4
+9d9197c4," close, 960 bytes sent, 8386 bytes ( ) received, lifetime ",4
+526d11ee," close, 0 bytes sent, 0 bytes received, lifetime ",37
+5c0742aa," close, 576 bytes sent, 649 bytes received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, 279 bytes received, lifetime",954
+526d11ee," close, 468 bytes sent, 3515 bytes ( ) received, lifetime ",37
+c5d241f0," close, 780 bytes sent, 1401 bytes ( ) received, lifetime ",1
+526d11ee," close, 409 bytes sent, 52645 bytes ( ) received, lifetime ",37
+0e3c3e4d," close, 1119 bytes ( ) sent, 417 bytes received, lifetime ",276
+526d11ee,"close, 474 bytes sent, <*> bytes ( ) received, lifetime",37
+526d11ee," close, 675 bytes sent, 7178 bytes ( ) received, lifetime ",37
+5c0742aa," close, 628 bytes sent, 466 bytes received, lifetime ",954
+5c0742aa," close, 513 bytes sent, 22162 bytes ( ) received, lifetime ",954
+c1a5bf70," close, 530 bytes sent, 546 bytes received, lifetime ",2
+5c0742aa,"close, <*> bytes sent, 388 bytes received, lifetime",954
+a3ab69ed," close, 1069 bytes ( ) sent, 776 bytes received, lifetime ",3
+5c0742aa,"close, 1010 bytes sent, <*> bytes ( ) received, lifetime",954
+5c0742aa," close, 2413 bytes ( ) sent, 324 bytes received, lifetime ",954
+0e3c3e4d," close, 2464 bytes ( ) sent, 1010 bytes received, lifetime ",276
+0e3c3e4d," close, 1007 bytes sent, 355 bytes received, lifetime ",276
+0e3c3e4d," close, 1354 bytes ( ) sent, 902 bytes received, lifetime ",276
+5c0742aa," close, 453 bytes sent, 352 bytes received, lifetime ",954
+0e3c3e4d," close, 1318 bytes ( ) sent, 427 bytes received, lifetime ",276
+0e3c3e4d," close, 555 bytes sent, 400 bytes received, lifetime ",276
+5c0742aa," close, 935 bytes sent, 6675 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1205 bytes ( ) sent, 391 bytes received, lifetime ",954
+5c0742aa,"close, 634 bytes sent, <*> bytes received, lifetime",954
+5c0742aa,"close, 553 bytes sent, <*> bytes ( ) received, lifetime",954
+f094fe10," close, 1341 bytes ( ) sent, 290 bytes received, lifetime ",1
+0e3c3e4d," close, 1023 bytes sent, 4076 bytes ( ) received, lifetime ",276
+5c0742aa," close, 996 bytes sent, 367 bytes received, lifetime ",954
+5c0742aa," close, 1236 bytes ( ) sent, 408 bytes received, lifetime ",954
+5c0742aa," close, 1680 bytes ( ) sent, 935 bytes received, lifetime ",954
+5c0742aa," close, 902 bytes sent, 15242 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1845 bytes ( ) sent, 402 bytes received, lifetime ",954
+5c0742aa," close, 806 bytes sent, 1407 bytes ( ) received, lifetime ",954
+5c0742aa," close, 383 bytes sent, 1303 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1584 bytes ( ) sent, 256548 bytes (250 ) received, lifetime ",954
+5c0742aa,"close, <*> bytes sent, 310 bytes received, lifetime",954
+526d11ee," close, 1920 bytes ( ) sent, 338 bytes received, lifetime ",37
+5c0742aa," close, 1501 bytes ( ) sent, 601 bytes received, lifetime ",954
+5c0742aa," close, 1808 bytes ( ) sent, 346 bytes received, lifetime ",954
+abf25f9d," close, 1672 bytes ( ) sent, 771 bytes received, lifetime ",1
+526d11ee,"close, <*> bytes ( ) sent, 375 bytes received, lifetime",37
+1e04b0a4,"close, <*> bytes ( ) sent, 406 bytes received, lifetime",1
+9d9197c4," close, 2587 bytes ( ) sent, 317 bytes received, lifetime ",4
+7d7e3610,"close, <*> bytes sent, 398 bytes received, lifetime",2
+a8b5f763," close, 2126 bytes ( ) sent, 816 bytes received, lifetime ",4
+391e1103,"close, <*> bytes sent, 348 bytes received, lifetime",2
+0e3c3e4d," close, 968 bytes sent, 272 bytes received, lifetime ",276
+1f1e4ea6,"close, <*> bytes ( ) sent, 659 bytes received, lifetime",2
+34a6f0c6," close, 694 bytes sent, 892 bytes received, lifetime ",1
+4d90e9cb,"close, 941 bytes sent, <*> bytes received, lifetime",1
+0e3c3e4d,"close, <*> bytes ( ) sent, <*> bytes received, lifetime",276
+5c0742aa," close, 1008 bytes sent, 21970 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1572 bytes ( ) sent, 696 bytes received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, 378 bytes received, lifetime",954
+5c0742aa," close, 2132 bytes ( ) sent, 822 bytes received, lifetime ",954
+5c0742aa," close, 588 bytes sent, 215882 bytes (210 ) received, lifetime ",954
+5c0742aa,"close, <*> bytes sent, 889 bytes received, lifetime",954
+5c0742aa,"close, <*> bytes ( ) sent, 750 bytes received, lifetime",954
+5c0742aa," close, 618 bytes sent, 3235 bytes ( ) received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, 648 bytes received, lifetime",954
+93767e4c,"close, <*> bytes ( ) sent, 702 bytes received, lifetime",2
+5c0742aa," close, 4498 bytes ( ) sent, 654 bytes received, lifetime ",954
+5c0742aa," close, 259 bytes sent, 5197 bytes ( ) received, lifetime ",954
+5c0742aa," close, 1408 bytes ( ) sent, 0 bytes received, lifetime ",954
+8f7a40d7,"close, <*> bytes ( ) sent, 401 bytes received, lifetime",1
+5c0742aa," close, 643 bytes sent, 442 bytes received, lifetime ",954
+526d11ee,"close, <*> bytes ( ) sent, 1014 bytes received, lifetime",37
+5c0742aa,"close, 441 bytes sent, <*> bytes received, lifetime",954
+5c0742aa," close, 357 bytes sent, 24275 bytes ( ) received, lifetime ",954
+5c0742aa,"close, 358 bytes sent, <*> bytes ( ) received, lifetime",954
+5c0742aa," close, 414 bytes sent, 41182 bytes ( ) received, lifetime ",954
+c1a5bf70," close, 964 bytes sent, 848 bytes received, lifetime ",2
+5c0742aa,"close, <*> bytes ( ) sent, 592 bytes received, lifetime",954
+526d11ee," close, 564 bytes sent, 28902 bytes ( ) received, lifetime ",37
+5c0742aa," close, 6719 bytes ( ) sent, 644545 bytes (629 ) received, lifetime ",954
+1f1e4ea6," close, 389 bytes sent, 409 bytes received, lifetime ",2
+5c0742aa," close, 1257 bytes ( ) sent, 540 bytes received, lifetime ",954
+5c0742aa," close, 10542 bytes ( ) sent, 356545 bytes (348 ) received, lifetime ",954
+5c0742aa," close, 814 bytes sent, 4145 bytes ( ) received, lifetime ",954
+438ca8af," close, 361 bytes sent, 4839 bytes ( ) received, lifetime ",1
+5c0742aa," close, 1891 bytes ( ) sent, 811 bytes received, lifetime ",954
+5c0742aa," close, 1021 bytes sent, 4906 bytes ( ) received, lifetime ",954
+526d11ee," close, 2836 bytes ( ) sent, 125622 bytes (122 ) received, lifetime ",37
+5c0742aa," close, 1052 bytes ( ) sent, 113 bytes received, lifetime ",954
+5c0742aa,"close, <*> bytes ( ) sent, 311 bytes received, lifetime",954
+0e3c3e4d," close, 334 bytes sent, 3713 bytes ( ) received, lifetime ",276
+526d11ee," close, 686 bytes sent, 579 bytes received, lifetime ",37
+5c0742aa," close, 30789 bytes ( ) sent, 164940 bytes (161 ) received, lifetime ",954
+5c0742aa," close, 570 bytes sent, 11519 bytes ( ) received, lifetime ",954
+0e3c3e4d," close, 494 bytes sent, 208 bytes received, lifetime ",276
+0e3c3e4d,"close, 470 bytes sent, <*> bytes ( ) received, lifetime",276
+5c0742aa," close, 759 bytes sent, 51462 bytes ( ) received, lifetime ",954
+257ddd8f,"close, <*> bytes sent, 161 bytes received, lifetime",1
+0e3c3e4d," close, 1020 bytes sent, 607 bytes received, lifetime ",276
+5c0742aa,"close, 471 bytes sent, <*> bytes ( ) received, lifetime",954
+0e3c3e4d," close, 942 bytes sent, 3184 bytes ( ) received, lifetime ",276
+5c0742aa," close, 356 bytes sent, 3523 bytes ( ) received, lifetime ",954
+5c0742aa," close, 861480 bytes (841 ) sent, 5464 bytes ( ) received, lifetime ",954
+5c0742aa," close, 27694 bytes ( ) sent, 165991 bytes (162 ) received, lifetime ",954
+5c0742aa," close, 9987 bytes ( ) sent, 148343 bytes (144 ) received, lifetime ",954
+5c0742aa," close, 333 bytes sent, 3697 bytes ( ) received, lifetime ",954
+526d11ee," close, 1369 bytes ( ) sent, 289 bytes received, lifetime ",37
+5c0742aa," close, 785 bytes sent, 145 bytes received, lifetime ",954
+5c0742aa," close, 837 bytes sent, 4059 bytes ( ) received, lifetime ",954
+5c0742aa," close, 2590 bytes ( ) sent, 621 bytes received, lifetime ",954
+5c0742aa," close, 2331 bytes ( ) sent, 440133 bytes (429 ) received, lifetime ",954
+5c0742aa," close, 1910 bytes ( ) sent, 276 bytes received, lifetime ",954
+334256be,"close, 985 bytes sent, <*> bytes received, lifetime",2
+bce41b78," close, 298 bytes sent, 4250 bytes ( ) received, lifetime ",1
+0e3c3e4d," close, 163539 bytes (159 ) sent, 4712 bytes ( ) received, lifetime ",276
+c986a163," close, 1109 bytes ( ) sent, 332 bytes received, lifetime ",24
+c986a163," close, 1207 bytes ( ) sent, 452 bytes received, lifetime ",24
+8556a350," close, 24256 bytes ( ) sent, 434160 bytes (423 ) received, lifetime ",2
+5c0742aa," close, 459 bytes sent, 4187 bytes ( ) received, lifetime ",954
+5c0742aa," close, 674 bytes sent, 2132 bytes ( ) received, lifetime ",954
+0e3c3e4d,"close, <*> bytes sent, <*> bytes ( ) received, lifetime",276
+6027966c," close, 343 bytes sent, 3122 bytes ( ) received, lifetime ",2
+6027966c," close, 2094 bytes ( ) sent, 623 bytes received, lifetime ",2
+5c0742aa,"close, 328 bytes sent, <*> bytes ( ) received, lifetime",954
+5c0742aa," close, 335 bytes sent, 4369 bytes ( ) received, lifetime ",954
+5c0742aa,"close, 568 bytes sent, <*> bytes received, lifetime",954
+0e3c3e4d,"close, 909 bytes sent, <*> bytes ( ) received, lifetime",276
+a9bcfedc," close, 446 bytes sent, 195160 bytes (190 ) received, lifetime ",1
+0e3c3e4d," close, 399 bytes sent, 498 bytes received, lifetime ",276
+d9ddb519," close, 11058 bytes ( ) sent, 451 bytes received, lifetime ",1
+5c0742aa,"close, 797 bytes sent, <*> bytes ( ) received, lifetime",954
+1477a077," close, 9626 bytes ( ) sent, 287127 bytes (280 ) received, lifetime ",1
+5c0742aa," close, 413 bytes sent, 534 bytes received, lifetime ",954
+816f74db,"close, 781 bytes sent, <*> bytes ( ) received, lifetime",3
+5c0742aa,"close, <*> bytes sent, 184 bytes received, lifetime",954
+5c0742aa," close, 447 bytes sent, 2122 bytes ( ) received, lifetime ",954
+5c0742aa," close, 154863 bytes (151 ) sent, 321609 bytes (314 ) received, lifetime ",954
+0e3c3e4d,"close, 461 bytes sent, <*> bytes ( ) received, lifetime",276
+0e3c3e4d,"close, 484 bytes sent, <*> bytes ( ) received, lifetime",276
+5c0742aa," close, 999 bytes sent, 4582 bytes ( ) received, lifetime ",954
+c986a163," close, 1145 bytes ( ) sent, 666 bytes received, lifetime ",24
+ba8f920b," close, 3547 bytes ( ) sent, 918 bytes received, lifetime ",2
+0e3c3e4d," close, 754 bytes sent, 3108 bytes ( ) received, lifetime ",276
+5c0742aa," close, 620 bytes sent, 33814 bytes ( ) received, lifetime ",954
+526d11ee," close, 3548 bytes ( ) sent, 919 bytes received, lifetime ",37
+cda428e8,"close, 643 bytes sent, <*> bytes ( ) received, lifetime",31
+36234e82, error : Could not connect to proxy  - Could not resolve  error 11001,3
+c986a163,"close, 696 bytes sent, <*> bytes ( ) received, lifetime",24
+5c0742aa,<*> error : Could not connect to proxy - Could not resolve error 11001,954
+5c0742aa,"close, 357 bytes sent, <*> bytes received, lifetime",954
+5c0742aa," close, 314 bytes sent, 1035 bytes ( ) received, lifetime ",954
+c986a163," close, 1822 bytes ( ) sent, 754 bytes received, lifetime ",24
+128173b6," close, 338 bytes sent, 3597 bytes ( ) received, lifetime ",2
+5c0742aa," close, 326 bytes sent, 5710 bytes ( ) received, lifetime ",954
+5c0742aa," close, 2130 bytes ( ) sent, 1009 bytes received, lifetime ",954
+0c00cec2," close, 2168 bytes ( ) sent, 605 bytes received, lifetime ",1
+0e3c3e4d," close, 1603 bytes ( ) sent, 527 bytes received, lifetime ",276
+0e3c3e4d,"close, <*> bytes sent, 166 bytes received, lifetime",276
+0e3c3e4d," close, 324 bytes sent, 2764 bytes ( ) received, lifetime ",276
+5c0742aa," close, 739 bytes sent, 404 bytes received, lifetime ",954
+e7e26a34," close, 184 bytes sent, 134 bytes received, lifetime ",1
+5c0742aa,"close, 379 bytes sent, <*> bytes ( ) received, lifetime",954
+0e3c3e4d,"close, 384 bytes sent, <*> bytes ( ) received, lifetime",276
+0e3c3e4d," close, 1383 bytes ( ) sent, 392 bytes received, lifetime ",276
+5c0742aa," close, 425 bytes sent, 161 bytes received, lifetime ",954
+0e3c3e4d," close, 6014 bytes ( ) sent, 904350 bytes (883 ) received, lifetime ",276
+0e3c3e4d," close, 170 bytes sent, 370 bytes received, lifetime ",276
+0e3c3e4d," close, 465 bytes sent, 4790 bytes ( ) received, lifetime ",276
+0e3c3e4d," close, 983 bytes sent, 4752 bytes ( ) received, lifetime ",276
+5c0742aa," close, 2553 bytes ( ) sent, 641 bytes received, lifetime ",954
+0e3c3e4d," close, 327 bytes sent, 3699 bytes ( ) received, lifetime ",276
+391de934," close, 3732 bytes ( ) sent, 804155 bytes (785 ) received, lifetime ",1
+5c0742aa," close, 717 bytes sent, 357 bytes received, lifetime ",954
+0e3c3e4d," close, 1041 bytes ( ) sent, 607 bytes received, lifetime ",276
+c986a163,"close, <*> bytes sent, 328 bytes received, lifetime",24
+5c0742aa," close, 1738 bytes ( ) sent, 487 bytes received, lifetime ",954
+c986a163," close, 691 bytes sent, 184 bytes received, lifetime ",24
+5c0742aa,"close, 158 bytes sent, <*> bytes ( ) received, lifetime",954
+39e83986, error : Could not connect to proxy  - connection attempt failed with error 10061,1
+8a9841c6," close, 913 bytes sent, 3881 bytes ( ) received, lifetime ",1
+5c0742aa," close, 230 bytes sent, 1125 bytes ( ) received, lifetime ",954
+5c0742aa," close, 2570 bytes ( ) sent, 626 bytes received, lifetime ",954
+cad2ce50," close, 606 bytes sent, 857 bytes received, lifetime ",1
+0e3c3e4d," close, 512 bytes sent, 15495 bytes ( ) received, lifetime ",276
+5c0742aa," close, 816 bytes sent, 264 bytes received, lifetime ",954
+5c0742aa," close, 3549 bytes ( ) sent, 108371 bytes (105 ) received, lifetime ",954
+5c0742aa," close, 575 bytes sent, 243 bytes received, lifetime ",954
+30321313," close, 820 bytes sent, 5619 bytes ( ) received, lifetime ",1
+816f74db," close, 923 bytes sent, 456 bytes received, lifetime ",3
+5c0742aa," close, 261 bytes sent, 70 bytes received, lifetime ",954
+526d11ee,"close, 733 bytes sent, <*> bytes received, lifetime",37
+816f74db," close, 733 bytes sent, 229 bytes received, lifetime ",3
+5c0742aa," close, 867 bytes sent, 23546 bytes ( ) received, lifetime ",954

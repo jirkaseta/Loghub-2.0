@@ -1,0 +1,20 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9302fad4,Invalid user <*> from <*>,113
+6b674ff1,input_userauth_request: invalid user <*> [preauth],113
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,125
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,135
+6ad4ef71,<*> <*> <*> <*> <*> <*> <*> [preauth],38
+c5704dd9,Received disconnect from <*>: 11: Bye Bye [preauth],413
+a9a0d5ad,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*><*><*> user=root,369
+0af355cc,Failed password for root from <*> port <*> ssh2,368
+b50339a1,NONE,29
+85f23eba,error: Received disconnect from <*>: <*> <*> <*> <*> <*>,2
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,15
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,8
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,3
+09118d4b,Failed <*> for invalid user admin from <*> port <*> ssh2,1
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+07159a74,<*> password for <*> from <*> port <*> ssh2,1
+7c7bec6e,<*> <*> <*> <*> user <*>,2

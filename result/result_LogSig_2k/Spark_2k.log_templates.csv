@@ -1,0 +1,16 @@
+EventId,EventTemplate,Occurrences
+d41d8cd9,,10
+8b63c19f,"Changing acls to: yarn,curi",6
+fd8f6565,Committed,30
+9a16d811,"is deprecated. Instead, use",9
+abc9a289,Got assigned task,305
+6ed3ac7c,Running task in stage (TID,267
+c0bfff6f,Started reading broadcast variable,74
+762ccd4f,"Block stored as bytes in memory (estimated size , free )",149
+e70170a6,"Partition not found, computing it",75
+ee311eae,Input split:,45
+c8ca650c,Times: total = boot = init = finish = 0,375
+2d014bea,Finished task in stage (TID bytes result sent to driver,330
+c123497a,Found block locally,257
+a899e693,File Output Committer Algorithm version is 1,30
+00a1e428,Running task in stage 29.0 (TID,38

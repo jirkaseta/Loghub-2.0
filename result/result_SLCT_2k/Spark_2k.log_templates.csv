@@ -1,0 +1,32 @@
+EventId,EventTemplate,Occurrences
+b50339a1,NONE,65
+9ba7fdc2,Got assigned task <*>,305
+14628dc9,Running task 0.0 in stage <*>.0 (TID <*>),26
+852c65f5,Running task 2.0 in stage <*>.0 (TID <*>),26
+6e377ecb,Running task 1.0 in stage <*>.0 (TID <*>),26
+9481aaa0,Running task 3.0 in stage <*>.0 (TID <*>),26
+242d9a17,Running task 4.0 in stage <*>.0 (TID <*>),26
+6c90e140,Started reading broadcast variable <*>,37
+af12e20f,"Block <*> stored as bytes in memory (estimated size <*> <*>, free <*> <*>)",112
+c0edc03b,Reading broadcast variable <*> took <*> ms,37
+8a814563,"Block broadcast_<*> stored as values in memory (estimated size <*> <*>, free <*> <*>)",37
+8167dac4,"Partition rdd_<*> not found, computing it",75
+dcafb9ac,Input split: hdfs://<*>:9000/pjhe/logs/2kSOSP.log:<*>,45
+93423942,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>",375
+ca3b9f4e,Finished task 3.0 in stage <*>.0 (TID <*>). 2<*> bytes result sent to driver,26
+046da193,Finished task 1.0 in stage <*>.0 (TID <*>). 2<*> bytes result sent to driver,26
+caaf1fe8,Finished task 2.0 in stage <*>.0 (TID <*>). 2<*> bytes result sent to driver,26
+291a57ca,Finished task 4.0 in stage <*>.0 (TID <*>). 2<*> bytes result sent to driver,26
+4472f6dc,Finished task 0.0 in stage <*>.0 (TID <*>). 2<*> bytes result sent to driver,26
+fb851ad7,Found block rdd_<*> locally,257
+a899e693,File Output Committer Algorithm version is 1,30
+415d27d7,Saved output of task 'attempt_201706092018_002<*>' to hdfs://<*>:9000/pjhe/test/<*>,30
+15ff8f15,attempt_201706092018_002<*>: Committed,30
+945cbdc7,Running task <*>.0 in stage 26.0 (TID 12<*>),40
+84c09bf3,Finished task <*>.0 in stage 26.0 (TID 12<*>). <*> bytes result sent to driver,40
+851888c5,Running task <*>.0 in stage 27.0 (TID 12<*>),40
+015d82a4,Finished task <*>.0 in stage 27.0 (TID 12<*>). 2<*> bytes result sent to driver,40
+be3a6de4,Running task <*>.0 in stage 28.0 (TID 1<*>),40
+cf9f4262,Finished task <*>.0 in stage 28.0 (TID 1<*>). 2087 bytes result sent to driver,40
+8b9debe0,Running task <*>.0 in stage 29.0 (TID 13<*>),35
+15316482,Finished task <*>.0 in stage 29.0 (TID 13<*>). <*> bytes result sent to driver,30

@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurrences
+0e3c5117,Component State Change: Component <*> is in the unavailable state (HWID<*>),12
+a512f2ec,<*> (command <*>,141
+5b30d925,Command has <*> <*>,11
+ad4ac20a,Targeting <*> and <*> child of command <*>,5
+4777f9c8,Targeting <*> and <*> <*> <*>,1
+84641715,Targeting <*> and <*>,2
+d22a9f8d,Targeting <*> <*> <*> <*> <*>,1
+9a772a5d,psu failure\ ambient<*>,5
+faa03835,Temperature (41C) exceeds warning threshold,2
+c8af4083,ClusterFileSystem: <*> <*> <*> <*> <*> <*> <*> <*>,32
+3e99e358,NIFF: node <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+9c2a1368,ServerFileSystem: <*> <*> <*> <*> <*> <*> <*> <*>,1
+df98f374,Fan speeds ( <*> 3534 <*> <*> <*> 3479 ),52
+61deba07,Fan speeds ( 3552 3534 3375 <*> 3515 3479 ),7
+65782983,Fan speeds ( 3552 3534 <*> **** 3515 3479 ),15
+2c5ba794,Fan speeds ( 3552 3534 <*> <*> 3515 3479 ),1
+0666f236,Fan speeds ( 3552 <*> <*> **** 3515 <*> ),2
+59fbff52,Fan speeds ( <*> 3534 3375 **** <*> 3479 ),10
+0b1b6c09,Fan speeds ( <*> 3534 3375 <*> <*> 3479 ),3
+a7d1db7e,power/control problem,1
+ca91562a,Link <*>,26
+410a63d5,Link <*> <*>,9
+dd77ae53,Link <*> <*> <*> <*> <*>,4
+5090c818,<*> ServerFileSystem domain <*> is <*>,12
+f8f01deb,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,36
+ea31f21f,running,162
+d639ee01,blocked,15
+0dbbeadb,not responding,60
+d8218a03,configured out,91
+01eb9e5f,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok>,2
+96b7db51,active,5
+6ea40eb4,not-responding,1
+b3d6517c,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+25477253,starting,1
+06fb9f14,closing,1
+931c1ce1,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <*>,1
+a14a0139,normal,206
+5fd41706,warning,205
+0fd1d0aa,ambient<*>,292
+a188d364,critical,20
+8b1408d7,Linkerror event interval expired,394
+c2c97d97,<*> (command <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+862b109d,<*> (command <*> <*> <*> <*> <*> <*>,1
+70e057e1,Failed subcommands 3406,1
+e3f07f8f,link errors remain current,56
+e1184f09,NIFF: node <*> has detected an available network connection on network <*> via interface <*>,91

@@ -1,0 +1,139 @@
+EventId,EventTemplate,Occurrences
+ba036046,session <*> for user root,24
+555f54d3,session <*> for user root <*> <*>,19
+7bcc03c5,(root) CMD <*> <*>,19
+945d78de,data_thread() got not answer from any <*> datasource,819
+27dfc2e4,<*> to <*> <*> <*>,566
+2ed96dbe,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,62
+fe77be43,<*> No <*> change,62
+4e226120,<*> No <*> change <*>,62
+62af479a,Local <*> <*> <*>,4
+c3977944,connection <*> <*> <*>,3
+4f921eee,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,10
+c6f31c9c,"<*> from=root, <*> class=0, nrcpts=1, <*> relay=#7#@localhost",10
+b7f3c09b,"<*> to=root, ctladdr=root (0/0), <*> xdelay=00:00:00, mailer=relay, <*> relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",4
+7dcb409b,"<*> to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, <*> relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",6
+fdbe893e,DHCPDISCOVER from 00:11:43:e3:ba:c3 via <*>,5
+d8d3bc86,<*> <*> <*> to <*> <*> <*>,8
+7196dedd,DHCPDISCOVER from 00:11:43:e3:ba:c3 via <*> <*> <*> <*> <*> <*>,15
+9535ce86,<*> <*> <*> <*> from <*> <*> <*>,3
+ac1c51d0,START: tftp pid=16563 from=<*>,1
+fd71ee61,<*> <*> <*> <*> from <*> <*> <*> <*> <*> <*>,9
+ce70af59,RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),2
+2b6c924d,<*> time <*> <*> <*>,2
+bf42626f,time reset +0.182379 s,1
+66df6ce7,RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step),8
+64f4093a,<*> <*> <*> from <*>,1
+973c2725,synchronized to <*> stratum <*>,2
+7cf170bd,My unqualified host name <*> unknown; sleeping for retry,5
+9a2362ec,CentOS-4 (Kernel Module GPG key),1
+907a853f,(supports S0 S4 S5),1
+8de28aac,<*> (v001 DELL PE BKC 0x00000001 MSFT <*> @ <*>,1
+ebcd347f,<*> (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,6
+c8211d0a,HPET <*> <*> <*> <*>,1
+f8a192bb,INT_SRC_OVR (bus 0 bus_irq <*> global_irq <*> <*> <*>,2
+64846b9d,IOAPIC <*> <*> <*>,3
+93392f32,<*> used by override.,3
+578ed9f6,Interpreter enabled,1
+9e76db84,LAPIC <*> <*> enabled),4
+7ed6383e,LAPIC_NMI <*> high edge lint[0x1]),4
+3dc1d828,PCI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+c1c9707c,PCI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+ff782027,PCI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,5
+27308ce1,PCI <*> <*> <*> <*>,11
+90001e39,PCI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,11
+c2a5aeb6,Power Button (FF) [PWRF],1
+cc934b74,Processor <*> (supports C1),4
+daaab40c,<*> <*> DELL <*> <*> <*>,1
+9d577919,Subsystem revision 20040816,1
+98450438,<*> <*> for <*> <*>,2
+1dd38330,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,1
+8e0e680f,<*> cache: <*>,5
+6fe182e7,Physical Processor ID: 0,3
+2e05a06e,Physical Processor ID: <*>,2
+12e9beb8,<*> cache: <*> <*> <*> <*> <*> <*>,5
+ec02891a,colour VGA+ 80x25,1
+45b2a290,mounted filesystem with ordered data mode.,3
+5e3f56b2,"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $",1
+4e6cd0bc,"apic_id <*> version 32, address <*> GSI <*>",3
+f316a028,"routing cache hash table of 65536 buckets, 1024Kbytes",1
+7f0654c3,PCI <*> <*> <*> <*> <*> <*>,1
+e2fb3f70,"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr",1
+9c7437ba,Registered protocol family <*>,5
+cdfc87dd,Using <*> <*> <*> <*> <*> <*>,1
+6897f44b,Probing PCI hardware (bus 00),1
+0c202b29,Transparent bridge - 0000:00:1e.0,1
+673d05bb,Using <*> <*> <*>,3
+f26cc3a5,<*> <*> <*> at <*> <*>,1
+bf072ea4,Disabled at runtime.,1
+1f5a5a00,Initializing.,1
+87f03990,Registering netfilter hooks,1
+1ff65180,Starting <*> <*> <*>,1
+3c2250c5,<*> netfilter hooks,1
+8d0cc6f7,Hash tables configured (established 262144 bind 65536),1
+8e67954b,<*> ANSI SCSI revision: 02,1
+aaeb1ca8,Processor <*> <*> <*> <*>,1
+af09ff68,Disk quotas dquot_6.5.1,1
+ed26035f,Mounted root (ext2 filesystem).,1
+ac6bea04,<*> <*> <*> 0 <*> <*> <*> <*>,1
+c5d92a5d,<*> Model: <*> <*> <*> <*> <*>,1
+02067985,initialized,1
+2208c291,initializing netlink socket (disabled),1
+dbfce3bd,passed.,1
+e8e264d5,4.1.0-ioctl (2003-12-10) initialised: #36#@#37#,1
+3951cff6,<*> <*> for <*>,2
+85502924,not allocating divert_blk for non-ethernet device <*>,2
+846f0355,<*> <*> <*> driver,2
+a94a4812,eth0: e1000_probe: Intel(R) PRO/1000 Network Connection,1
+8edbf20f,eth0: <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f2d7c437,<*> e1000_probe: Intel(R) PRO/1000 Network Connection,1
+0749e148,no floppy controllers found,1
+250f0088,RNG not detected,1
+3a1eed13,<*> for <*> <*> <*> <*> <*>,6
+acd16dec,<*> <*> <*> <*> <*> for <*> <*> <*> <*> <*>,1
+db22bf97,<*> <*> <*> <*> <*> on <*>,1
+3f393050,(C) 2000-2002 Netfilter core team,4
+5d9216a6,<*> <*> <*> data,1
+3bf8e71b,... autorun DONE.,2
+c9f51ad8,Autodetecting RAID arrays.,2
+b51afeb3,autorun ...,2
+937caf27,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",1
+48ef2f4a,<*> (Release Date: <*> <*> <*> <*> <*> 2004),2
+88506e7c,fw version:[516A] bios version:[H418],1
+ebb53499,<*> new <*> <*> <*> <*> <*> <*>,1
+88fdadcd,<*> <*> device <*> for <*> <*>,1
+064d77c6,v2.0 (20020519),1
+d09761d7,<*> startup succeeded,5
+40c55831,<*> <*> succeeded,1
+72d065cb,Version 1.0.6 Starting,1
+f2512411,<*> <*> <*> 0 <*> <*> <*> <*> <*>,1
+531efb06,scanning scsi channel 1 <*> for <*> <*>,1
+cfce3372,<*> for <*> <*> <*>,1
+fad5401a,assuming drive cache: write through,1
+fd141f52,sda1 sda2 sda3 sda4,1
+2d1d89e1,Registering <*> <*> <*>,1
+d9aafcff,"i8042 <*> port at 0x60,0x64 irq <*>",2
+84ef1dd3,syslog-ng <*> <*> <*>,1
+ef9b61df,<*> <*> MHz <*>,1
+946364f8,Using <*> <*> <*> <*>,1
+8a2981ad,Creating Topspin /dev entries:,1
+82368a49,registered new driver <*>,4
+085d9b02,<*> <*> <*> failed <*> <*> <*>,1
+ce058541,<*> from <*>,2
+ecf991a5,<*> <*> <*> from <*> <*>,2
+56f689c4,<*> <*> on <*> <*>,2
+f288eedc,Mounting <*> filesystems: <*>,1
+ea3ee521,<*> <*> <*> failed,1
+c95ac410,Warning: we failed to resolve data source name <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,33
+3215525d,Warning: we failed to resolve data source name <*> <*> <*>,1
+975f58d2,RRD_update <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+111863a5,Warning: we failed to resolve <*> <*> name <*> <*>,1
+32d0250e,succeeded,2
+d14e52f5,<*> <*> on <*> <*> <*>,2
+412907a5,<*> <*> <*> <*> <*> on <*> <*> <*> <*> <*> <*>,1
+13ed14bb,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*>,1
+5d84b28d,<*> <*> configuration <*> <*> <*> <*>,17
+495c2a2f,Started working: 1 available service,1
+1222283f,removing <*>,16
+b801dda7,xinetd <*> <*> <*> with <*> <*> <*> <*> <*>,1
+2f4d6100,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> last <*>,1

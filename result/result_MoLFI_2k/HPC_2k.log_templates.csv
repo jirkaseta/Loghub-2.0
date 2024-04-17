@@ -1,0 +1,78 @@
+EventId,EventTemplate,Occurrences
+22f09f7d,Component State Change : Component \042SCSI-WWID : 01000010 : 6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state ( HWID = 1973 ),1
+71b596d1,Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = * ),11
+32edb4b4,* ( command * ),141
+b4e25afc,Command has completed successfully,10
+2d969350,Targeting domains : node-D3 and nodes : node- [ 104-127 ] child of command #spec#,1
+d2dda45f,Targeting domains : node-D4 and nodes : node- [ * ] child of command #spec#,2
+8a778976,Targeting domains : node-D7 and nodes : node- [ 224\ 228\ 232 ],1
+c4831f47,Targeting domains : node-D0 and nodes : node- [ 8-31 ] child of command #spec#,1
+2989473d,Targeting domains : node-D0 and nodes : node-0,1
+863b1d97,Targeting domains : node-D [ 0\ 5 ] and nodes : node- [ 27\ 191 ],1
+039bb3a1,Targeting domains : node-D2 and nodes : node- [ 64-95 ] child of command #spec#,1
+e3573773,Targeting domains : node-D2 and nodes : node-84,1
+03a1a599,psu failure\ ambient = *,5
+a34a2cea,Temperature ( 41C ) exceeds warning threshold,2
+f832ef8a,ClusterFileSystem : There is no server for ServerFileSystem domain *,32
+7ec617ba,NIFF : node * detected a failed network connection on network #spec# via interface alt0,2
+1a56db26,ServerFileSystem : An ServerFileSystem domain panic has occurred on storage442,1
+40550cfa,Fan speeds ( #spec# 3534 #spec# * #spec# 3479 ),88
+52797e7b,Fan speeds ( #spec# 3552 #spec# **** #spec# 3497 ),2
+5452c51c,Command has been aborted,1
+e13d082a,power/control problem,1
+ec4e03ec,Link error,13
+db5aa7f9,Link in reset,9
+641961b9,Link ok,13
+d3c58961,Link error on broadcast tree Interconnect-0T00 : 00 : 2 : 1,1
+4f81b9d1,Link error on broadcast tree Interconnect-1T00 : 00 : 3 : 6,1
+0c9893ad,Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0,2
+22ecc21a,ServerFileSystem : ServerFileSystem domain * is full,12
+7154f49b,ClusterFileSystem : ServerFileSystem domain * is no longer served by node node-96,4
+e17efcaa,ClusterFileSystem : ServerFileSystem domain * is no longer served by node node-160,2
+621f9abb,ClusterFileSystem : ServerFileSystem domain root3_domain is no longer served by node node-128,1
+bbec5a71,ClusterFileSystem : ServerFileSystem domain * is no longer served by node node-224,3
+1196f679,ClusterFileSystem : ServerFileSystem domain root30_domain is no longer served by node node-0,1
+bc0b2756,ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-57,1
+7f166a24,ClusterFileSystem : ServerFileSystem domain root29_local is no longer served by node node-28,1
+4bbadde3,ClusterFileSystem : ServerFileSystem domain * is no longer served by node node-11,3
+32ee6b4b,ClusterFileSystem : ServerFileSystem domain root5_domain is no longer served by node node-196,1
+2ac3dfdb,ClusterFileSystem : ServerFileSystem domain root28_domain is no longer served by node *,2
+992e6a1a,ClusterFileSystem : ServerFileSystem domain root5_tmp is no longer served by node node-228,1
+c0c9cdc8,ClusterFileSystem : ServerFileSystem domain storage1422 is no longer served by node node-245,1
+bf894727,ClusterFileSystem : ServerFileSystem domain root19_domain is no longer served by node node-114,1
+0d856175,ClusterFileSystem : ServerFileSystem domain root14_local is no longer served by node node-77,1
+cdf10ff2,ClusterFileSystem : ServerFileSystem domain root6_domain is no longer served by node node-37,1
+a699b640,ClusterFileSystem : ServerFileSystem domain storage534 is no longer served by node node-18,1
+8050434b,ClusterFileSystem : ServerFileSystem domain root23_local is no longer served by node node-182,1
+5e88f78f,ClusterFileSystem : ServerFileSystem domain root14_tmp is no longer served by node node-45,1
+3d584e68,ClusterFileSystem : ServerFileSystem domain storage211 is no longer served by node node-4,1
+8491c818,ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-167,1
+5ceae511,ClusterFileSystem : ServerFileSystem domain root25_local is no longer served by node node-216,1
+92aa5fb5,ClusterFileSystem : ServerFileSystem domain root_domain is no longer served by node node-128,1
+b0c27172,ClusterFileSystem : ServerFileSystem domain root24_local is no longer served by node node-247,1
+8fa5c80e,ClusterFileSystem : ServerFileSystem domain root18_tmp is no longer served by node node-241,1
+39c68fc0,ClusterFileSystem : ServerFileSystem domain root17_domain is no longer served by node node-240,1
+0d534ec4,ClusterFileSystem : ServerFileSystem domain sc_cluster_backup is no longer served by node node-0,1
+65453e09,ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,1
+75101dcd,running,162
+61326117,blocked,15
+b02b9741,not responding,60
+8cfafe98,configured out,91
+5d25f8bd,inconsistent nodesets node-160 #spec# < ok > node-161 #spec# < ok > node-162 #spec# < ok > node-163 #spec# < ok >,1
+c76a5e84,active,5
+ae73a592,inconsistent nodesets node-32 #spec# < ok > node-34 #spec# < ok > node-33 #spec# < ok > node-35 #spec# < ok >,1
+252f035f,not-responding,1
+d06c754b,inconsistent nodesets node-1 #spec# < ok > node-2 #spec# < ok > node-7 #spec# < ok > node-4 #spec# < ok > node-6 #spec# < ok > node-5 #spec# < ok > node-3 #spec# < ok > node-14 #spec# < ok > node-13 #spec# < ok > node-12 #spec# < ok > node-10 #spec# < ok > node-16 #spec# < ok > node-15 #spec# < ok >,1
+1ee85f6c,starting,1
+3b38bec1,closing,1
+e1a2c080,inconsistent nodesets node-31 #spec# < ok > node-0 #spec# < ok > node-1 #spec# < ok > node-2 #spec# < ok > node-30 #spec# < ok >,1
+fea08751,normal,206
+7b83d3f0,warning,205
+0a78ee50,ambient = *,292
+7e85bcb6,critical,20
+9050ee25,Linkerror event interval expired,394
+4c14340e,risBoot ( command 1903 ) Error : Timed out while waiting for SRM prompt : < ABORT code completed >,1
+824c466d,boot ( command 2092 ) Error : HALT asserted\ cannot continue,1
+0c3f204d,Failed subcommands #spec#,1
+551adf73,link errors remain current,56
+682c642b,NIFF : node * has detected an available network connection on network #spec# via interface *,91

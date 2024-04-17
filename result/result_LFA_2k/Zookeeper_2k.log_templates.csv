@@ -1,0 +1,48 @@
+EventId,EventTemplate,Occurrences
+13b943ea,Notification time out: <*>,37
+6038b3f0,<*> <*> request <*>,299
+2f792fdd,Send worker leaving thread,262
+84d99a6c,<*> <*> <*> for <*> <*> <*>,314
+ec51ce5b,"Connection broken for id 188978561024, my id = <*> error =",289
+c392bf2d,Interrupting SendWorker,266
+4497e31d,<*> <*> <*> for <*> <*> <*> <*> <*> <*>,44
+4a6a3cbe,<*> <*> of <*> <*>,37
+179975dc,Client attempting to <*> <*> <*> at <*>,3
+818aea54,<*> <*> to <*> <*> <*> <*> <*>,41
+93109d74,<*> session <*> <*> <*> <*> <*> <*> <*> <*>,50
+c15c4d04,<*> socket connection <*> <*>,48
+d65494ad,Unexpected <*>,1
+efa49dce,Connection <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,39
+a15439ee,Server <*>,8
+8898078d,Cannot open channel to <*> at election address <*>,86
+3cf49fdb,<*> <*> <*> for <*> <*>,47
+77239bf9,<*> session <*> <*> <*> <*> <*>,40
+9dde456f,******* GOODBYE <*> ********,19
+d8b815b6,LOOKING,4
+b203390b,My election bind port: <*><*>,1
+8baf68ca,Have <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+3370cdfe,FOLLOWING,2
+5f7e8dce,<*> <*> <*> id <*> <*> <*> <*>,1
+052a1c81,FOLLOWING <*> <*> <*> <*> <*> <*>,2
+194e41ca,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)",4
+de4ecee6,<*> <*> to <*>,10
+f729530c,Server <*> <*>,2
+c7b2318f,Revalidating client: <*>,3
+b058f136,Server <*> <*> <*> <*> <*> <*>,1
+8f7cdfb4,<*> <*> <*> for <*> <*> <*> <*> <*> <*> <*>,4
+89ae8f16,<*> <*> <*> <*> session <*> <*> <*> <*> <*> <*> <*>,3
+d01fbfd0,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)",3
+d7af0a3b,Connection broken for id <*> my id = <*> error =,2
+855da42b,Unexpected <*> <*> <*> <*> <*> <*> <*>,12
+b579a1d0,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+8484005d,<*> quorum <*>,1
+1ce454df,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+5bb0b781,<*> <*> of <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+66787885,<*> <*> request <*> <*>,1
+159f6506,First is 0x0,1
+4c6e7ad9,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+cdc119d1,Sending DIFF,1
+64f4093a,<*> <*> <*> from <*>,2
+8651b9d2,"Notification: 3 (n.leader), <*> (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), <*> (n.peerEPoch), LOOKING (my state)",3
+ec01bdd6,"Notification: 3 (n.leader), <*> (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), <*> (n.peerEPoch), LOOKING (my state)",1
+40ed5647,"Notification: 3 (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), 3 (n.sid), <*> (n.peerEPoch), <*> (my state)",1

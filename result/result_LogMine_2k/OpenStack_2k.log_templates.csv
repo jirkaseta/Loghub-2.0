@@ -1,0 +1,472 @@
+EventId,EventTemplate,Occurrences
+3ae6b5b9,"""GET HTTPstatus: len: time: .",931
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] VM Started (Lifecycle Event),931
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] VM Paused (Lifecycle Event),931
+3ae6b5b9,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,931
+3ae6b5b9,image dd-c-fbb-c-fbeb at (checking,931
+3ae6b5b9,"image dd-c-fbb-c-fbeb at (in use: on this node  local,  on other nodes sharing this instance storage",931
+a23b996f,Active base files: /var/lib/nova/instances/_base/acfcdabcbbace,1
+da7fb98f,Creating event network-vif-plugged:effd-cd--bddd-fb for instance b-fea-b-bcc-ebcdd,1
+a44f2c0c,"""POST HTTPstatus: len: time: .",43
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] Instance spawned successfully.,931
+813e46ae,[instance: <*> Took . seconds to <*> the instance on the hypervisor.,82
+e486f960,[instance: b-fea-b-bcc-ebcdd] Took . seconds to build instance.,82
+62f25288,Auditing locally available compute resources for node cp-.slowvm.tcloud-pg.utah.cloudlab.us,82
+3ae6b5b9,"Total usable vcpus: , total allocated vcpus:",931
+3ae6b5b9,Final resource view: name=cp-.slowvm.tcloud-pg.utah.cloudlab.us phys_ram=MB used_ram=MB phys_disk=GB used_disk=GB total_vcpus= used_vcpus= pci_stats=[],931
+3ae6b5b9,Compute_service record updated for cp-.slowvm.tcloud-pg.utah.cloudlab.us:cp-.slowvm.tcloud-pg.utah.cloudlab.us,931
+3ae6b5b9,"""DELETE HTTPstatus: len: time: .",931
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] Terminating instance,931
+3ae6b5b9,[instance: b-fea-b-bcc-ebcdd] Instance destroyed successfully.,931
+e9cbef34,[instance: b-fea-b-bcc-ebcdd] Deleting instance files /var/lib/nova/instances/b-fea-b-bcc-ebcdd_del,1
+122f2278,[instance: b-fea-b-bcc-ebcdd] Deletion of complete,64
+8b44cb81,[instance: b-fea-b-bcc-ebcdd] Took . seconds to deallocate network for instance.,2
+ef4a501d,Unknown base file: /var/lib/nova/instances/_base/acfcdabcbbace,1
+3a26b5fa,Removable base files: /var/lib/nova/instances/_base/acfcdabcbbace,23
+a44f2c0c,Removing base or swap file: /var/lib/nova/instances/_base/acfcdabcbbace,43
+8b44cb81,HTTP exception thrown: No instances found for any event,2
+813e46ae,"[instance: abccce-df-e-bd-babeb] Attempting claim: memory  MB, disk  GB, vcpus  CPU",82
+e486f960,"[instance: abccce-df-e-bd-babeb] Total memory:  MB, used: . MB",82
+302d679a,"[instance: abccce-df-e-bd-babeb] memory limit: . MB, free: . MB",1
+62f25288,"[instance: abccce-df-e-bd-babeb] Total disk:  GB, used: . GB",82
+3ae6b5b9,"[instance: abccce-df-e-bd-babeb] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: abccce-df-e-bd-babeb] Total vcpu:  VCPU, used: . VCPU",931
+ead99d8d,"[instance: abccce-df-e-bd-babeb] vcpu limit not specified, defaulting to unlimited",15
+d1b3f9e8,[instance: abccce-df-e-bd-babeb] Claim successful,15
+f960c142,[instance: abccce-df-e-bd-babeb] Creating image,15
+f912dd11,[instance: b-fea-b-bcc-ebcdd] VM Stopped (Lifecycle Event),15
+813e46ae,[instance: abccce-df-e-bd-babeb] VM Started (Lifecycle Event),82
+e486f960,[instance: abccce-df-e-bd-babeb] VM Paused (Lifecycle Event),82
+62f25288,Creating event network-vif-plugged:ac-ce--aa-deafd for instance abccce-df-e-bd-babeb,82
+3ae6b5b9,[instance: abccce-df-e-bd-babeb] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: abccce-df-e-bd-babeb] Instance spawned successfully.,931
+3ae6b5b9,[instance: abccce-df-e-bd-babeb] Took . seconds to build instance.,931
+3ae6b5b9,Successfully synced instances from host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us'.,931
+fec45d4a,[instance: abccce-df-e-bd-babeb] Terminating instance,22
+3ae6b5b9,Running instance usage audit for host cp-.slowvm.tcloud-pg.utah.cloudlab.us from -- :: to -- ::.  instances.,931
+4930541f,[instance: abccce-df-e-bd-babeb] Instance destroyed successfully.,1
+1b4c9b7d,[instance: abccce-df-e-bd-babeb] Deleting instance files /var/lib/nova/instances/abccce-df-e-bd-babeb_del,1
+3ae6b5b9,[instance: abccce-df-e-bd-babeb] Deletion of complete,931
+3ae6b5b9,[instance: <*> Took . seconds to destroy the instance on the hypervisor.,931
+713c21f5,[instance: abccce-df-e-bd-babeb] Took . seconds to deallocate network for instance.,1
+f8cbeb16,"[instance: bef-bad-ae-bfa-cbaa] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+3a26b5fa,"[instance: bef-bad-ae-bfa-cbaa] Total memory:  MB, used: . MB",23
+3ae6b5b9,"[instance: bef-bad-ae-bfa-cbaa] memory limit: . MB, free: . MB",931
+0dafba38,"[instance: bef-bad-ae-bfa-cbaa] Total disk:  GB, used: . GB",1
+3ae6b5b9,"[instance: bef-bad-ae-bfa-cbaa] disk limit not specified, defaulting to unlimited",931
+141ad139,"[instance: bef-bad-ae-bfa-cbaa] Total vcpu:  VCPU, used: . VCPU",30
+4a400e37,"[instance: bef-bad-ae-bfa-cbaa] vcpu limit not specified, defaulting to unlimited",30
+ba92fb0a,[instance: bef-bad-ae-bfa-cbaa] Claim successful,21
+66acd71e,[instance: bef-bad-ae-bfa-cbaa] Creating image,21
+122f2278,[instance: abccce-df-e-bd-babeb] VM Stopped (Lifecycle Event),64
+122f2278,[instance: bef-bad-ae-bfa-cbaa] VM Started (Lifecycle Event),64
+3ae6b5b9,[instance: bef-bad-ae-bfa-cbaa] VM Paused (Lifecycle Event),931
+10698d38,Creating event network-vif-plugged:dceca--c-aa-fedefcb for instance bef-bad-ae-bfa-cbaa,1
+f64512f2,[instance: bef-bad-ae-bfa-cbaa] VM Resumed (Lifecycle Event),1
+2380549b,[instance: bef-bad-ae-bfa-cbaa] Instance spawned successfully.,1
+c8b28ac1,[instance: bef-bad-ae-bfa-cbaa] Took . seconds to build instance.,1
+84982e90,[instance: bef-bad-ae-bfa-cbaa] Terminating instance,1
+eb92c79c,[instance: bef-bad-ae-bfa-cbaa] Instance destroyed successfully.,1
+66eac3a0,[instance: bef-bad-ae-bfa-cbaa] Deleting instance files /var/lib/nova/instances/bef-bad-ae-bfa-cbaa_del,1
+c6f2b729,[instance: bef-bad-ae-bfa-cbaa] Deletion of complete,1
+3ae6b5b9,[instance: bef-bad-ae-bfa-cbaa] Took . seconds to deallocate network for instance.,931
+3ae6b5b9,Base or swap file too young to remove: /var/lib/nova/instances/_base/acfcdabcbbace,931
+1cd83c48,"[instance: dc--cc-e-bcdcf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+3ae6b5b9,"[instance: dc--cc-e-bcdcf] Total memory:  MB, used: . MB",931
+d92e2437,"[instance: dc--cc-e-bcdcf] memory limit: . MB, free: . MB",1
+3ae6b5b9,"[instance: dc--cc-e-bcdcf] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: dc--cc-e-bcdcf] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: dc--cc-e-bcdcf] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: dc--cc-e-bcdcf] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Claim successful,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Creating image,931
+3ae6b5b9,[instance: bef-bad-ae-bfa-cbaa] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] VM Started (Lifecycle Event),931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:bc--e-ba-ecddd for instance dc--cc-e-bcdcf,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Instance spawned successfully.,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Took . seconds to build instance.,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Terminating instance,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] Instance destroyed successfully.,931
+a30200d1,[instance: dc--cc-e-bcdcf] Deleting instance files /var/lib/nova/instances/dc--cc-e-bcdcf_del,1
+094bdab9,[instance: dc--cc-e-bcdcf] Deletion of complete,1
+a44f2c0c,[instance: dc--cc-e-bcdcf] Took . seconds to deallocate network for instance.,43
+3ae6b5b9,"[instance: -b-f--fcbac] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+813e46ae,"[instance: -b-f--fcbac] Total memory:  MB, used: . MB",82
+e486f960,"[instance: -b-f--fcbac] memory limit: . MB, free: . MB",82
+3ae6b5b9,"[instance: -b-f--fcbac] Total disk:  GB, used: . GB",931
+62f25288,"[instance: -b-f--fcbac] disk limit not specified, defaulting to unlimited",82
+3ae6b5b9,"[instance: -b-f--fcbac] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: -b-f--fcbac] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: -b-f--fcbac] Claim successful,931
+3ae6b5b9,[instance: -b-f--fcbac] Creating image,931
+3ae6b5b9,[instance: dc--cc-e-bcdcf] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: -b-f--fcbac] VM Started (Lifecycle Event),931
+813e46ae,[instance: -b-f--fcbac] VM Paused (Lifecycle Event),82
+e486f960,Creating event network-vif-plugged:cf--fc-c-baef for instance -b-f--fcbac,82
+62f25288,[instance: -b-f--fcbac] VM Resumed (Lifecycle Event),82
+3ae6b5b9,[instance: -b-f--fcbac] Instance spawned successfully.,931
+3ae6b5b9,[instance: -b-f--fcbac] Took . seconds to build instance.,931
+edc94dd4,[instance: -b-f--fcbac] Terminating instance,1
+122f2278,[instance: -b-f--fcbac] Instance destroyed successfully.,64
+0cfceb33,[instance: -b-f--fcbac] Deleting instance files /var/lib/nova/instances/-b-f--fcbac_del,2
+97552346,[instance: -b-f--fcbac] Deletion of complete,1
+3a26b5fa,[instance: -b-f--fcbac] Took . seconds to deallocate network for instance.,23
+a44f2c0c,"[instance: eccf-cb-d-c-fadfc] Attempting claim: memory  MB, disk  GB, vcpus  CPU",43
+0cfceb33,"[instance: eccf-cb-d-c-fadfc] Total memory:  MB, used: . MB",2
+a07730d8,"[instance: eccf-cb-d-c-fadfc] memory limit: . MB, free: . MB",1
+3ae6b5b9,"[instance: eccf-cb-d-c-fadfc] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: eccf-cb-d-c-fadfc] disk limit not specified, defaulting to unlimited",931
+813e46ae,"[instance: eccf-cb-d-c-fadfc] Total vcpu:  VCPU, used: . VCPU",82
+e486f960,"[instance: eccf-cb-d-c-fadfc] vcpu limit not specified, defaulting to unlimited",82
+62f25288,[instance: eccf-cb-d-c-fadfc] Claim successful,82
+f601c5c8,[instance: eccf-cb-d-c-fadfc] Creating image,2
+3ae6b5b9,[instance: -b-f--fcbac] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] VM Started (Lifecycle Event),931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:-baff-ad-e-ac for instance eccf-cb-d-c-fadfc,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Instance spawned successfully.,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Took . seconds to build instance.,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Terminating instance,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Instance destroyed successfully.,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Deleting instance files /var/lib/nova/instances/eccf-cb-d-c-fadfc_del,931
+3ae6b5b9,[instance: eccf-cb-d-c-fadfc] Deletion of complete,931
+fec45d4a,[instance: eccf-cb-d-c-fadfc] Took . seconds to deallocate network for instance.,22
+2440e8dd,"[instance: aff-fd--b-ccaa] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+3ae6b5b9,"[instance: aff-fd--b-ccaa] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: aff-fd--b-ccaa] memory limit: . MB, free: . MB",931
+c67e08b7,"[instance: aff-fd--b-ccaa] Total disk:  GB, used: . GB",1
+3496466c,"[instance: aff-fd--b-ccaa] disk limit not specified, defaulting to unlimited",1
+ea232209,"[instance: aff-fd--b-ccaa] Total vcpu:  VCPU, used: . VCPU",1
+6258544b,"[instance: aff-fd--b-ccaa] vcpu limit not specified, defaulting to unlimited",1
+21d788f2,[instance: aff-fd--b-ccaa] Claim successful,20
+3ae6b5b9,[instance: aff-fd--b-ccaa] Creating image,931
+95d083b1,[instance: eccf-cb-d-c-fadfc] VM Stopped (Lifecycle Event),1
+141ad139,[instance: aff-fd--b-ccaa] VM Started (Lifecycle Event),30
+4a400e37,[instance: aff-fd--b-ccaa] VM Paused (Lifecycle Event),30
+ba92fb0a,Creating event network-vif-plugged:bdbad-dd-c-ab-dcc for instance aff-fd--b-ccaa,21
+3ae6b5b9,[instance: aff-fd--b-ccaa] VM Resumed (Lifecycle Event),931
+66acd71e,[instance: aff-fd--b-ccaa] Instance spawned successfully.,21
+122f2278,[instance: aff-fd--b-ccaa] Took . seconds to build instance.,64
+122f2278,[instance: aff-fd--b-ccaa] Terminating instance,64
+3ae6b5b9,[instance: aff-fd--b-ccaa] Instance destroyed successfully.,931
+02b435db,[instance: aff-fd--b-ccaa] Deleting instance files /var/lib/nova/instances/aff-fd--b-ccaa_del,1
+b6129e9d,[instance: aff-fd--b-ccaa] Deletion of complete,1
+b80a8f47,[instance: aff-fd--b-ccaa] Took . seconds to deallocate network for instance.,1
+42a59e66,"[instance: aeabd-eec-bb-ba-cdbf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+8607ec29,"[instance: aeabd-eec-bb-ba-cdbf] Total memory:  MB, used: . MB",1
+b033890c,"[instance: aeabd-eec-bb-ba-cdbf] memory limit: . MB, free: . MB",1
+e29da36b,"[instance: aeabd-eec-bb-ba-cdbf] Total disk:  GB, used: . GB",1
+45fe2622,"[instance: aeabd-eec-bb-ba-cdbf] disk limit not specified, defaulting to unlimited",1
+3ae6b5b9,"[instance: aeabd-eec-bb-ba-cdbf] Total vcpu:  VCPU, used: . VCPU",931
+ead99d8d,"[instance: aeabd-eec-bb-ba-cdbf] vcpu limit not specified, defaulting to unlimited",15
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Claim successful,931
+d1b3f9e8,[instance: aeabd-eec-bb-ba-cdbf] Creating image,15
+f960c142,[instance: aff-fd--b-ccaa] VM Stopped (Lifecycle Event),15
+a8d3cfce,[instance: aeabd-eec-bb-ba-cdbf] VM Started (Lifecycle Event),1
+f912dd11,[instance: aeabd-eec-bb-ba-cdbf] VM Paused (Lifecycle Event),15
+3ae6b5b9,The instance sync for host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us' did not match. Re-created its InstanceList.,931
+1b221e45,Creating event network-vif-plugged:dbda-e-cd--faeddd for instance aeabd-eec-bb-ba-cdbf,1
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Instance spawned successfully.,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Took . seconds to build instance.,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Terminating instance,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Instance destroyed successfully.,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Deleting instance files /var/lib/nova/instances/aeabd-eec-bb-ba-cdbf_del,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Deletion of complete,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] Took . seconds to deallocate network for instance.,931
+3ae6b5b9,"[instance: -f-da-bee-dcce] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+3ae6b5b9,"[instance: -f-da-bee-dcce] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: -f-da-bee-dcce] memory limit: . MB, free: . MB",931
+3ae6b5b9,"[instance: -f-da-bee-dcce] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: -f-da-bee-dcce] disk limit not specified, defaulting to unlimited",931
+813e46ae,"[instance: -f-da-bee-dcce] Total vcpu:  VCPU, used: . VCPU",82
+e486f960,"[instance: -f-da-bee-dcce] vcpu limit not specified, defaulting to unlimited",82
+62f25288,[instance: -f-da-bee-dcce] Claim successful,82
+3ae6b5b9,[instance: -f-da-bee-dcce] Creating image,931
+3ae6b5b9,[instance: aeabd-eec-bb-ba-cdbf] VM Stopped (Lifecycle Event),931
+c1c6d824,[instance: -f-da-bee-dcce] VM Started (Lifecycle Event),1
+805986c9,[instance: -f-da-bee-dcce] VM Paused (Lifecycle Event),1
+a44f2c0c,Creating event network-vif-plugged:dfc-a--aeed-a for instance -f-da-bee-dcce,43
+3ae6b5b9,[instance: -f-da-bee-dcce] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: -f-da-bee-dcce] Instance spawned successfully.,931
+3ae6b5b9,[instance: -f-da-bee-dcce] Took . seconds to build instance.,931
+3ae6b5b9,[instance: -f-da-bee-dcce] Terminating instance,931
+3ae6b5b9,[instance: -f-da-bee-dcce] Instance destroyed successfully.,931
+813e46ae,[instance: -f-da-bee-dcce] Deleting instance files /var/lib/nova/instances/-f-da-bee-dcce_del,82
+e486f960,[instance: -f-da-bee-dcce] Deletion of complete,82
+62f25288,[instance: -f-da-bee-dcce] Took . seconds to deallocate network for instance.,82
+3ae6b5b9,"[instance: fecdda-ca-c--bfe] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+3ae6b5b9,"[instance: fecdda-ca-c--bfe] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: fecdda-ca-c--bfe] memory limit: . MB, free: . MB",931
+c9e244bb,"[instance: fecdda-ca-c--bfe] Total disk:  GB, used: . GB",1
+122f2278,"[instance: fecdda-ca-c--bfe] disk limit not specified, defaulting to unlimited",64
+b6f7d161,"[instance: fecdda-ca-c--bfe] Total vcpu:  VCPU, used: . VCPU",2
+bc8bf400,"[instance: fecdda-ca-c--bfe] vcpu limit not specified, defaulting to unlimited",1
+3a26b5fa,[instance: fecdda-ca-c--bfe] Claim successful,23
+a44f2c0c,[instance: fecdda-ca-c--bfe] Creating image,43
+b6f7d161,[instance: -f-da-bee-dcce] VM Stopped (Lifecycle Event),2
+9fe2ebad,[instance: fecdda-ca-c--bfe] VM Started (Lifecycle Event),1
+3ae6b5b9,[instance: fecdda-ca-c--bfe] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:b---aa-cbb for instance fecdda-ca-c--bfe,931
+813e46ae,[instance: fecdda-ca-c--bfe] VM Resumed (Lifecycle Event),82
+e486f960,[instance: fecdda-ca-c--bfe] Instance spawned successfully.,82
+62f25288,[instance: fecdda-ca-c--bfe] Took . seconds to build instance.,82
+3ae6b5b9,[instance: fecdda-ca-c--bfe] Terminating instance,931
+3ae6b5b9,[instance: fecdda-ca-c--bfe] Instance destroyed successfully.,931
+3ae6b5b9,[instance: fecdda-ca-c--bfe] Deleting instance files /var/lib/nova/instances/fecdda-ca-c--bfe_del,931
+3ae6b5b9,[instance: fecdda-ca-c--bfe] Deletion of complete,931
+3ae6b5b9,[instance: fecdda-ca-c--bfe] Took . seconds to deallocate network for instance.,931
+fec45d4a,"[instance: ad-b-c-b-acadf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",22
+30318743,"[instance: ad-b-c-b-acadf] Total memory:  MB, used: . MB",1
+3ae6b5b9,"[instance: ad-b-c-b-acadf] memory limit: . MB, free: . MB",931
+658dbcc8,"[instance: ad-b-c-b-acadf] Total disk:  GB, used: . GB",1
+3ae6b5b9,"[instance: ad-b-c-b-acadf] disk limit not specified, defaulting to unlimited",931
+813e46ae,"[instance: ad-b-c-b-acadf] Total vcpu:  VCPU, used: . VCPU",82
+e486f960,"[instance: ad-b-c-b-acadf] vcpu limit not specified, defaulting to unlimited",82
+62f25288,[instance: ad-b-c-b-acadf] Claim successful,82
+acb359c7,[instance: ad-b-c-b-acadf] Creating image,1
+5fc624e9,[instance: fecdda-ca-c--bfe] VM Stopped (Lifecycle Event),1
+21d788f2,[instance: ad-b-c-b-acadf] VM Started (Lifecycle Event),20
+3ae6b5b9,[instance: ad-b-c-b-acadf] VM Paused (Lifecycle Event),931
+15b46899,Creating event network-vif-plugged:ebf-ae-e-bd-abbed for instance ad-b-c-b-acadf,1
+3ae6b5b9,[instance: ad-b-c-b-acadf] VM Resumed (Lifecycle Event),931
+66acd71e,[instance: ad-b-c-b-acadf] Instance spawned successfully.,21
+122f2278,[instance: ad-b-c-b-acadf] Took . seconds to build instance.,64
+141ad139,[instance: ad-b-c-b-acadf] Terminating instance,30
+4a400e37,[instance: ad-b-c-b-acadf] Instance destroyed successfully.,30
+01fa4db5,[instance: ad-b-c-b-acadf] Deleting instance files /var/lib/nova/instances/ad-b-c-b-acadf_del,9
+141ad139,[instance: ad-b-c-b-acadf] Deletion of complete,30
+4a400e37,[instance: ad-b-c-b-acadf] Took . seconds to deallocate network for instance.,30
+ba92fb0a,"[instance: dbeb-da-aa-bab-dffc] Attempting claim: memory  MB, disk  GB, vcpus  CPU",21
+122f2278,"[instance: dbeb-da-aa-bab-dffc] Total memory:  MB, used: . MB",64
+3ae6b5b9,"[instance: dbeb-da-aa-bab-dffc] memory limit: . MB, free: . MB",931
+fe313ae2,"[instance: dbeb-da-aa-bab-dffc] Total disk:  GB, used: . GB",1
+7c045257,"[instance: dbeb-da-aa-bab-dffc] disk limit not specified, defaulting to unlimited",1
+02622537,"[instance: dbeb-da-aa-bab-dffc] Total vcpu:  VCPU, used: . VCPU",1
+f757c265,"[instance: dbeb-da-aa-bab-dffc] vcpu limit not specified, defaulting to unlimited",1
+6226f541,[instance: dbeb-da-aa-bab-dffc] Claim successful,1
+863d00df,[instance: dbeb-da-aa-bab-dffc] Creating image,1
+7f59e99c,[instance: ad-b-c-b-acadf] VM Stopped (Lifecycle Event),1
+b3515ecd,[instance: dbeb-da-aa-bab-dffc] VM Started (Lifecycle Event),1
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:fef-f--abf-dfdeb for instance dbeb-da-aa-bab-dffc,931
+1674d509,[instance: dbeb-da-aa-bab-dffc] VM Resumed (Lifecycle Event),1
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Instance spawned successfully.,931
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Took . seconds to build instance.,931
+65bc78b4,[instance: dbeb-da-aa-bab-dffc] Terminating instance,1
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Instance destroyed successfully.,931
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Deleting instance files /var/lib/nova/instances/dbeb-da-aa-bab-dffc_del,931
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Deletion of complete,931
+3ae6b5b9,[instance: dbeb-da-aa-bab-dffc] Took . seconds to deallocate network for instance.,931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] memory limit: . MB, free: . MB",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: ea-cbf-fe-fe-fdf] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] Claim successful,931
+813e46ae,[instance: ea-cbf-fe-fe-fdf] Creating image,82
+e486f960,[instance: dbeb-da-aa-bab-dffc] VM Stopped (Lifecycle Event),82
+62f25288,[instance: ea-cbf-fe-fe-fdf] VM Started (Lifecycle Event),82
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:aed---e-facaccd for instance ea-cbf-fe-fe-fdf,931
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] VM Resumed (Lifecycle Event),931
+a83f2b61,[instance: ea-cbf-fe-fe-fdf] Instance spawned successfully.,1
+5334dc0d,[instance: ea-cbf-fe-fe-fdf] Took . seconds to build instance.,1
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] Terminating instance,931
+a44f2c0c,[instance: ea-cbf-fe-fe-fdf] Instance destroyed successfully.,43
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] Deleting instance files /var/lib/nova/instances/ea-cbf-fe-fe-fdf_del,931
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] Deletion of complete,931
+3ae6b5b9,[instance: ea-cbf-fe-fe-fdf] Took . seconds to deallocate network for instance.,931
+813e46ae,"[instance: cb-cb-c-b-afefff] Attempting claim: memory  MB, disk  GB, vcpus  CPU",82
+e486f960,"[instance: cb-cb-c-b-afefff] Total memory:  MB, used: . MB",82
+62f25288,"[instance: cb-cb-c-b-afefff] memory limit: . MB, free: . MB",82
+3ae6b5b9,"[instance: cb-cb-c-b-afefff] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: cb-cb-c-b-afefff] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: cb-cb-c-b-afefff] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: cb-cb-c-b-afefff] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: cb-cb-c-b-afefff] Claim successful,931
+ead99d8d,[instance: cb-cb-c-b-afefff] Creating image,15
+6cb4b40f,[instance: ea-cbf-fe-fe-fdf] VM Stopped (Lifecycle Event),1
+122f2278,[instance: cb-cb-c-b-afefff] VM Started (Lifecycle Event),64
+db30c789,[instance: cb-cb-c-b-afefff] VM Paused (Lifecycle Event),2
+01d8842d,Creating event network-vif-plugged:bbca-effa--cf-badf for instance cb-cb-c-b-afefff,1
+3a26b5fa,[instance: cb-cb-c-b-afefff] VM Resumed (Lifecycle Event),23
+a44f2c0c,[instance: cb-cb-c-b-afefff] Instance spawned successfully.,43
+db30c789,[instance: cb-cb-c-b-afefff] Took . seconds to build instance.,2
+cf1284aa,[instance: cb-cb-c-b-afefff] Terminating instance,1
+d1b3f9e8,[instance: cb-cb-c-b-afefff] Instance destroyed successfully.,15
+f960c142,[instance: cb-cb-c-b-afefff] Deleting instance files /var/lib/nova/instances/cb-cb-c-b-afefff_del,15
+f912dd11,[instance: cb-cb-c-b-afefff] Deletion of complete,15
+3ae6b5b9,[instance: cb-cb-c-b-afefff] Took . seconds to deallocate network for instance.,931
+813e46ae,"[instance: bfcd-f--ae-edae] Attempting claim: memory  MB, disk  GB, vcpus  CPU",82
+e486f960,"[instance: bfcd-f--ae-edae] Total memory:  MB, used: . MB",82
+62f25288,"[instance: bfcd-f--ae-edae] memory limit: . MB, free: . MB",82
+3ae6b5b9,"[instance: bfcd-f--ae-edae] Total disk:  GB, used: . GB",931
+813e46ae,"[instance: bfcd-f--ae-edae] disk limit not specified, defaulting to unlimited",82
+e486f960,"[instance: bfcd-f--ae-edae] Total vcpu:  VCPU, used: . VCPU",82
+62f25288,"[instance: bfcd-f--ae-edae] vcpu limit not specified, defaulting to unlimited",82
+3ae6b5b9,[instance: bfcd-f--ae-edae] Claim successful,931
+3ae6b5b9,[instance: bfcd-f--ae-edae] Creating image,931
+3ae6b5b9,[instance: cb-cb-c-b-afefff] VM Stopped (Lifecycle Event),931
+fec45d4a,"While synchronizing instance power states, found  instances in the database and  instances on the hypervisor.",22
+7f41f9b1,[instance: bfcd-f--ae-edae] VM Started (Lifecycle Event),1
+3ae6b5b9,[instance: bfcd-f--ae-edae] VM Paused (Lifecycle Event),931
+b5b5a422,Creating event network-vif-plugged:cba-a-d--caa for instance bfcd-f--ae-edae,1
+3ae6b5b9,[instance: bfcd-f--ae-edae] VM Resumed (Lifecycle Event),931
+bf8533d4,[instance: bfcd-f--ae-edae] Instance spawned successfully.,1
+bf32c2dd,[instance: bfcd-f--ae-edae] Took . seconds to build instance.,1
+21d788f2,[instance: bfcd-f--ae-edae] Terminating instance,20
+3ae6b5b9,[instance: bfcd-f--ae-edae] Instance destroyed successfully.,931
+d736c7f5,[instance: bfcd-f--ae-edae] Deleting instance files /var/lib/nova/instances/bfcd-f--ae-edae_del,1
+3ae6b5b9,[instance: bfcd-f--ae-edae] Deletion of complete,931
+141ad139,[instance: bfcd-f--ae-edae] Took . seconds to deallocate network for instance.,30
+4a400e37,"[instance: bee-cc-f--caabc] Attempting claim: memory  MB, disk  GB, vcpus  CPU",30
+01fa4db5,"[instance: bee-cc-f--caabc] Total memory:  MB, used: . MB",9
+66acd71e,"[instance: bee-cc-f--caabc] memory limit: . MB, free: . MB",21
+122f2278,"[instance: bee-cc-f--caabc] Total disk:  GB, used: . GB",64
+141ad139,"[instance: bee-cc-f--caabc] disk limit not specified, defaulting to unlimited",30
+4a400e37,"[instance: bee-cc-f--caabc] Total vcpu:  VCPU, used: . VCPU",30
+ba92fb0a,"[instance: bee-cc-f--caabc] vcpu limit not specified, defaulting to unlimited",21
+122f2278,[instance: bee-cc-f--caabc] Claim successful,64
+3ae6b5b9,[instance: bee-cc-f--caabc] Creating image,931
+1af9df4f,[instance: bfcd-f--ae-edae] VM Stopped (Lifecycle Event),1
+0cf24273,[instance: bee-cc-f--caabc] VM Started (Lifecycle Event),1
+cf118e9f,[instance: bee-cc-f--caabc] VM Paused (Lifecycle Event),1
+f0ab5dfa,Creating event network-vif-plugged:cf-d--aeb-bcada for instance bee-cc-f--caabc,1
+b12805fd,[instance: bee-cc-f--caabc] VM Resumed (Lifecycle Event),1
+d24af1a6,[instance: bee-cc-f--caabc] Instance spawned successfully.,1
+35a292ba,[instance: bee-cc-f--caabc] Took . seconds to build instance.,1
+6478f689,[instance: bee-cc-f--caabc] Terminating instance,1
+3ae6b5b9,[instance: bee-cc-f--caabc] Instance destroyed successfully.,931
+3ae6b5b9,[instance: bee-cc-f--caabc] Deleting instance files /var/lib/nova/instances/bee-cc-f--caabc_del,931
+3bb0454e,[instance: bee-cc-f--caabc] Deletion of complete,1
+3ae6b5b9,[instance: bee-cc-f--caabc] Took . seconds to deallocate network for instance.,931
+3ae6b5b9,"[instance: acf-bb--ad-cacad] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+9efb31d6,"[instance: acf-bb--ad-cacad] Total memory:  MB, used: . MB",1
+3ae6b5b9,"[instance: acf-bb--ad-cacad] memory limit: . MB, free: . MB",931
+3ae6b5b9,"[instance: acf-bb--ad-cacad] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: acf-bb--ad-cacad] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: acf-bb--ad-cacad] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: acf-bb--ad-cacad] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: acf-bb--ad-cacad] Claim successful,931
+3ae6b5b9,[instance: acf-bb--ad-cacad] Creating image,931
+3ae6b5b9,[instance: bee-cc-f--caabc] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: acf-bb--ad-cacad] VM Started (Lifecycle Event),931
+3ae6b5b9,[instance: acf-bb--ad-cacad] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:ba-ef-f-d-dcfcb for instance acf-bb--ad-cacad,931
+3ae6b5b9,[instance: acf-bb--ad-cacad] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: acf-bb--ad-cacad] Instance spawned successfully.,931
+3ae6b5b9,[instance: acf-bb--ad-cacad] Took . seconds to build instance.,931
+d6885902,[instance: acf-bb--ad-cacad] Terminating instance,1
+3ae6b5b9,[instance: acf-bb--ad-cacad] Instance destroyed successfully.,931
+b0b38510,[instance: acf-bb--ad-cacad] Deleting instance files /var/lib/nova/instances/acf-bb--ad-cacad_del,1
+a44f2c0c,[instance: acf-bb--ad-cacad] Deletion of complete,43
+3ae6b5b9,[instance: acf-bb--ad-cacad] Took . seconds to deallocate network for instance.,931
+813e46ae,"[instance: dab---bdcc-bdd] Attempting claim: memory  MB, disk  GB, vcpus  CPU",82
+e486f960,"[instance: dab---bdcc-bdd] Total memory:  MB, used: . MB",82
+62f25288,"[instance: dab---bdcc-bdd] memory limit: . MB, free: . MB",82
+3ae6b5b9,"[instance: dab---bdcc-bdd] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: dab---bdcc-bdd] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: dab---bdcc-bdd] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: dab---bdcc-bdd] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: dab---bdcc-bdd] Claim successful,931
+3ae6b5b9,[instance: dab---bdcc-bdd] Creating image,931
+3ae6b5b9,[instance: acf-bb--ad-cacad] VM Stopped (Lifecycle Event),931
+813e46ae,[instance: dab---bdcc-bdd] VM Started (Lifecycle Event),82
+e486f960,[instance: dab---bdcc-bdd] VM Paused (Lifecycle Event),82
+50965670,Creating event network-vif-plugged:acd-cb-ef-bc-dbccabdc for instance dab---bdcc-bdd,1
+122f2278,[instance: dab---bdcc-bdd] VM Resumed (Lifecycle Event),64
+dfcdd8f2,[instance: dab---bdcc-bdd] Instance spawned successfully.,2
+959a93f3,[instance: dab---bdcc-bdd] Took . seconds to build instance.,1
+3a26b5fa,[instance: dab---bdcc-bdd] Terminating instance,23
+3ae6b5b9,[instance: dab---bdcc-bdd] Instance destroyed successfully.,931
+62f25288,[instance: dab---bdcc-bdd] Deleting instance files /var/lib/nova/instances/dab---bdcc-bdd_del,82
+a44f2c0c,[instance: dab---bdcc-bdd] Deletion of complete,43
+dfcdd8f2,[instance: dab---bdcc-bdd] Took . seconds to deallocate network for instance.,2
+d9b327fe,"[instance: dbbd----fffddeae] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+3ae6b5b9,"[instance: dbbd----fffddeae] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: dbbd----fffddeae] memory limit: . MB, free: . MB",931
+f601c5c8,"[instance: dbbd----fffddeae] Total disk:  GB, used: . GB",2
+813e46ae,"[instance: dbbd----fffddeae] disk limit not specified, defaulting to unlimited",82
+e486f960,"[instance: dbbd----fffddeae] Total vcpu:  VCPU, used: . VCPU",82
+62f25288,"[instance: dbbd----fffddeae] vcpu limit not specified, defaulting to unlimited",82
+3ae6b5b9,[instance: dbbd----fffddeae] Claim successful,931
+3ae6b5b9,[instance: dbbd----fffddeae] Creating image,931
+3ae6b5b9,[instance: dab---bdcc-bdd] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: dbbd----fffddeae] VM Started (Lifecycle Event),931
+3ae6b5b9,[instance: dbbd----fffddeae] VM Paused (Lifecycle Event),931
+3ae6b5b9,Creating event network-vif-plugged:baca-e--ff-dff for instance dbbd----fffddeae,931
+3ae6b5b9,[instance: dbbd----fffddeae] VM Resumed (Lifecycle Event),931
+3ae6b5b9,[instance: dbbd----fffddeae] Instance spawned successfully.,931
+3ae6b5b9,[instance: dbbd----fffddeae] Took . seconds to build instance.,931
+3ae6b5b9,[instance: dbbd----fffddeae] Terminating instance,931
+3ae6b5b9,[instance: dbbd----fffddeae] Instance destroyed successfully.,931
+fec45d4a,[instance: dbbd----fffddeae] Deleting instance files /var/lib/nova/instances/dbbd----fffddeae_del,22
+dcf1529c,[instance: dbbd----fffddeae] Deletion of complete,1
+3ae6b5b9,[instance: dbbd----fffddeae] Took . seconds to deallocate network for instance.,931
+839a9241,"[instance: ea-fe--b-ace] Attempting claim: memory  MB, disk  GB, vcpus  CPU",1
+3ae6b5b9,"[instance: ea-fe--b-ace] Total memory:  MB, used: . MB",931
+bc64afdf,"[instance: ea-fe--b-ace] memory limit: . MB, free: . MB",1
+5ae14a3f,"[instance: ea-fe--b-ace] Total disk:  GB, used: . GB",1
+21d788f2,"[instance: ea-fe--b-ace] disk limit not specified, defaulting to unlimited",20
+3ae6b5b9,"[instance: ea-fe--b-ace] Total vcpu:  VCPU, used: . VCPU",931
+2f5b775b,"[instance: ea-fe--b-ace] vcpu limit not specified, defaulting to unlimited",1
+813e46ae,[instance: ea-fe--b-ace] Claim successful,82
+e486f960,[instance: ea-fe--b-ace] Creating image,82
+62f25288,[instance: dbbd----fffddeae] VM Stopped (Lifecycle Event),82
+3ae6b5b9,[instance: ea-fe--b-ace] VM Started (Lifecycle Event),931
+66acd71e,[instance: ea-fe--b-ace] VM Paused (Lifecycle Event),21
+122f2278,Creating event network-vif-plugged:bfd-dbd--bf-efecc for instance ea-fe--b-ace,64
+141ad139,[instance: ea-fe--b-ace] VM Resumed (Lifecycle Event),30
+4a400e37,[instance: ea-fe--b-ace] Instance spawned successfully.,30
+ba92fb0a,[instance: ea-fe--b-ace] Took . seconds to build instance.,21
+ead99d8d,[instance: ea-fe--b-ace] Terminating instance,15
+d1b3f9e8,[instance: ea-fe--b-ace] Instance destroyed successfully.,15
+f960c142,[instance: ea-fe--b-ace] Deleting instance files /var/lib/nova/instances/ea-fe--b-ace_del,15
+f912dd11,[instance: ea-fe--b-ace] Deletion of complete,15
+122f2278,[instance: ea-fe--b-ace] Took . seconds to deallocate network for instance.,64
+3ae6b5b9,"[instance: cff-c-ea-be-edfcfbf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+a92d81cc,"[instance: cff-c-ea-be-edfcfbf] Total memory:  MB, used: . MB",1
+c04e553c,"[instance: cff-c-ea-be-edfcfbf] memory limit: . MB, free: . MB",1
+bd0ac960,"[instance: cff-c-ea-be-edfcfbf] Total disk:  GB, used: . GB",1
+3785a35b,"[instance: cff-c-ea-be-edfcfbf] disk limit not specified, defaulting to unlimited",1
+494139bd,"[instance: cff-c-ea-be-edfcfbf] Total vcpu:  VCPU, used: . VCPU",1
+189be16a,"[instance: cff-c-ea-be-edfcfbf] vcpu limit not specified, defaulting to unlimited",1
+94b6c207,[instance: cff-c-ea-be-edfcfbf] Claim successful,1
+6e76fa2e,[instance: cff-c-ea-be-edfcfbf] Creating image,1
+3ae6b5b9,[instance: ea-fe--b-ace] VM Stopped (Lifecycle Event),931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] VM Started (Lifecycle Event),931
+931ce435,[instance: cff-c-ea-be-edfcfbf] VM Paused (Lifecycle Event),1
+3ae6b5b9,Creating event network-vif-plugged:bad-cee-ff-bbd-abfe for instance cff-c-ea-be-edfcfbf,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] VM Resumed (Lifecycle Event),931
+83b85b12,[instance: cff-c-ea-be-edfcfbf] Instance spawned successfully.,1
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Took . seconds to build instance.,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Terminating instance,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Instance destroyed successfully.,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Deleting instance files /var/lib/nova/instances/cff-c-ea-be-edfcfbf_del,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Deletion of complete,931
+3ae6b5b9,[instance: cff-c-ea-be-edfcfbf] Took . seconds to deallocate network for instance.,931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] Attempting claim: memory  MB, disk  GB, vcpus  CPU",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] Total memory:  MB, used: . MB",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] memory limit: . MB, free: . MB",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] Total disk:  GB, used: . GB",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] disk limit not specified, defaulting to unlimited",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] Total vcpu:  VCPU, used: . VCPU",931
+3ae6b5b9,"[instance: fafea-cba-eb-f-abcf] vcpu limit not specified, defaulting to unlimited",931
+3ae6b5b9,[instance: fafea-cba-eb-f-abcf] Claim successful,931
+813e46ae,[instance: fafea-cba-eb-f-abcf] Creating image,82
+e486f960,[instance: cff-c-ea-be-edfcfbf] VM Stopped (Lifecycle Event),82
+62f25288,[instance: fafea-cba-eb-f-abcf] VM Started (Lifecycle Event),82
+0ed0016f,[instance: fafea-cba-eb-f-abcf] VM Paused (Lifecycle Event),1
+8b61d6a7,Creating event network-vif-plugged:faf-aae-b-c-abccebb for instance fafea-cba-eb-f-abcf,1
+3ae6b5b9,[instance: fafea-cba-eb-f-abcf] VM Resumed (Lifecycle Event),931
+a44f2c0c,[instance: fafea-cba-eb-f-abcf] Instance spawned successfully.,43
+3ae6b5b9,[instance: fafea-cba-eb-f-abcf] Took . seconds to build instance.,931
+3ae6b5b9,[instance: fafea-cba-eb-f-abcf] Terminating instance,931
+3ae6b5b9,[instance: fafea-cba-eb-f-abcf] Instance destroyed successfully.,931

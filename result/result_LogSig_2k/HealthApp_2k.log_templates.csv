@@ -1,0 +1,68 @@
+EventId,EventTemplate,Occurrences
+a2d53eed,onStandStepChanged 3579,4
+e041eac7,1 0 4,64
+b080c338,onReceive action: android.intent.action.SCREEN_ON,17
+dd5e8a75,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,17
+b8f897f8,flush sensor data,20
+2ef25739,getTodayTotalDetailSteps =,243
+d41d8cd9,,343
+8b69b668,calculateCaloriesWithCache,65
+49e93189,calculateAltitudeWithCache totalAltitude=240,218
+a0b29d00,0 0 0,74
+f5f4cee4,onStandStepChanged,53
+d53faf59,2 0 4,54
+9ca9eab6,calculateCaloriesWithCache totalCalories=126882,2
+7f87b8f5,calculateCaloriesWithCache totalCalories=126904,2
+7dae3dc7,REPORT : 7013 5007 150218 240,2
+2a3d200a,onStandStepChanged 3586,2
+fb335edc,REPORT : 7014 5007 150239 240,2
+1e4424af,REPORT : 240,128
+b891c816,onReceive action: android.intent.action.SCREEN_OFF,18
+f64f76b6,onStandStepChanged 3589,4
+e247564a,calculateCaloriesWithCache totalCalories=126989,4
+ebee4f76,onStandStepChanged 3599,2
+3f9b4da2,ifCanSync not! no cloud version,6
+6421317f,setTodayTotalDetailSteps=1514038440000##7035##548365##8661##14926##27190469,2
+02d29f24,setTodayTotalDetailSteps=1514038440000##7036##548365##8661##15021##27190970,2
+b77fa3ef,calculateCaloriesWithCache totalCalories=127461,2
+2e5d5591,setTodayTotalDetailSteps=1514038440000##7040##548365##8661##15401##27193971,2
+4fdbb74a,onStandStepChanged 3616,2
+1545ee7d,setTodayTotalDetailSteps=1514038440000##7050##548365##8661##16066##27199969,2
+093bd3bc,setTodayTotalDetailSteps=1514038440000##7052##548365##8661##16161##27200470,2
+d01a3f34,processHandleBroadcastAction action:android.intent.action.TIME_TICK,144
+bbd47647,onStandStepChanged 3646,3
+d5c26f88,setTodayTotalDetailSteps=1514038560000##7075##548564##8661##16256##27309470,2
+c1f5360f,calculateCaloriesWithCache totalCalories=128231,2
+3ba40b70,startTimer start autoSync,4
+41a51257,setTodayTotalDetailSteps=1514038560000##7094##548574##8661##16256##27314468,2
+540df4b1,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",3
+857a74ff,calculateCaloriesWithCache totalCalories=129067,2
+c8a4e09f,onStandStepChanged 3698,2
+8d56c787,onStandStepChanged 3712,2
+d226526d,onStandStepChanged 3726,2
+658cc0a4,onStandStepChanged 3732,5
+b220a4b1,calculateCaloriesWithCache totalCalories=130052,4
+5fed72bf,getBinderPackageName packageName = com.huawei.health,9
+bf36bde2,= = 1 = 1,11
+b80663a2,= =,9
+a77c9f3c,"new date =20171223,",18
+960958ed,startListenerChange subscribeList = [1],4
+da883d28,uploadStaticsToDB() onResult type = 4 obj=true,2
+161ba043,uploadStaticsToDB failed message=true,2
+2da129e6,checkInsertStatus or is enough,5
+f034e86a,"startInsertSportSync first 500 steps sync,do all sync",3
+6e805a4c,needAutoSync autoSyncSwitch is open,6
+e4156b58,"initDataPrivacy the dataPrivacy switch is open, start push health data!",10
+f257f214,"initUserPrivacy the userPrivacy switch is open, start push user data!",10
+f299dfb0,onStandStepChanged 3761,59
+1b3927e4,calculateCaloriesWithCache totalCalories=130673,49
+10ab4b34,0 0 5,83
+1cf025d7,setTodayTotalDetailSteps=1514039340000##7189##549659##8661##16256##28068346,2
+01a78960,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29307585,2
+2f65c0e3,setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600053,2
+d67137ee,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,6
+2ee447b7,calculateCaloriesWithCache totalCalories=0,25
+4dcdad5d,calculateCaloriesWithCache totalCalories=131208,48
+46053b8c,onStandStepChanged 3786,73
+f4805c10,"timeStamp back,extendReportTimeStamp=1514042265000",2
+5cb5da8c,calculateAltitudeWithCache totalAltitude=0,25

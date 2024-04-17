@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurrences
+f55d1820,Notification time out : #spec#,37
+ea4035a0,Received connection request #spec#,299
+7a2ec7d0,Send worker leaving thread,262
+45a3ec5d,Interrupted while waiting for message on queue,314
+328aa371,"Connection broken for id 188978561024 , my id = * , error =",289
+273e53f2,Interrupting SendWorker,266
+15106d8f,Closed socket connection for client #spec# which had sessionid #spec#,44
+ecefe136,caught end of stream exception,37
+34866852,Client attempting to renew session #spec# at #spec#,3
+2ba98df9,Client attempting to establish new session at #spec#,41
+6af6912a,Established session #spec# with negotiated timeout #spec# for client #spec#,50
+6341512a,Accepted socket connection from #spec#,48
+0aa902cb,Unexpected Exception :,1
+0aff4557,Connection request from old client #spec# ; will be dropped if server is in r-o mode,39
+70e4fde9,Server environment : * = #spec#,7
+898149aa,Cannot open channel to #spec# at election address #spec#,86
+e593b57c,Processed session termination for sessionid : #spec#,47
+a9ecd631,"Expiring session #spec# , timeout of * exceeded",40
+8fb1965d,******* GOODBYE #spec# ********,19
+00078e14,LOOKING,4
+86f0c2ce,My election bind port : #spec# #spec#,1
+b1ff30f8,"Have smaller server identifier , so dropping the connection : ( 2 , 1 )",1
+c172d526,FOLLOWING,2
+de6b2ce5,"New election. My id = 1 , proposed zxid = #spec#",1
+eaaaf1d0,FOLLOWING - LEADER ELECTION TOOK - #spec#,2
+03bd3e4c,"Notification : #spec# ( n.leader ) , #spec# ( n.zxid ) , #spec# ( n.round ) , * ( n.state ) , #spec# ( n.sid ) , #spec# ( n.peerEPoch ) , * ( my state )",12
+b44e3b69,* set to #spec#,8
+1a20f8dd,Server environment : java.vendor = Oracle Corporation,2
+99d3c1e9,Revalidating client : #spec#,3
+be368f24,"Server environment : zookeeper.version = 3.4.5--1 , built on #spec# #spec# GMT",1
+bd96b1be,Closed socket connection for client #spec# ( no session established for client ),4
+3bc76cd4,Exception causing close of session #spec# due to java.io.IOException : ZooKeeperServer not running,3
+f251668e,"Connection broken for id * , my id = 1 , error =",1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+a70906f9,Got user-level KeeperException when processing sessionid : #spec# type : create cxid : #spec# zxid : #spec# txntype : -1 reqpath : n/a Error Path : #spec# Error : KeeperErrorCode = NodeExists for #spec#,1
+d459c04c,Starting quorum peer,1
+f9492089,Snapshotting : #spec# to #spec#,2
+29bd5e8b,Follower sid : #spec# : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+d431dfbc,Server environment : java.class.path = #spec# : #spec# : #spec# : #spec# : #spec# : #spec# : #spec# : #spec# : #spec#,1
+436b3447,Have quorum of supporters ; starting up and setting last processed zxid : #spec#,1
+c7ef5ae9,shutdown of request processor complete,1
+1da09702,First is #spec#,1
+5963969d,Reading snapshot #spec#,1
+9d86801d,Sending DIFF,1
+4c5926a1,Getting a snapshot from leader,2
+f4f1b5b6,"Connection broken for id 1 , my id = 3 , error =",1

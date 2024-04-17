@@ -1,0 +1,32 @@
+EventId,EventTemplate,Occurrences
+74882d1d,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+d5187f42,Invalid user <*> from <*>,109
+db9b36a4,input_userauth_request: invalid user <*> [preauth],109
+fdf0898e,pam_unix(sshd:auth): <*> <*> <*> <*>,135
+0a7f413e,pam_unix(sshd:auth): <*> <*> <*> <*> <*> <*> <*> <*>,110
+e31059cb,Failed password for <*> <*> <*> <*> <*> <*> <*> <*>,135
+a4e40b07,<*> <*> <*> <*> [preauth],34
+8e13da0f,Received disconnect from <*>: 11: <*> <*> [preauth],413
+bd2fd442,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> user=root,1
+210d55e2,Failed password for root from <*> port <*> ssh2,368
+a03a6c72,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2],2
+de01ef49,<*> <*> <*> <*> <*> <*> <*> [preauth],4
+2c01d870,PAM <*> more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,1
+69cc3bc1,PAM <*> <*> <*> <*> <*> <*> <*>,7
+c630ea45,pam_unix(sshd:auth): <*> <*> <*> <*> <*> <*> <*> <*> <*>,368
+50840386,Did not receive identification string from <*>,10
+185e2ff6,<*> <*> <*> from <*> <*> <*> <*> <*> <*>,2
+db87f6fb,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,15
+af19cd09,Failed password for <*> from <*> port <*> ssh2,15
+de4a1685,Received disconnect from <*>: 11: <*> <*> <*> <*> <*> <*>,7
+60b4267c,Failed <*> for <*> <*> <*> <*> <*> <*> <*> <*>,4
+5bb13d98,PAM <*> more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,6
+99f860e0,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,2
+d8c131e7,PAM <*> more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,1
+b05cdce9,<*> <*> <*> from <*> <*> <*> <*> <*> <*> <*> <*> <*>,45
+64f4093a,<*> <*> <*> from <*>,4
+ce4d128c,<*> <*> <*> user [preauth],4
+99a0c45e,<*> password for <*> from <*> port <*> ssh2,1
+c8627377,<*> <*> <*> <*> user <*> <*> <*>,1
+82e3e795,Received disconnect from <*>: 11: <*> <*> <*>,1
+5f04a6b2,<*> <*> <*> <*> user <*>,1

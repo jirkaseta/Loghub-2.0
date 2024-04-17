@@ -1,0 +1,14 @@
+EventId,EventTemplate,Occurrences
+4d4fca85,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*>,138
+b780997e,check pass; user unknown,117
+ed15dfad,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*> user=root,351
+09789b2b,session opened for user <*> by <*>,123
+27624832,session closed for user <*>,123
+b50339a1,NONE,265
+be314f37,connection from <*> () at <*> Jun <*> <*> 2005,132
+8f0f7d7f,connection from <*> <*> at <*> Jul <*> <*> 2005,301
+bb2bb2f4,connection from <*> <*> at Sun Jul <*> <*> 2005,336
+24ec5814,connection from <*> <*> at Sat Jul <*> <*> 2005,110
+d8976837,authentication failure; logname= uid=0 euid=0 <*> ruser= <*>,1
+8ba79762,<*> <*> user,1
+dadf7a7e,<*> <*> for <*> <*>,2

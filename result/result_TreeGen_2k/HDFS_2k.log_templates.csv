@@ -1,0 +1,18 @@
+EventId,EventTemplate,Occurrences
+be2214fc,<*> <*> <*> <*> <*> <*>,80
+9d892b9c,<*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+1e3832be,<*>:<*> <*> <*> <*> <*> <*> <*>:,80
+9c4db16f,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> <*> <*> <*> <*> <*> <*>,12
+745f8d8b,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> <*> <*> <*> <*> <*> <*> ,302
+3d91fa85,BLOCK* NameSystem.allocateBlock: <*> <*>,115
+79b3fcce,BLOCK* NameSystem.delete: <*> <*> <*> <*> <*> <*> <*>,224
+c76837ec,BLOCK* ask <*> <*> <*>  <*>,2
+c95b4dfb,BLOCK* ask <*> <*> <*>  <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+04018e33,BLOCK* ask <*> <*> <*>  <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+6e7f4548,BLOCK* ask <*> <*> <*> <*> <*> <*>(<*>) <*>,1
+074b2636,Deleting block <*> <*> <*>,263
+d38aa58d,PacketResponder <*> for block <*> <*>,311
+d515a8e2,Received block <*> <*> <*> <*> <*> <*>,292
+ea4f0c4c,Received block <*> <*>: <*> <*>: <*> <*> <*> <*> ,2
+4712b989,Receiving block <*> <*>: <*> <*>: <*>,292
+32777b38,Verification succeeded for <*>,20

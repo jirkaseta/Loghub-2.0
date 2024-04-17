@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+000a876b,Registered <*> <*> <*> <*> <*> <*>,1
+2eb305bb,"Changing <*> acls to: yarn,curi",4
+97a448ac,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+2cf81200,<*> started,1
+970fae95,Starting <*>,1
+deb755d9,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+84f420d8,Successfully started service <*> on port <*>,2
+679b3c55,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+6dcfb27e,<*> started <*> <*> <*> <*>,1
+a731801a,<*> to <*> <*>,2
+6306f927,Successfully <*> with <*>,1
+d3e6e08e,Starting <*> <*> <*> on <*> <*>,1
+23e98b39,Server created on 40984,1
+7b9babe2,Registered <*>,1
+9f536426,Got assigned task <*>,305
+195c5354,<*> task <*> in stage <*> (TID <*>,305
+3a7ce14f,Started reading broadcast variable <*>,37
+d4807489,"Block <*> stored as bytes in memory (estimated size <*> <*>, free <*> <*>)",112
+55bc7801,Reading broadcast variable <*> took <*> ms,37
+b84055b9,"Block <*> stored as <*> in memory (estimated size <*> <*>, free <*> <*>)",37
+018720dc,"Partition <*> not found, computing it",75
+a82e4696,Input split: <*>,45
+d4bbafca,"<*> is deprecated. Instead, use <*>",5
+e7dc1836,Times: total = <*> boot = <*> init = <*> finish = <*>,375
+bba4de07,<*> task <*> in stage <*> (TID <*> <*> <*> <*> <*> <*> <*>,300
+a99f19ce,Found block <*> locally,257
+d2ae97ac,File Output Committer Algorithm version is 1,30
+99acea06,Saved output of task <*> to <*>,30
+6238813e,<*> Committed,30

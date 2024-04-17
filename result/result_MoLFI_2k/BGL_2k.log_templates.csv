@@ -1,0 +1,138 @@
+EventId,EventTemplate,Occurrences
+3aa50e45,instruction cache parity error corrected,42
+5018af60,#spec# double-hummer alignment exceptions,109
+efca1e49,"CE sym * , at #spec# , mask #spec#",92
+279ad898,ciod : failed to read message prefix on control stream ( CioStream socket to #spec#,3
+ab2690b3,generating #spec#,721
+9f7cd7e7,force load/store alignment...............0,2
+78682217,ciod : cpu #spec# at treeaddr #spec# sent unrecognized message #spec#,1
+31fd4215,ciod : LOGIN chdir ( #spec# ) failed : No such file or directory,18
+07319c0b,"#spec# ddr errors ( s ) detected and corrected on rank 0 , symbol * , bit #spec#",18
+38a7307d,data TLB error interrupt,60
+fb2675b1,ciod : Message code #spec# is not #spec# or #spec#,1
+d2c9db9b,data storage interrupt,30
+f181e00c,* address : #spec#,29
+956e9fd6,machine check : i-fetch......................0,5
+1d1f05ed,program interrupt : * *,21
+6e600609,exception syndrome register : #spec#,6
+7cc10966,data store interrupt caused by dcbf.........0,5
+40c9c002,store operation.............................1,2
+c2e612db,machine state register : #spec#,4
+930a9735,data store interrupt caused by icbi.........0,5
+6bdb23be,"problem state ( 0 = sup , 1 = usr ) .......0",3
+4a855bbd,floating point instr. enabled.....1,4
+f28dcd0f,auxiliary processor.........................0,5
+511c1d0d,machine check enable..............0,2
+f188789b,floating pt ex mode #spec# enable......0,5
+be4ebe05,debug * *,3
+3971a417,byte ordering exception.....................0,2
+ae9a7a4f,data address space................0,5
+701b1dd7,core configuration register : #spec#,7
+7ba7fdb2,program interrupt : fp cr update.............0,1
+1335bf9d,guaranteed instruction cache block touch.0,2
+49b4926d,program interrupt : fp cr field .............0,4
+53a936ba,guaranteed data cache block touch........1,1
+7eea25a6,icache prefetch *,3
+198c56f7,wait state enable.................0,1
+1c2a9320,critical input interrupt enable...0,1
+5c16f86f,special purpose registers :,1
+1c646469,lr : 00004ed0 cr : 28244842 xer : 20000002 ctr : 00086000,1
+af999985,rts internal error,1
+940724cb,instruction address space.........0,1
+228fcad4,disable store gathering..................0,3
+302bb7d3,total of #spec# ddr error ( s ) detected and corrected,13
+1b892616,"ciod : Error loading #spec# : invalid or missing program image , No such file or directory",20
+e4c2a11e,ciod : Error creating node map from file #spec# : No child processes,1
+0d02c0e2,program interrupt,3
+a2335b6b,Node card is not fully functional,6
+d2fe2de3,ciod : Error creating node map from file #spec# : Bad file descriptor,1
+c3566e89,Ido chip status changed : #spec# ip = #spec# v = 9 t = 4 status = M Fri Jul #spec# #spec# PDT #spec#,1
+9d5d6232,Can not get assembly information for node card,6
+879cce5c,ciod : Missing or invalid fields on line #spec# of node map file #spec#,2
+37b96eec,#spec# torus receiver z+ input pipe error ( s ) ( dcr #spec# ) detected and corrected,2
+3bf652a0,ciod : duplicate canonical-rank #spec# to logical-rank #spec# mapping at line #spec# of node map file #spec#,1
+806790a5,ciod : Error creating node map from file #spec# : Block device required,1
+220716fc,rts panic! - stopping execution,2
+0fa6a113,ciod : Error creating node map from file #spec# : Permission denied,1
+6105109d,ciod : Z coordinate #spec# exceeds physical dimension #spec# at line #spec# of node map file #spec#,1
+b5198c90,"rts : kernel terminated for reason 1001rts : bad message header : invalid cpu , type = 42315 , cpu = 105 , index = 1207960804 , total = 2691015",1
+813e313d,#spec# floating point alignment exceptions,121
+104bb7ca,New ido chip inserted into the database : #spec# ip = #spec# v = 9 t = 2,1
+904430dc,New ido chip inserted into the database : #spec# ip = #spec# v = 13 t = 4,2
+12c46e92,NodeCard is not fully functional,1
+ee864beb,"Node card status : ALERT 0 , ALERT 1 , ALERT 2 , ALERT #spec# is ( are ) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",1
+75d370e5,"Node card VPD check : U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2 , found #spec#",1
+3c19f0d4,"idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )",35
+b18be6d2,Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,5
+b37d1c59,"Node card VPD check : U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2 , found #spec#",1
+77f29b0c,Ido chip status changed : #spec# ip = #spec# v = 13 t = * status = M Thu Aug #spec# #spec# PDT #spec#,2
+1f896746,"PrepareForService shutting down NodeCard ( mLctn ( R25-M1-N2 ) , mCardSernum ( 203231503833343000000000594c31304b34333431303158 ) , mLp ( #spec# ) , mIp ( #spec# ) , mType ( 4 ) ) as part of Service Action #spec#",1
+54f28333,Ido chip status changed : #spec# ip = #spec# v = 13 t = 4 status = M Tue Aug #spec# #spec# PDT #spec#,1
+ee5a6cae,rts tree/torus link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y- Z+ Z-,1
+76ab3934,#spec# tree receiver #spec# in re-synch state event ( s ) ( dcr #spec# ) detected,3
+0c656636,"ciod : Error loading #spec# : invalid or missing program image , Exec format error",17
+228c2e95,ciod : Error reading message prefix after LOAD_MESSAGE on CioStream socket to #spec# : Link has been severed,9
+c911b09e,rts : kernel terminated for reason #spec#,6
+f520cbea,ciod : generated #spec# core files for program #spec#,30
+11705372,iar #spec# dear #spec#,208
+6c63be09,"NFS Mount failed on bglio716 , slept #spec# seconds , retrying ( 1 )",1
+3ba83006,"NFS Mount failed on bglio91 , slept #spec# seconds , retrying ( 1 )",1
+4518ff77,Lustre mount FAILED : * : point #spec#,9
+bdd64972,"Node card VPD check : U11 node in processor card slot J18 do not match. VPD ecid 04CC81389C2FFFFF03071B7048DF , found #spec#",1
+b0758feb,#spec# torus receiver x+ input pipe error ( s ) ( dcr #spec# ) detected and corrected,1
+9e3aef92,ciod : pollControlDescriptors : Detected the debugger died.,3
+ba22d3e2,"ciod : In packet from node 91.0 ( R62-M1-Nf-C : J03-U11 ) , message code #spec# is not #spec# or #spec# ( softheader = 003b005b #spec# #spec# 00000000 )",1
+b678d3d3,#spec# torus receiver y+ input pipe error ( s ) ( dcr #spec# ) detected and corrected,1
+ea3efa0b,suppressing further interrupts of same type,2
+e780a347,Ido chip status changed : #spec# ip = #spec# v = 13 t = 1 status = M Sat Sep #spec# #spec# PDT #spec#,1
+2ccff50b,"Node card VPD check : U01 node in processor card slot J15 do not match. VPD ecid 04DE7DB80D7BFFFF04051B70D8D9 , found #spec#",1
+97b48158,"Node card VPD check : U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA , found #spec#",1
+63ff9cfd,"Node card VPD check : U01 node in processor card slot J08 do not match. VPD ecid 075F04E8A27BFFFF07021C3096ED , found #spec#",1
+34476a44,rts : bad message header : expecting type #spec# instead of type #spec# ( softheader = 00131db8 #spec# #spec# 00000000 ) PSR0 = 00001f01 PSR1 = 00000000 PRXF = 00000002 PIXF = 00000007,1
+137193a6,critical input interrupt ( unit = #spec# bit = #spec# ) : warning for torus y+ wire,1
+13a7beb8,"ciod : Error loading #spec# : invalid or missing program image , Permission denied",18
+f3eed4bf,data cache search parity error detected. attempting to correct,6
+a828f891,shutdown complete,1
+fab224e2,"ciod : Error loading allreduce_int_V1R1.rts : invalid or missing program image , No such file or directory",1
+3c9e5c9c,critical input interrupt ( unit = #spec# bit = #spec# ) : warning for torus z- wire,1
+ee1cef78,"Error receiving packet on tree network , expecting type #spec# instead of type #spec# ( softheader = * #spec# #spec# 00000000 ) PSR0 = * PSR1 = 00000000 PRXF = 00000002 PIXF = 00000007",5
+93346b0e,"ciod : Error loading #spec# #spec# _opt_essl_cpm : invalid or missing program image , Permission denied",1
+4d7dc8ef,#spec# L3 EDRAM error ( s ) ( dcr #spec# ) detected and corrected,1
+c43993f0,"critical input interrupt ( unit = #spec# bit = #spec# ) : warning for torus z+ wire , suppressing further interrupts of same type",2
+eec99c17,"Node card VPD check : U11 node in processor card slot J04 do not match. VPD ecid 04D58088CB2FFFFF08031C104CE9 , found #spec#",1
+9715e963,"Node card VPD check : U11 node in processor card slot J10 do not match. VPD ecid 07570DD8002FFFFF09031B7090E2 , found #spec#",1
+bb313088,#spec# torus sender z- retransmission error ( s ) ( dcr #spec# ) detected and corrected over #spec# seconds,2
+071d63bc,"ciod : Received signal 15 , code = 0 , errno = 0 , address = #spec#",16
+e185f2ab,Lustre mount FAILED : * : block_id : location,1
+e75e9224,MACHINE CHECK DCR read timeout ( mc = e08x iar #spec# lr #spec# ),7
+4dcd7d9d,"ciod : Error reading message prefix on CioStream socket to #spec# , Connection timed out",2
+69675870,"ciod : Error reading message prefix on CioStream socket to #spec# , Connection reset by peer",4
+25d49c48,dbcr0 = #spec# dbsr = #spec# ccr0 = #spec#,1
+00b3a446,"ciod : Error reading message prefix on CioStream socket to #spec# , Link has been severed",8
+f250ebce,r24 = #spec# r25 = #spec# r26 = #spec# r27 = #spec#,1
+25cc3941,#spec# tree receiver #spec# in re-synch state event ( s ) ( dcr #spec# ) detected over #spec# seconds,2
+f580a813,"Node card VPD check : U01 node in processor card slot J05 do not match. VPD ecid 04D37DF2DE7BFFFF0D081AF0DAD2 , found #spec#",1
+dd3f0357,#spec# microseconds spent in the rbs signal handler during #spec# calls. #spec# microseconds was the maximum time for a single instance of a correctable ddr.,51
+d8213922,"#spec# total interrupts. #spec# critical input interrupts. #spec# microseconds total spent on critical input interrupts , #spec# microseconds max time in a critical input interrupt.",71
+86378ad4,"#spec# ddr error ( s ) detected and corrected on rank 0 , symbol #spec# over #spec# seconds",7
+095d2d0d,"PrepareForService shutting down Node card ( mLctn ( R10-M1-N2 ) , mCardSernum ( 203231503833343000000000594c31304b34323934303257 ) , mLp ( #spec# ) , mIp ( #spec# ) , mType ( 4 ) ) as part of Service Action #spec#",1
+c5162fca,"Kernel detected #spec# integer alignment exceptions ( 35591533 ) iar #spec# , dear #spec# ( 35591534 ) iar #spec# , dear #spec# ( 35591535 ) iar #spec# , dear #spec# ( 35591536 ) iar #spec# , dear #spec# ( 35591537 ) iar #spec# , dear #spec# ( 35591538 ) iar #spec# , dear #spec# ( 35591539 ) iar #spec# , dear #spec# ( 35591540 ) iar #spec# , dear #spec#",1
+9dbe18bd,total of #spec# ddr error ( s ) detected and corrected over #spec# seconds,4
+64d56eed,minus normalized number..................0,1
+c500524e,Lustre mount FAILED : bglio617 : block_id : location,1
+c56cf501,fraction rounded.........................0,1
+1fb8eebe,"critical input interrupt ( unit = #spec# bit = #spec# ) : warning for tree C1 wire , suppressing further interrupts of same type",1
+595ba744,size of scratchpad portion of L3.........0 ( 0M ),1
+e063084a,"Kernel detected #spec# integer alignment exceptions ( 3830877 ) iar #spec# , dear #spec# ( 3830878 ) iar #spec# , dear #spec# ( 3830879 ) iar #spec# , dear #spec# ( 3830880 ) iar #spec# , dear #spec# ( 3830881 ) iar #spec# , dear #spec# ( 3830882 ) iar #spec# , dear #spec# ( 3830883 ) iar #spec# , dear #spec# ( 3830884 ) iar #spec# , dear #spec#",1
+46b3180d,"Kernel detected #spec# integer alignment exceptions ( 3853437 ) iar #spec# , dear #spec# ( 3853438 ) iar #spec# , dear #spec# ( 3853439 ) iar #spec# , dear #spec# ( 3853440 ) iar #spec# , dear #spec# ( 3853441 ) iar #spec# , dear #spec# ( 3853442 ) iar #spec# , dear #spec# ( 3853443 ) iar #spec# , dear #spec# ( 3853444 ) iar #spec# , dear #spec#",1
+e362727d,"Kernel detected #spec# integer alignment exceptions ( 3747785 ) iar #spec# , dear #spec# ( 3747786 ) iar #spec# , dear #spec# ( 3747787 ) iar #spec# , dear #spec# ( 3747788 ) iar #spec# , dear #spec# ( 3747789 ) iar #spec# , dear #spec# ( 3747790 ) iar #spec# , dear #spec# ( 3747791 ) iar #spec# , dear #spec# ( 3747792 ) iar #spec# , dear #spec#",1
+2594d037,"Kernel detected #spec# integer alignment exceptions ( 3946283 ) iar #spec# , dear #spec# ( 3946284 ) iar #spec# , dear #spec# ( 3946285 ) iar #spec# , dear #spec# ( 3946286 ) iar #spec# , dear #spec# ( 3946287 ) iar #spec# , dear #spec# ( 3946288 ) iar #spec# , dear #spec# ( 3946289 ) iar #spec# , dear #spec# ( 3946290 ) iar #spec# , dear #spec#",1
+09b6e921,"Kernel detected #spec# integer alignment exceptions ( 4909169 ) iar #spec# , dear #spec# ( 4909170 ) iar #spec# , dear #spec# ( 4909171 ) iar #spec# , dear #spec# ( 4909172 ) iar #spec# , dear #spec# ( 4909173 ) iar #spec# , dear #spec# ( 4909174 ) iar #spec# , dear #spec# ( 4909175 ) iar #spec# , dear #spec# ( 4909176 ) iar #spec# , dear #spec#",1
+9f1262fd,"Kernel detected #spec# integer alignment exceptions ( 4898331 ) iar #spec# , dear #spec# ( 4898332 ) iar #spec# , dear #spec# ( 4898333 ) iar #spec# , dear #spec# ( 4898334 ) iar #spec# , dear #spec# ( 4898335 ) iar #spec# , dear #spec# ( 4898336 ) iar #spec# , dear #spec# ( 4898337 ) iar #spec# , dear #spec# ( 4898338 ) iar #spec# , dear #spec#",1
+2bda2fb9,"Kernel detected #spec# integer alignment exceptions ( 3945733 ) iar #spec# , dear #spec# ( 3945734 ) iar #spec# , dear #spec# ( 3945735 ) iar #spec# , dear #spec# ( 3945736 ) iar #spec# , dear #spec# ( 3945737 ) iar #spec# , dear #spec# ( 3945738 ) iar #spec# , dear #spec# ( 3945739 ) iar #spec# , dear #spec# ( 3945740 ) iar #spec# , dear #spec#",1
+a8ca8dba,"Kernel detected #spec# integer alignment exceptions ( 3486037 ) iar #spec# , dear #spec# ( 3486038 ) iar #spec# , dear #spec# ( 3486039 ) iar #spec# , dear #spec# ( 3486040 ) iar #spec# , dear #spec# ( 3486041 ) iar #spec# , dear #spec# ( 3486042 ) iar #spec# , dear #spec# ( 3486043 ) iar #spec# , dear #spec# ( 3486044 ) iar #spec# , dear #spec#",1
+8807c704,ciod : LOGIN chdir ( #spec# ) failed : Input/output error,1
+18bd6fc2,#spec# L3 EDRAM error ( s ) ( dcr #spec# ) detected and corrected over #spec# seconds,1
+b6dd4518,"ciod : Error loading #spec# : program image too big , #spec# > #spec#",1
+08419380,fpr29 = #spec# #spec# ffffffff #spec#,1
+267431e7,Machine State Register : #spec#,1

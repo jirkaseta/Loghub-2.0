@@ -1,0 +1,18 @@
+EventId,EventTemplate,Occurrences
+da153daf,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root,491
+b780997e,check pass; user unknown,117
+0a5334c8,session opened for user by,246
+a757c0c2,ALERT exited abnormally with [1],43
+82cf6084,connection from at Sun Jul 17 2005,352
+6f23a04a,connection from at Jul 2005,63
+8c69ebc9,cupsd succeeded,14
+6f6072f0,connection from () at Jul 2005,497
+d41d8cd9,,76
+46dc151b,Authentication failed from (): Permission denied in replay cache code,9
+dea5ca56,Kerberos authentication failed,23
+ed68f860,Authentication failed from (): Software caused connection abort,15
+8eaed8bb,BIOS-e820: -,9
+63a74aa3,device node,10
+a82d5ea6,notify question section contains no SOA,16
+ee259d46,getpeername (ftpd): Transport endpoint is not connected,8
+2d5a7d18,startup succeeded,11

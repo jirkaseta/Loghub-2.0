@@ -1,0 +1,24 @@
+EventId,EventTemplate,Occurrences
+543da63a,Registered <*> <*> <*> <*> <*> <*>,2
+7bb9d001,"Changing <*> acls to: yarn,curi",4
+7bb9d001,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",4
+29bc3dfc,<*> started <*> <*> <*> <*> <*>,2
+7bb9d001,Starting <*> <*> <*> <*> <*> <*>,4
+7bb9d001,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],4
+29bc3dfc,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,2
+71e03dea,<*> to <*> <*>,3
+ee39d74c,Successfully <*> <*> <*> <*> <*> <*>,2
+27a2a4ad,Server created on 40984,1
+71e03dea,<*> <*> <*> <*>,3
+9ffef012,<*> task <*> in stage <*> (TID <*> <*> <*> <*> <*> <*> <*>,1
+71e03dea,Started reading broadcast variable <*>,3
+cad93baf,"Block <*> stored as <*> in memory (estimated size <*> , free <*> )",2
+afcf60a1,Reading broadcast variable <*> took <*> ms,2
+ee39d74c,<*> <*> <*> <*> <*> <*>,2
+afcf60a1,Input split: <*>,2
+a352752c," is deprecated. Instead, use ",1
+cad93baf,Times: total = <*> boot = <*> init = <*> finish = <*>,2
+543da63a,Found block <*> locally,2
+0ce98313,File Output Committer Algorithm version is 1,305
+0ce98313,Saved output of task <*> to <*>,305
+0ce98313,<*> Committed,305

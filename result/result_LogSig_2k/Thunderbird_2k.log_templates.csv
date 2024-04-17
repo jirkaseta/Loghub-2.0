@@ -1,0 +1,17 @@
+EventId,EventTemplate,Occurrences
+3be46d32,session closed for user root,43
+fc438cb8,(root) CMD,36
+a966e663,data_thread() got not answer from any datasource,819
+5bf4f792,"synchronized to , stratum 3",568
+1cfe3a76,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,62
+eb0cfa2a,[ib_sm_sweep.c:1455]: No topology change,62
+9db750e6,[ib_sm_sweep.c:1482]: No configuration change required,63
+d41d8cd9,,176
+723312e3,to name name,24
+d8b58ee3,"from=root, class=0, nrcpts=1, relay=#7#@localhost",17
+8616b034,"to=root, ctladdr=root (0/0), xdelay=00:00:00, mailer=relay, relay=[] [], dsn=4.0.0, stat=Deferred: Connection refused by []",20
+7d4e536e,DHCPREQUEST for () from 00:11:43:e3:ba:c3 via,21
+6950cb2b,on to 00:11:43:e3:ba:c3 via eth1,16
+e6cbe5e0,RRD_update illegal attempt to update using time when last update time is (minimum one second step),20
+25cda40a,PCI Interrupt,29
+553641eb,Reading included configuration file:,24

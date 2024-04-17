@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+b5ddfe21,reverse mapping checking getaddrinfo for [] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+15187b53,Invalid user from,92
+67bab5c1,input_userauth_request: invalid user [preauth],92
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+f9f72f81,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=,118
+63e094a9,Failed password for invalid user from port ssh2,135
+b7d18025,Connection closed by [preauth],34
+fa65e6f4,Received disconnect from : 11: Bye Bye [preauth],413
+c93084c5,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=. user=root,1
+6dccbf94,Failed password for root from port ssh2,368
+abf9d62f,message repeated 5 times: [ Failed password for root from port 42393 ssh2],2
+ea4aa83d,Disconnecting: Too many authentication failures for root [preauth],3
+7db77c9c,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= user=root,4
+3e662e18,PAM service(sshd) ignoring max retries; 5 > 3,7
+ad9003df,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=root,368
+dfe1333b,Did not receive identification string from,10
+b8813ae2,error: Received disconnect from : 3: : Auth fail [preauth],2
+e77637f9,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=uucp,7
+01d570c7,Failed password for uucp from port ssh2,6
+8671ab38,Received disconnect from : 11: Closed due to user request. [preauth],7
+b535f6f0,Failed none for invalid user 0 from port ssh2,4
+9eda465d,Invalid user admin from,21
+ceeca5d5,input_userauth_request: invalid user admin [preauth],21
+c42ca8f8,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=,6
+dd184b0b,Failed password for from port ssh2,10
+9a7195c1,error: Received disconnect from : 14: No more user authentication methods available. [preauth],45
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),2
+bfdb0afb,Received disconnect from : 11: disconnected by user,1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1

@@ -1,0 +1,16 @@
+EventId,EventTemplate,Occurrences
+be5f008c,PacketResponder <*> for block terminating,311
+be5f008c,BLOCK* NameSystem.addStoredBlock: blockMap updated: is added to size <*>,311
+ec228b3c,Received block of size <*> from /,314
+be5f008c,<*> block src: / dest: / <*> <*> <*>,311
+be5f008c,BLOCK* NameSystem.allocateBlock: <*>,311
+ec228b3c,Verification succeeded for ,314
+ec228b3c,Deleting block file <*>,314
+ec228b3c, Served block  to /,314
+be5f008c,:Got exception while serving  to /:,311
+9d7e930c,BLOCK* NameSystem.delete:  is added to invalidSet of ,292
+9d7e930c, Starting thread to transfer block  to ,292
+b95776ce,BLOCK* ask  to delete  ,294
+b95776ce,BLOCK* ask  to delete                                                                                                     ,294
+ec228b3c,BLOCK* ask  to replicate  to datanode(s) ,314
+b95776ce,BLOCK* ask  to delete          ,294

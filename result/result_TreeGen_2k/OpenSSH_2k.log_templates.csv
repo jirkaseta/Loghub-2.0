@@ -1,0 +1,140 @@
+EventId,EventTemplate,Occurrences
+0b2c5de7,Accepted password for fztu from <*> <*> <*> <*>,1
+2491ca3e,Connection closed by <*> [preauth],34
+9522d580,Did not receive identification <*> <*> <*>,10
+3f5f6dfa,Disconnecting: Too many authentication <*> for admin [preauth],1
+514eaf31,Disconnecting: Too many authentication <*> for root [preauth],2
+2fe40c96,Failed none for invalid <*> <*> <*> <*> <*> <*> <*>,4
+00afaa15,Failed password for ftp from <*> <*> <*> <*>,3
+8ec45b75,Failed password for git from <*> <*> <*> <*>,3
+db48baac,Failed password for invalid <*>  <*> <*> <*> <*> <*> <*>,1
+70cabc94,Failed password for invalid <*> <*> <*> <*> <*> <*> <*>,134
+9606dcb2,Failed password for mysql from <*> <*> <*> <*>,2
+fcccd10e,Failed password for root from <*> <*> <*> <*>,368
+4ea56097,Failed password for sshd from <*> <*> <*> <*>,2
+1fe58db0,Failed password for uucp from <*> <*> <*> <*>,5
+6e2c5cef,Invalid user  <*> from <*>,1
+9302fad4,Invalid user <*> from <*>,9
+0af30132,Invalid user FILTER from <*>,1
+680dc4b3,Invalid user Management from <*>,1
+f9e9da0f,Invalid user PlcmSpIp from <*>,1
+6ba62ae1,Invalid user abc from <*>,1
+684a54a6,Invalid user admin from <*>,21
+308aadfc,Invalid user anonymous from <*>,2
+7e68c82e,Invalid user api from <*>,1
+950d3008,Invalid user boot from <*>,1
+5995ce49,Invalid user bssh from <*>,1
+95570db7,Invalid user butter from <*>,1
+f602b8d9,Invalid user chen from <*>,1
+8a78dcbf,Invalid user cheng from <*>,1
+68818261,Invalid user cisco from <*>,2
+b6162d47,Invalid user cyrus from <*>,1
+78691a03,Invalid user default from <*>,1
+dc03fffc,Invalid user deploy from <*>,2
+90e7ca09,Invalid user dff from <*>,1
+46b435d9,Invalid user eoor from <*>,1
+65cd5b15,Invalid user ftpuser from <*>,2
+41d40d97,Invalid user ghost from <*>,1
+17d4e525,Invalid user guest from <*>,3
+d19a190c,Invalid user ingrid from <*>,1
+2518e786,Invalid user inspur from <*>,3
+8506b36d,Invalid user jay from <*>,1
+ec8e2e01,Invalid user magnos from <*>,2
+f5e1f5ce,Invalid user matlab from <*>,3
+7c51f37c,Invalid user monitor from <*>,1
+6301b11c,Invalid user nagios from <*>,1
+fd0b83e9,Invalid user nagios1 from <*>,1
+3eede9e8,Invalid user operator from <*>,1
+9eef0462,Invalid user oracle from <*>,6
+205f3a77,Invalid user oralce from <*>,1
+020eef70,Invalid user pgadmin from <*>,1
+8dbde17c,Invalid user pi from <*>,1
+e6a9077b,Invalid user postgres from <*>,1
+fe27e378,Invalid user postgres1 from <*>,1
+b4ece164,Invalid user redhat from <*>,1
+43ed54fb,Invalid user sandeep from <*>,1
+71043aee,Invalid user support from <*>,6
+5f2b6ea7,Invalid user ted from <*>,1
+22aaf03f,Invalid user test from <*>,5
+a752ed47,Invalid user test1 from <*>,1
+ee98a0fe,Invalid user test2 from <*>,1
+4d525d0f,Invalid user test9 from <*>,1
+de560f20,Invalid user ubnt from <*>,2
+b43270b4,Invalid user ubuntu from <*>,2
+3c0c530c,Invalid user user from <*>,4
+4459c33b,Invalid user utsims from <*>,1
+81f3c5c9,Invalid user vnc from <*>,1
+7b7b32a9,Invalid user webmaster from <*>,2
+aa4bc2c6,Invalid user www from <*>,1
+f26cdc04,Invalid user zhangyan from <*>,1
+edc76fc9,PAM <*> <*> authentication <*>; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>,6
+ee8c6948,PAM <*> <*> authentication <*>; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>  <*>=<*>,2
+6445f9fd,PAM <*> <*> authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>,2
+2f2318e5,PAM service(sshd) ignoring max retries; <*> > <*>,7
+fcc1dea6,Received disconnect from <*>: <*>: <*> <*> <*>,1
+57ad09b5,Received disconnect from <*>: <*>: <*> <*> <*> <*> <*>. [<*>],7
+26b2a47c,Received disconnect from <*>: <*>: <*> <*> [preauth],413
+94855ca5,error: Received disconnect from <*>: <*>: <*> <*> <*> <*> <*> <*>. [<*>],45
+e2140486,error: Received disconnect from <*>: <*>: <*>: <*> <*> [<*>],2
+3bce7d7e,fatal: <*> <*>: <*> <*> by peer [preauth],1
+d9d66a09,input_userauth_request: invalid user  <*> [preauth],1
+6b674ff1,input_userauth_request: invalid user <*> [preauth],9
+c4947f9f,input_userauth_request: invalid user FILTER [preauth],1
+4ea524ec,input_userauth_request: invalid user Management [preauth],1
+a5daa932,input_userauth_request: invalid user PlcmSpIp [preauth],1
+a3a59f4c,input_userauth_request: invalid user abc [preauth],1
+ceeca5d5,input_userauth_request: invalid user admin [preauth],21
+176ce241,input_userauth_request: invalid user anonymous [preauth],2
+5934618a,input_userauth_request: invalid user api [preauth],1
+7ab1b426,input_userauth_request: invalid user boot [preauth],1
+35ca9280,input_userauth_request: invalid user bssh [preauth],1
+b94349a6,input_userauth_request: invalid user butter [preauth],1
+442cb468,input_userauth_request: invalid user chen [preauth],1
+9436c7f4,input_userauth_request: invalid user cheng [preauth],1
+65362bb7,input_userauth_request: invalid user cisco [preauth],2
+1e9a4fa4,input_userauth_request: invalid user cyrus [preauth],1
+596f3e42,input_userauth_request: invalid user default [preauth],1
+df1176a8,input_userauth_request: invalid user deploy [preauth],2
+89199bf3,input_userauth_request: invalid user dff [preauth],1
+ef6b8e85,input_userauth_request: invalid user eoor [preauth],1
+524dc383,input_userauth_request: invalid user ftpuser [preauth],2
+587bbf97,input_userauth_request: invalid user ghost [preauth],1
+63570961,input_userauth_request: invalid user guest [preauth],3
+38277a2d,input_userauth_request: invalid user ingrid [preauth],1
+80e2501a,input_userauth_request: invalid user inspur [preauth],3
+75a8a095,input_userauth_request: invalid user jay [preauth],1
+12f85ebb,input_userauth_request: invalid user magnos [preauth],2
+a007bbf5,input_userauth_request: invalid user matlab [preauth],3
+a65ca278,input_userauth_request: invalid user monitor [preauth],1
+def3e17f,input_userauth_request: invalid user nagios [preauth],1
+e52ad97a,input_userauth_request: invalid user nagios1 [preauth],1
+b13609e1,input_userauth_request: invalid user operator [preauth],1
+5451c5db,input_userauth_request: invalid user oracle [preauth],6
+a4501b2c,input_userauth_request: invalid user oralce [preauth],1
+c6df8943,input_userauth_request: invalid user pgadmin [preauth],1
+421a0080,input_userauth_request: invalid user pi [preauth],1
+3d25d1fe,input_userauth_request: invalid user postgres [preauth],1
+54436124,input_userauth_request: invalid user postgres1 [preauth],1
+baf29009,input_userauth_request: invalid user redhat [preauth],1
+884880ba,input_userauth_request: invalid user sandeep [preauth],1
+397e8932,input_userauth_request: invalid user support [preauth],6
+cd013ec5,input_userauth_request: invalid user ted [preauth],1
+2c76bdac,input_userauth_request: invalid user test [preauth],5
+c348551d,input_userauth_request: invalid user test1 [preauth],1
+eaef1b91,input_userauth_request: invalid user test2 [preauth],1
+72925f85,input_userauth_request: invalid user test9 [preauth],1
+019ec990,input_userauth_request: invalid user ubnt [preauth],2
+83681370,input_userauth_request: invalid user ubuntu [preauth],2
+0451ad55,input_userauth_request: invalid user user [preauth],4
+bd7e4e2c,input_userauth_request: invalid user utsims [preauth],1
+5b22478e,input_userauth_request: invalid user vnc [preauth],1
+b5c76b83,input_userauth_request: invalid user webmaster [preauth],2
+8ccd857f,input_userauth_request: invalid user www [preauth],1
+dbcdd02a,input_userauth_request: invalid user zhangyan [preauth],1
+b2f55325,message repeated <*> <*>: [ <*> <*> <*> <*> <*> <*> <*> <*> <*>],2
+31de350c,pam_unix(sshd:auth): authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>,110
+3160b510,pam_unix(sshd:auth): authentication failure; logname= uid=<*> <*>=<*> <*>=<*> <*>= <*>=<*>  <*>=<*>,384
+12baf9c5,pam_unix(sshd:auth): check <*>; <*> <*>,135
+cc38adde,pam_unix(sshd:session): session closed for <*> <*>,1
+598f183d,pam_unix(sshd:session): session opened for <*> <*> <*> (<*>=<*>),1
+16522d31,reverse mapping checking getaddrinfo <*> <*> [<*>] <*> - <*> <*>-<*> <*>!,85

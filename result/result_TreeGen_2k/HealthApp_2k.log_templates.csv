@@ -1,0 +1,76 @@
+EventId,EventTemplate,Occurrences
+d0382df3,Alarm <*> <*>=<*>:<*>:<*>:<*>,1
+f1e3489f,InsertCallBack(<*>) <*>  <*> = <*> <*>=<*>,1
+51c819aa,InsertEvent success begin:<*> <*>:<*>,1
+5cdf7db4,REPORT : <*> <*> <*> <*>,136
+cb0a2dbb,"bulkSaveDetailHiHealthData(<*>) <*> = <*>,<*> = <*>",2
+b823261f,calculateAltitudeWithCache <*>=<*>,241
+ec91e8ec,calculateCaloriesWithCache totalCalories=<*>,241
+a4711717,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay <*> <*> <*> <*> <*> ",1
+75834efd,"checkFirstSyncByType <*> <*> <*> <*> <*> ,<*> <*> <*> <*> <*> <*>",2
+42ded8e2,checkInsertStatus stepStatSum or calorieStatSum is enough,2
+71835e93,checkInsertStatus stepSum or calorieSum is enough,2
+08c6e093,clear(<*>),1
+8e523808,closeNotification...,1
+90370553,deleteHealthNotification(<*>),1
+63254ea4,flush <*> <*>,17
+ed3153dd,flush2DB <*> <*>,1
+8ea340be,flushTempCacheToDB <*> <*>,1
+1a05b451,"getAppContext(<*>) <*> <*> <*> <*>, <*> = <*>.<*>.<*>",2
+56516b56,getBinderPackageName <*> = <*>.<*>.<*>,8
+ee1872e4,getDiffTotalSteps= <*>##<*>,2
+3244bf49,getStepCounterStatus,1
+ff55d254,getStepCounterStatus= true,1
+4d6ce307,getTodayBasicStandardSteps= <*>##<*>##<*>,2
+e7f7c46b,getTodaySportData <*>=<*>.<*>.<*>.<*>.<*>@<*>,6
+0da1d5d7,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>,242
+3f9b4da2,ifCanSync not! no cloud version,5
+38085a58,initDataPrivacy the dataPrivacy is true,5
+8861ffa3,"initDataPrivacy the dataPrivacy switch is open, start push <*> <*>!",5
+e788f919,initEnviroument,1
+1d4b8a6f,initUserPrivacy the userPrivacy is true,5
+b6afe9df,"initUserPrivacy the userPrivacy switch is open, start push <*> <*>!",5
+2db430fe,insertHiHealthData(<*>) <*>  <*> <*> = <*>,2
+5ec14b20,"insertHiHealthData(<*>) <*> <*> <*> = <*>,<*> = <*>",1
+bb4b68ce,insertHiHealthData(<*>) <*> <*> = <*>,2
+d46a8adb,"insertHiHealthData(<*>) <*> = <*>,<*> = <*>,<*> <*> <*> = <*>,<*> = <*>.<*>.<*>,<*> = <*>",2
+03a21551,isScreenOn true,1
+6e805a4c,needAutoSync autoSyncSwitch is open,5
+dee8844e,"new date =<*>, <*>=<*>,<*>.<*>,<*>=<*>.<*>",17
+a721def0,next <*>:<*>,1
+959a0db3,onExtend:<*> <*> <*> <*>,273
+b891c816,onReceive action: android.intent.action.SCREEN_OFF,17
+b080c338,onReceive action: android.intent.action.SCREEN_ON,17
+93067dc4,onStandStepChanged <*>,260
+dd5e8a75,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,17
+d01a3f34,processHandleBroadcastAction action:android.intent.action.TIME_TICK,144
+86bcfaea,reStartStepCounter,1
+c1f5e07f,registersensorsuccess: true,1
+d9c2f230,reload : <*> <*> <*>,1
+cb2f5d65,"saveHealthDetailData(<*>) <*> <*> <*> = <*>,<*> = <*>",2
+9f7f9245,"saveHealthDetailData(<*>) <*> = <*>,<*>=<*>,<*>=<*>",2
+0ee95fb4,"saveRealTimeHealthDatasStat(<*>) <*> = <*>,<*> = <*>",1
+785e643a,"saveStatData(<*>) <*> =<*>,<*> = <*>,<*> = <*>,<*> <*> <*>",4
+ffb006b5,"screen status unknown,think screen on",1
+8764d489,sendSyncFailedBroadcast,5
+e9c61f85,setBasicStandardSteps <*>=<*> <*>=<*>,1
+a2e429e1,setDiffTotalSteps=<*>,1
+a3f3944c,setGoalNotifiShownRecord <*> <*>,1
+bb249f67,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>,241
+042d7a7a,setWriteDBLastDataMinute success,1
+2afb84ca,setWriteDBLastDataMinute=<*>,1
+067721f2,"startInsertSportSync <*> <*> <*>,<*> <*> <*>",2
+15e5029b,"startInsertSportSync first <*> <*> <*>,<*> <*> <*>",2
+aad2bd2d,startListenerChange subscribeList = [<*>],2
+71409dc6,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, <*>=<*>, <*>=<*>, <*>=<*>, <*>=<*>, <*>=<*>},<*> = <*> <*> = <*>",5
+49af5b06,startTimer <*> <*>,3
+71d384b3,stepSyncOrNot appSynTimes is <*>,3
+27a0b40c,"stepSyncOrNot appSynTimes is <*>, <*> <*> <*>",2
+11baea46,theDayChanged <*> ,1
+b072e131,"timeStamp back,extendReportTimeStamp=<*>",5
+c49b5c6a,tryToRecordAsBasicStepData <*> <*>,1
+3923c435,tryToReloadTodayBasicSteps1514044800223|<*>|<*>|<*>,1
+bef798dc,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>",5
+1d7a10b0,uploadStaticsToDB <*> <*>=true,1
+4cb3bce8,uploadStaticsToDB(<*>) <*>  <*> = <*> <*>=<*>,1
+3b251b90,writeDataToDB size <*>,1

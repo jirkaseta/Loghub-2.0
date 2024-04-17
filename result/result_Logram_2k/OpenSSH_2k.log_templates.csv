@@ -1,0 +1,27 @@
+EventId,EventTemplate
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+9302fad4,Invalid user <*> from <*>
+6b674ff1,input_userauth_request: invalid user <*> [preauth]
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2
+fb195195,<*> <*> <*> <*> <*>
+c5704dd9,Received disconnect from <*>: 11: Bye Bye [preauth]
+29f200fa,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root
+0af355cc,Failed password for root from <*> port <*> ssh2
+3f4857bf,<*> <*> <*> <*> <*> Failed password for root from <*> port <*> <*>
+850da961,<*> <*> <*> <*> <*> for root <*>
+be3ae59d,<*> <*> <*> <*> <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root
+de1af8bf,<*> <*> <*> <*> <*> <*> <*> <*>
+5c94bd16,<*> <*> <*> <*> <*> from <*>
+c8ec6217,<*> Received disconnect from <*>: <*> <*> <*> <*> <*>
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>
+f831cb6d,Failed password for <*> from <*> port <*> ssh2
+2ab95444,Received disconnect from <*>: 11: <*> <*> <*> <*> <*> [preauth]
+8fb9db7e,<*> <*> for invalid user <*> from <*> port <*> ssh2
+6c75f2d6,<*> <*> <*> <*> <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>
+5af2d60e,<*> <*> <*> authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>
+4b48546b,<*> Received disconnect from <*>: <*> <*> <*> <*> <*> <*> <*> <*>
+8bfa3f92,<*> password for <*> from <*> port <*> <*>
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>
+be2214fc,<*> <*> <*> <*> <*> <*>

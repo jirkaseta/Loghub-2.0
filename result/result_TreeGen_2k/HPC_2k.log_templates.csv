@@ -1,0 +1,80 @@
+EventId,EventTemplate,Occurrences
+ff52c40c,<*>,20
+0ce98313,<*> <*> <*> <*>,56
+2bd60a8d,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>,12
+4d7db854,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>,2
+a41c0682,ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-<*>,1
+d9172717,ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-<*>,1
+076509a0,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-<*>,1
+59f00885,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-<*>,1
+42a5e8eb,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-<*>,1
+1b566f83,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-<*>,1
+a88f38ae,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-<*>,1
+6fa3b34d,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-<*>,1
+59097a0d,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-<*>,1
+d366c3f9,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-<*>,1
+370262a2,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-<*>,3
+9b230e1d,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-<*>,1
+29d91dfa,ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-<*>,1
+028a47c7,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-<*>,1
+86393fb3,ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-<*>,1
+3bcfba6f,ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-<*>,1
+1a1449f7,ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-<*>,1
+14807f97,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-<*>,2
+2b7761bd,ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-<*>,1
+eed323f3,ClusterFileSystem: There is no server for ServerFileSystem <*> <*>,32
+995606e5,Command <*> <*> <*>,11
+873dc5a4,Component State Change: Component \042SCSI-WWID:<*>:<*>-<*>-<*>-<*>-<*>-<*>-<*>-<*> <*> <*> <*> <*> <*> (<*>),1
+ec995f24,Component State Change: Component \042alt0\042 is in <*> <*> <*> (<*>),11
+b13aa186,Failed <*> <*>,1
+76588bd2,Fan speeds ( <*> <*> <*> **** <*> <*> ),79
+3ea2d652,Fan speeds ( <*> <*> <*> <*> <*> <*> ),11
+ec4e03ec,Link error,13
+f2a9554b,Link error on <*> <*> <*>-<*>:<*>:<*>:<*>,4
+db5aa7f9,Link in reset,9
+641961b9,Link ok,13
+0e83c8fd,Linkerror event interval <*>,394
+3c3688b9,NIFF: node node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+1ab59249,NIFF: node node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,91
+6165cdaf,ServerFileSystem: An ServerFileSystem <*> <*> <*> <*> <*> <*>,1
+a8108a6e,ServerFileSystem: ServerFileSystem domain <*> is full,3
+6415de74,ServerFileSystem: ServerFileSystem domain root13_local is full,1
+88c8d5a7,ServerFileSystem: ServerFileSystem domain root1_local is full,1
+4ab6f041,ServerFileSystem: ServerFileSystem domain root22_local is full,3
+9daed7df,ServerFileSystem: ServerFileSystem domain root25_local is full,1
+dd05b294,ServerFileSystem: ServerFileSystem domain root26_local is full,1
+7badda57,ServerFileSystem: ServerFileSystem domain root3_local is full,1
+7d9249bf,ServerFileSystem: ServerFileSystem domain root7_local is full,1
+774469e4,Targeting domains:node-<*> and nodes:node-<*>,1
+3ea0773d,Targeting domains:node-<*> and nodes:node-[<*>-<*>] <*> <*> <*> <*>,1
+e5ebbb36,Targeting domains:node-D2 and nodes:node-<*>,1
+0b10f9fe,Targeting domains:node-D2 and nodes:node-[<*>-<*>] <*> <*> <*> <*>,1
+b9ea4204,Targeting domains:node-D3 and nodes:node-[<*>-<*>] <*> <*> <*> <*>,1
+498dcb49,Targeting domains:node-D4 and nodes:node-[<*>-<*>] <*> <*> <*> <*>,2
+3d4db976,Targeting domains:node-D7 and nodes:node-[<*> <*> <*>],1
+2a5543ad,Targeting domains:node-D[0\ <*>] <*> <*>:<*>-[<*> <*>],1
+3b219fff,Temperature (41C) exceeds warning threshold,2
+c76a5e84,active,5
+89c576dd,ambient0,292
+61326117,blocked,15
+eb964ae5,boot  (command <*>),67
+bf099224,boot (command <*>) <*>: <*> <*>  <*> <*>,1
+6f18ab31,bootGenvmunix  (command <*>),2
+3b38bec1,closing,1
+471a93ca,clusterAddMember  (command <*>),2
+8cfafe98,configured out,91
+e11b67b4,halt  (command <*>),3
+ba684bd4,inconsistent nodesets node-<*> <*> <<*>> node-<*> <*> <<*>> node-<*> <*> <<*>> <*>-<*> <*> <<*>>,2
+07f7d779,inconsistent nodesets node-<*> <*> <<*>> node-<*> <*> <<*>> node-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>>,1
+a2fa8730,inconsistent nodesets node-<*> <*> <<*>> node-<*> <*> <<*>> node-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>> <*>-<*> <*> <<*>>,1
+fea08751,normal,206
+b02b9741,not responding,60
+252f035f,not-responding,1
+e13d082a,power/control problem,1
+a7f4d9b4,psu failure\ ambient0,5
+4da7011f,risBoot  (command <*>),1
+60f14887,risBoot (command <*>) <*>: <*> <*> <*> <*> <*> <*> <*>: <<*> <*> <*>>,1
+75101dcd,running,162
+1ee85f6c,starting,1
+845612e4,wait  (command <*>),66
+7b83d3f0,warning,205

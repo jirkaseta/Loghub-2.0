@@ -1,0 +1,9 @@
+EventId,EventTemplate,Occurrences
+e6e83a3d,<*> open through proxy <*> <*>,956
+f1d1938f,"<*> close, <*> bytes <*> <*> <*> <*> <*> <*>",355
+17f178e1,"<*> close, <*> bytes <*> <*> <*> <*> <*> <*> <*> <*>",289
+b6727409,"<*> close, <*> bytes <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",303
+72317764,<*> error : <*> <*> <*> <*> <*> <*> <*> <*>,31
+82eb6d98,<*> error : Could not connect <*> proxy <*> - <*> <*> <*> <*> <*>,3
+f8ec8a3f,<*> error : Could not connect <*> proxy <*> - <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+e00638ba,<*> error : <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,46

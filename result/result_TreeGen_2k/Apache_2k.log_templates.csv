@@ -1,0 +1,7 @@
+EventId,EventTemplate,Occurrences
+38bbf1a4,client[<*> <*>] <*> <*> <*> <*> <*>: ,32
+d6ce92fd,jk2_init(<*>) <*> <*> <*> <*> <*> <*> <*>,836
+fd92a966,jk2_init(<*>) <*>'<*> <*> <*> <*> <*> <*>,12
+cf37fa69,mod_jk child init <*> -<*>,12
+a54f5ca4,mod_jk child workerEnv in error state <*>,539
+0e7efa0f,workerEnv.init(<*>) <*> <*>,569

@@ -1,0 +1,116 @@
+EventId,EventTemplate,Occurrences
+d9094bd8,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = *,89
+296af93f,check pass ; user unknown,117
+8c983cb5,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = #spec# user = *,362
+a1d49b6a,session opened for user * by ( uid = 0 ),86
+c3515b88,session closed for user *,123
+28924d6d,ALERT exited abnormally with [ 1 ],43
+6e5b7fc0,connection from #spec# ( * ) at * * #spec# #spec# #spec#,200
+15d6cc4f,session opened for user test by ( uid = 509 ),36
+ac0900f6,User unknown timed out after #spec# seconds at Sat Jun #spec# #spec# #spec#,1
+08b7a549,cupsd * succeeded,12
+6f97e9d4,restart.,7
+24200c68,connection from #spec# ( ) at * * #spec# #spec# #spec#,617
+6649d554,Received SNMP packet ( s ) from #spec#,1
+4d2110f4,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = ip-216-69-169-168.ip.secureserver.net,10
+20ed8d8e,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = biblioteka.wsi.edu.pl,8
+c3663888,Authentication failed from #spec# ( #spec# ) : Permission denied in replay cache code,8
+dea5ca56,Kerberos authentication failed,23
+8b7e1c52,Authentication failed from #spec# ( #spec# ) : Software caused connection abort,15
+fb34805a,connection from #spec# ( dsl-Chn-static- #spec# .touchtelindia.net ) at Sun Jul #spec# #spec# #spec#,46
+5cf897dd,connection from #spec# ( #spec# .sh.interxion.inode.at ) at Sun Jul #spec# #spec# #spec#,23
+5c6652a6,*** info [ mice.c ( 1766 ) ] :,1
+6aa855f7,imps2 : Auto-detected intellimouse PS/2,1
+a4389a03,session opened for user root by LOGIN ( uid = 0 ),1
+e2234786,ROOT LOGIN ON tty2,1
+c2e20395,* device node ' #spec# ',8
+7606c9da,connection from #spec# ( host #spec# .maximumasp.com ) at Sat Jul #spec# #spec# #spec#,23
+264b59c9,authentication failure ; logname = uid = 0 euid = 0 tty = : 0 ruser = rhost =,1
+af7be2dc,Couldn ' t authenticate user,1
+8ce53953,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = #spec# .nw.nuvox.net user = root,10
+e5453f9e,authentication failure ; logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = 211-76-104-65.ebix.net.tw,10
+0dfb61aa,"ANONYMOUS FTP LOGIN FROM #spec# , ( anonymous )",2
+a82d5ea6,notify question section contains no SOA,16
+0fcef860,getpeername ( ftpd ) : Transport endpoint is not connected,4
+4f9e0389,warning : can ' t get client address : Connection reset by peer,2
+95f7277d,* startup succeeded,8
+64d380da,"klogd 1.4.1 , log source = #spec# started.",1
+3dc2b1fb,Linux version 2.6.5-1.358 ( bhcompile@bugs.build.redhat.com ) ( gcc version 3.3.3 #spec# ( Red Hat Linux 3.3.3-7 ) ) #1 Sat May #spec# #spec# EDT #spec#,1
+de615978,BIOS-provided physical RAM map :,1
+d136186c,BIOS-e820 : #spec# - #spec# ( * ),5
+9b11616a,0MB HIGHMEM available.,1
+6b643c98,126MB LOWMEM available.,1
+42e1da55,zapping low mappings.,1
+5f5214ca,On node #spec# totalpages : #spec#,1
+7fdecc81,"DMA zone : #spec# pages , LIFO batch : 1",1
+1666aa2d,"Normal zone : #spec# pages , LIFO batch : 6",1
+3869cfb3,"HighMem zone : #spec# pages , LIFO batch : 1",1
+90cdab58,DMI 2.3 present.,1
+9e0f0d59,ACPI disabled because your bios is from #spec# and too old,1
+2dc02775,You can enable it with acpi = force,1
+4327e26e,Built #spec# zonelists,1
+59ca4d9b,Kernel command line : ro root = LABEL = / rhgb quiet,1
+4845b66c,mapped 4G/4G trampoline to ffff3000.,1
+fe3c862d,Initializing CPU#0,1
+07ebeef1,"CPU #spec# irqstacks , hard = 02345000 soft = 02344000",1
+2e5672a6,PID hash table entries : #spec# ( order 9 : #spec# bytes ),1
+b6fd22c2,Detected 731.219 MHz processor.,1
+8c112e82,Version 1.0.6 Starting,1
+85959353,Using tsc for high-res timesource,1
+411aa6bc,Console : colour VGA+ #spec# #spec#,1
+49d8fc47,"Memory : 125312k/129720k available ( 1540k kernel code , 3860k reserved , 599k data , 144k init , 0k highmem )",1
+8eff90b2,Calibrating delay loop... 1445.88 BogoMIPS,1
+3c5e98a7,Security Scaffold v1.0.0 initialized,1
+8c6f7d09,SELinux : Initializing.,1
+4615e4c7,SELinux : Starting in permissive mode,1
+f66dae63,"There is already a security framework initialized , register_security failed.",1
+a31006da,Failure registering capabilities with the kernel,1
+18ff352e,selinux_register_security : Registering secondary module capability,1
+48a493b0,Capability LSM initialized,1
+0b02f8c2,"Dentry cache hash table entries : #spec# ( order : 4 , #spec# bytes )",1
+91934ebd,"Inode-cache hash table entries : #spec# ( order : 3 , #spec# bytes )",1
+67ab6043,"Mount-cache hash table entries : #spec# ( order : 0 , #spec# bytes )",1
+f0876862,"CPU : L1 I cache : 16K , L1 D cache : 16K",1
+b431523b,CPU : L2 cache : 256K,1
+53650236,Intel machine check architecture supported.,1
+67e6196c,Intel machine check reporting enabled on CPU#0.,1
+73f5ed67,CPU : Intel Pentium III ( Coppermine ) stepping #spec#,1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
+839f1643,Checking ' hlt ' instruction... OK.,1
+c1be0f9d,Initializing random number generator : succeeded,1
+60696e47,POSIX conformance testing by UNIFIX,1
+36f1ef2b,NET : Registered protocol family #spec#,1
+244a6b10,"PCI : PCI BIOS revision 2.10 entry at #spec# , last bus = 1",1
+ce43ac0f,PCI : Using configuration type #spec#,1
+6858258b,mtrr : v2.0 ( 20020519 ),1
+0e6e7460,ACPI : Subsystem revision #spec#,1
+5a5569d2,ACPI : Interpreter disabled.,1
+3b95b63d,Linux Plug and Play Support v0.97 ( c ) Adam Belay,1
+d584ea88,Starting pcmcia : succeeded,1
+d027a420,usbcore : registered new driver usbfs,1
+a49128aa,usbcore : registered new driver hub,1
+88a43155,ACPI : ACPI tables contain no PCI IRQ routing entries,1
+c422ec15,PCI : Invalid ACPI-PCI IRQ routing table,1
+758a79fc,PCI : Probing PCI hardware,1
+ea1fcbae,PCI : Probing PCI hardware ( bus 00 ),1
+531f9ee8,Transparent bridge - 0000 : 00 : 1e.0,1
+e9557f23,PCI : Using IRQ router PIIX/ICH [ 8086/2410 ] at 0000 : 00 : 1f.0,1
+c160d50b,apm : BIOS version 1.2 Flags #spec# ( Driver version 1.16ac ),1
+6c2261d3,audit : initializing netlink socket ( disabled ),1
+f2088511,kernel.core_uses_pid = #spec#,1
+1a06754d,HCI daemon ver 2.4 started,1
+5729a7ec,audit ( 1122475266.4294965305 : 0 ) : initialized,1
+4b328525,Setting network parameters : succeeded,1
+db9d37a1,sdpd v1.5 started,1
+0072d688,"Total HugeTLB memory allocated , #spec#",1
+3d3c29f0,Bringing up loopback interface : succeeded,1
+7fd48c5f,VFS : Disk quotas dquot_6.5.1,1
+16c7e177,"Dquot-cache hash table entries : #spec# ( order 0 , #spec# bytes )",1
+2d33f558,SELinux : Registering netfilter hooks,1
+2b566107,Initializing Cryptographic API,1
+ab5d2fbc,pci_hotplug : PCI Hot Plug PCI Core version : 0.5,1
+111fb21f,isapnp : Scanning for PnP cards...,1
+80cc7236,isapnp : No Plug & Play device found,1
+25be35b6,Real Time Clock Driver v1.12,1
+ad163127,Linux agpgart interface v0.100 ( c ) Dave Jones,1

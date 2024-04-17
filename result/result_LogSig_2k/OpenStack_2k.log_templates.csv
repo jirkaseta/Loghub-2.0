@@ -1,0 +1,39 @@
+EventId,EventTemplate,Occurrences
+3ae6b5b9,"""GET HTTPstatus: len: time: .",931
+e430a5c4,[instance: VM Started (Lifecycle Event),44
+a9ccdf63,[instance: During sync_power_state the instance has a pending task (spawning). Skip.,43
+813e46ae,image dd-c-fbb-c-fbeb at (checking,82
+7639b198,"image dd-c-fbb-c-fbeb at (in use: on this node local, on other nodes sharing this instance storage",82
+62f25288,Active base files: /var/lib/nova/instances/_base/acfcdabcbbace,82
+36497987,Creating event for instance,22
+122f2278,"""POST HTTPstatus: len: time: .",64
+c5a785f9,[instance: VM Resumed (Lifecycle Event),65
+f9df24a9,[instance: Instance spawned successfully.,44
+ed3ef3b4,[instance: Took . seconds to spawn the instance on the hypervisor.,43
+527979e9,[instance: Took . seconds to build instance.,22
+ead99d8d,Auditing locally available compute resources for node cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+d1b3f9e8,"Total usable vcpus: , total allocated vcpus:",15
+f960c142,Final resource view: name=cp-.slowvm.tcloud-pg.utah.cloudlab.us phys_ram=MB used_ram=MB phys_disk=GB used_disk=GB total_vcpus= used_vcpus= pci_stats=[],15
+f912dd11,Compute_service record updated for cp-.slowvm.tcloud-pg.utah.cloudlab.us:cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+fec45d4a,"""DELETE HTTPstatus: len: time: .",22
+df965dae,[instance: Terminating instance,21
+8e4ebbb9,[instance: Deleting instance files,20
+2176e214,[instance: Deletion of complete,21
+40b100cd,[instance: Took . seconds to deallocate network for instance.,21
+141ad139,Unknown base file: /var/lib/nova/instances/_base/acfcdabcbbace,30
+4a400e37,Removable base files: /var/lib/nova/instances/_base/acfcdabcbbace,30
+ba92fb0a,Removing base or swap file: /var/lib/nova/instances/_base/acfcdabcbbace,21
+66acd71e,HTTP exception thrown: No instances found for any event,21
+0d47b257,"[instance: Attempting claim: memory MB, disk GB, vcpus CPU",21
+3893b875,"[instance: Total memory: MB, used: . MB",42
+eef770f9,"[instance: Total disk: GB, used: . GB",21
+f53abefa,"[instance: disk limit not specified, defaulting to unlimited",42
+6da778fa,"[instance: Total vcpu: VCPU, used: . VCPU",21
+b295dc4a,[instance: Claim successful,21
+70952297,[instance: Creating image,21
+f601c5c8,Successfully synced instances from host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us'.,2
+72aefb77,Running instance usage audit for host cp-.slowvm.tcloud-pg.utah.cloudlab.us from -- :: to -- ::. instances.,1
+30318743,[instance: bef-bad-ae-bfa-cbaa] Terminating instance,2
+01fa4db5,Base or swap file too young to remove: /var/lib/nova/instances/_base/acfcdabcbbace,9
+8cc7361d,The instance sync for host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+bea8e44f,"While synchronizing instance power states, found instances in the database and instances on the hypervisor.",1

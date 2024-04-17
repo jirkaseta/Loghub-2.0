@@ -1,0 +1,138 @@
+EventId,EventTemplate,Occurrences
+bd2f529c,"<*> ""GET <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",931
+d6c03600,[instance: * VM * (Lifecycle Event),43
+17ee15fc,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM Paused (Lifecycle Event),1
+c0195fdf,[instance: * During sync_power_state the instance has a pending task (spawning). Skip.,31
+e7c5c93a,"<*> ""POST <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",64
+f436579e,"Total usable vcpus: <*>, total allocated vcpus: <*>",5
+b07a374b,"<*> ""DELETE <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",22
+8970be39,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking,82
+a377b2ee,Creating event network-vif-plugged:e<*>ffd-<*>cd<*>-<*>-bddd-<*>f<*>b<*> for instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d,1
+f96777b0,[instance: * Instance * successfully.,6
+1e4c3e79,[instance: * Took <*>.<*> seconds to build instance.,9
+d7d096ad,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+7bc5d64e,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,27
+6ac7ab57,[instance: * Took <*>.<*> seconds to * the instance on the hypervisor.,31
+304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+7bc5d64e,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,49
+a7a4ff84,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,19
+6a30fe6e,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,19
+7fe8e1fe,[instance: * Terminating instance,8
+f5f5f70f,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+2695b5fa,Creating event network-vif-plugged:a<*>c-c<*>e<*>-<*>-a<*>a<*>-d<*>e<*>afd<*> for instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+0827e2f9,Creating event * for instance *,16
+9d6775a4,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,10
+f805aa5e,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Terminating instance,1
+8abec95e,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Deleting instance files /var/lib/nova/instances/b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d_del,1
+5212071d,[instance: * Deletion of <*>complete,2
+01b41746,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to build instance.,1
+c64e9a6f,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to build instance.,1
+f436579e,"Total usable vcpus: <*>, total allocated vcpus: <*>",5
+a7a4ff84,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+6a30fe6e,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+9d6775a4,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,5
+1622e0c9,[instance: * Took <*>.<*> seconds to deallocate network for instance.,8
+61be7258,"[instance: * Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",20
+c0195fdf,[instance: * During sync_power_state the instance has a pending task (spawning). Skip.,10
+6ac7ab57,[instance: * Took <*>.<*> seconds to * the instance on the hypervisor.,10
+5935193a,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],5
+66acd71e,HTTP exception thrown: No instances found for any event,21
+a094ae64,"[instance: * Total memory: <*> MB, used: <*>.<*> MB",5
+982c28f3,"[instance: * memory limit: <*>.<*> MB, free: <*>.<*> MB",12
+2b0c8abb,[instance: * Creating image,6
+7fe8e1fe,[instance: * Terminating instance,3
+f50ecfaa,[instance: * Claim successful,2
+f59a4eb0,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Creating image,1
+e93c7f1c,Creating event network-vif-plugged:b<*>c<*>-<*>-<*>e<*>-<*>ba<*>-ec<*>d<*>d<*>d for instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf,1
+44d66e2f,Creating event network-vif-plugged:<*>cf<*>-<*>-<*>f<*>c-<*>c-<*>ba<*>e<*>f<*> for instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c,1
+3f7dcd9b,Creating event network-vif-plugged:<*>-baff-<*>ad-<*>e<*>-a<*>c<*> for instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>,1
+3c7a50c2,Creating event network-vif-plugged:<*>bdba<*>d-dd<*>-<*>c-ab<*>-<*>d<*>c<*>c<*> for instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>,1
+7bc5d64e,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,6
+a7a4ff84,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,2
+6a30fe6e,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,2
+5615376a,"[instance: * Total disk: <*> GB, used: <*>.<*> GB",11
+f2feb7bf,"[instance: * Total vcpu: <*> VCPU, used: <*>.<*> VCPU",9
+f50ecfaa,[instance: * Claim successful,10
+2b0c8abb,[instance: * Creating image,9
+ff795b5f,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM * (Lifecycle Event),4
+85ea93e5,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM Paused (Lifecycle Event),1
+509a0098,[instance: * Deleting instance files *,11
+d6c03600,[instance: * VM * (Lifecycle Event),39
+42e7ae3b,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance * successfully.,2
+5f08293e,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Deletion of <*>complete,1
+f96777b0,[instance: * Instance * successfully.,28
+5212071d,[instance: * Deletion of <*>complete,14
+cccbe73b,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to deallocate network for instance.,1
+e9d0784d,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to deallocate network for instance.,1
+1e4c3e79,[instance: * Took <*>.<*> seconds to build instance.,9
+1622e0c9,[instance: * Took <*>.<*> seconds to deallocate network for instance.,9
+bd00e0e9,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1
+65d180af,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] During sync_power_state the instance has a pending task (spawning). Skip.,2
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+5935193a,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],10
+a069127a,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to * the instance on the hypervisor.,2
+7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+535d418b,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*>:<*>:<*> to <*>-<*>-<*> <*>:<*>:<*>. <*> instances.,1
+114df0ff,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] * limit not specified, defaulting to unlimited",2
+7c53c69f,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] * limit not specified, defaulting to unlimited",2
+13866240,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+cc7643c4,"[instance: * * limit not specified, defaulting to unlimited",34
+5db6fc1c,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total memory: <*> MB, used: <*>.<*> MB",1
+a094ae64,"[instance: * Total memory: <*> MB, used: <*>.<*> MB",6
+e821c177,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total memory: <*> MB, used: <*>.<*> MB",1
+c975851a,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",1
+60be3b93,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB",1
+7a700202,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] memory limit: <*>.<*> MB, free: <*>.<*> MB",1
+bc2c642f,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] memory limit: <*>.<*> MB, free: <*>.<*> MB",1
+982c28f3,"[instance: * memory limit: <*>.<*> MB, free: <*>.<*> MB",6
+2b0c8abb,[instance: * Creating image,3
+7fe8e1fe,[instance: * Terminating instance,3
+f50ecfaa,[instance: * Claim successful,5
+f4c4c11d,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Terminating instance,1
+2151fda8,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total disk: <*> GB, used: <*>.<*> GB",1
+221ac2f0,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total disk: <*> GB, used: <*>.<*> GB",1
+bbd060ff,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total disk: <*> GB, used: <*>.<*> GB",1
+5615376a,"[instance: * Total disk: <*> GB, used: <*>.<*> GB",3
+c3d58f2e,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",1
+3accbe21,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",1
+f2feb7bf,"[instance: * Total vcpu: <*> VCPU, used: <*>.<*> VCPU",3
+f50ecfaa,[instance: * Claim successful,3
+c8239141,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Claim successful,1
+2b0c8abb,[instance: * Creating image,2
+7fe8e1fe,[instance: * Terminating instance,6
+be6290d8,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM * (Lifecycle Event),4
+09180de3,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM Paused (Lifecycle Event),1
+1e5e3191,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM * (Lifecycle Event),4
+f7bda8a5,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM Paused (Lifecycle Event),1
+f14c5abf,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Deleting instance files /var/lib/nova/instances/b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>_del,1
+bbcd9e5a,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deleting instance files /var/lib/nova/instances/<*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf_del,1
+7cf51959,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deleting instance files /var/lib/nova/instances/<*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c_del,1
+184964e0,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Deleting instance files /var/lib/nova/instances/<*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>_del,1
+777d2f07,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM Paused (Lifecycle Event),1
+2f42e22b,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance * successfully.,2
+7409dec0,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance * successfully.,2
+f96777b0,[instance: * Instance * successfully.,4
+e08a3401,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deletion of <*>complete,1
+ae14661e,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deletion of <*>complete,1
+5212071d,[instance: * Deletion of <*>complete,2
+55451064,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to build instance.,1
+d81308f4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to build instance.,1
+565b21c4,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to deallocate network for instance.,1
+6fad0bd4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to deallocate network for instance.,1
+f436579e,"Total usable vcpus: <*>, total allocated vcpus: <*>",5
+6fee734a,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] * limit not specified, defaulting to unlimited",2
+98ee7210,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] * limit not specified, defaulting to unlimited",2
+b7b033ab,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total memory: <*> MB, used: <*>.<*> MB",1
+5615376a,"[instance: * Total disk: <*> GB, used: <*>.<*> GB",3
+dcb79607,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total disk: <*> GB, used: <*>.<*> GB",1
+f2feb7bf,"[instance: * Total vcpu: <*> VCPU, used: <*>.<*> VCPU",5
+6ffdfd30,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",1
+bdbc9668,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total memory: <*> MB, used: <*>.<*> MB",1
+a094ae64,"[instance: * Total memory: <*> MB, used: <*>.<*> MB",6
+d6c03600,[instance: * VM * (Lifecycle Event),9
+23503452,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM Paused (Lifecycle Event),1
+21901094,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Deleting instance files /var/lib/nova/instances/ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f_del,1
+1ec3df98,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Deleting instance files /var/lib/nova/instances/af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>_del,1
+5692fbe8,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Deleting instance files /var/lib/nova/instances/fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e_del,1
+509a0098,[instance: * Deleting instance files *,2

@@ -1,0 +1,26 @@
+EventId,EventTemplate,Occurrences
+c778e1d4,reverse mapping checking getaddrinfo for #spec# [ #spec# ] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+2f88f6cf,Invalid user * from #spec#,113
+022edf63,input_userauth_request : invalid user #spec# [ preauth ],113
+60b65f73,pam_unix ( sshd : auth ) : check pass ; user unknown,135
+43d1040e,pam_unix ( sshd : auth ) : authentication failure ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec#,110
+12d0648d,Failed * for invalid user #spec# from #spec# port #spec# ssh2,139
+0ddaf2b2,Connection closed by #spec# [ preauth ],34
+8b686ad9,Received disconnect from #spec# : 11 : Bye Bye [ preauth ],413
+90c9cb14,pam_unix ( sshd : auth ) : authentication failure ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec# . #spec# user = root,1
+72eef656,* password for * from #spec# port #spec# ssh2,384
+4cd50d3e,message repeated #spec# times : [ Failed password for root from #spec# port #spec# ssh2 ],2
+2eca985d,Disconnecting : Too many authentication failures for * [ preauth ],3
+d4f0a12a,PAM #spec# more authentication failures ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec# . #spec# user = root,1
+2f30b6bf,PAM service ( sshd ) ignoring max retries ; #spec# > #spec#,7
+08752d39,pam_unix ( sshd : auth ) : authentication failure ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec# user = *,383
+7f76e25b,Did not receive identification string from #spec#,10
+258f8467,error : Received disconnect from #spec# : 3 : #spec# : Auth fail [ preauth ],2
+5b9ac430,Received disconnect from #spec# : 11 : Closed due to user request. [ preauth ],7
+6baf2828,PAM #spec# more authentication * ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec#,8
+e1e6481f,PAM #spec# more authentication failures ; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = #spec# user = root,1
+50560e1b,error : Received disconnect from #spec# : 14 : No more user authentication methods available. [ preauth ],45
+46701ede,pam_unix ( sshd : session ) : session opened for user fztu by ( uid = 0 ),1
+a372511e,Received disconnect from #spec# : 11 : disconnected by user,1
+4bc2ac81,pam_unix ( sshd : session ) : session closed for user fztu,1
+30ff5bd8,fatal : Write failed : Connection reset by peer [ preauth ],1

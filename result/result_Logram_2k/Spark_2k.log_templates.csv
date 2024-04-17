@@ -1,0 +1,266 @@
+EventId,EventTemplate
+8d7c0e6b,<*> <*> <*> <*> <*> <*> <*>
+fb195195,<*> <*> <*> <*> <*>
+023c9167,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+b923f8c3,Slf4jLogger started
+e99571c6,Starting remoting
+be2214fc,<*> <*> <*> <*> <*> <*>
+0ce98313,<*> <*> <*> <*>
+1c507e44,Registered BlockManager
+9ba7fdc2,Got assigned task <*>
+e872345e,Running task 0.0 in stage <*> <*> <*>
+8f946441,Running task 2.0 in stage <*> <*> <*>
+cb03651a,Running task 1.0 in stage <*> <*> <*>
+e4054981,Running task 3.0 in stage <*> <*> <*>
+7849eb28,Running task 4.0 in stage <*> <*> <*>
+6c90e140,Started reading broadcast variable <*>
+55c1fa36,<*> <*> stored as bytes in memory (estimated size <*> KB free <*> KB)
+b9cfa5e3,Reading broadcast variable <*> <*> <*> ms
+9a0a1cee,<*> <*> stored as values in memory (estimated size <*> KB free <*> KB)
+9da4cf4c,<*> <*> not found computing it
+f1a8cca8,Input split: <*>
+f2593c42,<*> <*> stored as bytes in memory (estimated size <*> B free <*> KB)
+4f2ad4c0,<*> <*> stored as values in memory (estimated size <*> B free <*> KB)
+15498983,Times: total = <*> boot = <*> init = <*> finish = <*>
+35200091,Times: total = 38 boot = <*> init = <*> finish = 0
+8963e3da,Times: total = 42 boot = <*> init = <*> finish = 0
+80dc733b,Times: total = 41 boot = 15 init = <*> finish = 0
+0f4cb507,Times: total = 40 boot = <*> init = <*> finish = 0
+36827768,Times: total = 42 boot = 13 init = <*> finish = 1
+ab93fc79,Finished task 3.0 in stage <*> <*> <*> 2703 bytes result sent to driver
+cf34aafd,Finished task 1.0 in stage <*> <*> <*> 2703 bytes result sent to driver
+d46cf044,Finished task 2.0 in stage <*> <*> <*> 2703 bytes result sent to driver
+9086a28d,Finished task 4.0 in stage <*> <*> <*> 2703 bytes result sent to driver
+84b796ae,Finished task 0.0 in stage <*> <*> <*> 2703 bytes result sent to driver
+cbf9c123,Found block rdd_2_0 locally
+d3e8fc86,Found block rdd_2_3 locally
+77783722,Found block rdd_2_4 locally
+92c16077,Found block rdd_2_2 locally
+1f9ef687,Found block rdd_2_1 locally
+7e2b1b4d,Times: total = 42 boot = <*> init = <*> finish = 1
+25e90212,Times: total = 41 boot = <*> init = <*> finish = 1
+10260e6f,Finished task 4.0 in stage <*> <*> <*> <*> bytes result sent to driver
+5f3ba86e,Finished task 1.0 in stage <*> <*> <*> <*> bytes result sent to driver
+afa23378,Finished task 0.0 in stage <*> <*> <*> <*> bytes result sent to driver
+ea253c28,Finished task 3.0 in stage <*> <*> <*> <*> bytes result sent to driver
+c31049a3,Finished task 2.0 in stage <*> <*> <*> <*> bytes result sent to driver
+2b3e8f6b,Times: total = 39 boot = <*> init = <*> finish = 0
+8415e503,Finished task 4.0 in stage <*> <*> <*> 2087 bytes result sent to driver
+8dd4035a,Finished task 2.0 in stage <*> <*> <*> 2087 bytes result sent to driver
+d2aa8d35,Finished task 3.0 in stage <*> <*> <*> 2087 bytes result sent to driver
+c8c853ae,Finished task 1.0 in stage <*> <*> <*> 2087 bytes result sent to driver
+0f1e87ce,Finished task 0.0 in stage <*> <*> <*> 2087 bytes result sent to driver
+b5bbd378,Times: total = 41 boot = <*> init = <*> finish = 0
+aeaf5349,Times: total = 38 boot = 14 init = 24 finish = 0
+8f4751a1,Times: total = 41 boot = 19 init = 22 finish = 0
+8274ded8,Finished task 4.0 in stage <*> <*> <*> 2667 bytes result sent to driver
+a79c224f,Times: total = 41 boot = 16 init = 25 finish = 0
+596f063b,Finished task 3.0 in stage <*> <*> <*> 2667 bytes result sent to driver
+faadaa42,Finished task 1.0 in stage <*> <*> <*> 2667 bytes result sent to driver
+b0527ecd,Finished task 2.0 in stage <*> <*> <*> 2667 bytes result sent to driver
+43baab8d,Finished task 0.0 in stage <*> <*> <*> 2667 bytes result sent to driver
+d7f24216,Found block <*> locally
+bfd86478,Times: total = 39 boot = <*> init = <*> finish = 1
+f231009c,Times: total = 40 boot = <*> init = <*> finish = 1
+077c6242,Times: total = 38 boot = 17 init = 21 finish = 0
+f7d171a0,Times: total = 38 boot = 18 init = 20 finish = 0
+fd9c9521,Times: total = 40 boot = 19 init = 21 finish = 0
+b6749a2e,Times: total = 41 boot = 17 init = 24 finish = 0
+b010e438,Times: total = 43 boot = <*> init = <*> finish = 1
+f49eb3c6,Times: total = 39 boot = 22 init = 17 finish = 0
+22b79c17,Times: total = 41 boot = 20 init = 21 finish = 0
+d1ae5aa2,Times: total = 40 boot = 20 init = 20 finish = 0
+b1e771e1,Times: total = 40 boot = <*> init = 14 finish = 0
+126e4ce7,Times: total = <*> boot = <*> init = <*> finish = 0
+2ae0931e,Times: total = 38 boot = 19 init = 19 finish = 0
+58ec0f16,Times: total = 39 boot = 20 init = 19 finish = 0
+828ca8ed,Times: total = 40 boot = 17 init = 23 finish = 0
+749f43ab,Times: total = 42 boot = 18 init = 24 finish = 0
+710d3751,Times: total = <*> boot = <*> init = <*> finish = 1
+1120d8bc,Times: total = 38 boot = 23 init = 15 finish = 0
+45b5fe47,Times: total = 41 boot = 23 init = 18 finish = 0
+6cf055da,Times: total = 39 boot = 18 init = 21 finish = 0
+98c6765c,Times: total = 38 boot = <*> init = <*> finish = 1
+9ffaabdb,Times: total = 39 boot = 21 init = 18 finish = 0
+47ea62e6,Times: total = 41 boot = 18 init = 23 finish = 0
+56b76c32,Times: total = 40 boot = 18 init = 22 finish = 0
+2106cb63,Running task 0.0 in stage 24.0 (TID <*>
+2156e147,Running task 1.0 in stage 24.0 (TID <*>
+957000bc,Running task 2.0 in stage 24.0 (TID <*>
+8e61c16d,Running task 3.0 in stage 24.0 (TID <*>
+46b53ab4,Running task 4.0 in stage 24.0 (TID <*>
+a899e693,File Output Committer Algorithm version is 1
+84882552,Saved output of task <*> <*> <*>
+aff166a3,attempt_201706092018_0024_m_000004_1026: Committed
+773b22b5,attempt_201706092018_0024_m_000002_998: Committed
+271d3bcf,attempt_201706092018_0024_m_000003_1012: Committed
+3e712240,attempt_201706092018_0024_m_000001_984: Committed
+b74f6928,attempt_201706092018_0024_m_000000_970: Committed
+d577efc5,Finished task 3.0 in stage 24.0 (TID <*> 2364 bytes result sent to driver
+e9f7c4e5,Finished task 4.0 in stage 24.0 (TID <*> 2364 bytes result sent to driver
+daf6e3a3,Finished task 1.0 in stage 24.0 (TID <*> 2364 bytes result sent to driver
+d5701719,Finished task 2.0 in stage 24.0 (TID <*> 2364 bytes result sent to driver
+13164284,Finished task 0.0 in stage 24.0 (TID <*> 2364 bytes result sent to driver
+5b1804f1,Running task <*> in stage 24.0 (TID <*>
+08cf3656,attempt_201706092018_0024_m_000044_1129: Committed
+194ceeaa,attempt_201706092018_0024_m_000043_1128: Committed
+b8ff758d,attempt_201706092018_0024_m_000040_1125: Committed
+54dad10f,attempt_201706092018_0024_m_000042_1127: Committed
+d1e44ab3,attempt_201706092018_0024_m_000041_1126: Committed
+7f19dba1,Finished task <*> in stage 24.0 (TID <*> 2364 bytes result sent to driver
+d6d0c0af,attempt_201706092018_0024_m_000083_1138: Committed
+dce2c528,attempt_201706092018_0024_m_000084_1141: Committed
+f5f2aa21,attempt_201706092018_0024_m_000080_1135: Committed
+8160b3fd,attempt_201706092018_0024_m_000082_1137: Committed
+576f7ace,attempt_201706092018_0024_m_000081_1136: Committed
+b772fd02,attempt_201706092018_0024_m_000124_1151: Committed
+9dfd90e6,attempt_201706092018_0024_m_000120_1145: Committed
+d171b16f,attempt_201706092018_0024_m_000122_1147: Committed
+2e49259a,attempt_201706092018_0024_m_000121_1146: Committed
+b0d50a0d,attempt_201706092018_0024_m_000123_1150: Committed
+75444caa,attempt_201706092018_0024_m_000160_1155: Committed
+ef7fa137,attempt_201706092018_0024_m_000163_1158: Committed
+a8867e5e,attempt_201706092018_0024_m_000164_1159: Committed
+da932dbb,attempt_201706092018_0024_m_000162_1157: Committed
+131e72f4,attempt_201706092018_0024_m_000161_1156: Committed
+807fd9a5,attempt_201706092018_0025_m_000004_1199: Committed
+8f1068d8,Finished task 4.0 in stage <*> <*> <*> 2364 bytes result sent to driver
+97c389c6,attempt_201706092018_0025_m_000003_1198: Committed
+9daeac9a,attempt_201706092018_0025_m_000000_1166: Committed
+ea9c7ae1,attempt_201706092018_0025_m_000002_1194: Committed
+44a2ba26,attempt_201706092018_0025_m_000001_1180: Committed
+eff364ee,Finished task 3.0 in stage <*> <*> <*> 2364 bytes result sent to driver
+4178a84f,Finished task 0.0 in stage <*> <*> <*> 2364 bytes result sent to driver
+a0b4f9c1,Finished task 2.0 in stage <*> <*> <*> 2364 bytes result sent to driver
+33949119,Finished task 1.0 in stage <*> <*> <*> 2364 bytes result sent to driver
+4c16bd9c,Running task 0.0 in stage 26.0 (TID <*>
+8cb7dfaf,Running task 1.0 in stage 26.0 (TID <*>
+2f39d1da,Running task 2.0 in stage 26.0 (TID <*>
+21241dc5,Running task 3.0 in stage 26.0 (TID <*>
+214261fd,Running task 4.0 in stage 26.0 (TID <*>
+f714d21c,Times: total = <*> boot = <*> init = <*> finish = 5
+c233605e,Times: total = 42 boot = 25 init = 16 finish = 1
+f37a76df,Finished task 0.0 in stage 26.0 (TID <*> 2703 bytes result sent to driver
+b05bd56d,Running task <*> in stage 26.0 (TID <*>
+a03d29b6,Times: total = 41 boot = 21 init = 20 finish = 0
+6dd3e63c,Times: total = 41 boot = 20 init = 20 finish = 1
+96fed1b3,Times: total = 42 boot = 23 init = 19 finish = 0
+81ffcc0d,Times: total = 42 boot = 20 init = 21 finish = 1
+8d108856,Finished task 4.0 in stage 26.0 (TID <*> 2703 bytes result sent to driver
+9e86ee2f,Finished task 2.0 in stage 26.0 (TID <*> 2703 bytes result sent to driver
+bb798ff6,Finished task 1.0 in stage 26.0 (TID <*> 2703 bytes result sent to driver
+c590625f,Finished task 3.0 in stage 26.0 (TID <*> 2703 bytes result sent to driver
+3bb1a08b,Times: total = <*> boot = 21 init = <*> finish = 5
+9ef7bb57,Times: total = <*> boot = <*> init = 41 finish = 5
+0e066e95,Times: total = <*> boot = 19 init = <*> finish = 0
+69f410f2,Finished task <*> in stage 26.0 (TID <*> <*> bytes result sent to driver
+2368942c,Times: total = 41 boot = 24 init = 17 finish = 0
+a003f389,Finished task <*> in stage 26.0 (TID <*> 2703 bytes result sent to driver
+0bf08790,Times: total = 42 boot = 22 init = 19 finish = 1
+a6cb5fec,Times: total = <*> boot = <*> init = 40 finish = <*>
+6474aec6,Times: total = <*> boot = 13 init = 40 finish = 5
+00ebcc9d,Times: total = 42 boot = 17 init = 24 finish = 1
+e761f0b2,Times: total = 39 boot = 20 init = 18 finish = 1
+d153904f,Times: total = 40 boot = 22 init = 18 finish = 0
+46aea246,Times: total = 39 boot = 24 init = 14 finish = 1
+77168268,Times: total = <*> boot = 16 init = <*> finish = 5
+100a4406,Times: total = <*> boot = 14 init = <*> finish = 5
+69ac694b,Times: total = <*> boot = 13 init = <*> finish = 5
+163b6979,Times: total = <*> boot = <*> init = 38 finish = 5
+a5296fab,Times: total = 38 boot = 16 init = 22 finish = 0
+c30be347,Times: total = 38 boot = 24 init = 14 finish = 0
+27245f0b,Times: total = 43 boot = 23 init = 19 finish = 1
+641ad155,Times: total = 38 boot = 20 init = 18 finish = 0
+088ab2f4,Times: total = <*> boot = 15 init = <*> finish = 5
+65b95003,Times: total = <*> boot = 17 init = <*> finish = 5
+cc9dc130,Times: total = 40 boot = 13 init = <*> finish = 1
+45e6a194,Times: total = 42 boot = <*> init = 16 finish = 0
+48368c4b,Times: total = 39 boot = 23 init = 16 finish = 0
+11954a99,Times: total = 38 boot = 21 init = 17 finish = 0
+2f367e66,Times: total = 42 boot = 20 init = 22 finish = 0
+b6dafa56,Times: total = <*> boot = <*> init = 40 finish = 5
+a5e0db60,Times: total = <*> boot = <*> init = 41 finish = <*>
+15d49cd4,Times: total = 42 boot = 24 init = 17 finish = 1
+d3827de8,Times: total = <*> boot = 16 init = 25 finish = 5
+9b37249c,Times: total = <*> boot = <*> init = 42 finish = 5
+f74ad3b2,Times: total = <*> boot = <*> init = 39 finish = 5
+342e19cc,Times: total = 42 boot = 24 init = 18 finish = 0
+e9c65b88,Times: total = 43 boot = 17 init = 25 finish = 1
+758c769d,Times: total = <*> boot = 17 init = 23 finish = <*>
+df37760e,Times: total = <*> boot = 17 init = 25 finish = <*>
+ed39868b,Times: total = 40 boot = 24 init = 16 finish = 0
+bcb99956,Times: total = 40 boot = 13 init = <*> finish = 0
+ffe46eda,Running task 0.0 in stage 27.0 (TID <*>
+d55cbe9d,Running task 1.0 in stage 27.0 (TID <*>
+b9c83dce,Running task 2.0 in stage 27.0 (TID <*>
+5f28f80b,Running task 3.0 in stage 27.0 (TID <*>
+c952f233,Running task 4.0 in stage 27.0 (TID <*>
+44c76317,Finished task 0.0 in stage 27.0 (TID <*> <*> bytes result sent to driver
+87203754,Finished task 4.0 in stage 27.0 (TID <*> <*> bytes result sent to driver
+63754df8,Finished task 2.0 in stage 27.0 (TID <*> <*> bytes result sent to driver
+1e06013b,Running task <*> in stage 27.0 (TID <*>
+9dae9671,Finished task 3.0 in stage 27.0 (TID <*> <*> bytes result sent to driver
+3e2268b1,Finished task 1.0 in stage 27.0 (TID <*> <*> bytes result sent to driver
+9151cbde,Finished task <*> in stage 27.0 (TID <*> <*> bytes result sent to driver
+f7c47040,Times: total = 40 boot = 15 init = 25 finish = 0
+15e53958,Times: total = 43 boot = 13 init = <*> finish = 1
+8cd9608f,Times: total = 40 boot = 14 init = 25 finish = 1
+f1b895d9,Finished task <*> in stage 27.0 (TID <*> 2667 bytes result sent to driver
+e8728dac,Times: total = 42 boot = 19 init = 22 finish = 1
+d065883e,Times: total = 39 boot = 15 init = 24 finish = 0
+b30e7f54,Times: total = 40 boot = 14 init = <*> finish = 0
+ae9b796e,Times: total = 39 boot = 13 init = 25 finish = 1
+a4db2ba1,Finished task <*> in stage 27.0 (TID <*> 2128 bytes result sent to driver
+2bddc1f4,Times: total = 42 boot = 16 init = 25 finish = 1
+ed276c2f,Times: total = 40 boot = 17 init = 22 finish = 1
+d6e6ceaa,Times: total = 41 boot = 19 init = 21 finish = 1
+78378424,Times: total = 41 boot = 14 init = 25 finish = <*>
+7cec5a29,Times: total = 42 boot = 14 init = <*> finish = 1
+bbf99084,Times: total = 40 boot = 20 init = 19 finish = 1
+7bce5f19,Times: total = 42 boot = <*> init = 14 finish = 1
+2ce5d3c2,Times: total = 39 boot = 17 init = 21 finish = 1
+ae6a344f,Running task 0.0 in stage 28.0 (TID <*>
+61164897,Running task 1.0 in stage 28.0 (TID <*>
+e2143b12,Running task 2.0 in stage 28.0 (TID <*>
+4a9e9c1b,Running task 3.0 in stage 28.0 (TID <*>
+73e8d353,Running task 4.0 in stage 28.0 (TID <*>
+aec4faf8,Finished task 4.0 in stage 28.0 (TID <*> 2087 bytes result sent to driver
+a415985d,Finished task 2.0 in stage 28.0 (TID <*> 2087 bytes result sent to driver
+ac906bbf,Finished task 3.0 in stage 28.0 (TID <*> 2087 bytes result sent to driver
+581e7fe2,Running task <*> in stage 28.0 (TID <*>
+0f752caa,Finished task 0.0 in stage 28.0 (TID <*> 2087 bytes result sent to driver
+94a9588c,Finished task 1.0 in stage 28.0 (TID <*> 2087 bytes result sent to driver
+74a9b958,Times: total = 40 boot = 16 init = 24 finish = 0
+b9ce86d8,Finished task <*> in stage 28.0 (TID <*> 2087 bytes result sent to driver
+1acdceeb,Times: total = 42 boot = 13 init = <*> finish = 0
+3a7a2a3f,Times: total = 40 boot = 21 init = 19 finish = 0
+11a9f3de,Times: total = 39 boot = 19 init = 20 finish = 0
+70b6669c,Times: total = 42 boot = 14 init = <*> finish = 0
+75487e80,Times: total = 39 boot = 15 init = 23 finish = 1
+cccf28ba,Times: total = 43 boot = 15 init = <*> finish = 1
+0d621be4,Times: total = 41 boot = 17 init = 23 finish = 1
+4b6b4818,Running task 0.0 in stage 29.0 (TID <*>
+7a58a9d6,Running task 1.0 in stage 29.0 (TID <*>
+2b416822,Running task 2.0 in stage 29.0 (TID <*>
+73aa26c9,Running task 3.0 in stage 29.0 (TID <*>
+da24685b,Running task 4.0 in stage 29.0 (TID <*>
+6b5f188a,Finished task 3.0 in stage 29.0 (TID <*> 2128 bytes result sent to driver
+d79fd10b,Finished task 4.0 in stage 29.0 (TID <*> 2128 bytes result sent to driver
+31a83567,Finished task 0.0 in stage 29.0 (TID <*> 2128 bytes result sent to driver
+e808f550,Finished task 2.0 in stage 29.0 (TID <*> 2128 bytes result sent to driver
+92839b77,Finished task 1.0 in stage 29.0 (TID <*> <*> bytes result sent to driver
+143566af,Running task <*> in stage 29.0 (TID <*>
+25681b2f,Times: total = 39 boot = 18 init = 20 finish = 1
+5427759f,Times: total = 41 boot = 16 init = 24 finish = 1
+3818d14a,Times: total = 43 boot = 25 init = 17 finish = 1
+49919ac4,Finished task <*> in stage 29.0 (TID <*> <*> bytes result sent to driver
+6ee0f77b,Finished task <*> in stage 29.0 (TID <*> 2128 bytes result sent to driver
+e738633b,Times: total = 39 boot = 19 init = 19 finish = 1
+fa02ce0c,Times: total = 41 boot = 21 init = 19 finish = 1
+dd76bf48,Times: total = 42 boot = 18 init = 23 finish = 1
+c97f634b,Times: total = 41 boot = <*> init = 14 finish = 0
+bccf4aa8,Times: total = 41 boot = 15 init = 25 finish = 1
+55de6705,Times: total = 39 boot = 16 init = 22 finish = 1
+4cc6bf89,Times: total = 41 boot = 18 init = 22 finish = 1
+b89a8b20,Times: total = 41 boot = 23 init = 17 finish = 1
+589c55b3,Times: total = 43 boot = 14 init = <*> finish = 1

@@ -1,0 +1,50 @@
+EventId,EventTemplate
+1a36e205,Component State <*> <*> <*> <*> <*> the unavailable state (HWID<*>)
+9164cc5d,Component State Change: Component \042alt0\042 is in the unavailable state (HWID<*>)
+a4ec7e5b,<*> <*> <*>
+8d336518,boot (command <*>
+28889bc4,wait (command <*>
+b4e25afc,Command has completed successfully
+de1af8bf,<*> <*> <*> <*> <*> <*> <*> <*>
+be2214fc,<*> <*> <*> <*> <*> <*>
+0ce98313,<*> <*> <*> <*>
+fb195195,<*> <*> <*> <*> <*>
+97e2eb74,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+b4ce05ec,NIFF: node <*> <*> <*> <*> network connection on network 5.5.224.0 via interface alt0
+9020e17e,<*> <*> ServerFileSystem domain <*> <*> <*> <*> <*>
+5c2f1ea4,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+2afb8050,Fan speeds ( 3552 3534 3375 <*> 3515 3479 )
+3e37f471,Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+3f77edb0,Fan speeds ( 3552 3534 3391 <*> 3515 3479 )
+cb59ebc0,Fan speeds ( 3552 <*> 3391 **** 3515 <*> )
+f35b7adb,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+262557ae,Fan speeds ( 3534 3534 3375 <*> <*> 3479 )
+e13d082a,power/control problem
+ec4e03ec,Link error
+641961b9,Link ok
+f3a34f9b,Link error <*> <*> <*> <*>
+4fc8cb71,ServerFileSystem: ServerFileSystem domain <*> <*> <*>
+bafedd1e,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+75101dcd,running
+61326117,blocked
+b02b9741,not responding
+8cfafe98,configured out
+71585e7e,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+c76a5e84,active
+252f035f,not-responding
+4c681568,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+1ee85f6c,starting
+3b38bec1,closing
+945dbccc,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+fea08751,normal
+7b83d3f0,warning
+92f0ab0d,ambient<*>
+7e85bcb6,critical
+9050ee25,Linkerror event interval expired
+7ab436ba,boot (command <*> <*> <*> <*> <*> <*>
+551adf73,link errors remain current
+8e7236dc,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+ecd58928,NIFF: node <*> has detected an available network connection on network 5.5.226.0 via interface alt0
+362d095b,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+1257c799,NIFF: node <*> has detected an available network connection on network <*> via interface <*>
+32132ab1,NIFF: node <*> has detected an available network connection on network 5.5.224.0 via interface alt0

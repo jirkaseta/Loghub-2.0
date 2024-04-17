@@ -1,0 +1,80 @@
+EventId,EventTemplate,Occurrences
+3aa50e45,instruction cache parity error corrected,42
+6265c739,<*> double-hummer alignment exceptions,74
+22de2b18,"CE sym <*> at 0x<*>0, mask 0x<*>",14
+843f5cbe,<*> <*> <*> on <*> <*> <*> <*> <*> <*>,43
+01d35c17,"CE sym <*>, at 0x<*>0, mask 0x40",15
+070de4aa,generating <*>,721
+b50339a1,NONE,45
+c5d5094b,"CE sym <*>, at 0x<*>0, mask 0x10",16
+d5f4bd6b,"CE sym <*>, at 0x<*>0, mask 0x04",15
+3786c060,ciod: <*> <*> <*> <*> <*>,9
+4a680747,ciod: LOGIN chdir(<*>) failed: No such file or directory,18
+131a42e5,"CE sym <*>, at 0x<*>0, mask 0x02",13
+d92955f2,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*>, bit <*>",18
+09d481c7,"CE sym <*>, at 0x<*>0, mask 0x20",10
+38a7307d,data TLB error interrupt,60
+d2c9db9b,data storage interrupt,30
+ac8a6999,data address: 0x00000002,8
+d59f04cd,machine <*> <*>,11
+122d934b,program interrupt: illegal <*>,8
+9851467f,data store interrupt caused by <*>,10
+cc8ff6de,program interrupt: <*> <*>,18
+33699bb4,<*> state <*>,6
+42e8eb6d,floating <*> <*> <*>,9
+e19f7ea0,core configuration register: 0x00002000,7
+86bf963f,critical input interrupt <*>,3
+ef38d89d,<*> <*> error,1
+4cc6887f,<*> store <*>,3
+147cfcff,total of <*> ddr error(s) detected and corrected,13
+6f3620a4,"ciod: Error loading <*>: invalid or missing program image, No such file or directory",21
+b02de545,"CE sym <*>, at 0x<*>0, mask 0x80",9
+85979392,program <*>,3
+a2335b6b,Node card is not fully functional,6
+9d5d6232,Can not get assembly information for node card,6
+2a777943,1146800 double-hummer alignment exceptions,27
+908c2782,458720 double-hummer alignment exceptions,8
+89b0cf03,<*> t<*> receiver <*> in<*> <*> <*> <*> <*> <*> <*>d,7
+5b20f78e,<*> of <*> <*> <*> <*> <*>,8
+eec5021c,rts: kernel terminated for reason 100<*>,7
+1ae4a1e2,<*> floating point alignment exceptions,106
+aa35fa97,Node card status: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>. Temperature <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> is <*>. The <*>.5 volt rail is OK.,6
+9f19c88f,"Node card VPD check: U<*>1 node in processor card slot J<*> do not match. VPD ecid 0<*>, found 0<*>",9
+e3703b8d,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+d011761f,"<*> <*>ing <*> <*> <*> <*>, <*> <*> <*> <*> of <*>e <*> <*>",10
+262ac5c8,"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",15
+90638f5f,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:<*>: Link has been severed,9
+11b69b8b,ciod: generated <*> core files for program <*>,13
+000d140b,ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,8
+47306293,iar 00<*> dear 0<*>,103
+4bc1ca7f,iar 003a92a0 dear 0<*>8,7
+10cb738f,iar 003a9260 dear 0<*>8,14
+dd87d319,iar 0014a150 dear 00<*>8,13
+0432bfdc,Lustre mount FAILED : bglio<*> : point /p/gb1,9
+13df8317,ciod: generated 128 core files for program <*>,9
+5537a779,"ciod: Error loading /<*>: invalid or missing program image, Permission denied",19
+f3eed4bf,data cache search parity error detected. attempting to correct,6
+c65da9e1,"ciod: Error loading <*> invalid or missing program image, Exec format error",2
+33f5e113,iar 00106210 dear <*>,12
+a502c1e9,iar 00106228 dear <*>,12
+64e4e287,iar 001061dc dear 0244c22c,6
+a37a8063,iar 001061dc dear <*>,5
+7c31c740,iar 00106568 dear <*>,6
+b3018f7a,iar 00106580 dear <*>,10
+b5fbeaaa,iar 00106534 dear <*>,6
+b24a607d,2354412 floating point alignment exceptions,15
+45f54327,iar 00106bd8 dear 0245c<*>c,6
+1d64bb82,iar 001061e8 dear 024701<*>c,8
+b0de29a2,"ciod: Received signal 15, code=0, errno=0, <*>",16
+8642b6cd,Lustre mount FAILED : bglio<*> : <*> <*>,2
+5a695884,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),7
+f5255169,"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:<*>, Connection <*> <*>",6
+6f15ee86,"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:<*>, Link has been severed",8
+92420707,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+e7371872,"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",7
+125fee2b,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",64
+71fcff11,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds",7
+be95663f,"Kernel detected <*> integer alignment exceptions (<*>) iar 0x00<*>8, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0 (<*>) iar 0x00<*>8, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0 (<*>) iar 0x00<*>, dear 0x<*>0",1
+19700742,"Kernel detected <*> integer alignment exceptions (<*>) iar 0x00544ea8, dear 0x0<*>0 (<*>) iar 0x00544eb8, dear 0x0<*>0 (<*>) iar 0x00544ea8, dear 0x0<*>0 (<*>) iar 0x00544eb8, dear 0x0<*>0 (<*>) iar 0x00544ee0, dear 0x0<*>0 (<*>) iar 0x00544ef0, dear 0x0<*>0 (<*>) iar 0x00544ee0, dear 0x0<*>0 (<*>) iar 0x00544ef0, dear 0x0<*>0",8
+b9c9b5a4,ciod: LOGIN chdir(<*>) failed: <*> <*>,1
+965b22d9,ciod: Error loading <*>: <*> <*> <*> <*> <*> <*> <*>,1

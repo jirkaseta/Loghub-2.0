@@ -1,0 +1,233 @@
+EventId,EventTemplate,Occurrences
+22773ff0,IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0,17
+bb921c91,Thermal pressure state: 1 Memory pressure state: 0,19
+42224b02,FA||Url||taskID[201935<*>] dealloc,17
+a12569fb,ARPT: <*>: AirPort_Brcm43xx::syncPowerState: WWEN[enabled],12
+b21be901,ARPT: <*>: AirPort_Brcm43xx::platformWoWEnable: WWEN[disable],16
+dadf7a7e,<*> <*> for <*> <*>,16
+0ce98313,<*> <*> <*> <*>,73
+ec7482ca,"ARPT: <*>: wl0: wl_update_tcpkeep_seq: Original Seq: <*>, Ack: <*>, Win size: 4096",6
+c8276cce,ARPT: <*>: ARPT: Wake Reason: Wake on Scan offload,9
+1ca51907,__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2,16
+92121a91,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,15
+2a699bd4,"ARPT: <*>: wl0: MDNS: 0 SRV Recs, 0 TXT Recs",9
+5b3c8ec6,AppleCamIn::systemWakeCall - messageType = 0xE0000340,53
+a23397bf,"setting hostname to ""authorMacBook-Pro.local""",5
+30d250d4,<*> <*> <*> <*> the <*> <*>,172
+2fe4ad5c,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,7
+c1211bd4,[<*>] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.,3
+005b6de9,AirPort: Link Down on awdl0. Reason 1 (Unspecified).,7
+70e478c0,"PM response took <*> ms (54, powerd)",6
+0895af4b,"ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI -<*>",4
+e3370825,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x4 to 0x8000000000000000,7
+7c9ca2b5,"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)",11
+345a3ac3,<*> <*> <*> is <*>,2
+2d0d617f,CCFile::captureLogRun() Exiting CCFile::captureLogRun,22
+44e52f06,<*>(3<*>) deny network-outbound /private/var/run/mDNSResponder,29
+0a75b622,ARPT: <*>: wl0: MDNS: IPV6 Addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f,9
+5ab3dcf5,AirPort: Link Up on en0,4
+cf465a5a,Sandbox: <*>(3<*>) deny(1) network-outbound /private/var/run/mDNSResponder,29
+e4204ce1,ARPT: <*>: AirPort_Brcm43xx::platformWoWEnable: WWEN[enable],12
+79153624,AirPort: Link Up on awdl0,9
+17952dd2,AppleThunderboltGenericHAL::earlyWake - complete - took 0 milliseconds,8
+ff034dff,mDNS_DeregisterInterface: Frequent transitions for interface en0 (<*>),3
+e3b61a44,AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = <*>,11
+b27bf955,"ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size 278",8
+b7a2d271,en0::IO80211Interface::postMessage bssid changed,10
+f7c288b9,Thermal pressure state: 0 Memory pressure state: 0,20
+31fcada6,AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0,6
+8a1cede8,mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F),3
+016decae,AppleCamIn::wakeEventHandlerThread,20
+d3d43da1,"ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: 443",5
+ff8a3825,-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-0<*> <*> +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319),14
+86f9b3d4,en0: channel changed to <*>,16
+27cc6ebf,ARPT: <*>: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0,6
+50ea6b56,"CCFile::captureLog Received Capture notice id: 149<*>, reason = AuthFail:sts:5_rsn:0",15
+050de4e6,IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED,14
+75353338,Unrecognized attribute value: t:AbchPersonItemType,8
+61cb43e6,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=<*> Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}",12
+bef658c0,<*> <*> <*> failed <*> <*>,4
+409dc4a1,IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0,19
+0af63e74,<*> : BTLE scanner Powered On,8
+c5fb0953,button report: 0x8002be0,7
+48b41a73,"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",4
+ec6b9b15,Location icon should now be in state 'Inactive',20
+17a97a16,"ARPT: <*>: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10",9
+b84885ff,ARPT: <*>: wl0: MDNS: IPV4 Addr: <*>,4
+8a265b2e,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc<*> <*>:14000,3
+fddcfc77,"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0",7
+c6b40f22,Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),3
+9f75f22f,IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO,6
+209c69a9,-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,17
+ddfd106f,<*> : <*>ed <*> hashes,4
+7434df3c,Captive: CNPluginHandler en0: Evaluating,4
+f5038e92,tcp_connection_destination_perform_socket_connect <*> connectx to <*>:<*>@0 failed: [50] Network is down,3
+57ec2813,AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).,5
+1bf3d457,"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3",12
+e9c3741c,[070<*>:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.,4
+b8777a99,Saw change in network reachability (isReachable=<*>),4
+e9f3f528,[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01),8
+de57cc71,en0: BSSID changed to 5c:50:15:36:bc:03,3
+ba8a2eb8,dnssd_clientstub ConnectToServer: connect()-> No of tries: 1,15
+f63e1b3f,-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID,9
+b86a968f,"RTC: Maintenance <*> <*>, sleep <*> <*>",5
+47cfe201,"en0: channel changed to 132,+1",4
+c5de5950,RTC: PowerByCalendarDate setting ignored,11
+1c4410e3,Location icon should now be in state 'Active',17
+2683ec19,dnssd_clientstub ConnectToServer: connect()-> No of tries: 2,15
+6f9633d6,en0: 802.11d country code set to '<*>'.,5
+1f63827b,"ARPT: <*>: wl0: setup_keepalive: Seq: <*>, Ack: <*>, Win size: 4096",8
+4362eb23,QQ(10018) deny mach-lookup <*>,6
+43658a65,[HID] [MT] AppleMultitouchDevice::willTerminate entered,3
+a89a7885,[BluetoothHIDDeviceController] EventService<*>onnectedCallback,3
+6989f2ac,<*> <*> <*> took 1<*> <*>,3
+1b7a983d,dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted,13
+b00a9288,"pages <*>, wire <*>, act 4<*>, inact <*>, cleaned 0 spec <*>, zf <*>, throt 0, compr <*>, xpmapped 40000",4
+0965e224,<*> <*> <*> <*> <*> to <*>,19
+54b60a13,button report: 0x8002bdf,6
+4a33340d,2017-07-0<*> 1<*> GoogleSoftwareUpdateAgent[3<*>000] [lvl=2] -[KSAgentApp<*> <*>:] Checking <*> <*> <*> <*> <*> <*> <*> <*>0 <*> <*> <*> <*> <*> <*>> <*> <*> <*> <*> <*>0 <*>0 <*>s=0 <*> <*> <*> <*> <*> <*> <*> <*>,3
+934bb694,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9950712080>.,7
+ad77ecac,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f995<*>0>.,10
+d8b278d4,<*> <*> <*> Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,20
+5d52b3d1,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,8
+bceb4345,"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",5
+ca501184,send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.,26
+e284dfd8,WARNING: <*> <*> <*> <*> <*>,1
+f938a5c5,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9950606790>.,3
+5dbf992a,device_generate_desktop_screenshot: authw <*> shield <*>,3
+d8e2131a,[<*>] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].],5
+dac03882,"NETWORK: requery, 0, 0, 0, 0, <*> items, fQueryRetries, <*> fLastRetryTimestamp, 52<*>",14
+9061729d,Previous sleep cause: 5,15
+2068da72,Wake reason: RTC (Alarm),5
+7340af86,AppleThunderboltNHIType2::prePCIWake - power up complete - took 2 us,4
+2ea619fb,network changed: v4(en0-:<*>) <*> <*> <*>,3
+fe723360,hibernate_page_list_setall <*> <*> <*>,3
+a6007403,[<*>] <*> <*> <*> <*> <*> <*> <*> <*>,12
+22f380e7,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x8000000000000000 to 0x4,8
+c7d11cb0,<*> <*> <*> = <*>,10
+c86dfdd9,Bluetooth -- LE is supported - Disable LE meta event,11
+54c05f44,tcp_connection_handle_connect_conditions_bad <*> failed: 3 - No network route,18
+d7911a0c,Captive: CNPluginHandler en0: Authenticated,7
+4b25a4fe,ARPT: <*>: wl0: setup_keepalive: Local IP: <*>,4
+44545874,TBT W (2): 0x0040 [x],4
+1efe32ce,network changed: DNS* Proxy,3
+0951627c,AppleThunderboltNHIType2::prePCIWake - power up complete - took 1 us,10
+b5dd3697,ASL Sender Statistics,9
+dff6d2b2,AppleCamIn::systemWakeCall - messageType = <*>,3
+9f6d95eb,2017-07-02 <*> <*>000] [lvl=2] <*> <*> <*> <*> <*> <*> <*>,4
+b9b132a2,"Path not allowed in target domain: type = pid, path = /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/<*>/Contents/MacOS/<*> error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/<*>",15
+616f13b1,[1<*>] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7f<*>00) rejecting report of layer being serviced - IQ has not yet begun to update,4
+f1dc9348,[1<*>] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/Player/FigPlayer_Async.c line 2306,5
+7562e40d,KeychainGetICDPStatus: keychain: -25300,14
+fa23252f,<*> <*> <*> <*> <*> from <*> <*> <*>,3
+d181d4fd,ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.,9
+41cd2141,ARPT: <*>: wl0: MDNS: IPV6 Addr: fe80:0:0:0:c6b3:1ff:fecd:467f,9
+5657cd9b,Captive: CNPluginHandler en0: Inactive,4
+870a7263,in6_unlink_ifa: IPv6 address 0x77c91145<*>b has no prefix,9
+77627a76,network changed: v4(en0:<*>) v6(en0<*>) DNS<*> Proxy SMB,3
+df4606c8,dnssd_clientstub ConnectToServer: connect()-> No of tries: 3,14
+4bc5bb57,ARPT: <*>: wl0: MDNS: IPV6 Addr: <*>,10
+d4881db9,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-100<*> ""The <*>t <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>e <*> <*> <*>, <*>, <*>, <*> <*> <*> <*> t<*> <*>",2
+50d0672c,"device_generate_lock_screen_screenshot: authw 0x7fa82<*>00(2000)[0, 0, <*> <*> shield 0x7fa82<*>00(2001), dev [1440,900]",3
+1c39a595,[<*>] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/LegibleOutput/FigAgglomerator.c line 92,11
+2c3a9fce,<*> : BTLE scanner Powered Off,4
+52f34fa6,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f<*>0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" <*> <*> _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, <*> <*> _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",3
+3162dd0d,ARPT: <*>: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0,7
+3f143fab,Received Capture Event,15
+8fc06651,Sandbox: QQ(10018) deny(1) mach-lookup <*>,3
+cd4b5290,[<*>] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,23
+627ff77b,AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds,14
+42e9195d,############################## _getSysMsgList,10
+2f379143,"Configuration Notice: ASL Module ""<*>"" <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",3
+53faf4a2,Wake reason: <*>,3
+cc50f92a,<*> : Scanning mode Contacts Only,7
+ea91afd3,"ARPT: 67<*>: wl0: setup_keepalive: Local port: <*>, Remote port: 5223",3
+b2b60554,0<*> : BTLE scanning <*>,4
+b35055fa,wake time set <*> s,3
+98501fe9,"ARPT: <*>: wl0: setup_keepalive: interval <*> retry_interval 30, retry_count 10",2
+c3e9a24b,"NETWORK: requery, 0, 0, 0, 0, 252, items, fQueryRetries, 0, fLastRetryTimestamp, 520<*>",3
+45b10d54,button report: 0x80039B7,6
+5d3b8c8e,AppleCamIn::handleWakeEvent_gated,15
+6ecadd3f,"IOPMrootDomain: idle cancel, state 1",3
+03caa61d,ARPT: <*>: ARPT: Wake Reason: Wake on <*> <*>,2
+5a6d3cac,"hibernate_<*> <*> <*>, <*> <*>, a<*> <*>, <*> 0, <*> <*>, <*> <*>, <*> <*>",3
+8d3f179a,hibernate_<*>_pmap_structs done: last_valid_compact_indx <*>,3
+8b410412,sigio_handler: sigio_handler_active != 1,3
+24b48958,2017-07-03 <*> <*> [lvl=2] -[KS<*> <*>] <*> <*> <*> <*>,2
+3253fdc7,[1<*>] itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/Player/FigPlayer_Async.c line 2092,4
+f7ef02dd,Opened file <*> size <*> extents <*> maxio 2000000 ssd 1,3
+1b3b24d2,"NETWORK: no response from server, reachability, 2, queryRetries, <*>",4
+4a019d20,CCFile::captureLog,17
+4b8095ea,en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161,2
+03a59c3c,ARPT: <*>: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,12
+88403c58,<*>ral manager is not powered on,1
+f724b40d,"CCFile::captureLogRun Skipping current file Dir file [2017-07-0<*>, Current File [2017-07-0<*>",31
+e0c2398b,"CCFile::copyFile fileName is [2017-07-0<*>, source path:/var/log/CoreCapture/<*>/<*>, dest path:/Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-0<*>",21
+0a9d9277,ARPT: <*>: framerdy 0x0 bmccmd <*> framecnt 1024,8
+40bb97e2,<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: <*> <*>nabled: <*>,3
+4cfc2469,ARPT: <*>: wl0: setup_keepalive: Remote IP: <*>,8
+0e8cf68a,"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> sec<*>. to complete, <*> reads >= <*> sec.",3
+ea92f231,CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,9
+7e1070fc,"CCLogTap::profileRemoved, Owner: <*>, Name: <*>",3
+1fb3ee20,network changed: <*>,3
+23f5645d,ARPT: <*>: wlc_dump_aggfifo:,6
+ad184858,ARPT: <*>: AQM agg results 0x8001 len hi/lo: 0x0 <*> BAbitmap(0-3) 0 0 0 0,1
+1da2c7b1,[<*>] <<<< CRABS >>>> crabsFlumeHost<*>vailable: [0x7f961cf08cf0] Byte flume reports host <*>,2
+2202de24,doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-0<*>] - AuthFail:sts:5_rsn:0.xml,4
+4c53857f,tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: [5<*>] Network is <*>,1
+68b3a8b1,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! <*>8 tc<*> <*>:80,1
+cdb38c55,<*> <*> <*> <*> <*> <*> pages,4
+5d561bd5,hibernate_machine_init <*>,4
+83801e0d,ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789,4
+94f37b2f,assertion failed: 15G1510: <*> + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90,3
+2bd47c8f,<*> took <*> ms,3
+070c8301,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- <*> <*> <*> <*> <*> -- 0x<*>0 -- 0x<*>00 <*>,3
+33caf506,<*> -- <*> <*> <*> <*>,2
+ca177a76,"polled file major 1, minor 0, blocksize 4096, pollers 5",3
+e3581c5e,BuildActDeviceEntry e<*>,4
+3aefb323,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc<*> <*>,6
+ccdef586,Wake reason: ARPT (Network),3
+9c7496f0,AppleActuatorHIDEventDriver: <*>,3
+6a941284,"CCFile::captureLog Received Capture notice id: 149<*>, reason = <*>",5
+7a123c93,KeychainGetICDPStatus: status: off,8
+8e5ee366,ARPT: <*>: AirPort_Brcm43xx::powerChange: System Sleep,17
+32614d3a,tcp_connection_tls_session_error_callback_imp <*> <*> error <*>,1
+7193725f,"PM response took 1999 ms (54, powerd)",3
+a21373d4,network changed: DNS*,1
+42db1ad3,en0: <*> <*> <*>,3
+f3c3a8eb,en0: BSSID changed to 5c:50:15:4c:18:13,5
+1deb3134,2017-07-0<*> <*> <*>000] [lvl=2] <*> <*> <*> <*>,20
+49d6b79e,-[SOAPParser:0x7f<*>0 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid),4
+64d5d90c,Session 10<*> <*>ed,3
+d55c01ba,"ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>",2
+7126fd99,CGXDisplayDidWakeNotification [7<*>]: posting kCGSDisplayDidWake,3
+dfcdcbbe,Peripheral manager is not powered on,3
+c6d1845b,PM response took <*> ms <*> <*>,2
+9c96e0bb,Cocoa scripting error for '0x0<*>': four character codes must be four characters long.,71
+0d85adf3,button report: 0<*>,1
+73105327,[<*>] <<<< CRABS >>>> crabs<*>: <*> <*> <*> <*> <*> <*>,1
+714982e1,**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x<*>00 ****,3
+240ba386,en0: BSSID changed to 88:75:56:a0:95:ed,3
+5eefd668,doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-0<*>] - A<*>_rsn:0.xml,2
+0067dee0,network changed: v4(en0+:<*>) v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS! Proxy SMB,3
+cf960aac,AppleActuatorDevice<*> Entered,4
+ae5de759,"DB Error: 1 ""no such table: <*>",3
+702ec285,-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! QQ.10018 tc2<*> <*>:80,4
+c9b791a4,-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID,4
+87880e8d,<*> discard act <*> inact <*> purgeable <*> spec <*> cleaned 0,3
+051bf742,**** <*> -- <*> <*> <*> <*> <*> <*>,3
+8488f47d,<*> completed - <*> <*>,1
+6acacd5e,ChromeExistion main <*> = <*>,3
+795a719d,[<*>] [Adding [<CalDAVAccountRefreshQueueableOperation: <*> Sequence: 0>] to failed operations.],3
+a3ed931c,"Service ""<*>"" tried to hijack endpoint ""<*>"" from owner: <*>",3
+85183bd5,Sandbox: <*>) deny(1) <*> <*>,2
+37e7a278,2017-07-06 <*> <*> <*> <*> <*>,1
+4797f5ab,"Unable to simultaneously satisfy constraints: ( ""<NS<*>0 <*> <*> <*> (Names: <*> <*> <*> <*> <*> <*> (Names: <*>0 )>"", ""<NS<*>0 <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*>",3
+2ee95a53,<IMMacNotificationCenterManager: 0x7fdcc9d16380>: <*> <*>abled: NO,2
+19ae0400,"<*> Owner: <*>, Name: <*>",2
+157b27dd,Unrecognized <*> <*>,2
+b5e45de8,-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! <*> tc<*> <*>:80,1
+c760a0f5,Sandbox: <*> deny(1) mach-lookup <*>,1
+e49ef96f,<*> <*> out <*> <*>,3
+ab93100e,[<*>] <*> signalled <*> <*> <*> <*> <*> <*> line <*>,1
+6200e1a2,<<<< <*> >>>> <*> <*> <*> <*>,2

@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+3be46d32,session closed for user root,24
+095f4872,session opened for user root by (uid=0),19
+a6378fd7,(root) CMD (run-parts /etc/cron.hourly),14
+c0b6d6b3,data_thread() got not answer from any [Thunderbird_<*>] datasource,819
+ef226888,synchronized to <*> stratum <*>,568
+1cfe3a76,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,62
+eb0cfa2a,[ib_sm_sweep.c:1455]: No topology change,62
+9db750e6,[ib_sm_sweep.c:1482]: No configuration change required,62
+b50339a1,NONE,153
+92bf5f77,unable to qualify my own domain name (<*>admin1) -- using short name,10
+39527ddc,"jA9J<*>: from=root, size=<*>, class=0, nrcpts=1, msgid=<2005110919<*>admin1>, relay=#7#@localhost",10
+669fb33f,"jA9J<*>: to=root, ctladdr=root (0/0), delay=00:00:0<*>, xdelay=00:00:00, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",10
+f7bf8fbb,DHCPDISCOVER from 00:11:43:e3:ba:c3 via <*>,5
+c2ff3b1b,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,15
+78466d67,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:c3 via <*>,12
+cd7005b2,RRD_update (/var/lib/ganglia/rrds/<*> Nodes/<*>/pkts_out.rrd): illegal attempt to update using time 11315<*> when last update time is 11315<*> (minimum one second step),10
+0a754691,<*> from <*>,5
+5947eee3,(root) CMD <*> <*>,5
+adb6cd9a,<*> for <*> <*> <*>,24
+bffa9729,PCI Interrupt <*> <*> <*>,9
+e29079aa,PCI Interrupt Routing Table [\_SB_.PCI0.<*>._PRT],9
+d1f06bbc,PCI <*> <*> <*> <*>,2
+32c30b3f,"PCI interrupt 0000:0<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>",11
+c90aaf56,<*> cache: <*>,11
+3348c475,Warning: we failed to resolve data source name <*> <*> <*>,34
+cbda897d,RRD_update (/var/lib/ganglia/rrds/<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+fe953d76,Warning: we failed to resolve <*> <*> name <*> <*>,1
+2505d75b,Reading included configuration file: <*> [file=/etc/xinetd.<*>] [line=1<*>],17
+49f6bba5,removing <*>,16

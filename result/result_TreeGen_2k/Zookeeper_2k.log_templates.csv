@@ -1,0 +1,52 @@
+EventId,EventTemplate,Occurrences
+ff52c40c,<*>,4
+dede275d,<*> <*>,266
+9d892b9c,<*> <*> <*> <*> <*> <*> <*> <*> <*>,86
+e3f531b1,<*> <*>: <*> : <*> : <*>.<*>.<*>.<*>.<*>.<*>$<*>@<*>,1
+001da8c8,<*> quorum <*>,1
+4411b5cf,<*> set to -<*>,1
+331b4187,<*> set to <*>,1
+46791d43,<*> while waiting for message <*> <*>,314
+abe76bf8,Accepted socket connection from <*>,48
+9a41eabf,Client <*> to establish new session at <*>,41
+7caee42f,Client <*> to renew session <*> at <*>,3
+3cb1995e,Closed socket connection for client <*> (<*> <*> <*> <*> <*>),4
+90ce16d8,Closed socket connection for client <*> <*> <*> <*> <*>,44
+f78533a0,"Connection broken for id <*>, <*> <*> = <*>, <*> =",291
+d8edb29f,Connection request from old client <*>; <*> <*> <*> <*> <*> <*> <*> <*>-<*> <*>,39
+ab31e2e7,Established session <*> <*> <*> <*> <*> <*> <*> <*>,50
+13458a51,Exception causing <*> <*> session <*> <*> <*> <*>.<*>.<*>: <*> <*> <*>,3
+b4b710db,"Expiring session <*>, <*> of 10000ms exceeded",38
+be83c35d,"Expiring session <*>, <*> of <*> exceeded",2
+c172d526,FOLLOWING,2
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+3a19e1c7,First <*> <*>,1
+2b360f01,GOODBYE******* <*> ,19
+62987197,Getting a <*> from leader,2
+c2ed9dd7,Got user-<*> <*> <*> <*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:-<*> <*>:<*>/<*> <*> <*>:<*> <*>:<*> = <*> <*> <*>,1
+6b305792,Have quorum of supporters; starting up <*> <*> <*> <*> <*>: <*>,1
+6df92aa5,"Have smaller <*> <*>, <*> <*> <*> <*>: (<*>, <*>)",1
+cb296ade,My <*> <*> <*>: <*>,1
+65a5d78b,"New <*>. <*> id =  <*>, <*> <*>=<*>",1
+286299e2,Notification time out: <*>,37
+d8ddea1f,"Notification: <*> (<*>.leader), <*> (<*>.<*>), <*> (<*>.<*>), <*> (<*>.<*>), <*> (<*>.<*>), <*> (<*>.<*>), <*> (<*> <*>)",12
+61a003ea,Processed session termination for sessionid: <*>,47
+0c0de228,Reading <*> <*>,1
+9879a9ab,Received connection request <*>,299
+1caefedb,Revalidating client: <*>,3
+7a2ec7d0,Send worker leaving thread,262
+9d86801d,Sending DIFF,1
+bef11e36,Server <*>:<*>.<*>.<*>=<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>,1
+a246a792,Server <*>:<*>.<*>=/,1
+42ffa692,Server <*>:<*>.<*>=<*>,5
+7478881e,Server <*>:<*>.<*>=<*> <*>,2
+b769421a,Server <*>:<*>.<*>=<*>-<*>-<*>,1
+4627d742,"Server <*>:<*>.<*>=<*>.<*>.<*>--<*>, <*> <*> <*> <*>:<*> <*>",1
+dfd8b545,Snapshotting: <*> to <*>,2
+917ecaa4,Unexpected <*>:,1
+93b22369,Unexpected exception causing shutdown while sock <*> <*>,12
+38330a98,autopurge.<*> <*> <*> <*>,3
+70376411,autopurge.snapRetainCount <*> <*> <*>,1
+8a97f760,caught <*> of stream exception,37
+782ced48,minSessionTimeout set to -<*>,2
+c7ef5ae9,shutdown of request processor complete,1

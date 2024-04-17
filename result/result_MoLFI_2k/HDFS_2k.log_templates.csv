@@ -1,0 +1,17 @@
+EventId,EventTemplate,Occurrences
+491e657e,PacketResponder #spec# for block #spec# terminating,311
+0501c015,BLOCK* NameSystem.addStoredBlock : blockMap updated : #spec# is added to #spec# size #spec#,314
+bec972b9,Received block #spec# of size #spec# from #spec#,292
+3bc391c9,Receiving block #spec# src : #spec# dest : #spec#,292
+98250767,BLOCK* NameSystem.allocateBlock : #spec# #spec#,115
+02c70bb1,Verification succeeded for #spec#,20
+70dfe9f7,Deleting block #spec# file #spec#,263
+349b702f,#spec# Served block #spec# to #spec#,80
+f4804381,#spec# : Got exception while serving #spec# to #spec# :,80
+31d2edc6,BLOCK* NameSystem.delete : #spec# is added to invalidSet of #spec#,224
+43774ea8,#spec# Starting thread to transfer block #spec# to #spec#,1
+a8b719b8,BLOCK* ask #spec# to delete #spec#,2
+dc5a6d19,Received block #spec# src : #spec# dest : #spec# of size #spec#,2
+892d4bda,BLOCK* ask #spec# to delete #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec#,2
+4644f5b1,BLOCK* ask #spec# to replicate #spec# to datanode ( s ) #spec#,1
+d0447702,BLOCK* ask #spec# to delete #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec# #spec#,1

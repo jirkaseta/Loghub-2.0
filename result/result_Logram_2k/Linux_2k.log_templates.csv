@@ -1,0 +1,33 @@
+EventId,EventTemplate
+e0fd021d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+b780997e,check pass; user unknown
+1fef1b25,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+30f6a0f6,session opened for user <*> <*> <*>
+27624832,session closed for user <*>
+fb195195,<*> <*> <*> <*> <*>
+ea670f82,connection from <*> <*> <*> <*> <*> 17 <*> 2005
+4c379b7b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+c23549ff,connection from <*> <*> at Sat <*> <*> <*> 2005
+3dd67632,<*> <*> <*> <*> <*> <*> <*> at Sat <*> <*> <*> 2005
+a4ec7e5b,<*> <*> <*>
+6f97e9d4,restart.
+d147d1f9,connection from <*> () at <*> <*> <*> <*> 2005
+c99d7dfb,connection from <*> () at Sat <*> <*> <*> 2005
+2f7082b2,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+9d892b9c,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+bb2bb2f4,connection from <*> <*> at Sun Jul <*> <*> 2005
+c76d0fca,connection from <*> <*> <*> <*> <*> <*> <*> 2005
+0ce98313,<*> <*> <*> <*>
+ceb0a0b3,connection from <*> () at Sun Jul <*> <*> 2005
+47f3a999,authentication failure; logname= uid=0 euid=0 <*> <*> <*>
+2fe23955,connection from <*> <*> at Sun Jul 17 <*> 2005
+7c6d7f17,connection from <*> () at Sun Jul 17 <*> 2005
+be2214fc,<*> <*> <*> <*> <*> <*>
+8d7c0e6b,<*> <*> <*> <*> <*> <*> <*>
+db4c402a,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+fe3c862d,Initializing CPU#0
+71585e7e,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+158c34d8,SELinux: Initializing.
+82e013db,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+de1af8bf,<*> <*> <*> <*> <*> <*> <*> <*>
+5661f4eb,audit(1122475266.4294965305:0): initialized
